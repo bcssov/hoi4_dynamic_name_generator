@@ -41,18 +41,31 @@
             <DataGrid.Columns>
                 <DataGridTextColumn Binding="{Binding Type, UpdateSourceTrigger=PropertyChanged}" Header="Type" Width="1*"></DataGridTextColumn>
                 <DataGridTextColumn Binding="{Binding StateId, UpdateSourceTrigger=PropertyChanged}" Header="StateId" Width="1*"></DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding StateName, UpdateSourceTrigger=PropertyChanged}" Header="StateName" Width="1*"></DataGridTextColumn>
                 <DataGridTextColumn Binding="{Binding ProvincesText, UpdateSourceTrigger=PropertyChanged}" Header="Provinces" Width="2*" IsReadOnly="True"></DataGridTextColumn>
             </DataGrid.Columns>
             <DataGrid.RowDetailsTemplate>
                 <DataTemplate>
-                    <StackPanel Orientation="Vertical" Background="Gray">
-                        <TextBlock Text="Province Details"></TextBlock>
+                    <StackPanel Orientation="Vertical" Background="LightGray">
+                        <TextBlock Text="Province Details" HorizontalAlignment="Center"></TextBlock>
                         <DataGrid ItemsSource="{Binding Provinces}" AutoGenerateColumns="false" CanUserAddRows="True" CanUserDeleteRows="True" 
-                              CanUserReorderColumns="False" CanUserResizeColumns="False" CanUserSortColumns="False"
+                              CanUserReorderColumns="False" CanUserResizeColumns="False" CanUserSortColumns="False" Background="LightGray"
                               EnableRowVirtualization="True" HeadersVisibility="None" Width="{Binding RelativeSource={RelativeSource AncestorType={x:Type ItemsPresenter}},Path=ActualWidth,Converter={StaticResource WidthConverter},ConverterParameter=50}">
                             <DataGrid.Columns>
-                                <DataGridTextColumn Header="Id" Binding="{Binding Id}" Width="1*"/>
-                                <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="2*"/>
+                                <DataGridTextColumn Header="Id" Binding="{Binding Id}" Width="1*">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="Background" Value="DarkGray"></Setter>
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="2*">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="Background" Value="DarkGray"></Setter>
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
                             </DataGrid.Columns>
                         </DataGrid>
                     </StackPanel>

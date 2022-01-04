@@ -2,6 +2,7 @@
   {
     "Type": "albanian",
     "StateId": 44,
+    "StateName": "Shqipëri",
     "Provinces": [
       {
         "Id": 9914,
@@ -16,6 +17,7 @@
   {
     "Type": "albanian",
     "StateId": 805,
+    "StateName": "Gjirokastra",
     "Provinces": [
       {
         "Id": 914,
@@ -26,6 +28,7 @@
   {
     "Type": "albanian",
     "StateId": 802,
+    "StateName": "Kosovo",
     "Provinces": [
       {
         "Id": 6940,
@@ -36,6 +39,7 @@
   {
     "Type": "belarusian",
     "StateId": 207,
+    "StateName": "Vitebsk",
     "Provinces": [
       {
         "Id": 11241,
@@ -46,6 +50,7 @@
   {
     "Type": "belarusian",
     "StateId": 241,
+    "StateName": "Homiel",
     "Provinces": [
       {
         "Id": 9288,
@@ -56,6 +61,7 @@
   {
     "Type": "belarusian",
     "StateId": 206,
+    "StateName": "Minsk",
     "Provinces": [
       {
         "Id": 11370,
@@ -70,6 +76,7 @@
   {
     "Type": "belarusian",
     "StateId": 204,
+    "StateName": "Babruysk",
     "Provinces": [
       {
         "Id": 3350,
@@ -84,6 +91,7 @@
   {
     "Type": "belarusian",
     "StateId": 194,
+    "StateName": "Mazyr",
     "Provinces": [
       {
         "Id": 6232,
@@ -94,6 +102,7 @@
   {
     "Type": "belarusian",
     "StateId": 96,
+    "StateName": "Viliejka",
     "Provinces": [
       {
         "Id": 406,
@@ -104,6 +113,7 @@
   {
     "Type": "belarusian",
     "StateId": 95,
+    "StateName": "Novogrudok",
     "Provinces": [
       {
         "Id": 9304,
@@ -118,6 +128,7 @@
   {
     "Type": "belarusian",
     "StateId": 94,
+    "StateName": "Polesia",
     "Provinces": [
       {
         "Id": 560,
@@ -132,6 +143,7 @@
   {
     "Type": "bulgarian",
     "StateId": 48,
+    "StateName": "Sofiya",
     "Provinces": [
       {
         "Id": 949,
@@ -146,6 +158,7 @@
   {
     "Type": "bulgarian",
     "StateId": 212,
+    "StateName": "Plovdiv",
     "Provinces": [
       {
         "Id": 6923,
@@ -164,6 +177,7 @@
   {
     "Type": "bulgarian",
     "StateId": 801,
+    "StateName": "Moesia",
     "Provinces": [
       {
         "Id": 3796,
@@ -178,6 +192,7 @@
   {
     "Type": "bulgarian",
     "StateId": 211,
+    "StateName": "Burgas",
     "Provinces": [
       {
         "Id": 9902,
@@ -204,6 +219,7 @@
   {
     "Type": "bulgarian",
     "StateId": 77,
+    "StateName": "Dobrudja",
     "Provinces": [
       {
         "Id": 11597,
@@ -214,6 +230,7 @@
   {
     "Type": "bulgarian",
     "StateId": 797,
+    "StateName": "Konstantinopol",
     "Provinces": [
       {
         "Id": 9833,
@@ -224,6 +241,7 @@
   {
     "Type": "bulgarian",
     "StateId": 341,
+    "StateName": "Odrin",
     "Provinces": [
       {
         "Id": 11842,
@@ -234,6 +252,7 @@
   {
     "Type": "bulgarian",
     "StateId": 731,
+    "StateName": "Tsentralna Makedoniya",
     "Provinces": [
       {
         "Id": 11818,
@@ -244,6 +263,7 @@
   {
     "Type": "bulgarian",
     "StateId": 184,
+    "StateName": "Trakiya",
     "Provinces": [
       {
         "Id": 11905,
@@ -254,6 +274,7 @@
   {
     "Type": "bulgarian",
     "StateId": 803,
+    "StateName": "Pirot",
     "Provinces": [
       {
         "Id": 11857,
@@ -264,6 +285,7 @@
   {
     "Type": "bulgarian",
     "StateId": 106,
+    "StateName": "Macedonia",
     "Provinces": [
       {
         "Id": 3882,
@@ -274,6 +296,7 @@
   {
     "Type": "chinese",
     "StateId": 613,
+    "StateName": "Shanghai",
     "Provinces": [
       {
         "Id": 11913,
@@ -292,11 +315,13 @@
   {
     "Type": "chinese",
     "StateId": 598,
+    "StateName": "Jiangsu",
     "Provinces": []
   },
   {
     "Type": "chinese",
     "StateId": 606,
+    "StateName": "Anhui",
     "Provinces": [
       {
         "Id": 7222,
@@ -307,6 +332,7 @@
   {
     "Type": "chinese",
     "StateId": 607,
+    "StateName": "Henan",
     "Provinces": [
       {
         "Id": 9958,
@@ -317,6 +343,7 @@
   {
     "Type": "chinese",
     "StateId": 597,
+    "StateName": "Shandong",
     "Provinces": [
       {
         "Id": 1069,
@@ -327,6 +354,7 @@
   {
     "Type": "chinese",
     "StateId": 743,
+    "StateName": "Qingdao",
     "Provinces": [
       {
         "Id": 10000,
@@ -337,11 +365,13 @@
   {
     "Type": "chinese",
     "StateId": 614,
+    "StateName": "Hebei",
     "Provinces": []
   },
   {
     "Type": "chinese",
     "StateId": 608,
+    "StateName": "Beijing",
     "Provinces": [
       {
         "Id": 9843,
@@ -356,6 +386,7 @@
   {
     "Type": "chinese",
     "StateId": 744,
+    "StateName": "Xian",
     "Provinces": [
       {
         "Id": 7418,
@@ -366,6 +397,7 @@
   {
     "Type": "chinese",
     "StateId": 620,
+    "StateName": "Hubei",
     "Provinces": [
       {
         "Id": 4619,
@@ -376,6 +408,7 @@
   {
     "Type": "chinese",
     "StateId": 600,
+    "StateName": "Jiangxi",
     "Provinces": [
       {
         "Id": 3992,
@@ -386,6 +419,7 @@
   {
     "Type": "chinese",
     "StateId": 749,
+    "StateName": "Huangshan",
     "Provinces": [
       {
         "Id": 12019,
@@ -396,6 +430,7 @@
   {
     "Type": "chinese",
     "StateId": 596,
+    "StateName": "Zhejiang",
     "Provinces": [
       {
         "Id": 7191,
@@ -410,6 +445,7 @@
   {
     "Type": "chinese",
     "StateId": 595,
+    "StateName": "Fujian",
     "Provinces": [
       {
         "Id": 4196,
@@ -424,6 +460,7 @@
   {
     "Type": "chinese",
     "StateId": 602,
+    "StateName": "Hunan",
     "Provinces": [
       {
         "Id": 7097,
@@ -434,6 +471,7 @@
   {
     "Type": "chinese",
     "StateId": 750,
+    "StateName": "Changde",
     "Provinces": [
       {
         "Id": 7101,
@@ -444,6 +482,7 @@
   {
     "Type": "chinese",
     "StateId": 605,
+    "StateName": "Sichuan",
     "Provinces": [
       {
         "Id": 6999,
@@ -458,6 +497,7 @@
   {
     "Type": "chinese",
     "StateId": 748,
+    "StateName": "Zunyi",
     "Provinces": [
       {
         "Id": 1010,
@@ -468,6 +508,7 @@
   {
     "Type": "chinese",
     "StateId": 603,
+    "StateName": "Guizhou",
     "Provinces": [
       {
         "Id": 4504,
@@ -478,6 +519,7 @@
   {
     "Type": "chinese",
     "StateId": 751,
+    "StateName": "Liangshan",
     "Provinces": [
       {
         "Id": 12141,
@@ -492,6 +534,7 @@
   {
     "Type": "chinese",
     "StateId": 752,
+    "StateName": "Ganzi",
     "Provinces": [
       {
         "Id": 4999,
@@ -502,6 +545,7 @@
   {
     "Type": "chinese",
     "StateId": 601,
+    "StateName": "Xikang",
     "Provinces": [
       {
         "Id": 10856,
@@ -512,6 +556,7 @@
   {
     "Type": "chinese",
     "StateId": 615,
+    "StateName": "Shanxi",
     "Provinces": [
       {
         "Id": 1519,
@@ -522,16 +567,19 @@
   {
     "Type": "chinese",
     "StateId": 621,
+    "StateName": "Suiyuan",
     "Provinces": []
   },
   {
     "Type": "chinese",
     "StateId": 746,
+    "StateName": "Ordos",
     "Provinces": []
   },
   {
     "Type": "chinese",
     "StateId": 621,
+    "StateName": "Shaanxi",
     "Provinces": [
       {
         "Id": 8049,
@@ -542,21 +590,25 @@
   {
     "Type": "chinese",
     "StateId": 283,
+    "StateName": "Gansu",
     "Provinces": []
   },
   {
     "Type": "chinese",
     "StateId": 616,
+    "StateName": "Ningxia",
     "Provinces": []
   },
   {
     "Type": "chinese",
     "StateId": 756,
+    "StateName": "Jiuquan",
     "Provinces": []
   },
   {
     "Type": "chinese",
     "StateId": 754,
+    "StateName": "Golog",
     "Provinces": [
       {
         "Id": 12732,
@@ -567,6 +619,7 @@
   {
     "Type": "chinese",
     "StateId": 753,
+    "StateName": "Gannan",
     "Provinces": [
       {
         "Id": 2045,
@@ -577,11 +630,13 @@
   {
     "Type": "chinese",
     "StateId": 755,
+    "StateName": "Haixi",
     "Provinces": []
   },
   {
     "Type": "chinese",
     "StateId": 756,
+    "StateName": "Qinghai",
     "Provinces": [
       {
         "Id": 7940,
@@ -592,21 +647,25 @@
   {
     "Type": "chinese",
     "StateId": 760,
+    "StateName": "Dabancheng",
     "Provinces": []
   },
   {
     "Type": "chinese",
     "StateId": 759,
+    "StateName": "Kunlun Shan",
     "Provinces": []
   },
   {
     "Type": "chinese",
     "StateId": 287,
+    "StateName": "Taklamakan",
     "Provinces": []
   },
   {
     "Type": "chinese",
     "StateId": 619,
+    "StateName": "Yarkand",
     "Provinces": [
       {
         "Id": 2015,
@@ -617,6 +676,7 @@
   {
     "Type": "chinese",
     "StateId": 617,
+    "StateName": "Urumqi",
     "Provinces": [
       {
         "Id": 4709,
@@ -627,6 +687,7 @@
   {
     "Type": "chinese",
     "StateId": 619,
+    "StateName": "Dzungaria",
     "Provinces": [
       {
         "Id": 4823,
@@ -637,6 +698,7 @@
   {
     "Type": "chinese",
     "StateId": 325,
+    "StateName": "Yunnan",
     "Provinces": [
       {
         "Id": 1319,
@@ -647,6 +709,7 @@
   {
     "Type": "chinese",
     "StateId": 747,
+    "StateName": "Dali",
     "Provinces": [
       {
         "Id": 7965,
@@ -657,11 +720,13 @@
   {
     "Type": "chinese",
     "StateId": 593,
+    "StateName": "Guangdong",
     "Provinces": []
   },
   {
     "Type": "chinese",
     "StateId": 599,
+    "StateName": "Guangxi",
     "Provinces": [
       {
         "Id": 10404,
@@ -672,6 +737,7 @@
   {
     "Type": "chinese",
     "StateId": 592,
+    "StateName": "Guangzhou",
     "Provinces": [
       {
         "Id": 1047,
@@ -682,6 +748,7 @@
   {
     "Type": "chinese",
     "StateId": 594,
+    "StateName": "Nanning",
     "Provinces": [
       {
         "Id": 7137,
@@ -692,6 +759,7 @@
   {
     "Type": "chinese",
     "StateId": 591,
+    "StateName": "Hainan",
     "Provinces": [
       {
         "Id": 1070,
@@ -702,16 +770,19 @@
   {
     "Type": "chinese",
     "StateId": 610,
+    "StateName": "Rehe",
     "Provinces": []
   },
   {
     "Type": "chinese",
     "StateId": 715,
+    "StateName": "Liaoning",
     "Provinces": []
   },
   {
     "Type": "chinese",
     "StateId": 716,
+    "StateName": "Liaotung",
     "Provinces": [
       {
         "Id": 11771,
@@ -722,6 +793,7 @@
   {
     "Type": "chinese",
     "StateId": 328,
+    "StateName": "Jilin",
     "Provinces": [
       {
         "Id": 10433,
@@ -736,21 +808,25 @@
   {
     "Type": "chinese",
     "StateId": 717,
+    "StateName": "Songjiang",
     "Provinces": []
   },
   {
     "Type": "chinese",
     "StateId": 714,
+    "StateName": "Heilongjiang",
     "Provinces": []
   },
   {
     "Type": "chinese",
     "StateId": 761,
+    "StateName": "Xing'an",
     "Provinces": []
   },
   {
     "Type": "chinese",
     "StateId": 524,
+    "StateName": "Taiwan",
     "Provinces": [
       {
         "Id": 7186,
@@ -765,11 +841,13 @@
   {
     "Type": "chinese",
     "StateId": 609,
+    "StateName": "East Hebei",
     "Provinces": []
   },
   {
     "Type": "chinese",
     "StateId": 745,
+    "StateName": "Dalian",
     "Provinces": [
       {
         "Id": 1150,
@@ -780,6 +858,7 @@
   {
     "Type": "czechoslovak",
     "StateId": 69,
+    "StateName": "Sudety",
     "Provinces": [
       {
         "Id": 3585,
@@ -794,6 +873,7 @@
   {
     "Type": "czechoslovak",
     "StateId": 9,
+    "StateName": "Čechy",
     "Provinces": [
       {
         "Id": 11542,
@@ -812,6 +892,7 @@
   {
     "Type": "czechoslovak",
     "StateId": 75,
+    "StateName": "Morava",
     "Provinces": [
       {
         "Id": 3569,
@@ -826,11 +907,13 @@
   {
     "Type": "czechoslovak",
     "StateId": 72,
+    "StateName": "Zaolší",
     "Provinces": []
   },
   {
     "Type": "czechoslovak",
     "StateId": 74,
+    "StateName": "Ostravský Kraj",
     "Provinces": [
       {
         "Id": 3583,
@@ -841,6 +924,7 @@
   {
     "Type": "czechoslovak",
     "StateId": 70,
+    "StateName": "Západné Slovensko",
     "Provinces": [
       {
         "Id": 9692,
@@ -855,6 +939,7 @@
   {
     "Type": "czechoslovak",
     "StateId": 664,
+    "StateName": "Jižně Slovensko",
     "Provinces": [
       {
         "Id": 6573,
@@ -865,6 +950,7 @@
   {
     "Type": "czechoslovak",
     "StateId": 71,
+    "StateName": "Východné Slovensko",
     "Provinces": [
       {
         "Id": 3581,
@@ -875,6 +961,7 @@
   {
     "Type": "czechoslovak",
     "StateId": 73,
+    "StateName": "Podkarpatská Rus",
     "Provinces": [
       {
         "Id": 3548,
@@ -885,6 +972,7 @@
   {
     "Type": "danish",
     "StateId": 99,
+    "StateName": "Jylland",
     "Provinces": [
       {
         "Id": 6364,
@@ -895,6 +983,7 @@
   {
     "Type": "danish",
     "StateId": 37,
+    "StateName": "Sjaelland",
     "Provinces": [
       {
         "Id": 3325,
@@ -909,11 +998,13 @@
   {
     "Type": "danish",
     "StateId": 337,
+    "StateName": "Faerøerne",
     "Provinces": []
   },
   {
     "Type": "danish",
     "StateId": 100,
+    "StateName": "Ísland",
     "Provinces": [
       {
         "Id": 12674,
@@ -924,11 +1015,13 @@
   {
     "Type": "danish",
     "StateId": 101,
+    "StateName": "Grønland",
     "Provinces": []
   },
   {
     "Type": "korean",
     "StateId": 527,
+    "StateName": "North Korea",
     "Provinces": [
       {
         "Id": 4052,
@@ -939,6 +1032,7 @@
   {
     "Type": "korean",
     "StateId": 525,
+    "StateName": "South Korea",
     "Provinces": [
       {
         "Id": 7125,
@@ -953,6 +1047,7 @@
   {
     "Type": "estonian",
     "StateId": 812,
+    "StateName": "Harjumaa",
     "Provinces": [
       {
         "Id": 3152,
@@ -963,6 +1058,7 @@
   {
     "Type": "estonian",
     "StateId": 813,
+    "StateName": "Virumaa",
     "Provinces": [
       {
         "Id": 11127,
@@ -977,6 +1073,7 @@
   {
     "Type": "estonian",
     "StateId": 191,
+    "StateName": "Tartu",
     "Provinces": [
       {
         "Id": 9221,
@@ -991,6 +1088,7 @@
   {
     "Type": "estonian",
     "StateId": 13,
+    "StateName": "Pärnu",
     "Provinces": [
       {
         "Id": 3174,
@@ -1001,6 +1099,7 @@
   {
     "Type": "estonian",
     "StateId": 811,
+    "StateName": "Saaremaa",
     "Provinces": [
       {
         "Id": 185,
@@ -1011,6 +1110,7 @@
   {
     "Type": "finnish",
     "StateId": 111,
+    "StateName": "Uusimaa",
     "Provinces": [
       {
         "Id": 11105,
@@ -1029,11 +1129,13 @@
   {
     "Type": "finnish",
     "StateId": 150,
+    "StateName": "Savo",
     "Provinces": []
   },
   {
     "Type": "finnish",
     "StateId": 149,
+    "StateName": "Pohjanmaa",
     "Provinces": [
       {
         "Id": 3122,
@@ -1044,11 +1146,13 @@
   {
     "Type": "finnish",
     "StateId": 148,
+    "StateName": "Lappi",
     "Provinces": []
   },
   {
     "Type": "finnish",
     "StateId": 146,
+    "StateName": "Karjala",
     "Provinces": [
       {
         "Id": 9206,
@@ -1059,6 +1163,7 @@
   {
     "Type": "finnish",
     "StateId": 147,
+    "StateName": "Salla",
     "Provinces": [
       {
         "Id": 197,
@@ -1069,11 +1174,13 @@
   {
     "Type": "finnish",
     "StateId": 722,
+    "StateName": "Petsamo",
     "Provinces": []
   },
   {
     "Type": "finnish",
     "StateId": 213,
+    "StateName": "Kuola",
     "Provinces": [
       {
         "Id": 3134,
@@ -1088,11 +1195,13 @@
   {
     "Type": "finnish",
     "StateId": 215,
+    "StateName": "Äänisjoki",
     "Provinces": []
   },
   {
     "Type": "finnish",
     "StateId": 216,
+    "StateName": "Aunuksenlinna",
     "Provinces": [
       {
         "Id": 11159,
@@ -1103,6 +1212,7 @@
   {
     "Type": "french",
     "StateId": 16,
+    "StateName": "Île-de-France",
     "Provinces": [
       {
         "Id": 11506,
@@ -1113,6 +1223,7 @@
   {
     "Type": "french",
     "StateId": 15,
+    "StateName": "Normandie",
     "Provinces": [
       {
         "Id": 6449,
@@ -1135,6 +1246,7 @@
   {
     "Type": "french",
     "StateId": 785,
+    "StateName": "Picardie",
     "Provinces": [
       {
         "Id": 11420,
@@ -1145,6 +1257,7 @@
   {
     "Type": "french",
     "StateId": 29,
+    "StateName": "Pas-de-Calais",
     "Provinces": [
       {
         "Id": 11548,
@@ -1163,6 +1276,7 @@
   {
     "Type": "french",
     "StateId": 18,
+    "StateName": "Champagne",
     "Provinces": [
       {
         "Id": 9490,
@@ -1181,6 +1295,7 @@
   {
     "Type": "french",
     "StateId": 17,
+    "StateName": "Franche-Comté",
     "Provinces": [
       {
         "Id": 11516,
@@ -1195,6 +1310,7 @@
   {
     "Type": "french",
     "StateId": 28,
+    "StateName": "Alsace–Lorraine",
     "Provinces": [
       {
         "Id": 678,
@@ -1213,6 +1329,7 @@
   {
     "Type": "french",
     "StateId": 27,
+    "StateName": "Bourgogne",
     "Provinces": [
       {
         "Id": 3652,
@@ -1223,6 +1340,7 @@
   {
     "Type": "french",
     "StateId": 24,
+    "StateName": "Centre-Val de Loire",
     "Provinces": [
       {
         "Id": 512,
@@ -1237,6 +1355,7 @@
   {
     "Type": "french",
     "StateId": 30,
+    "StateName": "Loire",
     "Provinces": [
       {
         "Id": 11465,
@@ -1247,6 +1366,7 @@
   {
     "Type": "french",
     "StateId": 14,
+    "StateName": "Bretagne",
     "Provinces": [
       {
         "Id": 3552,
@@ -1265,6 +1385,7 @@
   {
     "Type": "french",
     "StateId": 23,
+    "StateName": "Poitou",
     "Provinces": [
       {
         "Id": 6657,
@@ -1275,6 +1396,7 @@
   {
     "Type": "french",
     "StateId": 33,
+    "StateName": "Centre-Sud",
     "Provinces": [
       {
         "Id": 651,
@@ -1285,6 +1407,7 @@
   {
     "Type": "french",
     "StateId": 25,
+    "StateName": "Limousin",
     "Provinces": [
       {
         "Id": 620,
@@ -1295,6 +1418,7 @@
   {
     "Type": "french",
     "StateId": 19,
+    "StateName": "Aquitaine",
     "Provinces": [
       {
         "Id": 9737,
@@ -1305,6 +1429,7 @@
   {
     "Type": "french",
     "StateId": 806,
+    "StateName": "Pyrénées-Atlantiques",
     "Provinces": [
       {
         "Id": 9710,
@@ -1315,6 +1440,7 @@
   {
     "Type": "french",
     "StateId": 31,
+    "StateName": "Midi-Pyrénées",
     "Provinces": [
       {
         "Id": 6766,
@@ -1325,6 +1451,7 @@
   {
     "Type": "french",
     "StateId": 20,
+    "StateName": "Rhône",
     "Provinces": [
       {
         "Id": 6613,
@@ -1335,6 +1462,7 @@
   {
     "Type": "french",
     "StateId": 26,
+    "StateName": "Auvergne",
     "Provinces": [
       {
         "Id": 3594,
@@ -1345,6 +1473,7 @@
   {
     "Type": "french",
     "StateId": 32,
+    "StateName": "Alpes",
     "Provinces": [
       {
         "Id": 3768,
@@ -1355,6 +1484,7 @@
   {
     "Type": "french",
     "StateId": 22,
+    "StateName": "Languedoc",
     "Provinces": [
       {
         "Id": 9898,
@@ -1365,6 +1495,7 @@
   {
     "Type": "french",
     "StateId": 21,
+    "StateName": "Provence",
     "Provinces": [
       {
         "Id": 11834,
@@ -1379,6 +1510,7 @@
   {
     "Type": "french",
     "StateId": 735,
+    "StateName": "Savoie",
     "Provinces": [
       {
         "Id": 9909,
@@ -1393,6 +1525,7 @@
   {
     "Type": "french",
     "StateId": 1,
+    "StateName": "Corse",
     "Provinces": [
       {
         "Id": 3838,
@@ -1403,6 +1536,7 @@
   {
     "Type": "french",
     "StateId": 310,
+    "StateName": "Guyane",
     "Provinces": [
       {
         "Id": 12885,
@@ -1413,6 +1547,7 @@
   {
     "Type": "french",
     "StateId": 6,
+    "StateName": "Flandre",
     "Provinces": [
       {
         "Id": 516,
@@ -1439,6 +1574,7 @@
   {
     "Type": "french",
     "StateId": 34,
+    "StateName": "Wallonie",
     "Provinces": [
       {
         "Id": 9536,
@@ -1457,6 +1593,7 @@
   {
     "Type": "german",
     "StateId": 64,
+    "StateName": "Brandenburg",
     "Provinces": [
       {
         "Id": 6521,
@@ -1471,6 +1608,7 @@
   {
     "Type": "german",
     "StateId": 61,
+    "StateName": "Mecklenburg",
     "Provinces": [
       {
         "Id": 321,
@@ -1485,6 +1623,7 @@
   {
     "Type": "german",
     "StateId": 62,
+    "StateName": "Vorpormenn",
     "Provinces": [
       {
         "Id": 9938,
@@ -1495,6 +1634,7 @@
   {
     "Type": "german",
     "StateId": 65,
+    "StateName": "Sachsen",
     "Provinces": [
       {
         "Id": 3535,
@@ -1509,6 +1649,7 @@
   {
     "Type": "german",
     "StateId": 58,
+    "StateName": "Schleswig-Holstein",
     "Provinces": [
       {
         "Id": 6389,
@@ -1523,6 +1664,7 @@
   {
     "Type": "german",
     "StateId": 59,
+    "StateName": "Hannover",
     "Provinces": [
       {
         "Id": 6377,
@@ -1537,6 +1679,7 @@
   {
     "Type": "german",
     "StateId": 60,
+    "StateName": "Thüringen",
     "Provinces": [
       {
         "Id": 425,
@@ -1551,6 +1694,7 @@
   {
     "Type": "german",
     "StateId": 56,
+    "StateName": "Weser-Ems",
     "Provinces": [
       {
         "Id": 241,
@@ -1569,6 +1713,7 @@
   {
     "Type": "german",
     "StateId": 57,
+    "StateName": "Westfalen",
     "Provinces": [
       {
         "Id": 495,
@@ -1579,6 +1724,7 @@
   {
     "Type": "german",
     "StateId": 51,
+    "StateName": "Rhineland",
     "Provinces": [
       {
         "Id": 6469,
@@ -1593,6 +1739,7 @@
   {
     "Type": "german",
     "StateId": 55,
+    "StateName": "Hessen",
     "Provinces": [
       {
         "Id": 6488,
@@ -1607,6 +1754,7 @@
   {
     "Type": "german",
     "StateId": 42,
+    "StateName": "Moselland",
     "Provinces": [
       {
         "Id": 11435,
@@ -1621,6 +1769,7 @@
   {
     "Type": "german",
     "StateId": 54,
+    "StateName": "Franken",
     "Provinces": [
       {
         "Id": 11544,
@@ -1631,6 +1780,7 @@
   {
     "Type": "german",
     "StateId": 50,
+    "StateName": "Württemberg",
     "Provinces": [
       {
         "Id": 9517,
@@ -1645,6 +1795,7 @@
   {
     "Type": "german",
     "StateId": 53,
+    "StateName": "Niederbayern",
     "Provinces": [
       {
         "Id": 9515,
@@ -1655,6 +1806,7 @@
   {
     "Type": "german",
     "StateId": 52,
+    "StateName": "Oberbayern",
     "Provinces": [
       {
         "Id": 692,
@@ -1669,6 +1821,7 @@
   {
     "Type": "german",
     "StateId": 63,
+    "StateName": "Hinterpommern",
     "Provinces": [
       {
         "Id": 6282,
@@ -1683,6 +1836,7 @@
   {
     "Type": "german",
     "StateId": 68,
+    "StateName": "Ostmark",
     "Provinces": [
       {
         "Id": 3473,
@@ -1693,6 +1847,7 @@
   {
     "Type": "german",
     "StateId": 66,
+    "StateName": "Niederschleisen",
     "Provinces": [
       {
         "Id": 9570,
@@ -1703,6 +1858,7 @@
   {
     "Type": "german",
     "StateId": 67,
+    "StateName": "Oberschleisen",
     "Provinces": [
       {
         "Id": 11467,
@@ -1717,6 +1873,7 @@
   {
     "Type": "german",
     "StateId": 5,
+    "StateName": "Ermland-Masuren",
     "Provinces": [
       {
         "Id": 6375,
@@ -1727,6 +1884,7 @@
   {
     "Type": "german",
     "StateId": 763,
+    "StateName": "Königsberg",
     "Provinces": [
       {
         "Id": 6332,
@@ -1737,6 +1895,7 @@
   {
     "Type": "german",
     "StateId": 4,
+    "StateName": "Lower Austria",
     "Provinces": [
       {
         "Id": 11666,
@@ -1751,6 +1910,7 @@
   {
     "Type": "german",
     "StateId": 152,
+    "StateName": "Upper Austria",
     "Provinces": [
       {
         "Id": 688,
@@ -1773,6 +1933,7 @@
   {
     "Type": "german",
     "StateId": 153,
+    "StateName": "Tyrol",
     "Provinces": [
       {
         "Id": 673,
@@ -1783,6 +1944,7 @@
   {
     "Type": "german",
     "StateId": 3,
+    "StateName": "Schweiz",
     "Provinces": [
       {
         "Id": 9620,
@@ -1793,6 +1955,7 @@
   {
     "Type": "german",
     "StateId": 151,
+    "StateName": "Ostschweiz",
     "Provinces": [
       {
         "Id": 663,
@@ -1803,6 +1966,7 @@
   {
     "Type": "german",
     "StateId": 69,
+    "StateName": "Sudetenland",
     "Provinces": [
       {
         "Id": 3585,
@@ -1817,6 +1981,7 @@
   {
     "Type": "german",
     "StateId": 9,
+    "StateName": "Böhmen",
     "Provinces": [
       {
         "Id": 11542,
@@ -1835,6 +2000,7 @@
   {
     "Type": "german",
     "StateId": 75,
+    "StateName": "Mähren",
     "Provinces": [
       {
         "Id": 3569,
@@ -1849,11 +2015,13 @@
   {
     "Type": "german",
     "StateId": 72,
+    "StateName": "Olsa-Gebiet",
     "Provinces": []
   },
   {
     "Type": "german",
     "StateId": 74,
+    "StateName": "Ostsudetenland",
     "Provinces": [
       {
         "Id": 3583,
@@ -1864,6 +2032,7 @@
   {
     "Type": "german",
     "StateId": 70,
+    "StateName": "Westslowakei",
     "Provinces": [
       {
         "Id": 9692,
@@ -1878,6 +2047,7 @@
   {
     "Type": "german",
     "StateId": 664,
+    "StateName": "Südslowakei",
     "Provinces": [
       {
         "Id": 6573,
@@ -1888,6 +2058,7 @@
   {
     "Type": "german",
     "StateId": 71,
+    "StateName": "Ostslowakei",
     "Provinces": [
       {
         "Id": 3581,
@@ -1898,6 +2069,7 @@
   {
     "Type": "german",
     "StateId": 73,
+    "StateName": "Transkarpathien",
     "Provinces": [
       {
         "Id": 3548,
@@ -1908,6 +2080,7 @@
   {
     "Type": "german",
     "StateId": 10,
+    "StateName": "Warschau",
     "Provinces": [
       {
         "Id": 3544,
@@ -1922,6 +2095,7 @@
   {
     "Type": "german",
     "StateId": 87,
+    "StateName": "Litzmannstadt",
     "Provinces": [
       {
         "Id": 9508,
@@ -1932,6 +2106,7 @@
   {
     "Type": "german",
     "StateId": 90,
+    "StateName": "Kielitz",
     "Provinces": [
       {
         "Id": 11430,
@@ -1946,6 +2121,7 @@
   {
     "Type": "german",
     "StateId": 88,
+    "StateName": "Beskidland",
     "Provinces": [
       {
         "Id": 9427,
@@ -1964,6 +2140,7 @@
   {
     "Type": "german",
     "StateId": 92,
+    "StateName": "Lüben",
     "Provinces": [
       {
         "Id": 11399,
@@ -1974,6 +2151,7 @@
   {
     "Type": "german",
     "StateId": 97,
+    "StateName": "Bjelostock",
     "Provinces": [
       {
         "Id": 11301,
@@ -1988,6 +2166,7 @@
   {
     "Type": "german",
     "StateId": 762,
+    "StateName": "Kattowitz",
     "Provinces": [
       {
         "Id": 6464,
@@ -1998,6 +2177,7 @@
   {
     "Type": "german",
     "StateId": 86,
+    "StateName": "Posen",
     "Provinces": [
       {
         "Id": 6558,
@@ -2008,6 +2188,7 @@
   {
     "Type": "german",
     "StateId": 98,
+    "StateName": "Plozk",
     "Provinces": [
       {
         "Id": 3230,
@@ -2018,6 +2199,7 @@
   {
     "Type": "german",
     "StateId": 807,
+    "StateName": "Gotenhafen",
     "Provinces": [
       {
         "Id": 9263,
@@ -2036,6 +2218,7 @@
   {
     "Type": "german",
     "StateId": 85,
+    "StateName": "Danzig",
     "Provinces": [
       {
         "Id": 362,
@@ -2046,6 +2229,7 @@
   {
     "Type": "german",
     "StateId": 89,
+    "StateName": "Stanislau",
     "Provinces": [
       {
         "Id": 11411,
@@ -2056,6 +2240,7 @@
   {
     "Type": "german",
     "StateId": 91,
+    "StateName": "Lemberg",
     "Provinces": [
       {
         "Id": 11479,
@@ -2066,6 +2251,7 @@
   {
     "Type": "german",
     "StateId": 93,
+    "StateName": "Wolhynien",
     "Provinces": [
       {
         "Id": 422,
@@ -2080,6 +2266,7 @@
   {
     "Type": "german",
     "StateId": 94,
+    "StateName": "Polessien",
     "Provinces": [
       {
         "Id": 560,
@@ -2094,6 +2281,7 @@
   {
     "Type": "german",
     "StateId": 95,
+    "StateName": "Neugrodek",
     "Provinces": [
       {
         "Id": 9304,
@@ -2108,6 +2296,7 @@
   {
     "Type": "german",
     "StateId": 96,
+    "StateName": "Adolfstadt",
     "Provinces": [
       {
         "Id": 406,
@@ -2118,6 +2307,7 @@
   {
     "Type": "german",
     "StateId": 784,
+    "StateName": "Wilna",
     "Provinces": [
       {
         "Id": 3320,
@@ -2128,6 +2318,7 @@
   {
     "Type": "german",
     "StateId": 107,
+    "StateName": "Serbien",
     "Provinces": [
       {
         "Id": 11586,
@@ -2138,6 +2329,7 @@
   {
     "Type": "german",
     "StateId": 108,
+    "StateName": "Morava",
     "Provinces": [
       {
         "Id": 9602,
@@ -2148,6 +2340,7 @@
   {
     "Type": "german",
     "StateId": 764,
+    "StateName": "Westbanat",
     "Provinces": [
       {
         "Id": 3614,
@@ -2158,6 +2351,7 @@
   {
     "Type": "german",
     "StateId": 45,
+    "StateName": "Wojwodina",
     "Provinces": [
       {
         "Id": 619,
@@ -2168,6 +2362,7 @@
   {
     "Type": "german",
     "StateId": 803,
+    "StateName": "Sudserbien",
     "Provinces": [
       {
         "Id": 11857,
@@ -2178,6 +2373,7 @@
   {
     "Type": "german",
     "StateId": 802,
+    "StateName": "Kosovo",
     "Provinces": [
       {
         "Id": 6940,
@@ -2188,6 +2384,7 @@
   {
     "Type": "german",
     "StateId": 106,
+    "StateName": "Mazedonien",
     "Provinces": [
       {
         "Id": 3882,
@@ -2198,6 +2395,7 @@
   {
     "Type": "german",
     "StateId": 105,
+    "StateName": "Montenegro",
     "Provinces": [
       {
         "Id": 9809,
@@ -2208,6 +2406,7 @@
   {
     "Type": "german",
     "StateId": 104,
+    "StateName": "Bosnien",
     "Provinces": [
       {
         "Id": 11899,
@@ -2222,6 +2421,7 @@
   {
     "Type": "german",
     "StateId": 804,
+    "StateName": "Herzegowina",
     "Provinces": [
       {
         "Id": 9894,
@@ -2232,6 +2432,7 @@
   {
     "Type": "german",
     "StateId": 109,
+    "StateName": "Kroatien",
     "Provinces": [
       {
         "Id": 11581,
@@ -2242,6 +2443,7 @@
   {
     "Type": "german",
     "StateId": 103,
+    "StateName": "Dalmatien",
     "Provinces": [
       {
         "Id": 11564,
@@ -2260,6 +2462,7 @@
   {
     "Type": "german",
     "StateId": 102,
+    "StateName": "Slowenien",
     "Provinces": [
       {
         "Id": 9627,
@@ -2270,6 +2473,7 @@
   {
     "Type": "german",
     "StateId": 46,
+    "StateName": "Große Wallachei",
     "Provinces": [
       {
         "Id": 9617,
@@ -2288,6 +2492,7 @@
   {
     "Type": "german",
     "StateId": 77,
+    "StateName": "Dobrich",
     "Provinces": [
       {
         "Id": 11597,
@@ -2298,6 +2503,7 @@
   {
     "Type": "german",
     "StateId": 81,
+    "StateName": "Kleine Wallachei",
     "Provinces": [
       {
         "Id": 6652,
@@ -2308,6 +2514,7 @@
   {
     "Type": "german",
     "StateId": 79,
+    "StateName": "Moldawien",
     "Provinces": [
       {
         "Id": 6706,
@@ -2322,6 +2529,7 @@
   {
     "Type": "german",
     "StateId": 84,
+    "StateName": "Siebenbürgen",
     "Provinces": [
       {
         "Id": 690,
@@ -2332,6 +2540,7 @@
   {
     "Type": "german",
     "StateId": 82,
+    "StateName": "Banat",
     "Provinces": [
       {
         "Id": 9606,
@@ -2342,6 +2551,7 @@
   {
     "Type": "german",
     "StateId": 83,
+    "StateName": "Kreischgebiet",
     "Provinces": [
       {
         "Id": 6682,
@@ -2352,6 +2562,7 @@
   {
     "Type": "german",
     "StateId": 76,
+    "StateName": "Nordsiebenbürgen",
     "Provinces": [
       {
         "Id": 6711,
@@ -2362,6 +2573,7 @@
   {
     "Type": "german",
     "StateId": 80,
+    "StateName": "Bukowina",
     "Provinces": [
       {
         "Id": 577,
@@ -2372,6 +2584,7 @@
   {
     "Type": "german",
     "StateId": 78,
+    "StateName": "Bessarabien",
     "Provinces": [
       {
         "Id": 3707,
@@ -2382,6 +2595,7 @@
   {
     "Type": "german",
     "StateId": 766,
+    "StateName": "Sudbessarabien",
     "Provinces": [
       {
         "Id": 6727,
@@ -2392,6 +2606,7 @@
   {
     "Type": "german",
     "StateId": 43,
+    "StateName": "Nordungarn",
     "Provinces": [
       {
         "Id": 9660,
@@ -2402,6 +2617,7 @@
   {
     "Type": "german",
     "StateId": 155,
+    "StateName": "Transdanubien",
     "Provinces": [
       {
         "Id": 11610,
@@ -2412,6 +2628,7 @@
   {
     "Type": "german",
     "StateId": 154,
+    "StateName": "Alföld",
     "Provinces": [
       {
         "Id": 11659,
@@ -2422,6 +2639,7 @@
   {
     "Type": "german",
     "StateId": 110,
+    "StateName": "Ostnorwegen",
     "Provinces": [
       {
         "Id": 6115,
@@ -2432,6 +2650,7 @@
   {
     "Type": "german",
     "StateId": 142,
+    "StateName": "Westnorwegen",
     "Provinces": [
       {
         "Id": 9296,
@@ -2450,6 +2669,7 @@
   {
     "Type": "german",
     "StateId": 143,
+    "StateName": "Trøndelag",
     "Provinces": [
       {
         "Id": 3022,
@@ -2460,6 +2680,7 @@
   {
     "Type": "german",
     "StateId": 144,
+    "StateName": "Nordnorwegen",
     "Provinces": [
       {
         "Id": 192,
@@ -2478,6 +2699,7 @@
   {
     "Type": "german",
     "StateId": 99,
+    "StateName": "Jütland",
     "Provinces": [
       {
         "Id": 6364,
@@ -2488,6 +2710,7 @@
   {
     "Type": "german",
     "StateId": 37,
+    "StateName": "Seeland",
     "Provinces": [
       {
         "Id": 3325,
@@ -2502,11 +2725,13 @@
   {
     "Type": "german",
     "StateId": 337,
+    "StateName": "Färöer Inseln",
     "Provinces": []
   },
   {
     "Type": "german",
     "StateId": 100,
+    "StateName": "Island",
     "Provinces": [
       {
         "Id": 12674,
@@ -2517,11 +2742,13 @@
   {
     "Type": "german",
     "StateId": 101,
+    "StateName": "Grönland",
     "Provinces": []
   },
   {
     "Type": "german",
     "StateId": 16,
+    "StateName": "Île-de-France",
     "Provinces": [
       {
         "Id": 11506,
@@ -2532,6 +2759,7 @@
   {
     "Type": "german",
     "StateId": 15,
+    "StateName": "Normandie",
     "Provinces": [
       {
         "Id": 6449,
@@ -2554,6 +2782,7 @@
   {
     "Type": "german",
     "StateId": 785,
+    "StateName": "Picardie",
     "Provinces": [
       {
         "Id": 11420,
@@ -2564,6 +2793,7 @@
   {
     "Type": "german",
     "StateId": 29,
+    "StateName": "Pas-de-Calais",
     "Provinces": [
       {
         "Id": 11548,
@@ -2582,6 +2812,7 @@
   {
     "Type": "german",
     "StateId": 18,
+    "StateName": "Champagne",
     "Provinces": [
       {
         "Id": 9490,
@@ -2600,6 +2831,7 @@
   {
     "Type": "german",
     "StateId": 17,
+    "StateName": "Burgund",
     "Provinces": [
       {
         "Id": 11516,
@@ -2614,6 +2846,7 @@
   {
     "Type": "german",
     "StateId": 28,
+    "StateName": "Elsaß-Lothringen",
     "Provinces": [
       {
         "Id": 678,
@@ -2632,6 +2865,7 @@
   {
     "Type": "german",
     "StateId": 27,
+    "StateName": "Niederburgund",
     "Provinces": [
       {
         "Id": 3652,
@@ -2642,6 +2876,7 @@
   {
     "Type": "german",
     "StateId": 24,
+    "StateName": "Centre-Val de Loire",
     "Provinces": [
       {
         "Id": 512,
@@ -2656,6 +2891,7 @@
   {
     "Type": "german",
     "StateId": 30,
+    "StateName": "Loire",
     "Provinces": [
       {
         "Id": 11465,
@@ -2666,6 +2902,7 @@
   {
     "Type": "german",
     "StateId": 14,
+    "StateName": "Bretingen",
     "Provinces": [
       {
         "Id": 3552,
@@ -2684,6 +2921,7 @@
   {
     "Type": "german",
     "StateId": 23,
+    "StateName": "Poitou",
     "Provinces": [
       {
         "Id": 6657,
@@ -2694,6 +2932,7 @@
   {
     "Type": "german",
     "StateId": 33,
+    "StateName": "Centre-Sud",
     "Provinces": [
       {
         "Id": 651,
@@ -2704,6 +2943,7 @@
   {
     "Type": "german",
     "StateId": 25,
+    "StateName": "Limousin",
     "Provinces": [
       {
         "Id": 620,
@@ -2714,6 +2954,7 @@
   {
     "Type": "german",
     "StateId": 19,
+    "StateName": "Aquitaine",
     "Provinces": [
       {
         "Id": 9737,
@@ -2724,6 +2965,7 @@
   {
     "Type": "german",
     "StateId": 806,
+    "StateName": "Pyrénées-Atlantiques",
     "Provinces": [
       {
         "Id": 9710,
@@ -2734,6 +2976,7 @@
   {
     "Type": "german",
     "StateId": 31,
+    "StateName": "Midi-Pyrénées",
     "Provinces": [
       {
         "Id": 6766,
@@ -2744,6 +2987,7 @@
   {
     "Type": "german",
     "StateId": 20,
+    "StateName": "Rhône",
     "Provinces": [
       {
         "Id": 6613,
@@ -2754,6 +2998,7 @@
   {
     "Type": "german",
     "StateId": 26,
+    "StateName": "Auvergne",
     "Provinces": [
       {
         "Id": 3594,
@@ -2764,6 +3009,7 @@
   {
     "Type": "german",
     "StateId": 32,
+    "StateName": "Alpes",
     "Provinces": [
       {
         "Id": 3768,
@@ -2774,6 +3020,7 @@
   {
     "Type": "german",
     "StateId": 22,
+    "StateName": "Languedoc",
     "Provinces": [
       {
         "Id": 9898,
@@ -2784,6 +3031,7 @@
   {
     "Type": "german",
     "StateId": 21,
+    "StateName": "Provence",
     "Provinces": [
       {
         "Id": 11834,
@@ -2798,6 +3046,7 @@
   {
     "Type": "german",
     "StateId": 735,
+    "StateName": "Savoie",
     "Provinces": [
       {
         "Id": 9909,
@@ -2812,6 +3061,7 @@
   {
     "Type": "german",
     "StateId": 1,
+    "StateName": "Corse",
     "Provinces": [
       {
         "Id": 3838,
@@ -2822,6 +3072,7 @@
   {
     "Type": "german",
     "StateId": 6,
+    "StateName": "Flandern",
     "Provinces": [
       {
         "Id": 516,
@@ -2848,6 +3099,7 @@
   {
     "Type": "german",
     "StateId": 34,
+    "StateName": "Wallonien",
     "Provinces": [
       {
         "Id": 9536,
@@ -2866,6 +3118,7 @@
   {
     "Type": "german",
     "StateId": 8,
+    "StateName": "Luxemburg",
     "Provinces": [
       {
         "Id": 6583,
@@ -2876,6 +3129,7 @@
   {
     "Type": "german",
     "StateId": 159,
+    "StateName": "Lombardei",
     "Provinces": [
       {
         "Id": 3780,
@@ -2886,6 +3140,7 @@
   {
     "Type": "german",
     "StateId": 160,
+    "StateName": "Venedig",
     "Provinces": [
       {
         "Id": 11584,
@@ -2896,6 +3151,7 @@
   {
     "Type": "german",
     "StateId": 39,
+    "StateName": "Südtirol",
     "Provinces": [
       {
         "Id": 11598,
@@ -2906,6 +3162,7 @@
   {
     "Type": "german",
     "StateId": 736,
+    "StateName": "Istrien",
     "Provinces": [
       {
         "Id": 6626,
@@ -2916,6 +3173,7 @@
   {
     "Type": "german",
     "StateId": 11,
+    "StateName": "Kauen",
     "Provinces": [
       {
         "Id": 6296,
@@ -2930,6 +3188,7 @@
   {
     "Type": "german",
     "StateId": 814,
+    "StateName": "Sudovia",
     "Provinces": [
       {
         "Id": 11312,
@@ -2940,6 +3199,7 @@
   {
     "Type": "german",
     "StateId": 815,
+    "StateName": "Ponewiesch",
     "Provinces": [
       {
         "Id": 6229,
@@ -2950,6 +3210,7 @@
   {
     "Type": "german",
     "StateId": 189,
+    "StateName": "Schaulen",
     "Provinces": [
       {
         "Id": 9483,
@@ -2964,6 +3225,7 @@
   {
     "Type": "german",
     "StateId": 188,
+    "StateName": "Memel",
     "Provinces": [
       {
         "Id": 3288,
@@ -2974,6 +3236,7 @@
   {
     "Type": "german",
     "StateId": 808,
+    "StateName": "Riga",
     "Provinces": [
       {
         "Id": 9340,
@@ -2984,6 +3247,7 @@
   {
     "Type": "german",
     "StateId": 12,
+    "StateName": "Livland",
     "Provinces": [
       {
         "Id": 10493,
@@ -2994,6 +3258,7 @@
   {
     "Type": "german",
     "StateId": 810,
+    "StateName": "Latland",
     "Provinces": [
       {
         "Id": 222,
@@ -3008,6 +3273,7 @@
   {
     "Type": "german",
     "StateId": 809,
+    "StateName": "Semgallen",
     "Provinces": [
       {
         "Id": 3255,
@@ -3022,6 +3288,7 @@
   {
     "Type": "german",
     "StateId": 190,
+    "StateName": "Kurland",
     "Provinces": [
       {
         "Id": 3296,
@@ -3036,6 +3303,7 @@
   {
     "Type": "german",
     "StateId": 812,
+    "StateName": "Harrien",
     "Provinces": [
       {
         "Id": 3152,
@@ -3046,6 +3314,7 @@
   {
     "Type": "german",
     "StateId": 813,
+    "StateName": "Paulenhof",
     "Provinces": [
       {
         "Id": 11127,
@@ -3060,6 +3329,7 @@
   {
     "Type": "german",
     "StateId": 191,
+    "StateName": "Dorpat",
     "Provinces": [
       {
         "Id": 9221,
@@ -3074,6 +3344,7 @@
   {
     "Type": "german",
     "StateId": 13,
+    "StateName": "Pernau",
     "Provinces": [
       {
         "Id": 3174,
@@ -3084,6 +3355,7 @@
   {
     "Type": "german",
     "StateId": 811,
+    "StateName": "Ösel",
     "Provinces": [
       {
         "Id": 185,
@@ -3094,6 +3366,7 @@
   {
     "Type": "german",
     "StateId": 7,
+    "StateName": "Holland",
     "Provinces": [
       {
         "Id": 391,
@@ -3112,6 +3385,7 @@
   {
     "Type": "german",
     "StateId": 36,
+    "StateName": "Frisia",
     "Provinces": [
       {
         "Id": 6241,
@@ -3134,6 +3408,7 @@
   {
     "Type": "german",
     "StateId": 35,
+    "StateName": "Brabant",
     "Provinces": [
       {
         "Id": 6241,
@@ -3152,6 +3427,7 @@
   {
     "Type": "german",
     "StateId": 219,
+    "StateName": "Moskau",
     "Provinces": [
       {
         "Id": 6380,
@@ -3162,6 +3438,7 @@
   {
     "Type": "german",
     "StateId": 242,
+    "StateName": "Smolenskau",
     "Provinces": [
       {
         "Id": 306,
@@ -3172,6 +3449,7 @@
   {
     "Type": "german",
     "StateId": 243,
+    "StateName": "Roslavenland",
     "Provinces": [
       {
         "Id": 11336,
@@ -3182,6 +3460,7 @@
   {
     "Type": "german",
     "StateId": 205,
+    "StateName": "Kalün",
     "Provinces": [
       {
         "Id": 382,
@@ -3192,6 +3471,7 @@
   {
     "Type": "german",
     "StateId": 224,
+    "StateName": "Waldemarstadt",
     "Provinces": [
       {
         "Id": 3335,
@@ -3202,6 +3482,7 @@
   {
     "Type": "german",
     "StateId": 223,
+    "StateName": "Tülenshafen",
     "Provinces": [
       {
         "Id": 6262,
@@ -3212,6 +3493,7 @@
   {
     "Type": "german",
     "StateId": 254,
+    "StateName": "Rayzenvich",
     "Provinces": [
       {
         "Id": 11248,
@@ -3222,6 +3504,7 @@
   {
     "Type": "german",
     "StateId": 222,
+    "StateName": "Örel",
     "Provinces": [
       {
         "Id": 9355,
@@ -3232,6 +3515,7 @@
   {
     "Type": "german",
     "StateId": 258,
+    "StateName": "Libach",
     "Provinces": [
       {
         "Id": 6398,
@@ -3242,6 +3526,7 @@
   {
     "Type": "german",
     "StateId": 257,
+    "StateName": "Tambau",
     "Provinces": [
       {
         "Id": 11351,
@@ -3252,6 +3537,7 @@
   {
     "Type": "german",
     "StateId": 220,
+    "StateName": "Kaisenberg",
     "Provinces": [
       {
         "Id": 3580,
@@ -3262,6 +3548,7 @@
   {
     "Type": "german",
     "StateId": 260,
+    "StateName": "Woronesch",
     "Provinces": [
       {
         "Id": 413,
@@ -3272,6 +3559,7 @@
   {
     "Type": "german",
     "StateId": 240,
+    "StateName": "Weißenstadt",
     "Provinces": [
       {
         "Id": 9449,
@@ -3282,6 +3570,7 @@
   {
     "Type": "german",
     "StateId": 253,
+    "StateName": "Ivansbach",
     "Provinces": [
       {
         "Id": 6269,
@@ -3292,6 +3581,7 @@
   {
     "Type": "german",
     "StateId": 252,
+    "StateName": "Gorkendorf",
     "Provinces": [
       {
         "Id": 11375,
@@ -3302,6 +3592,7 @@
   {
     "Type": "german",
     "StateId": 833,
+    "StateName": "Olanbach",
     "Provinces": [
       {
         "Id": 9402,
@@ -3312,6 +3603,7 @@
   {
     "Type": "german",
     "StateId": 256,
+    "StateName": "Hebach",
     "Provinces": [
       {
         "Id": 9259,
@@ -3322,6 +3614,7 @@
   {
     "Type": "german",
     "StateId": 255,
+    "StateName": "Pensa",
     "Provinces": [
       {
         "Id": 9258,
@@ -3332,6 +3625,7 @@
   {
     "Type": "german",
     "StateId": 250,
+    "StateName": "Lanowstadt",
     "Provinces": [
       {
         "Id": 392,
@@ -3342,6 +3636,7 @@
   {
     "Type": "german",
     "StateId": 218,
+    "StateName": "Rostofa",
     "Provinces": [
       {
         "Id": 9417,
@@ -3352,6 +3647,7 @@
   {
     "Type": "german",
     "StateId": 245,
+    "StateName": "Müllerau",
     "Provinces": [
       {
         "Id": 11476,
@@ -3362,6 +3658,7 @@
   {
     "Type": "german",
     "StateId": 238,
+    "StateName": "Wolgodonsk",
     "Provinces": [
       {
         "Id": 775,
@@ -3372,6 +3669,7 @@
   {
     "Type": "german",
     "StateId": 237,
+    "StateName": "Kalmibahën",
     "Provinces": [
       {
         "Id": 11724,
@@ -3382,6 +3680,7 @@
   {
     "Type": "german",
     "StateId": 217,
+    "StateName": "Hindenburg",
     "Provinces": [
       {
         "Id": 3529,
@@ -3392,6 +3691,7 @@
   {
     "Type": "german",
     "StateId": 236,
+    "StateName": "Letzte-Wolgastadt",
     "Provinces": [
       {
         "Id": 9753,
@@ -3402,6 +3702,7 @@
   {
     "Type": "german",
     "StateId": 265,
+    "StateName": "Michailaue",
     "Provinces": [
       {
         "Id": 487,
@@ -3412,6 +3713,7 @@
   {
     "Type": "german",
     "StateId": 829,
+    "StateName": "Katherinenstadt",
     "Provinces": [
       {
         "Id": 11523,
@@ -3426,6 +3728,7 @@
   {
     "Type": "german",
     "StateId": 239,
+    "StateName": "Saratau",
     "Provinces": [
       {
         "Id": 3578,
@@ -3436,6 +3739,7 @@
   {
     "Type": "german",
     "StateId": 401,
+    "StateName": "Balakau",
     "Provinces": [
       {
         "Id": 3578,
@@ -3446,6 +3750,7 @@
   {
     "Type": "german",
     "StateId": 137,
+    "StateName": "Theodorichshafen",
     "Provinces": [
       {
         "Id": 3686,
@@ -3464,6 +3769,7 @@
   {
     "Type": "german",
     "StateId": 234,
+    "StateName": "Wilhelmstadt",
     "Provinces": [
       {
         "Id": 3734,
@@ -3482,6 +3788,7 @@
   {
     "Type": "german",
     "StateId": 233,
+    "StateName": "Bergstadt",
     "Provinces": [
       {
         "Id": 9663,
@@ -3492,6 +3799,7 @@
   {
     "Type": "german",
     "StateId": 235,
+    "StateName": "Schtravonheiß",
     "Provinces": [
       {
         "Id": 11696,
@@ -3502,6 +3810,7 @@
   {
     "Type": "german",
     "StateId": 827,
+    "StateName": "Kabardino-Balkarien",
     "Provinces": [
       {
         "Id": 11614,
@@ -3512,6 +3821,7 @@
   {
     "Type": "german",
     "StateId": 828,
+    "StateName": "Nordossetien",
     "Provinces": [
       {
         "Id": 9628,
@@ -3522,6 +3832,7 @@
   {
     "Type": "german",
     "StateId": 821,
+    "StateName": "Grodno",
     "Provinces": [
       {
         "Id": 3672,
@@ -3532,6 +3843,7 @@
   {
     "Type": "german",
     "StateId": 232,
+    "StateName": "Dagenstadt",
     "Provinces": [
       {
         "Id": 6701,
@@ -3542,6 +3854,7 @@
   {
     "Type": "german",
     "StateId": 826,
+    "StateName": "Abchasien",
     "Provinces": [
       {
         "Id": 11617,
@@ -3552,6 +3865,7 @@
   {
     "Type": "german",
     "StateId": 231,
+    "StateName": "Georgien",
     "Provinces": [
       {
         "Id": 1599,
@@ -3566,6 +3880,7 @@
   {
     "Type": "german",
     "StateId": 230,
+    "StateName": "Armenianland",
     "Provinces": [
       {
         "Id": 12320,
@@ -3580,6 +3895,7 @@
   {
     "Type": "german",
     "StateId": 229,
+    "StateName": "Öland",
     "Provinces": [
       {
         "Id": 7661,
@@ -3594,6 +3910,7 @@
   {
     "Type": "german",
     "StateId": 195,
+    "StateName": "Ludendorffshafen",
     "Provinces": [
       {
         "Id": 3151,
@@ -3604,6 +3921,7 @@
   {
     "Type": "german",
     "StateId": 208,
+    "StateName": "Lügen",
     "Provinces": [
       {
         "Id": 9098,
@@ -3614,6 +3932,7 @@
   {
     "Type": "german",
     "StateId": 244,
+    "StateName": "Neu-Volkstadt",
     "Provinces": [
       {
         "Id": 9197,
@@ -3624,6 +3943,7 @@
   {
     "Type": "german",
     "StateId": 263,
+    "StateName": "Naugard",
     "Provinces": [
       {
         "Id": 117,
@@ -3634,6 +3954,7 @@
   {
     "Type": "german",
     "StateId": 209,
+    "StateName": "Pleskau",
     "Provinces": [
       {
         "Id": 11202,
@@ -3644,6 +3965,7 @@
   {
     "Type": "german",
     "StateId": 210,
+    "StateName": "Neu-Wen",
     "Provinces": [
       {
         "Id": 11234,
@@ -3654,6 +3976,7 @@
   {
     "Type": "german",
     "StateId": 246,
+    "StateName": "Rewen",
     "Provinces": [
       {
         "Id": 11349,
@@ -3664,6 +3987,7 @@
   {
     "Type": "german",
     "StateId": 264,
+    "StateName": "Tikenvisch",
     "Provinces": [
       {
         "Id": 3140,
@@ -3674,6 +3998,7 @@
   {
     "Type": "german",
     "StateId": 247,
+    "StateName": "Königstadt",
     "Provinces": [
       {
         "Id": 6245,
@@ -3684,6 +4009,7 @@
   {
     "Type": "german",
     "StateId": 248,
+    "StateName": "Yaroschaffen",
     "Provinces": [
       {
         "Id": 121,
@@ -3694,6 +4020,7 @@
   {
     "Type": "german",
     "StateId": 351,
+    "StateName": "Wosnech",
     "Provinces": [
       {
         "Id": 9131,
@@ -3704,6 +4031,7 @@
   {
     "Type": "german",
     "StateId": 214,
+    "StateName": "Arkanstadt",
     "Provinces": [
       {
         "Id": 3338,
@@ -3714,6 +4042,7 @@
   {
     "Type": "german",
     "StateId": 213,
+    "StateName": "Murmau",
     "Provinces": [
       {
         "Id": 3134,
@@ -3728,11 +4057,13 @@
   {
     "Type": "german",
     "StateId": 215,
+    "StateName": "Onawich",
     "Provinces": []
   },
   {
     "Type": "german",
     "StateId": 216,
+    "StateName": "Onoletz",
     "Provinces": [
       {
         "Id": 11159,
@@ -3743,6 +4074,7 @@
   {
     "Type": "german",
     "StateId": 825,
+    "StateName": "Hafen von Kaiser",
     "Provinces": [
       {
         "Id": 105,
@@ -3753,16 +4085,19 @@
   {
     "Type": "german",
     "StateId": 262,
+    "StateName": "Pechau",
     "Provinces": []
   },
   {
     "Type": "german",
     "StateId": 581,
+    "StateName": "Nordural",
     "Provinces": []
   },
   {
     "Type": "german",
     "StateId": 397,
+    "StateName": "Balzer",
     "Provinces": [
       {
         "Id": 108,
@@ -3773,6 +4108,7 @@
   {
     "Type": "german",
     "StateId": 399,
+    "StateName": "Izwendorf",
     "Provinces": [
       {
         "Id": 6278,
@@ -3783,6 +4119,7 @@
   {
     "Type": "german",
     "StateId": 398,
+    "StateName": "Perwsburg",
     "Provinces": [
       {
         "Id": 7375,
@@ -3793,6 +4130,7 @@
   {
     "Type": "german",
     "StateId": 573,
+    "StateName": "Zentral-Ural",
     "Provinces": [
       {
         "Id": 10329,
@@ -3803,6 +4141,7 @@
   {
     "Type": "german",
     "StateId": 249,
+    "StateName": "Kazanshafen",
     "Provinces": [
       {
         "Id": 6338,
@@ -3813,6 +4152,7 @@
   {
     "Type": "german",
     "StateId": 651,
+    "StateName": "Uraler-Fuß",
     "Provinces": [
       {
         "Id": 1278,
@@ -3827,6 +4167,7 @@
   {
     "Type": "german",
     "StateId": 251,
+    "StateName": "Kübßstadt",
     "Provinces": [
       {
         "Id": 11225,
@@ -3837,11 +4178,13 @@
   {
     "Type": "german",
     "StateId": 652,
+    "StateName": "Orenburg",
     "Provinces": []
   },
   {
     "Type": "german",
     "StateId": 407,
+    "StateName": "Letzte-Grenze",
     "Provinces": [
       {
         "Id": 11537,
@@ -3852,6 +4195,7 @@
   {
     "Type": "german",
     "StateId": 406,
+    "StateName": "Gürau",
     "Provinces": [
       {
         "Id": 11537,
@@ -3862,6 +4206,7 @@
   {
     "Type": "german",
     "StateId": 207,
+    "StateName": "Weißenbau",
     "Provinces": [
       {
         "Id": 11241,
@@ -3872,6 +4217,7 @@
   {
     "Type": "german",
     "StateId": 241,
+    "StateName": "Homiel",
     "Provinces": [
       {
         "Id": 9288,
@@ -3882,6 +4228,7 @@
   {
     "Type": "german",
     "StateId": 206,
+    "StateName": "Meinha",
     "Provinces": [
       {
         "Id": 11370,
@@ -3896,6 +4243,7 @@
   {
     "Type": "german",
     "StateId": 204,
+    "StateName": "Biberach",
     "Provinces": [
       {
         "Id": 3350,
@@ -3910,6 +4258,7 @@
   {
     "Type": "german",
     "StateId": 194,
+    "StateName": "Mosyr",
     "Provinces": [
       {
         "Id": 6232,
@@ -3920,6 +4269,7 @@
   {
     "Type": "german",
     "StateId": 228,
+    "StateName": "Lugansk",
     "Provinces": [
       {
         "Id": 9461,
@@ -3930,6 +4280,7 @@
   {
     "Type": "german",
     "StateId": 227,
+    "StateName": "Donezstadt",
     "Provinces": [
       {
         "Id": 6474,
@@ -3940,6 +4291,7 @@
   {
     "Type": "german",
     "StateId": 221,
+    "StateName": "Karkau",
     "Provinces": [
       {
         "Id": 418,
@@ -3950,6 +4302,7 @@
   {
     "Type": "german",
     "StateId": 226,
+    "StateName": "Dnipropetrovsk",
     "Provinces": [
       {
         "Id": 11437,
@@ -3964,6 +4317,7 @@
   {
     "Type": "german",
     "StateId": 200,
+    "StateName": "Saporoschie",
     "Provinces": [
       {
         "Id": 11405,
@@ -3974,6 +4328,7 @@
   {
     "Type": "german",
     "StateId": 196,
+    "StateName": "Cherson",
     "Provinces": [
       {
         "Id": 721,
@@ -3984,6 +4339,7 @@
   {
     "Type": "german",
     "StateId": 193,
+    "StateName": "Tschernigau",
     "Provinces": [
       {
         "Id": 3568,
@@ -3994,6 +4350,7 @@
   {
     "Type": "german",
     "StateId": 259,
+    "StateName": "Poltawien",
     "Provinces": [
       {
         "Id": 11504,
@@ -4004,6 +4361,7 @@
   {
     "Type": "german",
     "StateId": 202,
+    "StateName": "Kiroffo",
     "Provinces": [
       {
         "Id": 525,
@@ -4014,6 +4372,7 @@
   {
     "Type": "german",
     "StateId": 203,
+    "StateName": "Tscherkassen",
     "Provinces": [
       {
         "Id": 488,
@@ -4024,6 +4383,7 @@
   {
     "Type": "german",
     "StateId": 197,
+    "StateName": "Greuthunger-Nikolaus",
     "Provinces": [
       {
         "Id": 11683,
@@ -4034,6 +4394,7 @@
   {
     "Type": "german",
     "StateId": 201,
+    "StateName": "Friedenwald",
     "Provinces": [
       {
         "Id": 6593,
@@ -4044,6 +4405,7 @@
   {
     "Type": "german",
     "StateId": 198,
+    "StateName": "Winniza",
     "Provinces": [
       {
         "Id": 476,
@@ -4054,6 +4416,7 @@
   {
     "Type": "german",
     "StateId": 834,
+    "StateName": "Balt-Hirtenheim",
     "Provinces": [
       {
         "Id": 3757,
@@ -4068,6 +4431,7 @@
   {
     "Type": "german",
     "StateId": 192,
+    "StateName": "Bockstadt",
     "Provinces": [
       {
         "Id": 11670,
@@ -4078,6 +4442,7 @@
   {
     "Type": "greek",
     "StateId": 47,
+    "StateName": "Attica",
     "Provinces": [
       {
         "Id": 4109,
@@ -4100,6 +4465,7 @@
   {
     "Type": "greek",
     "StateId": 186,
+    "StateName": "Pelopónnēsos",
     "Provinces": [
       {
         "Id": 7096,
@@ -4118,6 +4484,7 @@
   {
     "Type": "greek",
     "StateId": 185,
+    "StateName": "Epirus",
     "Provinces": [
       {
         "Id": 1205,
@@ -4136,6 +4503,7 @@
   {
     "Type": "greek",
     "StateId": 731,
+    "StateName": "Kentrikí Makedonía",
     "Provinces": [
       {
         "Id": 11818,
@@ -4146,6 +4514,7 @@
   {
     "Type": "greek",
     "StateId": 184,
+    "StateName": "Thráki",
     "Provinces": [
       {
         "Id": 11905,
@@ -4156,6 +4525,7 @@
   {
     "Type": "greek",
     "StateId": 187,
+    "StateName": "Nisiá Aigaíou",
     "Provinces": [
       {
         "Id": 6550,
@@ -4170,6 +4540,7 @@
   {
     "Type": "greek",
     "StateId": 182,
+    "StateName": "Kríti",
     "Provinces": [
       {
         "Id": 9940,
@@ -4184,6 +4555,7 @@
   {
     "Type": "greek",
     "StateId": 164,
+    "StateName": "Rhodes",
     "Provinces": [
       {
         "Id": 10007,
@@ -4194,6 +4566,7 @@
   {
     "Type": "greek",
     "StateId": 48,
+    "StateName": "Sophia",
     "Provinces": [
       {
         "Id": 949,
@@ -4208,6 +4581,7 @@
   {
     "Type": "greek",
     "StateId": 212,
+    "StateName": "Filippúpoli",
     "Provinces": [
       {
         "Id": 6923,
@@ -4226,6 +4600,7 @@
   {
     "Type": "greek",
     "StateId": 801,
+    "StateName": "Moesia",
     "Provinces": [
       {
         "Id": 3796,
@@ -4240,6 +4615,7 @@
   {
     "Type": "greek",
     "StateId": 211,
+    "StateName": "Burgas",
     "Provinces": [
       {
         "Id": 9902,
@@ -4266,6 +4642,7 @@
   {
     "Type": "greek",
     "StateId": 49,
+    "StateName": "Ángyra",
     "Provinces": [
       {
         "Id": 11747,
@@ -4284,6 +4661,7 @@
   {
     "Type": "greek",
     "StateId": 347,
+    "StateName": "Nikomedeia",
     "Provinces": [
       {
         "Id": 11811,
@@ -4298,6 +4676,7 @@
   {
     "Type": "greek",
     "StateId": 797,
+    "StateName": "Konstandinúpoli",
     "Provinces": [
       {
         "Id": 9833,
@@ -4308,6 +4687,7 @@
   {
     "Type": "greek",
     "StateId": 341,
+    "StateName": "Adrinúpoli",
     "Provinces": [
       {
         "Id": 11842,
@@ -4318,6 +4698,7 @@
   {
     "Type": "greek",
     "StateId": 340,
+    "StateName": "Prúsa",
     "Provinces": [
       {
         "Id": 947,
@@ -4332,6 +4713,7 @@
   {
     "Type": "greek",
     "StateId": 339,
+    "StateName": "Smýrni",
     "Provinces": [
       {
         "Id": 4112,
@@ -4346,6 +4728,7 @@
   {
     "Type": "greek",
     "StateId": 343,
+    "StateName": "Nicopolis",
     "Provinces": [
       {
         "Id": 10041,
@@ -4364,6 +4747,7 @@
   {
     "Type": "greek",
     "StateId": 342,
+    "StateName": "Attáleia",
     "Provinces": [
       {
         "Id": 1005,
@@ -4374,6 +4758,7 @@
   {
     "Type": "greek",
     "StateId": 342,
+    "StateName": "Kastra Komnenon",
     "Provinces": [
       {
         "Id": 356,
@@ -4388,6 +4773,7 @@
   {
     "Type": "greek",
     "StateId": 798,
+    "StateName": "Amasia",
     "Provinces": [
       {
         "Id": 919,
@@ -4402,6 +4788,7 @@
   {
     "Type": "greek",
     "StateId": 346,
+    "StateName": "Ikónio",
     "Provinces": [
       {
         "Id": 9861,
@@ -4420,6 +4807,7 @@
   {
     "Type": "greek",
     "StateId": 348,
+    "StateName": "Kaisáreia",
     "Provinces": [
       {
         "Id": 3870,
@@ -4430,6 +4818,7 @@
   {
     "Type": "greek",
     "StateId": 345,
+    "StateName": "Mersíni",
     "Provinces": [
       {
         "Id": 10056,
@@ -4444,6 +4833,7 @@
   {
     "Type": "greek",
     "StateId": 344,
+    "StateName": "Melitene",
     "Provinces": [
       {
         "Id": 9893,
@@ -4466,6 +4856,7 @@
   {
     "Type": "greek",
     "StateId": 349,
+    "StateName": "Sebaste",
     "Provinces": [
       {
         "Id": 9777,
@@ -4476,6 +4867,7 @@
   {
     "Type": "greek",
     "StateId": 355,
+    "StateName": "Amisos",
     "Provinces": [
       {
         "Id": 11881,
@@ -4486,6 +4878,7 @@
   {
     "Type": "greek",
     "StateId": 354,
+    "StateName": "Trapezounta",
     "Provinces": [
       {
         "Id": 9932,
@@ -4508,6 +4901,7 @@
   {
     "Type": "greek",
     "StateId": 353,
+    "StateName": "Tunceli",
     "Provinces": [
       {
         "Id": 9860,
@@ -4526,6 +4920,7 @@
   {
     "Type": "greek",
     "StateId": 800,
+    "StateName": "Van",
     "Provinces": [
       {
         "Id": 6935,
@@ -4540,6 +4935,7 @@
   {
     "Type": "greek",
     "StateId": 352,
+    "StateName": "Hakkari",
     "Provinces": [
       {
         "Id": 6935,
@@ -4558,6 +4954,7 @@
   {
     "Type": "greek",
     "StateId": 350,
+    "StateName": "Amida",
     "Provinces": [
       {
         "Id": 4512,
@@ -4576,6 +4973,7 @@
   {
     "Type": "greek",
     "StateId": 44,
+    "StateName": "Albanoi",
     "Provinces": [
       {
         "Id": 9914,
@@ -4590,6 +4988,7 @@
   {
     "Type": "greek",
     "StateId": 805,
+    "StateName": "Gjirokastra",
     "Provinces": [
       {
         "Id": 914,
@@ -4600,6 +4999,7 @@
   {
     "Type": "hungarian",
     "StateId": 43,
+    "StateName": "Észak-Magyarország",
     "Provinces": [
       {
         "Id": 9660,
@@ -4610,6 +5010,7 @@
   {
     "Type": "hungarian",
     "StateId": 155,
+    "StateName": "Transdanubia",
     "Provinces": [
       {
         "Id": 11610,
@@ -4620,6 +5021,7 @@
   {
     "Type": "hungarian",
     "StateId": 154,
+    "StateName": "Alföld",
     "Provinces": [
       {
         "Id": 11659,
@@ -4630,6 +5032,7 @@
   {
     "Type": "hungarian",
     "StateId": 84,
+    "StateName": "Erdély",
     "Provinces": [
       {
         "Id": 690,
@@ -4640,6 +5043,7 @@
   {
     "Type": "hungarian",
     "StateId": 82,
+    "StateName": "Bánság",
     "Provinces": [
       {
         "Id": 9606,
@@ -4650,6 +5054,7 @@
   {
     "Type": "hungarian",
     "StateId": 83,
+    "StateName": "Körösvidék",
     "Provinces": [
       {
         "Id": 6682,
@@ -4660,6 +5065,7 @@
   {
     "Type": "hungarian",
     "StateId": 76,
+    "StateName": "Észak Erdély",
     "Provinces": [
       {
         "Id": 6711,
@@ -4670,6 +5076,7 @@
   {
     "Type": "hungarian",
     "StateId": 70,
+    "StateName": "Nyugat-Szlovákia",
     "Provinces": [
       {
         "Id": 9692,
@@ -4684,6 +5091,7 @@
   {
     "Type": "hungarian",
     "StateId": 664,
+    "StateName": "Dél-Szlovákia",
     "Provinces": [
       {
         "Id": 6573,
@@ -4694,6 +5102,7 @@
   {
     "Type": "hungarian",
     "StateId": 71,
+    "StateName": "Kelet-Szlovákia",
     "Provinces": [
       {
         "Id": 3581,
@@ -4704,6 +5113,7 @@
   {
     "Type": "hungarian",
     "StateId": 73,
+    "StateName": "Kárpátalja",
     "Provinces": [
       {
         "Id": 3548,
@@ -4714,6 +5124,7 @@
   {
     "Type": "hungarian",
     "StateId": 764,
+    "StateName": "Nyugat-Bánság",
     "Provinces": [
       {
         "Id": 3614,
@@ -4724,6 +5135,7 @@
   {
     "Type": "hungarian",
     "StateId": 45,
+    "StateName": "Vajdaság",
     "Provinces": [
       {
         "Id": 619,
@@ -4734,6 +5146,7 @@
   {
     "Type": "italian",
     "StateId": 2,
+    "StateName": "Latium",
     "Provinces": [
       {
         "Id": 9904,
@@ -4748,6 +5161,7 @@
   {
     "Type": "italian",
     "StateId": 157,
+    "StateName": "Abruzzo",
     "Provinces": [
       {
         "Id": 925,
@@ -4758,6 +5172,7 @@
   {
     "Type": "italian",
     "StateId": 162,
+    "StateName": "Toscana",
     "Provinces": [
       {
         "Id": 9907,
@@ -4776,6 +5191,7 @@
   {
     "Type": "italian",
     "StateId": 161,
+    "StateName": "Emilia-Romagna",
     "Provinces": [
       {
         "Id": 6606,
@@ -4786,6 +5202,7 @@
   {
     "Type": "italian",
     "StateId": 158,
+    "StateName": "Piemonte",
     "Provinces": [
       {
         "Id": 6780,
@@ -4800,6 +5217,7 @@
   {
     "Type": "italian",
     "StateId": 159,
+    "StateName": "Lombardia",
     "Provinces": [
       {
         "Id": 3780,
@@ -4810,6 +5228,7 @@
   {
     "Type": "italian",
     "StateId": 160,
+    "StateName": "Veneto",
     "Provinces": [
       {
         "Id": 11584,
@@ -4820,6 +5239,7 @@
   {
     "Type": "italian",
     "StateId": 39,
+    "StateName": "Alto Adige",
     "Provinces": [
       {
         "Id": 11598,
@@ -4830,6 +5250,7 @@
   {
     "Type": "italian",
     "StateId": 736,
+    "StateName": "Istria",
     "Provinces": [
       {
         "Id": 6626,
@@ -4840,6 +5261,7 @@
   {
     "Type": "italian",
     "StateId": 117,
+    "StateName": "Campania",
     "Provinces": [
       {
         "Id": 819,
@@ -4850,6 +5272,7 @@
   {
     "Type": "italian",
     "StateId": 156,
+    "StateName": "Calabria",
     "Provinces": [
       {
         "Id": 11837,
@@ -4860,6 +5283,7 @@
   {
     "Type": "italian",
     "StateId": 115,
+    "StateName": "Sicilia",
     "Provinces": [
       {
         "Id": 10074,
@@ -4874,6 +5298,7 @@
   {
     "Type": "italian",
     "StateId": 114,
+    "StateName": "Sardegna",
     "Provinces": [
       {
         "Id": 11773,
@@ -4884,11 +5309,13 @@
   {
     "Type": "italian",
     "StateId": 163,
+    "StateName": "Zara",
     "Provinces": []
   },
   {
     "Type": "italian",
     "StateId": 164,
+    "StateName": "Rodi",
     "Provinces": [
       {
         "Id": 10007,
@@ -4899,6 +5326,7 @@
   {
     "Type": "italian",
     "StateId": 448,
+    "StateName": "Tripoli",
     "Provinces": [
       {
         "Id": 1149,
@@ -4909,21 +5337,25 @@
   {
     "Type": "italian",
     "StateId": 661,
+    "StateName": "Tripolitania",
     "Provinces": []
   },
   {
     "Type": "italian",
     "StateId": 449,
+    "StateName": "El Agheila",
     "Provinces": []
   },
   {
     "Type": "italian",
     "StateId": 662,
+    "StateName": "Sirte",
     "Provinces": []
   },
   {
     "Type": "italian",
     "StateId": 450,
+    "StateName": "Bengasi",
     "Provinces": [
       {
         "Id": 11954,
@@ -4934,6 +5366,7 @@
   {
     "Type": "italian",
     "StateId": 451,
+    "StateName": "Derna",
     "Provinces": [
       {
         "Id": 1130,
@@ -4944,16 +5377,19 @@
   {
     "Type": "italian",
     "StateId": 663,
+    "StateName": "Cyrenaica",
     "Provinces": []
   },
   {
     "Type": "italian",
     "StateId": 273,
+    "StateName": "Deserto Libico",
     "Provinces": []
   },
   {
     "Type": "italian",
     "StateId": 550,
+    "StateName": "Eritrea",
     "Provinces": [
       {
         "Id": 12766,
@@ -4964,6 +5400,7 @@
   {
     "Type": "italian",
     "StateId": 559,
+    "StateName": "Somala Italiana",
     "Provinces": [
       {
         "Id": 12991,
@@ -4974,6 +5411,7 @@
   {
     "Type": "italian",
     "StateId": 44,
+    "StateName": "Albania",
     "Provinces": [
       {
         "Id": 9914,
@@ -4988,6 +5426,7 @@
   {
     "Type": "italian",
     "StateId": 805,
+    "StateName": "Argirocastro",
     "Provinces": [
       {
         "Id": 914,
@@ -4998,6 +5437,7 @@
   {
     "Type": "italian",
     "StateId": 47,
+    "StateName": "Attica",
     "Provinces": [
       {
         "Id": 4109,
@@ -5020,6 +5460,7 @@
   {
     "Type": "italian",
     "StateId": 186,
+    "StateName": "Pelopónnēsos",
     "Provinces": [
       {
         "Id": 7096,
@@ -5038,6 +5479,7 @@
   {
     "Type": "italian",
     "StateId": 185,
+    "StateName": "Epirus",
     "Provinces": [
       {
         "Id": 1205,
@@ -5056,6 +5498,7 @@
   {
     "Type": "italian",
     "StateId": 731,
+    "StateName": "Kentrikí Makedonía",
     "Provinces": [
       {
         "Id": 11818,
@@ -5066,6 +5509,7 @@
   {
     "Type": "italian",
     "StateId": 184,
+    "StateName": "Thráki",
     "Provinces": [
       {
         "Id": 11905,
@@ -5076,6 +5520,7 @@
   {
     "Type": "italian",
     "StateId": 187,
+    "StateName": "Nisiá Aigaíou",
     "Provinces": [
       {
         "Id": 6550,
@@ -5090,6 +5535,7 @@
   {
     "Type": "italian",
     "StateId": 182,
+    "StateName": "Creta",
     "Provinces": [
       {
         "Id": 9940,
@@ -5104,6 +5550,7 @@
   {
     "Type": "italian",
     "StateId": 107,
+    "StateName": "Serbia",
     "Provinces": [
       {
         "Id": 11586,
@@ -5114,6 +5561,7 @@
   {
     "Type": "italian",
     "StateId": 108,
+    "StateName": "Morava",
     "Provinces": [
       {
         "Id": 9602,
@@ -5124,6 +5572,7 @@
   {
     "Type": "italian",
     "StateId": 764,
+    "StateName": "Banato Occidentale",
     "Provinces": [
       {
         "Id": 3614,
@@ -5134,6 +5583,7 @@
   {
     "Type": "italian",
     "StateId": 45,
+    "StateName": "Vojvodina",
     "Provinces": [
       {
         "Id": 619,
@@ -5144,6 +5594,7 @@
   {
     "Type": "italian",
     "StateId": 803,
+    "StateName": "Pirot",
     "Provinces": [
       {
         "Id": 11857,
@@ -5154,6 +5605,7 @@
   {
     "Type": "italian",
     "StateId": 802,
+    "StateName": "Kosovo",
     "Provinces": [
       {
         "Id": 6940,
@@ -5164,6 +5616,7 @@
   {
     "Type": "italian",
     "StateId": 106,
+    "StateName": "Makedonía",
     "Provinces": [
       {
         "Id": 3882,
@@ -5174,6 +5627,7 @@
   {
     "Type": "italian",
     "StateId": 105,
+    "StateName": "Montenegro",
     "Provinces": [
       {
         "Id": 9809,
@@ -5184,6 +5638,7 @@
   {
     "Type": "italian",
     "StateId": 104,
+    "StateName": "Bosnia",
     "Provinces": [
       {
         "Id": 11899,
@@ -5198,6 +5653,7 @@
   {
     "Type": "italian",
     "StateId": 804,
+    "StateName": "Erzegovina",
     "Provinces": [
       {
         "Id": 9894,
@@ -5208,6 +5664,7 @@
   {
     "Type": "italian",
     "StateId": 109,
+    "StateName": "Croazia",
     "Provinces": [
       {
         "Id": 11581,
@@ -5218,6 +5675,7 @@
   {
     "Type": "italian",
     "StateId": 103,
+    "StateName": "Dalmazia",
     "Provinces": [
       {
         "Id": 11564,
@@ -5236,6 +5694,7 @@
   {
     "Type": "italian",
     "StateId": 102,
+    "StateName": "Slovena",
     "Provinces": [
       {
         "Id": 9627,
@@ -5246,6 +5705,7 @@
   {
     "Type": "japanese",
     "StateId": 282,
+    "StateName": "Kanto",
     "Provinces": [
       {
         "Id": 1182,
@@ -5256,6 +5716,7 @@
   {
     "Type": "japanese",
     "StateId": 532,
+    "StateName": "Tokai",
     "Provinces": [
       {
         "Id": 10125,
@@ -5270,6 +5731,7 @@
   {
     "Type": "japanese",
     "StateId": 531,
+    "StateName": "Kansai",
     "Provinces": [
       {
         "Id": 7072,
@@ -5280,6 +5742,7 @@
   {
     "Type": "japanese",
     "StateId": 535,
+    "StateName": "Koshinetsu",
     "Provinces": [
       {
         "Id": 10032,
@@ -5290,6 +5753,7 @@
   {
     "Type": "japanese",
     "StateId": 534,
+    "StateName": "Hokuriku",
     "Provinces": [
       {
         "Id": 1117,
@@ -5300,6 +5764,7 @@
   {
     "Type": "japanese",
     "StateId": 533,
+    "StateName": "Tohoku",
     "Provinces": [
       {
         "Id": 7169,
@@ -5314,6 +5779,7 @@
   {
     "Type": "japanese",
     "StateId": 536,
+    "StateName": "Hokkaido",
     "Provinces": [
       {
         "Id": 10444,
@@ -5328,6 +5794,7 @@
   {
     "Type": "japanese",
     "StateId": 529,
+    "StateName": "Chugoku",
     "Provinces": [
       {
         "Id": 1092,
@@ -5338,6 +5805,7 @@
   {
     "Type": "japanese",
     "StateId": 530,
+    "StateName": "Shikoku",
     "Provinces": [
       {
         "Id": 7197,
@@ -5348,6 +5816,7 @@
   {
     "Type": "japanese",
     "StateId": 532,
+    "StateName": "Kyushu",
     "Provinces": [
       {
         "Id": 1025,
@@ -5366,6 +5835,7 @@
   {
     "Type": "japanese",
     "StateId": 526,
+    "StateName": "Ryukyu-Shoto",
     "Provinces": [
       {
         "Id": 11932,
@@ -5376,11 +5846,13 @@
   {
     "Type": "japanese",
     "StateId": 555,
+    "StateName": "Chishima Rettō",
     "Provinces": []
   },
   {
     "Type": "japanese",
     "StateId": 537,
+    "StateName": "Karafuto-chō",
     "Provinces": [
       {
         "Id": 12446,
@@ -5391,6 +5863,7 @@
   {
     "Type": "japanese",
     "StateId": 525,
+    "StateName": "Minachosen",
     "Provinces": [
       {
         "Id": 7125,
@@ -5405,6 +5878,7 @@
   {
     "Type": "japanese",
     "StateId": 527,
+    "StateName": "Kitachosen",
     "Provinces": [
       {
         "Id": 4052,
@@ -5415,6 +5889,7 @@
   {
     "Type": "japanese",
     "StateId": 613,
+    "StateName": "Shanhai",
     "Provinces": [
       {
         "Id": 11913,
@@ -5433,11 +5908,13 @@
   {
     "Type": "japanese",
     "StateId": 598,
+    "StateName": "Chi-Ansu",
     "Provinces": []
   },
   {
     "Type": "japanese",
     "StateId": 606,
+    "StateName": "Anki",
     "Provinces": [
       {
         "Id": 7222,
@@ -5448,6 +5925,7 @@
   {
     "Type": "japanese",
     "StateId": 607,
+    "StateName": "Henan",
     "Provinces": [
       {
         "Id": 9958,
@@ -5458,6 +5936,7 @@
   {
     "Type": "japanese",
     "StateId": 597,
+    "StateName": "Santo",
     "Provinces": [
       {
         "Id": 1069,
@@ -5468,6 +5947,7 @@
   {
     "Type": "japanese",
     "StateId": 743,
+    "StateName": "Chintao",
     "Provinces": [
       {
         "Id": 10000,
@@ -5478,11 +5958,13 @@
   {
     "Type": "japanese",
     "StateId": 614,
+    "StateName": "Kahoku",
     "Provinces": []
   },
   {
     "Type": "japanese",
     "StateId": 608,
+    "StateName": "Pekin",
     "Provinces": [
       {
         "Id": 9843,
@@ -5497,6 +5979,7 @@
   {
     "Type": "japanese",
     "StateId": 744,
+    "StateName": "Seian",
     "Provinces": [
       {
         "Id": 7418,
@@ -5507,6 +5990,7 @@
   {
     "Type": "japanese",
     "StateId": 620,
+    "StateName": "Kohoku",
     "Provinces": [
       {
         "Id": 4619,
@@ -5517,6 +6001,7 @@
   {
     "Type": "japanese",
     "StateId": 600,
+    "StateName": "Enishi",
     "Provinces": [
       {
         "Id": 3992,
@@ -5527,6 +6012,7 @@
   {
     "Type": "japanese",
     "StateId": 749,
+    "StateName": "Kosan",
     "Provinces": [
       {
         "Id": 12019,
@@ -5537,6 +6023,7 @@
   {
     "Type": "japanese",
     "StateId": 596,
+    "StateName": "Zhejiang",
     "Provinces": [
       {
         "Id": 7191,
@@ -5551,6 +6038,7 @@
   {
     "Type": "japanese",
     "StateId": 595,
+    "StateName": "Fukken",
     "Provinces": [
       {
         "Id": 4196,
@@ -5565,6 +6053,7 @@
   {
     "Type": "japanese",
     "StateId": 602,
+    "StateName": "Hunan",
     "Provinces": [
       {
         "Id": 7097,
@@ -5575,6 +6064,7 @@
   {
     "Type": "japanese",
     "StateId": 750,
+    "StateName": "Changde",
     "Provinces": [
       {
         "Id": 7101,
@@ -5585,6 +6075,7 @@
   {
     "Type": "japanese",
     "StateId": 605,
+    "StateName": "Shisen",
     "Provinces": [
       {
         "Id": 6999,
@@ -5599,6 +6090,7 @@
   {
     "Type": "japanese",
     "StateId": 748,
+    "StateName": "Zunyi",
     "Provinces": [
       {
         "Id": 1010,
@@ -5609,6 +6101,7 @@
   {
     "Type": "japanese",
     "StateId": 603,
+    "StateName": "Guizhou",
     "Provinces": [
       {
         "Id": 4504,
@@ -5619,6 +6112,7 @@
   {
     "Type": "japanese",
     "StateId": 751,
+    "StateName": "Liangshan",
     "Provinces": [
       {
         "Id": 12141,
@@ -5633,6 +6127,7 @@
   {
     "Type": "japanese",
     "StateId": 752,
+    "StateName": "Ganzi",
     "Provinces": [
       {
         "Id": 4999,
@@ -5643,6 +6138,7 @@
   {
     "Type": "japanese",
     "StateId": 601,
+    "StateName": "Nishiko",
     "Provinces": [
       {
         "Id": 10856,
@@ -5653,6 +6149,7 @@
   {
     "Type": "japanese",
     "StateId": 615,
+    "StateName": "Shanxi",
     "Provinces": [
       {
         "Id": 1519,
@@ -5663,16 +6160,19 @@
   {
     "Type": "japanese",
     "StateId": 621,
+    "StateName": "Suiyuan",
     "Provinces": []
   },
   {
     "Type": "japanese",
     "StateId": 746,
+    "StateName": "Ordos",
     "Provinces": []
   },
   {
     "Type": "japanese",
     "StateId": 621,
+    "StateName": "Sensei-sho",
     "Provinces": [
       {
         "Id": 8049,
@@ -5683,21 +6183,25 @@
   {
     "Type": "japanese",
     "StateId": 283,
+    "StateName": "Gansu",
     "Provinces": []
   },
   {
     "Type": "japanese",
     "StateId": 616,
+    "StateName": "Ningxia",
     "Provinces": []
   },
   {
     "Type": "japanese",
     "StateId": 756,
+    "StateName": "Jiuquan",
     "Provinces": []
   },
   {
     "Type": "japanese",
     "StateId": 754,
+    "StateName": "Golog",
     "Provinces": [
       {
         "Id": 12732,
@@ -5708,6 +6212,7 @@
   {
     "Type": "japanese",
     "StateId": 753,
+    "StateName": "Gannan",
     "Provinces": [
       {
         "Id": 2045,
@@ -5718,11 +6223,13 @@
   {
     "Type": "japanese",
     "StateId": 755,
+    "StateName": "Haixi",
     "Provinces": []
   },
   {
     "Type": "japanese",
     "StateId": 756,
+    "StateName": "Qinghai",
     "Provinces": [
       {
         "Id": 7940,
@@ -5733,21 +6240,25 @@
   {
     "Type": "japanese",
     "StateId": 760,
+    "StateName": "Dabancheng",
     "Provinces": []
   },
   {
     "Type": "japanese",
     "StateId": 759,
+    "StateName": "Kunlun Shan",
     "Provinces": []
   },
   {
     "Type": "japanese",
     "StateId": 287,
+    "StateName": "Taklamakan",
     "Provinces": []
   },
   {
     "Type": "japanese",
     "StateId": 619,
+    "StateName": "Yarkand",
     "Provinces": [
       {
         "Id": 2015,
@@ -5758,6 +6269,7 @@
   {
     "Type": "japanese",
     "StateId": 617,
+    "StateName": "Urumqi",
     "Provinces": [
       {
         "Id": 4709,
@@ -5768,6 +6280,7 @@
   {
     "Type": "japanese",
     "StateId": 619,
+    "StateName": "Dzungaria",
     "Provinces": [
       {
         "Id": 4823,
@@ -5778,6 +6291,7 @@
   {
     "Type": "japanese",
     "StateId": 325,
+    "StateName": "Konmei",
     "Provinces": [
       {
         "Id": 1319,
@@ -5788,6 +6302,7 @@
   {
     "Type": "japanese",
     "StateId": 747,
+    "StateName": "Dari",
     "Provinces": [
       {
         "Id": 7965,
@@ -5798,11 +6313,13 @@
   {
     "Type": "japanese",
     "StateId": 593,
+    "StateName": "Kanton",
     "Provinces": []
   },
   {
     "Type": "japanese",
     "StateId": 599,
+    "StateName": "Kosei",
     "Provinces": [
       {
         "Id": 10404,
@@ -5813,6 +6330,7 @@
   {
     "Type": "japanese",
     "StateId": 592,
+    "StateName": "Koshu",
     "Provinces": [
       {
         "Id": 1047,
@@ -5823,6 +6341,7 @@
   {
     "Type": "japanese",
     "StateId": 594,
+    "StateName": "Nan'nei",
     "Provinces": [
       {
         "Id": 7137,
@@ -5833,6 +6352,7 @@
   {
     "Type": "japanese",
     "StateId": 591,
+    "StateName": "Hainan",
     "Provinces": [
       {
         "Id": 1070,
@@ -5843,16 +6363,19 @@
   {
     "Type": "japanese",
     "StateId": 610,
+    "StateName": "Netsuka",
     "Provinces": []
   },
   {
     "Type": "japanese",
     "StateId": 715,
+    "StateName": "Ryonei",
     "Provinces": []
   },
   {
     "Type": "japanese",
     "StateId": 716,
+    "StateName": "Ryaoton",
     "Provinces": [
       {
         "Id": 11771,
@@ -5863,6 +6386,7 @@
   {
     "Type": "japanese",
     "StateId": 328,
+    "StateName": "Kirin",
     "Provinces": [
       {
         "Id": 10433,
@@ -5877,21 +6401,25 @@
   {
     "Type": "japanese",
     "StateId": 717,
+    "StateName": "Sungkiang",
     "Provinces": []
   },
   {
     "Type": "japanese",
     "StateId": 714,
+    "StateName": "Heilungkiang",
     "Provinces": []
   },
   {
     "Type": "japanese",
     "StateId": 761,
+    "StateName": "Hulunbuir",
     "Provinces": []
   },
   {
     "Type": "japanese",
     "StateId": 524,
+    "StateName": "Taiwan",
     "Provinces": [
       {
         "Id": 7186,
@@ -5906,11 +6434,13 @@
   {
     "Type": "japanese",
     "StateId": 609,
+    "StateName": "Kito-bo",
     "Provinces": []
   },
   {
     "Type": "japanese",
     "StateId": 745,
+    "StateName": "Dalian",
     "Provinces": [
       {
         "Id": 1150,
@@ -5921,6 +6451,7 @@
   {
     "Type": "korean",
     "StateId": 527,
+    "StateName": "North Korea",
     "Provinces": [
       {
         "Id": 4052,
@@ -5931,6 +6462,7 @@
   {
     "Type": "korean",
     "StateId": 525,
+    "StateName": "South Korea",
     "Provinces": [
       {
         "Id": 7125,
@@ -5945,6 +6477,7 @@
   {
     "Type": "latvian",
     "StateId": 808,
+    "StateName": "Rīga",
     "Provinces": [
       {
         "Id": 9340,
@@ -5955,6 +6488,7 @@
   {
     "Type": "latvian",
     "StateId": 12,
+    "StateName": "Vidžemė",
     "Provinces": [
       {
         "Id": 10493,
@@ -5965,6 +6499,7 @@
   {
     "Type": "latvian",
     "StateId": 810,
+    "StateName": "Latgale",
     "Provinces": [
       {
         "Id": 222,
@@ -5979,6 +6514,7 @@
   {
     "Type": "latvian",
     "StateId": 809,
+    "StateName": "Zemgale",
     "Provinces": [
       {
         "Id": 3255,
@@ -5993,6 +6529,7 @@
   {
     "Type": "latvian",
     "StateId": 190,
+    "StateName": "Kurzeme",
     "Provinces": [
       {
         "Id": 3296,
@@ -6007,6 +6544,7 @@
   {
     "Type": "lithuanian",
     "StateId": 11,
+    "StateName": "Kaunas",
     "Provinces": [
       {
         "Id": 6296,
@@ -6021,6 +6559,7 @@
   {
     "Type": "lithuanian",
     "StateId": 814,
+    "StateName": "Sūduva",
     "Provinces": [
       {
         "Id": 11312,
@@ -6031,6 +6570,7 @@
   {
     "Type": "lithuanian",
     "StateId": 815,
+    "StateName": "Aukštaitija",
     "Provinces": [
       {
         "Id": 6229,
@@ -6041,6 +6581,7 @@
   {
     "Type": "lithuanian",
     "StateId": 189,
+    "StateName": "Žemaitija",
     "Provinces": [
       {
         "Id": 9483,
@@ -6055,6 +6596,7 @@
   {
     "Type": "lithuanian",
     "StateId": 188,
+    "StateName": "Klaipėda",
     "Provinces": [
       {
         "Id": 3288,
@@ -6065,6 +6607,7 @@
   {
     "Type": "lithuanian",
     "StateId": 784,
+    "StateName": "Vilnius",
     "Provinces": [
       {
         "Id": 3320,
@@ -6075,6 +6618,7 @@
   {
     "Type": "luxembourgish",
     "StateId": 8,
+    "StateName": "Lëtzebuerg",
     "Provinces": [
       {
         "Id": 6583,
@@ -6085,6 +6629,7 @@
   {
     "Type": "dutch",
     "StateId": 7,
+    "StateName": "Holland",
     "Provinces": [
       {
         "Id": 391,
@@ -6103,6 +6648,7 @@
   {
     "Type": "dutch",
     "StateId": 36,
+    "StateName": "Frisia",
     "Provinces": [
       {
         "Id": 6241,
@@ -6125,6 +6671,7 @@
   {
     "Type": "dutch",
     "StateId": 35,
+    "StateName": "Brabant",
     "Provinces": [
       {
         "Id": 6241,
@@ -6143,6 +6690,7 @@
   {
     "Type": "dutch",
     "StateId": 309,
+    "StateName": "Suriname",
     "Provinces": [
       {
         "Id": 10906,
@@ -6153,6 +6701,7 @@
   {
     "Type": "dutch",
     "StateId": 695,
+    "StateName": "Curaçao",
     "Provinces": [
       {
         "Id": 153,
@@ -6163,6 +6712,7 @@
   {
     "Type": "dutch",
     "StateId": 6,
+    "StateName": "Vlaanderen",
     "Provinces": [
       {
         "Id": 516,
@@ -6189,6 +6739,7 @@
   {
     "Type": "dutch",
     "StateId": 34,
+    "StateName": "Wallonië ",
     "Provinces": [
       {
         "Id": 9536,
@@ -6207,6 +6758,7 @@
   {
     "Type": "dutch",
     "StateId": 8,
+    "StateName": "Luxemburg",
     "Provinces": [
       {
         "Id": 6583,
@@ -6217,6 +6769,7 @@
   {
     "Type": "norwegian",
     "StateId": 110,
+    "StateName": "Østlandet",
     "Provinces": [
       {
         "Id": 6115,
@@ -6227,6 +6780,7 @@
   {
     "Type": "norwegian",
     "StateId": 142,
+    "StateName": "Vestlandet",
     "Provinces": [
       {
         "Id": 9296,
@@ -6245,6 +6799,7 @@
   {
     "Type": "norwegian",
     "StateId": 143,
+    "StateName": "Trøndelag",
     "Provinces": [
       {
         "Id": 3022,
@@ -6255,6 +6810,7 @@
   {
     "Type": "norwegian",
     "StateId": 144,
+    "StateName": "Nord-Norge",
     "Provinces": [
       {
         "Id": 192,
@@ -6273,6 +6829,7 @@
   {
     "Type": "polish",
     "StateId": 10,
+    "StateName": "Warszawa",
     "Provinces": [
       {
         "Id": 3544,
@@ -6287,6 +6844,7 @@
   {
     "Type": "polish",
     "StateId": 87,
+    "StateName": "Łódź",
     "Provinces": [
       {
         "Id": 9508,
@@ -6297,6 +6855,7 @@
   {
     "Type": "polish",
     "StateId": 90,
+    "StateName": "Kielce",
     "Provinces": [
       {
         "Id": 11430,
@@ -6311,6 +6870,7 @@
   {
     "Type": "polish",
     "StateId": 88,
+    "StateName": "Kraków",
     "Provinces": [
       {
         "Id": 9427,
@@ -6329,6 +6889,7 @@
   {
     "Type": "polish",
     "StateId": 92,
+    "StateName": "Lublin",
     "Provinces": [
       {
         "Id": 11399,
@@ -6339,6 +6900,7 @@
   {
     "Type": "polish",
     "StateId": 97,
+    "StateName": "Białystok",
     "Provinces": [
       {
         "Id": 11301,
@@ -6353,6 +6915,7 @@
   {
     "Type": "polish",
     "StateId": 762,
+    "StateName": "Katowice",
     "Provinces": [
       {
         "Id": 6464,
@@ -6363,6 +6926,7 @@
   {
     "Type": "polish",
     "StateId": 86,
+    "StateName": "Poznań",
     "Provinces": [
       {
         "Id": 6558,
@@ -6373,6 +6937,7 @@
   {
     "Type": "polish",
     "StateId": 98,
+    "StateName": "Płock",
     "Provinces": [
       {
         "Id": 3230,
@@ -6383,6 +6948,7 @@
   {
     "Type": "polish",
     "StateId": 807,
+    "StateName": "Gdynia",
     "Provinces": [
       {
         "Id": 9263,
@@ -6401,6 +6967,7 @@
   {
     "Type": "polish",
     "StateId": 85,
+    "StateName": "Gdańsk",
     "Provinces": [
       {
         "Id": 362,
@@ -6411,6 +6978,7 @@
   {
     "Type": "polish",
     "StateId": 89,
+    "StateName": "Stanisławów",
     "Provinces": [
       {
         "Id": 11411,
@@ -6421,6 +6989,7 @@
   {
     "Type": "polish",
     "StateId": 91,
+    "StateName": "Lwów",
     "Provinces": [
       {
         "Id": 11479,
@@ -6431,6 +7000,7 @@
   {
     "Type": "polish",
     "StateId": 93,
+    "StateName": "Wołyń",
     "Provinces": [
       {
         "Id": 422,
@@ -6445,6 +7015,7 @@
   {
     "Type": "polish",
     "StateId": 94,
+    "StateName": "Polesie",
     "Provinces": [
       {
         "Id": 560,
@@ -6459,6 +7030,7 @@
   {
     "Type": "polish",
     "StateId": 95,
+    "StateName": "Nowogródek",
     "Provinces": [
       {
         "Id": 9304,
@@ -6473,6 +7045,7 @@
   {
     "Type": "polish",
     "StateId": 96,
+    "StateName": "Wilejka",
     "Provinces": [
       {
         "Id": 406,
@@ -6483,6 +7056,7 @@
   {
     "Type": "polish",
     "StateId": 784,
+    "StateName": "Wilno",
     "Provinces": [
       {
         "Id": 3320,
@@ -6493,6 +7067,7 @@
   {
     "Type": "polish",
     "StateId": 63,
+    "StateName": "Pomorze Zachodnie",
     "Provinces": [
       {
         "Id": 6282,
@@ -6507,6 +7082,7 @@
   {
     "Type": "polish",
     "StateId": 68,
+    "StateName": "Posen",
     "Provinces": [
       {
         "Id": 3473,
@@ -6517,6 +7093,7 @@
   {
     "Type": "polish",
     "StateId": 66,
+    "StateName": "Dolny Śląsk",
     "Provinces": [
       {
         "Id": 9570,
@@ -6527,6 +7104,7 @@
   {
     "Type": "polish",
     "StateId": 67,
+    "StateName": "Górny Śląsk",
     "Provinces": [
       {
         "Id": 11467,
@@ -6541,6 +7119,7 @@
   {
     "Type": "polish",
     "StateId": 5,
+    "StateName": "Warmian-Masurian",
     "Provinces": [
       {
         "Id": 6375,
@@ -6551,6 +7130,7 @@
   {
     "Type": "polish",
     "StateId": 763,
+    "StateName": "Królewiec",
     "Provinces": [
       {
         "Id": 6332,
@@ -6561,6 +7141,7 @@
   {
     "Type": "portuguese",
     "StateId": 112,
+    "StateName": "Lisboa",
     "Provinces": [
       {
         "Id": 11805,
@@ -6575,6 +7156,7 @@
   {
     "Type": "portuguese",
     "StateId": 181,
+    "StateName": "Guarda",
     "Provinces": [
       {
         "Id": 6996,
@@ -6589,6 +7171,7 @@
   {
     "Type": "portuguese",
     "StateId": 180,
+    "StateName": "Porto",
     "Provinces": [
       {
         "Id": 9817,
@@ -6603,6 +7186,7 @@
   {
     "Type": "portuguese",
     "StateId": 795,
+    "StateName": "Santarém",
     "Provinces": [
       {
         "Id": 924,
@@ -6617,6 +7201,7 @@
   {
     "Type": "portuguese",
     "StateId": 179,
+    "StateName": "Beja",
     "Provinces": [
       {
         "Id": 6933,
@@ -6639,6 +7224,7 @@
   {
     "Type": "portuguese",
     "StateId": 698,
+    "StateName": "Açores",
     "Provinces": [
       {
         "Id": 1751,
@@ -6649,6 +7235,7 @@
   {
     "Type": "portuguese",
     "StateId": 697,
+    "StateName": "Madeira",
     "Provinces": [
       {
         "Id": 3118,
@@ -6659,11 +7246,13 @@
   {
     "Type": "portuguese",
     "StateId": 702,
+    "StateName": "Cape Verde",
     "Provinces": []
   },
   {
     "Type": "portuguese",
     "StateId": 296,
+    "StateName": "Portuguesa de Guiné",
     "Provinces": [
       {
         "Id": 12891,
@@ -6674,11 +7263,13 @@
   {
     "Type": "portuguese",
     "StateId": 705,
+    "StateName": "Sao Tome",
     "Provinces": []
   },
   {
     "Type": "portuguese",
     "StateId": 796,
+    "StateName": "Angola do Norte",
     "Provinces": [
       {
         "Id": 2115,
@@ -6689,6 +7280,7 @@
   {
     "Type": "portuguese",
     "StateId": 540,
+    "StateName": "Angola",
     "Provinces": [
       {
         "Id": 8248,
@@ -6703,6 +7295,7 @@
   {
     "Type": "portuguese",
     "StateId": 544,
+    "StateName": "Moçambique",
     "Provinces": [
       {
         "Id": 8245,
@@ -6713,11 +7306,13 @@
   {
     "Type": "portuguese",
     "StateId": 721,
+    "StateName": "Timor Português",
     "Provinces": []
   },
   {
     "Type": "portuguese",
     "StateId": 729,
+    "StateName": "Timor Português",
     "Provinces": [
       {
         "Id": 4189,
@@ -6728,6 +7323,7 @@
   {
     "Type": "portuguese",
     "StateId": 171,
+    "StateName": "Galicia",
     "Provinces": [
       {
         "Id": 758,
@@ -6742,6 +7338,7 @@
   {
     "Type": "romanian",
     "StateId": 46,
+    "StateName": "Muntenia",
     "Provinces": [
       {
         "Id": 9617,
@@ -6760,6 +7357,7 @@
   {
     "Type": "romanian",
     "StateId": 77,
+    "StateName": "Dobrici",
     "Provinces": [
       {
         "Id": 11597,
@@ -6770,6 +7368,7 @@
   {
     "Type": "romanian",
     "StateId": 81,
+    "StateName": "Oltenia",
     "Provinces": [
       {
         "Id": 6652,
@@ -6780,6 +7379,7 @@
   {
     "Type": "romanian",
     "StateId": 79,
+    "StateName": "Moldovia",
     "Provinces": [
       {
         "Id": 6706,
@@ -6794,6 +7394,7 @@
   {
     "Type": "romanian",
     "StateId": 84,
+    "StateName": "Transilvania",
     "Provinces": [
       {
         "Id": 690,
@@ -6804,6 +7405,7 @@
   {
     "Type": "romanian",
     "StateId": 82,
+    "StateName": "Banat",
     "Provinces": [
       {
         "Id": 9606,
@@ -6814,6 +7416,7 @@
   {
     "Type": "romanian",
     "StateId": 83,
+    "StateName": "Crisana",
     "Provinces": [
       {
         "Id": 6682,
@@ -6824,6 +7427,7 @@
   {
     "Type": "romanian",
     "StateId": 76,
+    "StateName": "Nordul Transilvaniei",
     "Provinces": [
       {
         "Id": 6711,
@@ -6834,6 +7438,7 @@
   {
     "Type": "romanian",
     "StateId": 80,
+    "StateName": "Bucovina",
     "Provinces": [
       {
         "Id": 577,
@@ -6844,6 +7449,7 @@
   {
     "Type": "romanian",
     "StateId": 78,
+    "StateName": "Basarabia",
     "Provinces": [
       {
         "Id": 3707,
@@ -6854,6 +7460,7 @@
   {
     "Type": "romanian",
     "StateId": 766,
+    "StateName": "Sudul Basarabia",
     "Provinces": [
       {
         "Id": 6727,
@@ -6864,6 +7471,7 @@
   {
     "Type": "romanian",
     "StateId": 834,
+    "StateName": "Balta-Tiraspol",
     "Provinces": [
       {
         "Id": 741,
@@ -6878,6 +7486,7 @@
   {
     "Type": "russian",
     "StateId": 219,
+    "StateName": "Moskva",
     "Provinces": [
       {
         "Id": 6380,
@@ -6888,6 +7497,7 @@
   {
     "Type": "russian",
     "StateId": 242,
+    "StateName": "Smolensk",
     "Provinces": [
       {
         "Id": 306,
@@ -6898,6 +7508,7 @@
   {
     "Type": "russian",
     "StateId": 243,
+    "StateName": "Roslavl",
     "Provinces": [
       {
         "Id": 11336,
@@ -6908,6 +7519,7 @@
   {
     "Type": "russian",
     "StateId": 205,
+    "StateName": "Kaluga",
     "Provinces": [
       {
         "Id": 382,
@@ -6918,6 +7530,7 @@
   {
     "Type": "russian",
     "StateId": 224,
+    "StateName": "Bryansk",
     "Provinces": [
       {
         "Id": 3335,
@@ -6928,6 +7541,7 @@
   {
     "Type": "russian",
     "StateId": 223,
+    "StateName": "Tula",
     "Provinces": [
       {
         "Id": 6262,
@@ -6938,6 +7552,7 @@
   {
     "Type": "russian",
     "StateId": 254,
+    "StateName": "Ryazan",
     "Provinces": [
       {
         "Id": 11248,
@@ -6948,6 +7563,7 @@
   {
     "Type": "russian",
     "StateId": 222,
+    "StateName": "Oryol",
     "Provinces": [
       {
         "Id": 9355,
@@ -6958,6 +7574,7 @@
   {
     "Type": "russian",
     "StateId": 258,
+    "StateName": "Lipetsk",
     "Provinces": [
       {
         "Id": 6398,
@@ -6968,6 +7585,7 @@
   {
     "Type": "russian",
     "StateId": 257,
+    "StateName": "Tambov",
     "Provinces": [
       {
         "Id": 11351,
@@ -6978,6 +7596,7 @@
   {
     "Type": "russian",
     "StateId": 220,
+    "StateName": "Kursk",
     "Provinces": [
       {
         "Id": 3580,
@@ -6988,6 +7607,7 @@
   {
     "Type": "russian",
     "StateId": 260,
+    "StateName": "Voronezh",
     "Provinces": [
       {
         "Id": 413,
@@ -6998,6 +7618,7 @@
   {
     "Type": "russian",
     "StateId": 240,
+    "StateName": "Belgorod",
     "Provinces": [
       {
         "Id": 9449,
@@ -7008,6 +7629,7 @@
   {
     "Type": "russian",
     "StateId": 253,
+    "StateName": "Ivanovo",
     "Provinces": [
       {
         "Id": 6269,
@@ -7018,6 +7640,7 @@
   {
     "Type": "russian",
     "StateId": 252,
+    "StateName": "Gorky",
     "Provinces": [
       {
         "Id": 11375,
@@ -7028,6 +7651,7 @@
   {
     "Type": "russian",
     "StateId": 833,
+    "StateName": "Mariy El",
     "Provinces": [
       {
         "Id": 9402,
@@ -7038,6 +7662,7 @@
   {
     "Type": "russian",
     "StateId": 256,
+    "StateName": "Čuvašskaja",
     "Provinces": [
       {
         "Id": 9259,
@@ -7048,6 +7673,7 @@
   {
     "Type": "russian",
     "StateId": 255,
+    "StateName": "Penza",
     "Provinces": [
       {
         "Id": 9258,
@@ -7058,6 +7684,7 @@
   {
     "Type": "russian",
     "StateId": 250,
+    "StateName": "Ulyanovsk",
     "Provinces": [
       {
         "Id": 392,
@@ -7068,6 +7695,7 @@
   {
     "Type": "russian",
     "StateId": 218,
+    "StateName": "Rostov-on-Don",
     "Provinces": [
       {
         "Id": 9417,
@@ -7078,6 +7706,7 @@
   {
     "Type": "russian",
     "StateId": 245,
+    "StateName": "Millerovsky",
     "Provinces": [
       {
         "Id": 11476,
@@ -7088,6 +7717,7 @@
   {
     "Type": "russian",
     "StateId": 238,
+    "StateName": "Volgodonsk",
     "Provinces": [
       {
         "Id": 775,
@@ -7098,6 +7728,7 @@
   {
     "Type": "russian",
     "StateId": 237,
+    "StateName": "Kalmykia",
     "Provinces": [
       {
         "Id": 11724,
@@ -7108,6 +7739,7 @@
   {
     "Type": "russian",
     "StateId": 217,
+    "StateName": "Stalingrad",
     "Provinces": [
       {
         "Id": 3529,
@@ -7118,6 +7750,7 @@
   {
     "Type": "russian",
     "StateId": 236,
+    "StateName": "Astrakhan",
     "Provinces": [
       {
         "Id": 9753,
@@ -7128,6 +7761,7 @@
   {
     "Type": "russian",
     "StateId": 265,
+    "StateName": "Mikhaylovka",
     "Provinces": [
       {
         "Id": 487,
@@ -7138,6 +7772,7 @@
   {
     "Type": "russian",
     "StateId": 829,
+    "StateName": "Engels-Marks",
     "Provinces": [
       {
         "Id": 11523,
@@ -7152,6 +7787,7 @@
   {
     "Type": "russian",
     "StateId": 239,
+    "StateName": "Saratov",
     "Provinces": [
       {
         "Id": 3578,
@@ -7162,6 +7798,7 @@
   {
     "Type": "russian",
     "StateId": 401,
+    "StateName": "Balakovo",
     "Provinces": [
       {
         "Id": 3578,
@@ -7172,6 +7809,7 @@
   {
     "Type": "russian",
     "StateId": 137,
+    "StateName": "Krym",
     "Provinces": [
       {
         "Id": 3687,
@@ -7190,6 +7828,7 @@
   {
     "Type": "russian",
     "StateId": 234,
+    "StateName": "Krasnodar Krai",
     "Provinces": [
       {
         "Id": 3734,
@@ -7208,6 +7847,7 @@
   {
     "Type": "russian",
     "StateId": 233,
+    "StateName": "Sochi",
     "Provinces": [
       {
         "Id": 9663,
@@ -7218,6 +7858,7 @@
   {
     "Type": "russian",
     "StateId": 235,
+    "StateName": "Stavropol Krai",
     "Provinces": [
       {
         "Id": 11696,
@@ -7228,6 +7869,7 @@
   {
     "Type": "russian",
     "StateId": 827,
+    "StateName": "Kabardino-Balkarskaya",
     "Provinces": [
       {
         "Id": 11614,
@@ -7238,6 +7880,7 @@
   {
     "Type": "russian",
     "StateId": 828,
+    "StateName": "Severnaya Osetiya-Alaniya",
     "Provinces": [
       {
         "Id": 9628,
@@ -7248,6 +7891,7 @@
   {
     "Type": "russian",
     "StateId": 821,
+    "StateName": "Chechnya-Ingushetia",
     "Provinces": [
       {
         "Id": 3672,
@@ -7258,6 +7902,7 @@
   {
     "Type": "russian",
     "StateId": 232,
+    "StateName": "Dagestan",
     "Provinces": [
       {
         "Id": 6701,
@@ -7268,6 +7913,7 @@
   {
     "Type": "russian",
     "StateId": 826,
+    "StateName": "Abkhaziya",
     "Provinces": [
       {
         "Id": 11617,
@@ -7278,6 +7924,7 @@
   {
     "Type": "russian",
     "StateId": 231,
+    "StateName": "Gruziya",
     "Provinces": [
       {
         "Id": 1599,
@@ -7292,6 +7939,7 @@
   {
     "Type": "russian",
     "StateId": 230,
+    "StateName": "Armeniya",
     "Provinces": [
       {
         "Id": 12320,
@@ -7306,6 +7954,7 @@
   {
     "Type": "russian",
     "StateId": 229,
+    "StateName": "Azerbaydzhan",
     "Provinces": [
       {
         "Id": 7661,
@@ -7320,6 +7969,7 @@
   {
     "Type": "russian",
     "StateId": 195,
+    "StateName": "Leningrad",
     "Provinces": [
       {
         "Id": 3151,
@@ -7330,6 +7980,7 @@
   {
     "Type": "russian",
     "StateId": 208,
+    "StateName": "Luga",
     "Provinces": [
       {
         "Id": 9098,
@@ -7340,6 +7991,7 @@
   {
     "Type": "russian",
     "StateId": 244,
+    "StateName": "Volkhov",
     "Provinces": [
       {
         "Id": 9197,
@@ -7350,6 +8002,7 @@
   {
     "Type": "russian",
     "StateId": 263,
+    "StateName": "Veliky Novgorod",
     "Provinces": [
       {
         "Id": 117,
@@ -7360,6 +8013,7 @@
   {
     "Type": "russian",
     "StateId": 209,
+    "StateName": "Pskov",
     "Provinces": [
       {
         "Id": 11202,
@@ -7370,6 +8024,7 @@
   {
     "Type": "russian",
     "StateId": 210,
+    "StateName": "Nevelsky",
     "Provinces": [
       {
         "Id": 11234,
@@ -7380,6 +8035,7 @@
   {
     "Type": "russian",
     "StateId": 246,
+    "StateName": "Rzhev",
     "Provinces": [
       {
         "Id": 11349,
@@ -7390,6 +8046,7 @@
   {
     "Type": "russian",
     "StateId": 264,
+    "StateName": "Tikhvin",
     "Provinces": [
       {
         "Id": 3140,
@@ -7400,6 +8057,7 @@
   {
     "Type": "russian",
     "StateId": 247,
+    "StateName": "Kalinin",
     "Provinces": [
       {
         "Id": 6245,
@@ -7410,6 +8068,7 @@
   {
     "Type": "russian",
     "StateId": 248,
+    "StateName": "Yaroslavl",
     "Provinces": [
       {
         "Id": 121,
@@ -7420,6 +8079,7 @@
   {
     "Type": "russian",
     "StateId": 351,
+    "StateName": "Vologda",
     "Provinces": [
       {
         "Id": 9131,
@@ -7430,6 +8090,7 @@
   {
     "Type": "russian",
     "StateId": 214,
+    "StateName": "Arkhangelsk",
     "Provinces": [
       {
         "Id": 3338,
@@ -7440,6 +8101,7 @@
   {
     "Type": "russian",
     "StateId": 213,
+    "StateName": "Murmansk",
     "Provinces": [
       {
         "Id": 3134,
@@ -7454,11 +8116,13 @@
   {
     "Type": "russian",
     "StateId": 215,
+    "StateName": "Onega",
     "Provinces": []
   },
   {
     "Type": "russian",
     "StateId": 216,
+    "StateName": "Olonets",
     "Provinces": [
       {
         "Id": 11159,
@@ -7469,6 +8133,7 @@
   {
     "Type": "russian",
     "StateId": 825,
+    "StateName": "Nenets",
     "Provinces": [
       {
         "Id": 105,
@@ -7479,16 +8144,19 @@
   {
     "Type": "russian",
     "StateId": 262,
+    "StateName": "Pechora",
     "Provinces": []
   },
   {
     "Type": "russian",
     "StateId": 581,
+    "StateName": "Severnyy Uralskiye",
     "Provinces": []
   },
   {
     "Type": "russian",
     "StateId": 397,
+    "StateName": "Syktyvkar",
     "Provinces": [
       {
         "Id": 108,
@@ -7499,6 +8167,7 @@
   {
     "Type": "russian",
     "StateId": 399,
+    "StateName": "Udmurtia",
     "Provinces": [
       {
         "Id": 6278,
@@ -7509,6 +8178,7 @@
   {
     "Type": "russian",
     "StateId": 398,
+    "StateName": "Perm Krai",
     "Provinces": [
       {
         "Id": 7375,
@@ -7519,6 +8189,7 @@
   {
     "Type": "russian",
     "StateId": 573,
+    "StateName": "Zlatoust",
     "Provinces": [
       {
         "Id": 10329,
@@ -7529,6 +8200,7 @@
   {
     "Type": "russian",
     "StateId": 249,
+    "StateName": "Kazan",
     "Provinces": [
       {
         "Id": 6338,
@@ -7539,6 +8211,7 @@
   {
     "Type": "russian",
     "StateId": 651,
+    "StateName": "Ufa",
     "Provinces": [
       {
         "Id": 1278,
@@ -7553,6 +8226,7 @@
   {
     "Type": "russian",
     "StateId": 251,
+    "StateName": "Kuybyshev",
     "Provinces": [
       {
         "Id": 11225,
@@ -7563,11 +8237,13 @@
   {
     "Type": "russian",
     "StateId": 652,
+    "StateName": "Orenburg",
     "Provinces": []
   },
   {
     "Type": "russian",
     "StateId": 407,
+    "StateName": "Ural'sk",
     "Provinces": [
       {
         "Id": 11537,
@@ -7578,6 +8254,7 @@
   {
     "Type": "russian",
     "StateId": 406,
+    "StateName": "Guryev",
     "Provinces": [
       {
         "Id": 11537,
@@ -7588,6 +8265,7 @@
   {
     "Type": "russian",
     "StateId": 207,
+    "StateName": "Vitebsk",
     "Provinces": [
       {
         "Id": 11241,
@@ -7598,6 +8276,7 @@
   {
     "Type": "russian",
     "StateId": 241,
+    "StateName": "Gomel",
     "Provinces": [
       {
         "Id": 9288,
@@ -7608,6 +8287,7 @@
   {
     "Type": "russian",
     "StateId": 206,
+    "StateName": "Minsk",
     "Provinces": [
       {
         "Id": 11370,
@@ -7622,6 +8302,7 @@
   {
     "Type": "russian",
     "StateId": 204,
+    "StateName": "Bobrujsk",
     "Provinces": [
       {
         "Id": 3350,
@@ -7636,6 +8317,7 @@
   {
     "Type": "russian",
     "StateId": 194,
+    "StateName": "Mozyr",
     "Provinces": [
       {
         "Id": 6232,
@@ -7646,6 +8328,7 @@
   {
     "Type": "russian",
     "StateId": 228,
+    "StateName": "Voroshilovgrad",
     "Provinces": [
       {
         "Id": 9461,
@@ -7656,6 +8339,7 @@
   {
     "Type": "russian",
     "StateId": 227,
+    "StateName": "Stalino",
     "Provinces": [
       {
         "Id": 6474,
@@ -7666,6 +8350,7 @@
   {
     "Type": "russian",
     "StateId": 221,
+    "StateName": "Kharkov",
     "Provinces": [
       {
         "Id": 418,
@@ -7676,6 +8361,7 @@
   {
     "Type": "russian",
     "StateId": 226,
+    "StateName": "Dnipropetrovsk",
     "Provinces": [
       {
         "Id": 11437,
@@ -7690,6 +8376,7 @@
   {
     "Type": "russian",
     "StateId": 200,
+    "StateName": "Zaporozhe",
     "Provinces": [
       {
         "Id": 11405,
@@ -7700,6 +8387,7 @@
   {
     "Type": "russian",
     "StateId": 196,
+    "StateName": "Kherson",
     "Provinces": [
       {
         "Id": 721,
@@ -7710,6 +8398,7 @@
   {
     "Type": "russian",
     "StateId": 193,
+    "StateName": "Chernigov",
     "Provinces": [
       {
         "Id": 3568,
@@ -7720,6 +8409,7 @@
   {
     "Type": "russian",
     "StateId": 259,
+    "StateName": "Poltava",
     "Provinces": [
       {
         "Id": 11504,
@@ -7730,6 +8420,7 @@
   {
     "Type": "russian",
     "StateId": 202,
+    "StateName": "Kiev",
     "Provinces": [
       {
         "Id": 525,
@@ -7740,6 +8431,7 @@
   {
     "Type": "russian",
     "StateId": 203,
+    "StateName": "Cherkasy",
     "Provinces": [
       {
         "Id": 488,
@@ -7750,6 +8442,7 @@
   {
     "Type": "russian",
     "StateId": 197,
+    "StateName": "Mykolaiv",
     "Provinces": [
       {
         "Id": 11683,
@@ -7760,6 +8453,7 @@
   {
     "Type": "russian",
     "StateId": 201,
+    "StateName": "Zhytomyr",
     "Provinces": [
       {
         "Id": 6593,
@@ -7770,6 +8464,7 @@
   {
     "Type": "russian",
     "StateId": 198,
+    "StateName": "Vinnytsia",
     "Provinces": [
       {
         "Id": 476,
@@ -7780,6 +8475,7 @@
   {
     "Type": "russian",
     "StateId": 834,
+    "StateName": "Balta-Tiraspol",
     "Provinces": [
       {
         "Id": 3757,
@@ -7794,6 +8490,7 @@
   {
     "Type": "russian",
     "StateId": 192,
+    "StateName": "Odesa",
     "Provinces": [
       {
         "Id": 11670,
@@ -7804,6 +8501,7 @@
   {
     "Type": "russian",
     "StateId": 96,
+    "StateName": "Viliejka",
     "Provinces": [
       {
         "Id": 406,
@@ -7814,6 +8512,7 @@
   {
     "Type": "russian",
     "StateId": 95,
+    "StateName": "Novogrudok",
     "Provinces": [
       {
         "Id": 9304,
@@ -7828,6 +8527,7 @@
   {
     "Type": "russian",
     "StateId": 94,
+    "StateName": "Poles'ye",
     "Provinces": [
       {
         "Id": 560,
@@ -7842,6 +8542,7 @@
   {
     "Type": "russian",
     "StateId": 93,
+    "StateName": "Volyn",
     "Provinces": [
       {
         "Id": 6557,
@@ -7856,6 +8557,7 @@
   {
     "Type": "russian",
     "StateId": 91,
+    "StateName": "Lvov",
     "Provinces": [
       {
         "Id": 11479,
@@ -7866,6 +8568,7 @@
   {
     "Type": "russian",
     "StateId": 89,
+    "StateName": "Ivano-Frankovsk",
     "Provinces": [
       {
         "Id": 11411,
@@ -7876,6 +8579,7 @@
   {
     "Type": "russian",
     "StateId": 784,
+    "StateName": "Vilnus",
     "Provinces": [
       {
         "Id": 3320,
@@ -7886,6 +8590,7 @@
   {
     "Type": "russian",
     "StateId": 766,
+    "StateName": "Yuzhnaya Bessarabia",
     "Provinces": [
       {
         "Id": 6727,
@@ -7896,6 +8601,7 @@
   {
     "Type": "russian",
     "StateId": 80,
+    "StateName": "Bukovina",
     "Provinces": [
       {
         "Id": 577,
@@ -7906,6 +8612,7 @@
   {
     "Type": "russian",
     "StateId": 78,
+    "StateName": "Bessarabia",
     "Provinces": [
       {
         "Id": 3707,
@@ -7916,6 +8623,7 @@
   {
     "Type": "russian",
     "StateId": 812,
+    "StateName": "Harju",
     "Provinces": [
       {
         "Id": 3152,
@@ -7926,6 +8634,7 @@
   {
     "Type": "russian",
     "StateId": 813,
+    "StateName": "Viru",
     "Provinces": [
       {
         "Id": 11127,
@@ -7940,6 +8649,7 @@
   {
     "Type": "russian",
     "StateId": 191,
+    "StateName": "Tartu",
     "Provinces": [
       {
         "Id": 9221,
@@ -7954,6 +8664,7 @@
   {
     "Type": "russian",
     "StateId": 13,
+    "StateName": "Pernov",
     "Provinces": [
       {
         "Id": 3174,
@@ -7964,6 +8675,7 @@
   {
     "Type": "russian",
     "StateId": 811,
+    "StateName": "Saaremaa",
     "Provinces": [
       {
         "Id": 185,
@@ -7974,6 +8686,7 @@
   {
     "Type": "russian",
     "StateId": 808,
+    "StateName": "Riga",
     "Provinces": [
       {
         "Id": 9340,
@@ -7984,6 +8697,7 @@
   {
     "Type": "russian",
     "StateId": 12,
+    "StateName": "Vidzeme",
     "Provinces": [
       {
         "Id": 10493,
@@ -7994,6 +8708,7 @@
   {
     "Type": "russian",
     "StateId": 810,
+    "StateName": "Latgale",
     "Provinces": [
       {
         "Id": 222,
@@ -8008,6 +8723,7 @@
   {
     "Type": "russian",
     "StateId": 809,
+    "StateName": "Zemgale",
     "Provinces": [
       {
         "Id": 3255,
@@ -8022,6 +8738,7 @@
   {
     "Type": "russian",
     "StateId": 190,
+    "StateName": "Kurzeme",
     "Provinces": [
       {
         "Id": 3296,
@@ -8036,6 +8753,7 @@
   {
     "Type": "russian",
     "StateId": 11,
+    "StateName": "Kovno",
     "Provinces": [
       {
         "Id": 6296,
@@ -8050,6 +8768,7 @@
   {
     "Type": "russian",
     "StateId": 814,
+    "StateName": "Suduva",
     "Provinces": [
       {
         "Id": 11312,
@@ -8060,6 +8779,7 @@
   {
     "Type": "russian",
     "StateId": 815,
+    "StateName": "Aukshtaytiya",
     "Provinces": [
       {
         "Id": 6229,
@@ -8070,6 +8790,7 @@
   {
     "Type": "russian",
     "StateId": 189,
+    "StateName": "Zhemaytiya",
     "Provinces": [
       {
         "Id": 9483,
@@ -8084,6 +8805,7 @@
   {
     "Type": "russian",
     "StateId": 188,
+    "StateName": "Klaypeda",
     "Provinces": [
       {
         "Id": 3288,
@@ -8094,6 +8816,7 @@
   {
     "Type": "russian",
     "StateId": 146,
+    "StateName": "Karelia",
     "Provinces": [
       {
         "Id": 9206,
@@ -8104,6 +8827,7 @@
   {
     "Type": "russian",
     "StateId": 147,
+    "StateName": "Salla",
     "Provinces": [
       {
         "Id": 197,
@@ -8114,11 +8838,13 @@
   {
     "Type": "russian",
     "StateId": 722,
+    "StateName": "Pechengsky",
     "Provinces": []
   },
   {
     "Type": "russian",
     "StateId": 763,
+    "StateName": "Kaliningrad",
     "Provinces": [
       {
         "Id": 6332,
@@ -8129,6 +8855,7 @@
   {
     "Type": "russian",
     "StateId": 73,
+    "StateName": "Karpat'ska Rus",
     "Provinces": [
       {
         "Id": 3548,
@@ -8139,6 +8866,7 @@
   {
     "Type": "spanish",
     "StateId": 41,
+    "StateName": "Madrid",
     "Provinces": [
       {
         "Id": 3938,
@@ -8153,6 +8881,7 @@
   {
     "Type": "spanish",
     "StateId": 793,
+    "StateName": "Guadalajara",
     "Provinces": [
       {
         "Id": 3945,
@@ -8163,6 +8892,7 @@
   {
     "Type": "spanish",
     "StateId": 175,
+    "StateName": "Ciudad Real",
     "Provinces": [
       {
         "Id": 6832,
@@ -8173,6 +8903,7 @@
   {
     "Type": "spanish",
     "StateId": 170,
+    "StateName": "Extremadura",
     "Provinces": [
       {
         "Id": 6902,
@@ -8183,6 +8914,7 @@
   {
     "Type": "spanish",
     "StateId": 788,
+    "StateName": "Salamanca",
     "Provinces": [
       {
         "Id": 3874,
@@ -8193,6 +8925,7 @@
   {
     "Type": "spanish",
     "StateId": 169,
+    "StateName": "Sevilla",
     "Provinces": [
       {
         "Id": 7183,
@@ -8207,6 +8940,7 @@
   {
     "Type": "spanish",
     "StateId": 789,
+    "StateName": "Córdoba",
     "Provinces": [
       {
         "Id": 875,
@@ -8217,6 +8951,7 @@
   {
     "Type": "spanish",
     "StateId": 173,
+    "StateName": "Granada",
     "Provinces": [
       {
         "Id": 9979,
@@ -8235,6 +8970,7 @@
   {
     "Type": "spanish",
     "StateId": 168,
+    "StateName": "Murcia",
     "Provinces": [
       {
         "Id": 10024,
@@ -8245,6 +8981,7 @@
   {
     "Type": "spanish",
     "StateId": 167,
+    "StateName": "Valencia",
     "Provinces": [
       {
         "Id": 6906,
@@ -8259,6 +8996,7 @@
   {
     "Type": "spanish",
     "StateId": 165,
+    "StateName": "Cataluña",
     "Provinces": [
       {
         "Id": 9764,
@@ -8277,6 +9015,7 @@
   {
     "Type": "spanish",
     "StateId": 794,
+    "StateName": "Aragón Oriental",
     "Provinces": [
       {
         "Id": 3954,
@@ -8287,6 +9026,7 @@
   {
     "Type": "spanish",
     "StateId": 166,
+    "StateName": "Aragón Occidental",
     "Provinces": [
       {
         "Id": 3816,
@@ -8305,6 +9045,7 @@
   {
     "Type": "spanish",
     "StateId": 172,
+    "StateName": "Navarra",
     "Provinces": [
       {
         "Id": 3933,
@@ -8315,6 +9056,7 @@
   {
     "Type": "spanish",
     "StateId": 176,
+    "StateName": "Burgos",
     "Provinces": [
       {
         "Id": 885,
@@ -8325,6 +9067,7 @@
   {
     "Type": "spanish",
     "StateId": 792,
+    "StateName": "País Vasco",
     "Provinces": [
       {
         "Id": 740,
@@ -8335,6 +9078,7 @@
   {
     "Type": "spanish",
     "StateId": 791,
+    "StateName": "Valladolid",
     "Provinces": [
       {
         "Id": 11825,
@@ -8345,6 +9089,7 @@
   {
     "Type": "spanish",
     "StateId": 174,
+    "StateName": "León",
     "Provinces": [
       {
         "Id": 726,
@@ -8355,6 +9100,7 @@
   {
     "Type": "spanish",
     "StateId": 790,
+    "StateName": "Asturias",
     "Provinces": [
       {
         "Id": 11707,
@@ -8365,6 +9111,7 @@
   {
     "Type": "spanish",
     "StateId": 171,
+    "StateName": "Galicia",
     "Provinces": [
       {
         "Id": 758,
@@ -8379,6 +9126,7 @@
   {
     "Type": "spanish",
     "StateId": 177,
+    "StateName": "Islas Baleares",
     "Provinces": [
       {
         "Id": 9793,
@@ -8389,6 +9137,7 @@
   {
     "Type": "spanish",
     "StateId": 783,
+    "StateName": "Sidi Ifni",
     "Provinces": [
       {
         "Id": 12857,
@@ -8399,6 +9148,7 @@
   {
     "Type": "spanish",
     "StateId": 699,
+    "StateName": "Rio de Oro",
     "Provinces": [
       {
         "Id": 8038,
@@ -8409,6 +9159,7 @@
   {
     "Type": "spanish",
     "StateId": 178,
+    "StateName": "Islas Canarias",
     "Provinces": [
       {
         "Id": 13071,
@@ -8419,6 +9170,7 @@
   {
     "Type": "spanish",
     "StateId": 297,
+    "StateName": "Guinea Ecuatorial",
     "Provinces": [
       {
         "Id": 1903,
@@ -8429,6 +9181,7 @@
   {
     "Type": "swedish",
     "StateId": 138,
+    "StateName": "Skåne",
     "Provinces": [
       {
         "Id": 9279,
@@ -8443,6 +9196,7 @@
   {
     "Type": "swedish",
     "StateId": 140,
+    "StateName": "Västergötland",
     "Provinces": [
       {
         "Id": 383,
@@ -8457,6 +9211,7 @@
   {
     "Type": "swedish",
     "StateId": 139,
+    "StateName": "Småland",
     "Provinces": [
       {
         "Id": 11380,
@@ -8467,6 +9222,7 @@
   {
     "Type": "swedish",
     "StateId": 141,
+    "StateName": "Svealand",
     "Provinces": [
       {
         "Id": 6050,
@@ -8477,6 +9233,7 @@
   {
     "Type": "swedish",
     "StateId": 38,
+    "StateName": "Norrland",
     "Provinces": [
       {
         "Id": 156,
@@ -8487,6 +9244,7 @@
   {
     "Type": "swedish",
     "StateId": 666,
+    "StateName": "Lappland",
     "Provinces": [
       {
         "Id": 9108,
@@ -8497,11 +9255,13 @@
   {
     "Type": "swedish",
     "StateId": 124,
+    "StateName": "Gotland",
     "Provinces": []
   },
   {
     "Type": "swedish",
     "StateId": 111,
+    "StateName": "Nyland",
     "Provinces": [
       {
         "Id": 11105,
@@ -8520,11 +9280,13 @@
   {
     "Type": "swedish",
     "StateId": 150,
+    "StateName": "Savolax",
     "Provinces": []
   },
   {
     "Type": "swedish",
     "StateId": 149,
+    "StateName": "Österbotten",
     "Provinces": [
       {
         "Id": 3122,
@@ -8535,11 +9297,13 @@
   {
     "Type": "swedish",
     "StateId": 148,
+    "StateName": "Lapland",
     "Provinces": []
   },
   {
     "Type": "swedish",
     "StateId": 146,
+    "StateName": "Karelen",
     "Provinces": [
       {
         "Id": 9206,
@@ -8550,6 +9314,7 @@
   {
     "Type": "swedish",
     "StateId": 147,
+    "StateName": "Salla",
     "Provinces": [
       {
         "Id": 197,
@@ -8560,11 +9325,13 @@
   {
     "Type": "swedish",
     "StateId": 722,
+    "StateName": "Petsamo",
     "Provinces": []
   },
   {
     "Type": "turkish",
     "StateId": 49,
+    "StateName": "Ankara",
     "Provinces": [
       {
         "Id": 11747,
@@ -8583,6 +9350,7 @@
   {
     "Type": "turkish",
     "StateId": 347,
+    "StateName": "Izmit",
     "Provinces": [
       {
         "Id": 11811,
@@ -8597,6 +9365,7 @@
   {
     "Type": "turkish",
     "StateId": 797,
+    "StateName": "Istanbul",
     "Provinces": [
       {
         "Id": 9833,
@@ -8607,6 +9376,7 @@
   {
     "Type": "turkish",
     "StateId": 341,
+    "StateName": "Edirne",
     "Provinces": [
       {
         "Id": 11842,
@@ -8617,6 +9387,7 @@
   {
     "Type": "turkish",
     "StateId": 340,
+    "StateName": "Bursa",
     "Provinces": [
       {
         "Id": 947,
@@ -8631,6 +9402,7 @@
   {
     "Type": "turkish",
     "StateId": 339,
+    "StateName": "İzmir",
     "Provinces": [
       {
         "Id": 4112,
@@ -8645,6 +9417,7 @@
   {
     "Type": "turkish",
     "StateId": 343,
+    "StateName": "Afyon",
     "Provinces": [
       {
         "Id": 10041,
@@ -8663,6 +9436,7 @@
   {
     "Type": "turkish",
     "StateId": 342,
+    "StateName": "Antalya",
     "Provinces": [
       {
         "Id": 1005,
@@ -8673,6 +9447,7 @@
   {
     "Type": "turkish",
     "StateId": 342,
+    "StateName": "Kastamonu",
     "Provinces": [
       {
         "Id": 356,
@@ -8687,6 +9462,7 @@
   {
     "Type": "turkish",
     "StateId": 798,
+    "StateName": "Amasya",
     "Provinces": [
       {
         "Id": 919,
@@ -8701,6 +9477,7 @@
   {
     "Type": "turkish",
     "StateId": 346,
+    "StateName": "Konya",
     "Provinces": [
       {
         "Id": 9861,
@@ -8719,6 +9496,7 @@
   {
     "Type": "turkish",
     "StateId": 348,
+    "StateName": "Kayseri",
     "Provinces": [
       {
         "Id": 3870,
@@ -8729,6 +9507,7 @@
   {
     "Type": "turkish",
     "StateId": 345,
+    "StateName": "Mersin",
     "Provinces": [
       {
         "Id": 10056,
@@ -8743,6 +9522,7 @@
   {
     "Type": "turkish",
     "StateId": 344,
+    "StateName": "Malatya",
     "Provinces": [
       {
         "Id": 9893,
@@ -8765,6 +9545,7 @@
   {
     "Type": "turkish",
     "StateId": 349,
+    "StateName": "Sivas",
     "Provinces": [
       {
         "Id": 9777,
@@ -8775,6 +9556,7 @@
   {
     "Type": "turkish",
     "StateId": 355,
+    "StateName": "Samsun",
     "Provinces": [
       {
         "Id": 11881,
@@ -8785,6 +9567,7 @@
   {
     "Type": "turkish",
     "StateId": 354,
+    "StateName": "Trabzon",
     "Provinces": [
       {
         "Id": 9932,
@@ -8807,6 +9590,7 @@
   {
     "Type": "turkish",
     "StateId": 353,
+    "StateName": "Tunceli",
     "Provinces": [
       {
         "Id": 9860,
@@ -8825,6 +9609,7 @@
   {
     "Type": "turkish",
     "StateId": 800,
+    "StateName": "Van",
     "Provinces": [
       {
         "Id": 6935,
@@ -8839,6 +9624,7 @@
   {
     "Type": "turkish",
     "StateId": 352,
+    "StateName": "Hakkari",
     "Provinces": [
       {
         "Id": 6935,
@@ -8857,6 +9643,7 @@
   {
     "Type": "turkish",
     "StateId": 350,
+    "StateName": "Diyarbakır",
     "Provinces": [
       {
         "Id": 4512,
@@ -8875,6 +9662,7 @@
   {
     "Type": "turkish",
     "StateId": 47,
+    "StateName": "Atina",
     "Provinces": [
       {
         "Id": 4109,
@@ -8897,6 +9685,7 @@
   {
     "Type": "turkish",
     "StateId": 186,
+    "StateName": "Peloponez",
     "Provinces": [
       {
         "Id": 7096,
@@ -8915,6 +9704,7 @@
   {
     "Type": "turkish",
     "StateId": 185,
+    "StateName": "Güney Epir",
     "Provinces": [
       {
         "Id": 1205,
@@ -8933,6 +9723,7 @@
   {
     "Type": "turkish",
     "StateId": 731,
+    "StateName": "Orta Makedonya",
     "Provinces": [
       {
         "Id": 11818,
@@ -8943,6 +9734,7 @@
   {
     "Type": "turkish",
     "StateId": 184,
+    "StateName": "Trakya",
     "Provinces": [
       {
         "Id": 11905,
@@ -8953,6 +9745,7 @@
   {
     "Type": "turkish",
     "StateId": 187,
+    "StateName": "Ege Adaları",
     "Provinces": [
       {
         "Id": 6550,
@@ -8967,6 +9760,7 @@
   {
     "Type": "turkish",
     "StateId": 182,
+    "StateName": "Girit",
     "Provinces": [
       {
         "Id": 9940,
@@ -8981,6 +9775,7 @@
   {
     "Type": "turkish",
     "StateId": 48,
+    "StateName": "Sofya",
     "Provinces": [
       {
         "Id": 949,
@@ -8995,6 +9790,7 @@
   {
     "Type": "turkish",
     "StateId": 212,
+    "StateName": "Filibe",
     "Provinces": [
       {
         "Id": 6923,
@@ -9013,6 +9809,7 @@
   {
     "Type": "turkish",
     "StateId": 801,
+    "StateName": "Mezya",
     "Provinces": [
       {
         "Id": 3796,
@@ -9027,6 +9824,7 @@
   {
     "Type": "turkish",
     "StateId": 211,
+    "StateName": "Burgaz",
     "Provinces": [
       {
         "Id": 9902,
@@ -9053,6 +9851,7 @@
   {
     "Type": "turkish",
     "StateId": 164,
+    "StateName": "Rodos",
     "Provinces": [
       {
         "Id": 10007,
@@ -9063,6 +9862,7 @@
   {
     "Type": "ukrainian",
     "StateId": 228,
+    "StateName": "Luhansk",
     "Provinces": [
       {
         "Id": 9461,
@@ -9073,6 +9873,7 @@
   {
     "Type": "ukrainian",
     "StateId": 227,
+    "StateName": "Donetsk",
     "Provinces": [
       {
         "Id": 6474,
@@ -9083,6 +9884,7 @@
   {
     "Type": "ukrainian",
     "StateId": 221,
+    "StateName": "Kharkiv",
     "Provinces": [
       {
         "Id": 418,
@@ -9093,6 +9895,7 @@
   {
     "Type": "ukrainian",
     "StateId": 226,
+    "StateName": "Dnipropetrovsk",
     "Provinces": [
       {
         "Id": 11437,
@@ -9107,6 +9910,7 @@
   {
     "Type": "ukrainian",
     "StateId": 200,
+    "StateName": "Zaporizhzhia",
     "Provinces": [
       {
         "Id": 11405,
@@ -9117,6 +9921,7 @@
   {
     "Type": "ukrainian",
     "StateId": 196,
+    "StateName": "Kherson",
     "Provinces": [
       {
         "Id": 721,
@@ -9127,6 +9932,7 @@
   {
     "Type": "ukrainian",
     "StateId": 193,
+    "StateName": "Chernihiv",
     "Provinces": [
       {
         "Id": 3568,
@@ -9137,6 +9943,7 @@
   {
     "Type": "ukrainian",
     "StateId": 259,
+    "StateName": "Poltava",
     "Provinces": [
       {
         "Id": 11504,
@@ -9147,6 +9954,7 @@
   {
     "Type": "ukrainian",
     "StateId": 202,
+    "StateName": "Kyiv",
     "Provinces": [
       {
         "Id": 525,
@@ -9157,6 +9965,7 @@
   {
     "Type": "ukrainian",
     "StateId": 203,
+    "StateName": "Cherkasy",
     "Provinces": [
       {
         "Id": 488,
@@ -9167,6 +9976,7 @@
   {
     "Type": "ukrainian",
     "StateId": 197,
+    "StateName": "Mykolaiv",
     "Provinces": [
       {
         "Id": 11683,
@@ -9177,6 +9987,7 @@
   {
     "Type": "ukrainian",
     "StateId": 201,
+    "StateName": "Zhytomyr",
     "Provinces": [
       {
         "Id": 6593,
@@ -9187,6 +9998,7 @@
   {
     "Type": "ukrainian",
     "StateId": 198,
+    "StateName": "Vinnytsia",
     "Provinces": [
       {
         "Id": 476,
@@ -9197,6 +10009,7 @@
   {
     "Type": "ukrainian",
     "StateId": 834,
+    "StateName": "Balta-Tiraspol",
     "Provinces": [
       {
         "Id": 3757,
@@ -9211,6 +10024,7 @@
   {
     "Type": "ukrainian",
     "StateId": 192,
+    "StateName": "Odessa",
     "Provinces": [
       {
         "Id": 11670,
@@ -9221,6 +10035,7 @@
   {
     "Type": "ukrainian",
     "StateId": 93,
+    "StateName": "Volhynia",
     "Provinces": [
       {
         "Id": 6557,
@@ -9235,6 +10050,7 @@
   {
     "Type": "ukrainian",
     "StateId": 91,
+    "StateName": "Lviv",
     "Provinces": [
       {
         "Id": 11479,
@@ -9245,6 +10061,7 @@
   {
     "Type": "ukrainian",
     "StateId": 89,
+    "StateName": "Ivano-Frankivsk",
     "Provinces": [
       {
         "Id": 11411,
@@ -9255,6 +10072,7 @@
   {
     "Type": "ukrainian",
     "StateId": 766,
+    "StateName": "Budjak",
     "Provinces": [
       {
         "Id": 6727,
@@ -9265,6 +10083,7 @@
   {
     "Type": "ukrainian",
     "StateId": 80,
+    "StateName": "Bukovina",
     "Provinces": [
       {
         "Id": 577,
@@ -9275,6 +10094,7 @@
   {
     "Type": "ukrainian",
     "StateId": 73,
+    "StateName": "Zakarpattia",
     "Provinces": [
       {
         "Id": 3548,
@@ -9285,6 +10105,7 @@
   {
     "Type": "korean",
     "StateId": 527,
+    "StateName": "North Korea",
     "Provinces": [
       {
         "Id": 4052,
@@ -9295,6 +10116,7 @@
   {
     "Type": "korean",
     "StateId": 525,
+    "StateName": "South Korea",
     "Provinces": [
       {
         "Id": 7125,
@@ -9309,6 +10131,7 @@
   {
     "Type": "yugoslavian",
     "StateId": 107,
+    "StateName": "Srbija",
     "Provinces": [
       {
         "Id": 11586,
@@ -9319,6 +10142,7 @@
   {
     "Type": "yugoslavian",
     "StateId": 108,
+    "StateName": "Moravska",
     "Provinces": [
       {
         "Id": 9602,
@@ -9329,6 +10153,7 @@
   {
     "Type": "yugoslavian",
     "StateId": 764,
+    "StateName": "Srpski Banat",
     "Provinces": [
       {
         "Id": 3614,
@@ -9339,6 +10164,7 @@
   {
     "Type": "yugoslavian",
     "StateId": 45,
+    "StateName": "Vojvodina",
     "Provinces": [
       {
         "Id": 619,
@@ -9349,6 +10175,7 @@
   {
     "Type": "yugoslavian",
     "StateId": 803,
+    "StateName": "Pirot",
     "Provinces": [
       {
         "Id": 11857,
@@ -9359,6 +10186,7 @@
   {
     "Type": "yugoslavian",
     "StateId": 802,
+    "StateName": "Kosovo",
     "Provinces": [
       {
         "Id": 6940,
@@ -9369,6 +10197,7 @@
   {
     "Type": "yugoslavian",
     "StateId": 106,
+    "StateName": "Vardarska Banovina",
     "Provinces": [
       {
         "Id": 3882,
@@ -9379,6 +10208,7 @@
   {
     "Type": "yugoslavian",
     "StateId": 105,
+    "StateName": "Zeta Banovina",
     "Provinces": [
       {
         "Id": 9809,
@@ -9389,6 +10219,7 @@
   {
     "Type": "yugoslavian",
     "StateId": 104,
+    "StateName": "Bosnia",
     "Provinces": [
       {
         "Id": 11899,
@@ -9403,6 +10234,7 @@
   {
     "Type": "yugoslavian",
     "StateId": 804,
+    "StateName": "Herzegovina",
     "Provinces": [
       {
         "Id": 9894,
@@ -9413,6 +10245,7 @@
   {
     "Type": "yugoslavian",
     "StateId": 109,
+    "StateName": "Hrvatska",
     "Provinces": [
       {
         "Id": 11581,
@@ -9423,6 +10256,7 @@
   {
     "Type": "yugoslavian",
     "StateId": 103,
+    "StateName": "Dalmacija",
     "Provinces": [
       {
         "Id": 11564,
@@ -9441,6 +10275,7 @@
   {
     "Type": "yugoslavian",
     "StateId": 102,
+    "StateName": "Slovenija",
     "Provinces": [
       {
         "Id": 9627,
@@ -9451,6 +10286,7 @@
   {
     "Type": "yugoslavian",
     "StateId": 736,
+    "StateName": "Istra",
     "Provinces": [
       {
         "Id": 6626,
@@ -9461,11 +10297,13 @@
   {
     "Type": "yugoslavian",
     "StateId": 163,
+    "StateName": "Zadar",
     "Provinces": []
   },
   {
     "Type": "yugoslavian",
     "StateId": 82,
+    "StateName": "Banat",
     "Provinces": [
       {
         "Id": 9606,

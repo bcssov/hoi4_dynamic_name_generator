@@ -14,6 +14,7 @@
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Linq;
 using System.Text;
@@ -32,7 +33,7 @@ namespace DynamicNameGenerator
         /// <summary>
         /// The provinces
         /// </summary>
-        private List<ProvinceData> provinces = new List<ProvinceData>();
+        private ObservableCollection<ProvinceData> provinces;
 
         /// <summary>
         /// The state identifier
@@ -40,11 +41,29 @@ namespace DynamicNameGenerator
         private long stateId;
 
         /// <summary>
+        /// The state name
+        /// </summary>
+        private string stateName = string.Empty;
+
+        /// <summary>
         /// The type
         /// </summary>
         private string type = string.Empty;
 
         #endregion Fields
+
+        #region Constructors
+
+        /// <summary>
+        /// Initializes a new instance of the <see cref="MainData"/> class.
+        /// </summary>
+        public MainData()
+        {
+            provinces = new ObservableCollection<ProvinceData>();
+            HandleProvinceData();
+        }
+
+        #endregion Constructors
 
         #region Events
 
@@ -61,16 +80,11 @@ namespace DynamicNameGenerator
         /// Gets or sets the provinces.
         /// </summary>
         /// <value>The provinces.</value>
-        public List<ProvinceData> Provinces
+        public ObservableCollection<ProvinceData> Provinces
         {
             get
             {
                 return provinces;
-            }
-            set
-            {
-                provinces = value ?? new List<ProvinceData>();
-                PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(Provinces)));
             }
         }
 
@@ -86,7 +100,7 @@ namespace DynamicNameGenerator
                 if (Provinces != null && Provinces.Any())
                 {
                     var sb = new StringBuilder();
-                    Provinces.ForEach(p =>
+                    Provinces.ToList().ForEach(p =>
                     {
                         sb.AppendFormat("{0} - {1}{2}", p.Id, p.Name, Environment.NewLine);
                     });
@@ -114,6 +128,23 @@ namespace DynamicNameGenerator
         }
 
         /// <summary>
+        /// Gets or sets the name of the state.
+        /// </summary>
+        /// <value>The name of the state.</value>
+        public string StateName
+        {
+            get
+            {
+                return stateName;
+            }
+            set
+            {
+                stateName = value ?? string.Empty;
+                PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(StateName)));
+            }
+        }
+
+        /// <summary>
         /// Gets or sets the type.
         /// </summary>
         /// <value>The type.</value>
@@ -131,6 +162,68 @@ namespace DynamicNameGenerator
         }
 
         #endregion Properties
+
+        #region Methods
+
+        /// <summary>
+        /// Handles the province data.
+        /// </summary>
+        private void HandleProvinceData()
+        {
+            Provinces.CollectionChanged += Provinces_CollectionChanged;
+        }
+
+        /// <summary>
+        /// Called when [provinces changed].
+        /// </summary>
+        private void OnProvincesChanged()
+        {
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(Provinces)));
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(ProvincesText)));
+        }
+
+        /// <summary>
+        /// Handles the PropertyChanged event of the PropertyChanged control.
+        /// </summary>
+        /// <param name="sender">The source of the event.</param>
+        /// <param name="e">The <see cref="PropertyChangedEventArgs"/> instance containing the event data.</param>
+        private void PropertyChanged_PropertyChanged(object sender, PropertyChangedEventArgs e)
+        {
+            OnProvincesChanged();
+        }
+
+        /// <summary>
+        /// Handles the CollectionChanged event of the Provinces control.
+        /// </summary>
+        /// <param name="sender">The source of the event.</param>
+        /// <param name="e">The <see cref="System.Collections.Specialized.NotifyCollectionChangedEventArgs"/> instance containing the event data.</param>
+        private void Provinces_CollectionChanged(object sender, System.Collections.Specialized.NotifyCollectionChangedEventArgs e)
+        {
+            OnProvincesChanged();
+            if (e.NewItems != null)
+            {
+                foreach (var item in e.NewItems)
+                {
+                    if (item is INotifyPropertyChanged propertyChanged)
+                    {
+                        propertyChanged.PropertyChanged += PropertyChanged_PropertyChanged;
+                    }
+                }
+            }
+
+            if (e.OldItems != null)
+            {
+                foreach (var item in e.OldItems)
+                {
+                    if (item is INotifyPropertyChanged propertyChanged)
+                    {
+                        propertyChanged.PropertyChanged -= PropertyChanged_PropertyChanged;
+                    }
+                }
+            }
+        }
+
+        #endregion Methods
     }
 
     /// <summary>

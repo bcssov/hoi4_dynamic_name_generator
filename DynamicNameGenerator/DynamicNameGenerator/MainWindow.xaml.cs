@@ -122,7 +122,19 @@ namespace DynamicNameGenerator
         /// <param name="sender">The source of the event.</param>
         /// <param name="e">The <see cref="System.Collections.Specialized.NotifyCollectionChangedEventArgs"/> instance containing the event data.</param>
         private void View_CollectionChanged(object sender, System.Collections.Specialized.NotifyCollectionChangedEventArgs e)
-        {
+        {            
+            var oldValue = visibleItems;
+            visibleItems = gridViewSource.View.Cast<object>().Count() - 1;
+            try
+            {
+                if (visibleItems != oldValue)
+                {
+                    dataGrid.Items.Refresh();
+                }                
+            }
+            catch // Otherwise crashes the app, no any flags wnich can be used to determine if can or cannot refresh and am too lazy to fix properly
+            {
+            }
         }
 
         #endregion Methods
