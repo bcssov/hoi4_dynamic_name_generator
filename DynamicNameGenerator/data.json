@@ -1,6 +1,6 @@
 [
   {
-    "Type": "apply_name_albanian",
+    "Type": "albanian",
     "StateId": "44",
     "Provinces": [
       {
@@ -11,55 +11,50 @@
         "Id": "11767",
         "Name": "Vlorë"
       }
-    ],
-    "Flag": "state_name_albanian"
+    ]
   },
   {
-    "Type": "apply_name_albanian",
+    "Type": "albanian",
     "StateId": "805",
     "Provinces": [
       {
         "Id": "914",
         "Name": "Gjirokastra"
       }
-    ],
-    "Flag": "state_name_albanian"
+    ]
   },
   {
-    "Type": "apply_name_albanian",
+    "Type": "albanian",
     "StateId": "802",
     "Provinces": [
       {
         "Id": "6940",
         "Name": "Pristina"
       }
-    ],
-    "Flag": "state_name_albanian"
+    ]
   },
   {
-    "Type": "apply_name_belarusian",
+    "Type": "belarusian",
     "StateId": "207",
     "Provinces": [
       {
         "Id": "11241",
         "Name": "Vitebsk"
       }
-    ],
-    "Flag": "state_name_belarusian"
+    ]
   },
   {
-    "Type": "apply_name_belarusian",
+    "Type": "belarusian",
     "StateId": "241",
     "Provinces": [
       {
         "Id": "9288",
         "Name": "Homiel"
       }
-    ],
-    "Flag": "state_name_belarusian"
+    ]
   },
   {
-    "Type": "apply_name_belarusian",
+    "Type": "belarusian",
     "StateId": "206",
     "Provinces": [
       {
@@ -70,11 +65,10 @@
         "Id": "9289",
         "Name": "Mogilev"
       }
-    ],
-    "Flag": "state_name_belarusian"
+    ]
   },
   {
-    "Type": "apply_name_belarusian",
+    "Type": "belarusian",
     "StateId": "204",
     "Provinces": [
       {
@@ -85,33 +79,30 @@
         "Id": "11313",
         "Name": "Salihorsk"
       }
-    ],
-    "Flag": "state_name_belarusian"
+    ]
   },
   {
-    "Type": "apply_name_belarusian",
+    "Type": "belarusian",
     "StateId": "194",
     "Provinces": [
       {
         "Id": "6232",
         "Name": "Mazyr"
       }
-    ],
-    "Flag": "state_name_belarusian"
+    ]
   },
   {
-    "Type": "apply_name_belarusian",
+    "Type": "belarusian",
     "StateId": "96",
     "Provinces": [
       {
         "Id": "406",
         "Name": "Maladzyechna"
       }
-    ],
-    "Flag": "state_name_belarusian"
+    ]
   },
   {
-    "Type": "apply_name_belarusian",
+    "Type": "belarusian",
     "StateId": "95",
     "Provinces": [
       {
@@ -122,11 +113,10 @@
         "Id": "3393",
         "Name": "Grodno"
       }
-    ],
-    "Flag": "state_name_belarusian"
+    ]
   },
   {
-    "Type": "apply_name_belarusian",
+    "Type": "belarusian",
     "StateId": "94",
     "Provinces": [
       {
@@ -137,11 +127,10 @@
         "Id": "3392",
         "Name": "Brest"
       }
-    ],
-    "Flag": "state_name_belarusian"
+    ]
   },
   {
-    "Type": "apply_name_bulgarian",
+    "Type": "bulgarian",
     "StateId": "48",
     "Provinces": [
       {
@@ -152,11 +141,10 @@
         "Id": "9771",
         "Name": "Vidin"
       }
-    ],
-    "Flag": "state_name_bulgarian"
+    ]
   },
   {
-    "Type": "apply_name_bulgarian",
+    "Type": "bulgarian",
     "StateId": "212",
     "Provinces": [
       {
@@ -171,11 +159,10 @@
         "Id": "9862",
         "Name": "Haskovo"
       }
-    ],
-    "Flag": "state_name_bulgarian"
+    ]
   },
   {
-    "Type": "apply_name_bulgarian",
+    "Type": "bulgarian",
     "StateId": "801",
     "Provinces": [
       {
@@ -186,11 +173,10 @@
         "Id": "9612",
         "Name": "Ruse"
       }
-    ],
-    "Flag": "state_name_bulgarian"
+    ]
   },
   {
-    "Type": "apply_name_bulgarian",
+    "Type": "bulgarian",
     "StateId": "211",
     "Provinces": [
       {
@@ -213,88 +199,80 @@
         "Id": "9783",
         "Name": "Varna"
       }
-    ],
-    "Flag": "state_name_bulgarian"
+    ]
   },
   {
-    "Type": "apply_name_bulgarian",
+    "Type": "bulgarian",
     "StateId": "77",
     "Provinces": [
       {
         "Id": "11597",
         "Name": "Dobrich"
       }
-    ],
-    "Flag": "state_name_bulgarian"
+    ]
   },
   {
-    "Type": "apply_name_bulgarian",
+    "Type": "bulgarian",
     "StateId": "797",
     "Provinces": [
       {
         "Id": "9833",
         "Name": "Konstantinopol"
       }
-    ],
-    "Flag": "state_name_bulgarian"
+    ]
   },
   {
-    "Type": "apply_name_bulgarian",
+    "Type": "bulgarian",
     "StateId": "341",
     "Provinces": [
       {
         "Id": "11842",
         "Name": "Odrin"
       }
-    ],
-    "Flag": "state_name_bulgarian"
+    ]
   },
   {
-    "Type": "apply_name_bulgarian",
+    "Type": "bulgarian",
     "StateId": "731",
     "Provinces": [
       {
         "Id": "11818",
         "Name": "Solun"
       }
-    ],
-    "Flag": "state_name_bulgarian"
+    ]
   },
   {
-    "Type": "apply_name_bulgarian",
+    "Type": "bulgarian",
     "StateId": "184",
     "Provinces": [
       {
         "Id": "11905",
         "Name": "Dedeagach"
       }
-    ],
-    "Flag": "state_name_bulgarian"
+    ]
   },
   {
-    "Type": "apply_name_bulgarian",
+    "Type": "bulgarian",
     "StateId": "803",
     "Provinces": [
       {
         "Id": "11857",
         "Name": "Leskovets"
       }
-    ],
-    "Flag": "state_name_bulgarian"
+    ]
   },
   {
-    "Type": "apply_name_bulgarian",
+    "Type": "bulgarian",
     "StateId": "106",
     "Provinces": [
       {
         "Id": "3882",
         "Name": "Skopje"
       }
-    ],
-    "Flag": "state_name_bulgarian"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "613",
     "Provinces": [
       {
@@ -309,67 +287,60 @@
         "Id": "7014",
         "Name": "Shanghai"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "598",
-    "Provinces": [],
-    "Flag": "state_name_chinese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "606",
     "Provinces": [
       {
         "Id": "7222",
         "Name": "Hefei"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "607",
     "Provinces": [
       {
         "Id": "9958",
         "Name": "Zhengzhou"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "597",
     "Provinces": [
       {
         "Id": "1069",
         "Name": "Jinan"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "743",
     "Provinces": [
       {
         "Id": "10000",
         "Name": "Qingdao"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "614",
-    "Provinces": [],
-    "Flag": "state_name_chinese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "608",
     "Provinces": [
       {
@@ -380,55 +351,50 @@
         "Id": "10068",
         "Name": "Tianjin"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "744",
     "Provinces": [
       {
         "Id": "7418",
         "Name": "Xi'an"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "620",
     "Provinces": [
       {
         "Id": "4619",
         "Name": "Wuhan"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "600",
     "Provinces": [
       {
         "Id": "3992",
         "Name": "Nanchang"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "749",
     "Provinces": [
       {
         "Id": "12019",
         "Name": "Huangshan"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "596",
     "Provinces": [
       {
@@ -439,11 +405,10 @@
         "Id": "9974",
         "Name": "Ningbo"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "595",
     "Provinces": [
       {
@@ -454,33 +419,30 @@
         "Id": "7071",
         "Name": "Xiamen"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "602",
     "Provinces": [
       {
         "Id": "7097",
         "Name": "Changsha"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "750",
     "Provinces": [
       {
         "Id": "7101",
         "Name": "Changde"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "605",
     "Provinces": [
       {
@@ -491,33 +453,30 @@
         "Id": "4925",
         "Name": "Chengdu"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "748",
     "Provinces": [
       {
         "Id": "1010",
         "Name": "Zunyi"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "603",
     "Provinces": [
       {
         "Id": "4504",
         "Name": "Guizhou"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "751",
     "Provinces": [
       {
@@ -528,270 +487,240 @@
         "Id": "7294",
         "Name": "Liangshan"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "752",
     "Provinces": [
       {
         "Id": "4999",
         "Name": "Kangding"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "601",
     "Provinces": [
       {
         "Id": "10856",
         "Name": "Chamdo"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "615",
     "Provinces": [
       {
         "Id": "1519",
         "Name": "Taiyuan"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "621",
-    "Provinces": [],
-    "Flag": "state_name_chinese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "746",
-    "Provinces": [],
-    "Flag": "state_name_chinese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "621",
     "Provinces": [
       {
         "Id": "8049",
         "Name": "Yan'an"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "283",
-    "Provinces": [],
-    "Flag": "state_name_chinese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "616",
-    "Provinces": [],
-    "Flag": "state_name_chinese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "756",
-    "Provinces": [],
-    "Flag": "state_name_chinese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "754",
     "Provinces": [
       {
         "Id": "12732",
         "Name": "Lanzhou"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "753",
     "Provinces": [
       {
         "Id": "2045",
         "Name": "Tianshui"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "755",
-    "Provinces": [],
-    "Flag": "state_name_chinese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "756",
     "Provinces": [
       {
         "Id": "7940",
         "Name": "Golmud"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "760",
-    "Provinces": [],
-    "Flag": "state_name_chinese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "759",
-    "Provinces": [],
-    "Flag": "state_name_chinese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "287",
-    "Provinces": [],
-    "Flag": "state_name_chinese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "619",
     "Provinces": [
       {
         "Id": "2015",
         "Name": "Kashgar"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "617",
     "Provinces": [
       {
         "Id": "4709",
         "Name": "Urumqi"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "619",
     "Provinces": [
       {
         "Id": "4823",
         "Name": "Altay"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "325",
     "Provinces": [
       {
         "Id": "1319",
         "Name": "Kunming"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "747",
     "Provinces": [
       {
         "Id": "7965",
         "Name": "Dali"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "593",
-    "Provinces": [],
-    "Flag": "state_name_chinese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "599",
     "Provinces": [
       {
         "Id": "10404",
         "Name": "Guilin"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "592",
     "Provinces": [
       {
         "Id": "1047",
         "Name": "Guangzhou"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "594",
     "Provinces": [
       {
         "Id": "7137",
         "Name": "Nanning"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "591",
     "Provinces": [
       {
         "Id": "1070",
         "Name": "Hainan"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "610",
-    "Provinces": [],
-    "Flag": "state_name_chinese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "715",
-    "Provinces": [],
-    "Flag": "state_name_chinese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "716",
     "Provinces": [
       {
         "Id": "11771",
         "Name": "Shenyang"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "328",
     "Provinces": [
       {
@@ -802,29 +731,25 @@
         "Id": "4572",
         "Name": "Changchun"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "717",
-    "Provinces": [],
-    "Flag": "state_name_chinese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "714",
-    "Provinces": [],
-    "Flag": "state_name_chinese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "761",
-    "Provinces": [],
-    "Flag": "state_name_chinese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "524",
     "Provinces": [
       {
@@ -835,28 +760,25 @@
         "Id": "12068",
         "Name": "Gaoxiong"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "609",
-    "Provinces": [],
-    "Flag": "state_name_chinese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_chinese",
+    "Type": "chinese",
     "StateId": "745",
     "Provinces": [
       {
         "Id": "1150",
         "Name": "Dalian"
       }
-    ],
-    "Flag": "state_name_chinese"
+    ]
   },
   {
-    "Type": "apply_name_czechoslovak",
+    "Type": "czechoslovak",
     "StateId": "69",
     "Provinces": [
       {
@@ -867,11 +789,10 @@
         "Id": "11401",
         "Name": "Liberec"
       }
-    ],
-    "Flag": "state_name_czechoslovak"
+    ]
   },
   {
-    "Type": "apply_name_czechoslovak",
+    "Type": "czechoslovak",
     "StateId": "9",
     "Provinces": [
       {
@@ -886,11 +807,10 @@
         "Id": "6418",
         "Name": "Plzeň"
       }
-    ],
-    "Flag": "state_name_czechoslovak"
+    ]
   },
   {
-    "Type": "apply_name_czechoslovak",
+    "Type": "czechoslovak",
     "StateId": "75",
     "Provinces": [
       {
@@ -901,28 +821,25 @@
         "Id": "6562",
         "Name": "Olomouc"
       }
-    ],
-    "Flag": "state_name_czechoslovak"
+    ]
   },
   {
-    "Type": "apply_name_czechoslovak",
+    "Type": "czechoslovak",
     "StateId": "72",
-    "Provinces": [],
-    "Flag": "state_name_czechoslovak"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_czechoslovak",
+    "Type": "czechoslovak",
     "StateId": "74",
     "Provinces": [
       {
         "Id": "3583",
         "Name": "Ostrava"
       }
-    ],
-    "Flag": "state_name_czechoslovak"
+    ]
   },
   {
-    "Type": "apply_name_czechoslovak",
+    "Type": "czechoslovak",
     "StateId": "70",
     "Provinces": [
       {
@@ -933,55 +850,50 @@
         "Id": "11539",
         "Name": "Žilina"
       }
-    ],
-    "Flag": "state_name_czechoslovak"
+    ]
   },
   {
-    "Type": "apply_name_czechoslovak",
+    "Type": "czechoslovak",
     "StateId": "664",
     "Provinces": [
       {
         "Id": "6573",
         "Name": "Košice"
       }
-    ],
-    "Flag": "state_name_czechoslovak"
+    ]
   },
   {
-    "Type": "apply_name_czechoslovak",
+    "Type": "czechoslovak",
     "StateId": "71",
     "Provinces": [
       {
         "Id": "3581",
         "Name": "Prešov"
       }
-    ],
-    "Flag": "state_name_czechoslovak"
+    ]
   },
   {
-    "Type": "apply_name_czechoslovak",
+    "Type": "czechoslovak",
     "StateId": "73",
     "Provinces": [
       {
         "Id": "3548",
         "Name": "Mukacevo"
       }
-    ],
-    "Flag": "state_name_czechoslovak"
+    ]
   },
   {
-    "Type": "apply_name_danish",
+    "Type": "danish",
     "StateId": "99",
     "Provinces": [
       {
         "Id": "6364",
         "Name": "Aarhus"
       }
-    ],
-    "Flag": "state_name_danish"
+    ]
   },
   {
-    "Type": "apply_name_danish",
+    "Type": "danish",
     "StateId": "37",
     "Provinces": [
       {
@@ -992,45 +904,64 @@
         "Id": "6287",
         "Name": "København"
       }
-    ],
-    "Flag": "state_name_danish"
+    ]
   },
   {
-    "Type": "apply_name_danish",
+    "Type": "danish",
     "StateId": "337",
-    "Provinces": [],
-    "Flag": "state_name_danish"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_danish",
+    "Type": "danish",
     "StateId": "100",
     "Provinces": [
       {
         "Id": "12674",
         "Name": "Reykjavík"
       }
-    ],
-    "Flag": "state_name_danish"
+    ]
   },
   {
-    "Type": "apply_name_danish",
+    "Type": "danish",
     "StateId": "101",
-    "Provinces": [],
-    "Flag": "state_name_danish"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_estonian",
+    "Type": "korean",
+    "StateId": "527",
+    "Provinces": [
+      {
+        "Id": "4052",
+        "Name": "Pyongyang"
+      }
+    ]
+  },
+  {
+    "Type": "korean",
+    "StateId": "525",
+    "Provinces": [
+      {
+        "Id": "7125",
+        "Name": "Seoul"
+      },
+      {
+        "Id": "4056",
+        "Name": "Pusan"
+      }
+    ]
+  },
+  {
+    "Type": "estonian",
     "StateId": "812",
     "Provinces": [
       {
         "Id": "3152",
         "Name": "Tallinn"
       }
-    ],
-    "Flag": "state_name_estonian"
+    ]
   },
   {
-    "Type": "apply_name_estonian",
+    "Type": "estonian",
     "StateId": "813",
     "Provinces": [
       {
@@ -1041,11 +972,10 @@
         "Id": "4640",
         "Name": "Narva"
       }
-    ],
-    "Flag": "state_name_estonian"
+    ]
   },
   {
-    "Type": "apply_name_estonian",
+    "Type": "estonian",
     "StateId": "191",
     "Provinces": [
       {
@@ -1056,33 +986,30 @@
         "Id": "592",
         "Name": "Võru"
       }
-    ],
-    "Flag": "state_name_estonian"
+    ]
   },
   {
-    "Type": "apply_name_estonian",
+    "Type": "estonian",
     "StateId": "13",
     "Provinces": [
       {
         "Id": "3174",
         "Name": "Pärnu"
       }
-    ],
-    "Flag": "state_name_estonian"
+    ]
   },
   {
-    "Type": "apply_name_estonian",
+    "Type": "estonian",
     "StateId": "811",
     "Provinces": [
       {
         "Id": "185",
         "Name": "Kuressaare"
       }
-    ],
-    "Flag": "state_name_estonian"
+    ]
   },
   {
-    "Type": "apply_name_finnish",
+    "Type": "finnish",
     "StateId": "111",
     "Provinces": [
       {
@@ -1097,62 +1024,55 @@
         "Id": "3083",
         "Name": "Turku"
       }
-    ],
-    "Flag": "state_name_finnish"
+    ]
   },
   {
-    "Type": "apply_name_finnish",
+    "Type": "finnish",
     "StateId": "150",
-    "Provinces": [],
-    "Flag": "state_name_finnish"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_finnish",
+    "Type": "finnish",
     "StateId": "149",
     "Provinces": [
       {
         "Id": "3122",
         "Name": "Vaasa"
       }
-    ],
-    "Flag": "state_name_finnish"
+    ]
   },
   {
-    "Type": "apply_name_finnish",
+    "Type": "finnish",
     "StateId": "148",
-    "Provinces": [],
-    "Flag": "state_name_finnish"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_finnish",
+    "Type": "finnish",
     "StateId": "146",
     "Provinces": [
       {
         "Id": "9206",
         "Name": "Viipuri"
       }
-    ],
-    "Flag": "state_name_finnish"
+    ]
   },
   {
-    "Type": "apply_name_finnish",
+    "Type": "finnish",
     "StateId": "147",
     "Provinces": [
       {
         "Id": "197",
         "Name": "Salla"
       }
-    ],
-    "Flag": "state_name_finnish"
+    ]
   },
   {
-    "Type": "apply_name_finnish",
+    "Type": "finnish",
     "StateId": "722",
-    "Provinces": [],
-    "Flag": "state_name_finnish"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_finnish",
+    "Type": "finnish",
     "StateId": "213",
     "Provinces": [
       {
@@ -1163,39 +1083,35 @@
         "Id": "6181",
         "Name": "Kantalahti"
       }
-    ],
-    "Flag": "state_name_finnish"
+    ]
   },
   {
-    "Type": "apply_name_finnish",
+    "Type": "finnish",
     "StateId": "215",
-    "Provinces": [],
-    "Flag": "state_name_finnish"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_finnish",
+    "Type": "finnish",
     "StateId": "216",
     "Provinces": [
       {
         "Id": "11159",
         "Name": "Äänislinna"
       }
-    ],
-    "Flag": "state_name_finnish"
+    ]
   },
   {
-    "Type": "apply_name_french",
+    "Type": "french",
     "StateId": "16",
     "Provinces": [
       {
         "Id": "11506",
         "Name": "Paris"
       }
-    ],
-    "Flag": "state_name_french"
+    ]
   },
   {
-    "Type": "apply_name_french",
+    "Type": "french",
     "StateId": "15",
     "Provinces": [
       {
@@ -1214,22 +1130,20 @@
         "Id": "485",
         "Name": "Dieppe"
       }
-    ],
-    "Flag": "state_name_french"
+    ]
   },
   {
-    "Type": "apply_name_french",
+    "Type": "french",
     "StateId": "785",
     "Provinces": [
       {
         "Id": "11420",
         "Name": "Amiens"
       }
-    ],
-    "Flag": "state_name_french"
+    ]
   },
   {
-    "Type": "apply_name_french",
+    "Type": "french",
     "StateId": "29",
     "Provinces": [
       {
@@ -1244,11 +1158,10 @@
         "Id": "11483",
         "Name": "Lille"
       }
-    ],
-    "Flag": "state_name_french"
+    ]
   },
   {
-    "Type": "apply_name_french",
+    "Type": "french",
     "StateId": "18",
     "Provinces": [
       {
@@ -1263,11 +1176,10 @@
         "Id": "3560",
         "Name": "Sedan"
       }
-    ],
-    "Flag": "state_name_french"
+    ]
   },
   {
-    "Type": "apply_name_french",
+    "Type": "french",
     "StateId": "17",
     "Provinces": [
       {
@@ -1278,11 +1190,10 @@
         "Id": "9642",
         "Name": "Besançon"
       }
-    ],
-    "Flag": "state_name_french"
+    ]
   },
   {
-    "Type": "apply_name_french",
+    "Type": "french",
     "StateId": "28",
     "Provinces": [
       {
@@ -1297,22 +1208,20 @@
         "Id": "9559",
         "Name": "Metz"
       }
-    ],
-    "Flag": "state_name_french"
+    ]
   },
   {
-    "Type": "apply_name_french",
+    "Type": "french",
     "StateId": "27",
     "Provinces": [
       {
         "Id": "3652",
         "Name": "Dijon"
       }
-    ],
-    "Flag": "state_name_french"
+    ]
   },
   {
-    "Type": "apply_name_french",
+    "Type": "french",
     "StateId": "24",
     "Provinces": [
       {
@@ -1323,22 +1232,20 @@
         "Id": "3671",
         "Name": "Tours"
       }
-    ],
-    "Flag": "state_name_french"
+    ]
   },
   {
-    "Type": "apply_name_french",
+    "Type": "french",
     "StateId": "30",
     "Provinces": [
       {
         "Id": "11465",
         "Name": "Nantes"
       }
-    ],
-    "Flag": "state_name_french"
+    ]
   },
   {
-    "Type": "apply_name_french",
+    "Type": "french",
     "StateId": "14",
     "Provinces": [
       {
@@ -1353,121 +1260,110 @@
         "Id": "9495",
         "Name": "Rennes"
       }
-    ],
-    "Flag": "state_name_french"
+    ]
   },
   {
-    "Type": "apply_name_french",
+    "Type": "french",
     "StateId": "23",
     "Provinces": [
       {
         "Id": "6657",
         "Name": "La Rochelle"
       }
-    ],
-    "Flag": "state_name_french"
+    ]
   },
   {
-    "Type": "apply_name_french",
+    "Type": "french",
     "StateId": "33",
     "Provinces": [
       {
         "Id": "651",
         "Name": "Châteauroux"
       }
-    ],
-    "Flag": "state_name_french"
+    ]
   },
   {
-    "Type": "apply_name_french",
+    "Type": "french",
     "StateId": "25",
     "Provinces": [
       {
         "Id": "620",
         "Name": "Limoges"
       }
-    ],
-    "Flag": "state_name_french"
+    ]
   },
   {
-    "Type": "apply_name_french",
+    "Type": "french",
     "StateId": "19",
     "Provinces": [
       {
         "Id": "9737",
         "Name": "Bordeaux"
       }
-    ],
-    "Flag": "state_name_french"
+    ]
   },
   {
-    "Type": "apply_name_french",
+    "Type": "french",
     "StateId": "806",
     "Provinces": [
       {
         "Id": "9710",
         "Name": "Bayonne"
       }
-    ],
-    "Flag": "state_name_french"
+    ]
   },
   {
-    "Type": "apply_name_french",
+    "Type": "french",
     "StateId": "31",
     "Provinces": [
       {
         "Id": "6766",
         "Name": "Toulouse"
       }
-    ],
-    "Flag": "state_name_french"
+    ]
   },
   {
-    "Type": "apply_name_french",
+    "Type": "french",
     "StateId": "20",
     "Provinces": [
       {
         "Id": "6613",
         "Name": "Lyon"
       }
-    ],
-    "Flag": "state_name_french"
+    ]
   },
   {
-    "Type": "apply_name_french",
+    "Type": "french",
     "StateId": "26",
     "Provinces": [
       {
         "Id": "3594",
         "Name": "Vichy"
       }
-    ],
-    "Flag": "state_name_french"
+    ]
   },
   {
-    "Type": "apply_name_french",
+    "Type": "french",
     "StateId": "32",
     "Provinces": [
       {
         "Id": "3768",
         "Name": "Grenoble"
       }
-    ],
-    "Flag": "state_name_french"
+    ]
   },
   {
-    "Type": "apply_name_french",
+    "Type": "french",
     "StateId": "22",
     "Provinces": [
       {
         "Id": "9898",
         "Name": "Montpellier"
       }
-    ],
-    "Flag": "state_name_french"
+    ]
   },
   {
-    "Type": "apply_name_french",
+    "Type": "french",
     "StateId": "21",
     "Provinces": [
       {
@@ -1478,11 +1374,10 @@
         "Id": "911",
         "Name": "Toulon"
       }
-    ],
-    "Flag": "state_name_french"
+    ]
   },
   {
-    "Type": "apply_name_french",
+    "Type": "french",
     "StateId": "735",
     "Provinces": [
       {
@@ -1493,33 +1388,30 @@
         "Id": "778",
         "Name": "Annecy"
       }
-    ],
-    "Flag": "state_name_french"
+    ]
   },
   {
-    "Type": "apply_name_french",
+    "Type": "french",
     "StateId": "1",
     "Provinces": [
       {
         "Id": "3838",
         "Name": "Ajaccio"
       }
-    ],
-    "Flag": "state_name_french"
+    ]
   },
   {
-    "Type": "apply_name_french",
+    "Type": "french",
     "StateId": "310",
     "Provinces": [
       {
         "Id": "12885",
         "Name": "Cayenne"
       }
-    ],
-    "Flag": "state_name_french"
+    ]
   },
   {
-    "Type": "apply_name_french",
+    "Type": "french",
     "StateId": "6",
     "Provinces": [
       {
@@ -1542,11 +1434,10 @@
         "Id": "3576",
         "Name": "Courtrai"
       }
-    ],
-    "Flag": "state_name_french"
+    ]
   },
   {
-    "Type": "apply_name_french",
+    "Type": "french",
     "StateId": "34",
     "Provinces": [
       {
@@ -1561,11 +1452,10 @@
         "Id": "11519",
         "Name": "Liège"
       }
-    ],
-    "Flag": "state_name_french"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "64",
     "Provinces": [
       {
@@ -1576,11 +1466,10 @@
         "Id": "3522",
         "Name": "Magdeburg"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "61",
     "Provinces": [
       {
@@ -1591,22 +1480,20 @@
         "Id": "11305",
         "Name": "Lübeck"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "62",
     "Provinces": [
       {
         "Id": "9938",
         "Name": "Stralsund"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "65",
     "Provinces": [
       {
@@ -1617,11 +1504,10 @@
         "Id": "514",
         "Name": "Dresden"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "58",
     "Provinces": [
       {
@@ -1632,11 +1518,10 @@
         "Id": "9347",
         "Name": "Hamburg"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "59",
     "Provinces": [
       {
@@ -1647,11 +1532,10 @@
         "Id": "3326",
         "Name": "Bremen"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "60",
     "Provinces": [
       {
@@ -1662,11 +1546,10 @@
         "Id": "3561",
         "Name": "Erfurt"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "56",
     "Provinces": [
       {
@@ -1681,22 +1564,20 @@
         "Id": "3561",
         "Name": "Münster"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "57",
     "Provinces": [
       {
         "Id": "495",
         "Name": "Dortmund"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "51",
     "Provinces": [
       {
@@ -1707,11 +1588,10 @@
         "Id": "587",
         "Name": "Köln"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "55",
     "Provinces": [
       {
@@ -1722,11 +1602,10 @@
         "Id": "564",
         "Name": "Kassel"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "42",
     "Provinces": [
       {
@@ -1737,22 +1616,20 @@
         "Id": "11531",
         "Name": "Saarbrücken"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "54",
     "Provinces": [
       {
         "Id": "11544",
         "Name": "Nürnberg"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "50",
     "Provinces": [
       {
@@ -1763,22 +1640,20 @@
         "Id": "11499",
         "Name": "Ulm"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "53",
     "Provinces": [
       {
         "Id": "9515",
         "Name": "Regensburg"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "52",
     "Provinces": [
       {
@@ -1789,11 +1664,10 @@
         "Id": "708",
         "Name": "Augsburg"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "63",
     "Provinces": [
       {
@@ -1804,33 +1678,30 @@
         "Id": "11372",
         "Name": "Köslin"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "68",
     "Provinces": [
       {
         "Id": "3473",
         "Name": "Küstrin"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "66",
     "Provinces": [
       {
         "Id": "9570",
         "Name": "Breslau"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "67",
     "Provinces": [
       {
@@ -1841,33 +1712,30 @@
         "Id": "9511",
         "Name": "Oppeln"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "5",
     "Provinces": [
       {
         "Id": "6375",
         "Name": "Allenstein"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "763",
     "Provinces": [
       {
         "Id": "6332",
         "Name": "Königsberg"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "4",
     "Provinces": [
       {
@@ -1878,11 +1746,10 @@
         "Id": "9648",
         "Name": "Graz"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "152",
     "Provinces": [
       {
@@ -1901,44 +1768,40 @@
         "Id": "3673",
         "Name": "Klagenfurt"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "153",
     "Provinces": [
       {
         "Id": "673",
         "Name": "Innsbruck"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "3",
     "Provinces": [
       {
         "Id": "9620",
         "Name": "Bern"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "151",
     "Provinces": [
       {
         "Id": "663",
         "Name": "Zürich"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "69",
     "Provinces": [
       {
@@ -1949,11 +1812,10 @@
         "Id": "11401",
         "Name": "Reichenberg"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "9",
     "Provinces": [
       {
@@ -1968,11 +1830,10 @@
         "Id": "6418",
         "Name": "Pilsen"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "75",
     "Provinces": [
       {
@@ -1983,28 +1844,25 @@
         "Id": "6562",
         "Name": "Olmütz"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "72",
-    "Provinces": [],
-    "Flag": "state_name_german"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "74",
     "Provinces": [
       {
         "Id": "3583",
         "Name": "Ostrau"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "70",
     "Provinces": [
       {
@@ -2015,44 +1873,40 @@
         "Id": "11539",
         "Name": "Sillein"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "664",
     "Provinces": [
       {
         "Id": "6573",
         "Name": "Kaschau"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "71",
     "Provinces": [
       {
         "Id": "3581",
         "Name": "Preschau"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "73",
     "Provinces": [
       {
         "Id": "3548",
         "Name": "Munkatsch"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "10",
     "Provinces": [
       {
@@ -2063,22 +1917,20 @@
         "Id": "402",
         "Name": "Schedlitz"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "87",
     "Provinces": [
       {
         "Id": "9508",
         "Name": "Litzmannstadt"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "90",
     "Provinces": [
       {
@@ -2089,11 +1941,10 @@
         "Id": "3458",
         "Name": "Radom"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "88",
     "Provinces": [
       {
@@ -2108,22 +1959,20 @@
         "Id": "9494",
         "Name": "Zamość "
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "92",
     "Provinces": [
       {
         "Id": "11399",
         "Name": "Lüben"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "97",
     "Provinces": [
       {
@@ -2134,44 +1983,40 @@
         "Id": "3254",
         "Name": "Suwalken"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "762",
     "Provinces": [
       {
         "Id": "6464",
         "Name": "Kattowitz"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "86",
     "Provinces": [
       {
         "Id": "6558",
         "Name": "Posen"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "98",
     "Provinces": [
       {
         "Id": "3230",
         "Name": "Plozk"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "807",
     "Provinces": [
       {
@@ -2186,44 +2031,40 @@
         "Id": "3295",
         "Name": "Thorn"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "85",
     "Provinces": [
       {
         "Id": "362",
         "Name": "Danzig"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "89",
     "Provinces": [
       {
         "Id": "11411",
         "Name": "Stanislau"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "91",
     "Provinces": [
       {
         "Id": "11479",
         "Name": "Lemberg"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "93",
     "Provinces": [
       {
@@ -2234,11 +2075,10 @@
         "Id": "6557",
         "Name": "Rowno"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "94",
     "Provinces": [
       {
@@ -2249,11 +2089,10 @@
         "Id": "3392",
         "Name": "Brest-Litowsk"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "95",
     "Provinces": [
       {
@@ -2264,121 +2103,110 @@
         "Id": "3393",
         "Name": "Garten"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "96",
     "Provinces": [
       {
         "Id": "406",
         "Name": "Adolfstadt"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "784",
     "Provinces": [
       {
         "Id": "3320",
         "Name": "Wilna"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "107",
     "Provinces": [
       {
         "Id": "11586",
         "Name": "Belgrad"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "108",
     "Provinces": [
       {
         "Id": "9602",
         "Name": "Niš"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "764",
     "Provinces": [
       {
         "Id": "3614",
         "Name": "Pantschowa"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "45",
     "Provinces": [
       {
         "Id": "619",
         "Name": "Neusatz"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "803",
     "Provinces": [
       {
         "Id": "11857",
         "Name": "Leskovac"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "802",
     "Provinces": [
       {
         "Id": "6940",
         "Name": "Pristina"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "106",
     "Provinces": [
       {
         "Id": "3882",
         "Name": "Skopje"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "105",
     "Provinces": [
       {
         "Id": "9809",
         "Name": "Podgorica"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "104",
     "Provinces": [
       {
@@ -2389,33 +2217,30 @@
         "Id": "6983",
         "Name": "Weina Luka"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "804",
     "Provinces": [
       {
         "Id": "9894",
         "Name": "Mostar"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "109",
     "Provinces": [
       {
         "Id": "11581",
         "Name": "Agram"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "103",
     "Provinces": [
       {
@@ -2430,22 +2255,20 @@
         "Id": "11816",
         "Name": "Ragus"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "102",
     "Provinces": [
       {
         "Id": "9627",
         "Name": "Laibach"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "46",
     "Provinces": [
       {
@@ -2460,33 +2283,30 @@
         "Id": "657",
         "Name": "Konstanz"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "77",
     "Provinces": [
       {
         "Id": "11597",
         "Name": "Dobrich"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "81",
     "Provinces": [
       {
         "Id": "6652",
         "Name": "Kragau"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "79",
     "Provinces": [
       {
@@ -2497,132 +2317,120 @@
         "Id": "9716",
         "Name": "Jassy"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "84",
     "Provinces": [
       {
         "Id": "690",
         "Name": "Kronstadt"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "82",
     "Provinces": [
       {
         "Id": "9606",
         "Name": "Temeschburg"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "83",
     "Provinces": [
       {
         "Id": "6682",
         "Name": "Arad"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "76",
     "Provinces": [
       {
         "Id": "6711",
         "Name": "Klausenburg"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "80",
     "Provinces": [
       {
         "Id": "577",
         "Name": "Cernăuti"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "78",
     "Provinces": [
       {
         "Id": "3707",
         "Name": "Kischinau"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "766",
     "Provinces": [
       {
         "Id": "6727",
         "Name": "Cetatea Albă"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "43",
     "Provinces": [
       {
         "Id": "9660",
         "Name": "Ofenpesth"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "155",
     "Provinces": [
       {
         "Id": "11610",
         "Name": "Fünfkirchen"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "154",
     "Provinces": [
       {
         "Id": "11659",
         "Name": "Debrezin"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "110",
     "Provinces": [
       {
         "Id": "6115",
         "Name": "Oslo"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "142",
     "Provinces": [
       {
@@ -2637,22 +2445,20 @@
         "Id": "122",
         "Name": "Bergen"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "143",
     "Provinces": [
       {
         "Id": "3022",
         "Name": "Drontheim"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "144",
     "Provinces": [
       {
@@ -2667,22 +2473,20 @@
         "Id": "9116",
         "Name": "Kirkenes"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "99",
     "Provinces": [
       {
         "Id": "6364",
         "Name": "Arenhusen"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "37",
     "Provinces": [
       {
@@ -2693,45 +2497,40 @@
         "Id": "6287",
         "Name": "Kopenhagen"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "337",
-    "Provinces": [],
-    "Flag": "state_name_german"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "100",
     "Provinces": [
       {
         "Id": "12674",
         "Name": "Reykjavík"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "101",
-    "Provinces": [],
-    "Flag": "state_name_german"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "16",
     "Provinces": [
       {
         "Id": "11506",
         "Name": "Paris"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "15",
     "Provinces": [
       {
@@ -2750,22 +2549,20 @@
         "Id": "485",
         "Name": "Dieppe"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "785",
     "Provinces": [
       {
         "Id": "11420",
         "Name": "Amiens"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "29",
     "Provinces": [
       {
@@ -2780,11 +2577,10 @@
         "Id": "11483",
         "Name": "Ryssel"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "18",
     "Provinces": [
       {
@@ -2799,11 +2595,10 @@
         "Id": "3560",
         "Name": "Sedan"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "17",
     "Provinces": [
       {
@@ -2814,11 +2609,10 @@
         "Id": "9642",
         "Name": "Bisanz"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "28",
     "Provinces": [
       {
@@ -2833,22 +2627,20 @@
         "Id": "9559",
         "Name": "Metz"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "27",
     "Provinces": [
       {
         "Id": "3652",
         "Name": "Dischon"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "24",
     "Provinces": [
       {
@@ -2859,22 +2651,20 @@
         "Id": "3671",
         "Name": "Tours"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "30",
     "Provinces": [
       {
         "Id": "11465",
         "Name": "Nantes"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "14",
     "Provinces": [
       {
@@ -2889,121 +2679,110 @@
         "Id": "9495",
         "Name": "Rennes"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "23",
     "Provinces": [
       {
         "Id": "6657",
         "Name": "La Rochelle"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "33",
     "Provinces": [
       {
         "Id": "651",
         "Name": "Châteauroux"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "25",
     "Provinces": [
       {
         "Id": "620",
         "Name": "Limoges"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "19",
     "Provinces": [
       {
         "Id": "9737",
         "Name": "Bordeaux"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "806",
     "Provinces": [
       {
         "Id": "9710",
         "Name": "Bayonne"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "31",
     "Provinces": [
       {
         "Id": "6766",
         "Name": "Toulouse"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "20",
     "Provinces": [
       {
         "Id": "6613",
         "Name": "Lünstadt"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "26",
     "Provinces": [
       {
         "Id": "3594",
         "Name": "Vichy"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "32",
     "Provinces": [
       {
         "Id": "3768",
         "Name": "Graswalde"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "22",
     "Provinces": [
       {
         "Id": "9898",
         "Name": "Montpellier"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "21",
     "Provinces": [
       {
@@ -3014,11 +2793,10 @@
         "Id": "911",
         "Name": "Telon"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "735",
     "Provinces": [
       {
@@ -3029,22 +2807,20 @@
         "Id": "778",
         "Name": "Annecy"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "1",
     "Provinces": [
       {
         "Id": "3838",
         "Name": "Ajaccio"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "6",
     "Provinces": [
       {
@@ -3067,11 +2843,10 @@
         "Id": "3576",
         "Name": "Kortrijzk"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "34",
     "Provinces": [
       {
@@ -3086,66 +2861,60 @@
         "Id": "11519",
         "Name": "Lüttich"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "8",
     "Provinces": [
       {
         "Id": "6583",
         "Name": "Luxemburg"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "159",
     "Provinces": [
       {
         "Id": "3780",
         "Name": "Mailand"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "160",
     "Provinces": [
       {
         "Id": "11584",
         "Name": "Venedig"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "39",
     "Provinces": [
       {
         "Id": "11598",
         "Name": "Bozen"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "736",
     "Provinces": [
       {
         "Id": "6626",
         "Name": "Triest"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "11",
     "Provinces": [
       {
@@ -3156,33 +2925,30 @@
         "Id": "9357",
         "Name": "Wilkomir"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "814",
     "Provinces": [
       {
         "Id": "11312",
         "Name": "Mariampol"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "815",
     "Provinces": [
       {
         "Id": "6229",
         "Name": "Ponewiesch"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "189",
     "Provinces": [
       {
@@ -3193,44 +2959,40 @@
         "Id": "6314",
         "Name": "Polangen"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "188",
     "Provinces": [
       {
         "Id": "3288",
         "Name": "Memel"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "808",
     "Provinces": [
       {
         "Id": "9340",
         "Name": "Riga"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "12",
     "Provinces": [
       {
         "Id": "10493",
         "Name": "Wolmar"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "810",
     "Provinces": [
       {
@@ -3241,11 +3003,10 @@
         "Id": "310",
         "Name": "Dünaburg"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "809",
     "Provinces": [
       {
@@ -3256,11 +3017,10 @@
         "Id": "6222",
         "Name": "Mitau"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "190",
     "Provinces": [
       {
@@ -3271,22 +3031,20 @@
         "Id": "9262",
         "Name": "Libau"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "812",
     "Provinces": [
       {
         "Id": "3152",
         "Name": "Reval"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "813",
     "Provinces": [
       {
@@ -3297,11 +3055,10 @@
         "Id": "4640",
         "Name": "Hungerburg"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "191",
     "Provinces": [
       {
@@ -3312,33 +3069,30 @@
         "Id": "592",
         "Name": "Werro"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "13",
     "Provinces": [
       {
         "Id": "3174",
         "Name": "Pernau"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "811",
     "Provinces": [
       {
         "Id": "185",
         "Name": "Arensburg"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "7",
     "Provinces": [
       {
@@ -3353,11 +3107,10 @@
         "Id": "3211",
         "Name": "Den Haag"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "36",
     "Provinces": [
       {
@@ -3376,11 +3129,10 @@
         "Id": "3211",
         "Name": "Groningen"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "35",
     "Provinces": [
       {
@@ -3395,297 +3147,270 @@
         "Id": "11562",
         "Name": "Maastricht"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "219",
     "Provinces": [
       {
         "Id": "6380",
         "Name": "Moskau"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "242",
     "Provinces": [
       {
         "Id": "306",
         "Name": "Smolenskau"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "243",
     "Provinces": [
       {
         "Id": "11336",
         "Name": "Roslavenland"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "205",
     "Provinces": [
       {
         "Id": "382",
         "Name": "Kalün"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "224",
     "Provinces": [
       {
         "Id": "3335",
         "Name": "Waldemarstadt"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "223",
     "Provinces": [
       {
         "Id": "6262",
         "Name": "Tülenshafen"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "254",
     "Provinces": [
       {
         "Id": "11248",
         "Name": "Rayzenvich"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "222",
     "Provinces": [
       {
         "Id": "9355",
         "Name": "Örel"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "258",
     "Provinces": [
       {
         "Id": "6398",
         "Name": "Libach"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "257",
     "Provinces": [
       {
         "Id": "11351",
         "Name": "Tambau"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "220",
     "Provinces": [
       {
         "Id": "3580",
         "Name": "Kaisenberg"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "260",
     "Provinces": [
       {
         "Id": "413",
         "Name": "Woronesch"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "240",
     "Provinces": [
       {
         "Id": "9449",
         "Name": "Weißenstadt"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "253",
     "Provinces": [
       {
         "Id": "6269",
         "Name": "Ivansbach"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "252",
     "Provinces": [
       {
         "Id": "11375",
         "Name": "Gorkendorf"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "833",
     "Provinces": [
       {
         "Id": "9402",
         "Name": "Olanbach"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "256",
     "Provinces": [
       {
         "Id": "9259",
         "Name": "Hebach"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "255",
     "Provinces": [
       {
         "Id": "9258",
         "Name": "Pensa"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "250",
     "Provinces": [
       {
         "Id": "392",
         "Name": "Lanowstadt"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "218",
     "Provinces": [
       {
         "Id": "9417",
         "Name": "Rostofa"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "245",
     "Provinces": [
       {
         "Id": "11476",
         "Name": "Müllerau"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "238",
     "Provinces": [
       {
         "Id": "775",
         "Name": "Salswien"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "237",
     "Provinces": [
       {
         "Id": "11724",
         "Name": "Elistadt"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "217",
     "Provinces": [
       {
         "Id": "3529",
         "Name": "Hindenburg"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "236",
     "Provinces": [
       {
         "Id": "9753",
         "Name": "Letzte-Wolgastadt"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "265",
     "Provinces": [
       {
         "Id": "487",
         "Name": "Michailaue"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "829",
     "Provinces": [
       {
@@ -3696,37 +3421,34 @@
         "Id": "9432",
         "Name": "Katherinenstadt"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "239",
     "Provinces": [
       {
         "Id": "3578",
         "Name": "Saratau"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "401",
     "Provinces": [
       {
         "Id": "3578",
         "Name": "Balakau"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "137",
     "Provinces": [
       {
-        "Id": "3687",
+        "Id": "3686",
         "Name": "Theodorichshafen"
       },
       {
@@ -3737,11 +3459,10 @@
         "Id": "9680",
         "Name": "Bospor"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "234",
     "Provinces": [
       {
@@ -3756,88 +3477,80 @@
         "Id": "719",
         "Name": "Neu-Roswien"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "233",
     "Provinces": [
       {
         "Id": "9663",
         "Name": "Bergstadt"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "235",
     "Provinces": [
       {
         "Id": "11696",
         "Name": "Schtravonheiß"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "827",
     "Provinces": [
       {
         "Id": "11614",
         "Name": "Nalchshafen"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "828",
     "Provinces": [
       {
         "Id": "9628",
         "Name": "Nordossetien"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "821",
     "Provinces": [
       {
         "Id": "3672",
         "Name": "Grodno"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "232",
     "Provinces": [
       {
         "Id": "6701",
         "Name": "Dagenstadt"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "826",
     "Provinces": [
       {
         "Id": "11617",
         "Name": "Suchumi"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "231",
     "Provinces": [
       {
@@ -3848,11 +3561,10 @@
         "Id": "3653",
         "Name": "Batau"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "230",
     "Provinces": [
       {
@@ -3863,11 +3575,10 @@
         "Id": "12441",
         "Name": "Grumte"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "229",
     "Provinces": [
       {
@@ -3878,143 +3589,130 @@
         "Id": "11674",
         "Name": "Wilhelm-Galwitz"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "195",
     "Provinces": [
       {
         "Id": "3151",
         "Name": "Ludendorffshafen"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "208",
     "Provinces": [
       {
         "Id": "9098",
         "Name": "Lügen"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "244",
     "Provinces": [
       {
         "Id": "9197",
         "Name": "Neu-Volkstadt"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "263",
     "Provinces": [
       {
         "Id": "117",
         "Name": "Naugard"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "209",
     "Provinces": [
       {
         "Id": "11202",
         "Name": "Pleskau"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "210",
     "Provinces": [
       {
         "Id": "11234",
         "Name": "Walken"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "246",
     "Provinces": [
       {
         "Id": "11349",
         "Name": "Rewen"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "264",
     "Provinces": [
       {
         "Id": "3140",
         "Name": "Tikenvisch"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "247",
     "Provinces": [
       {
         "Id": "6245",
         "Name": "Königstadt"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "248",
     "Provinces": [
       {
         "Id": "121",
         "Name": "Yaroschaffen"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "351",
     "Provinces": [
       {
         "Id": "9131",
         "Name": "Wosnech"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "214",
     "Provinces": [
       {
         "Id": "3338",
         "Name": "Arkanstadt"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "213",
     "Provinces": [
       {
@@ -4025,106 +3723,95 @@
         "Id": "6181",
         "Name": "Kandau"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "215",
-    "Provinces": [],
-    "Flag": "state_name_german"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "216",
     "Provinces": [
       {
         "Id": "11159",
         "Name": "Petrostadt"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "825",
     "Provinces": [
       {
         "Id": "105",
         "Name": "Hafen von Kaiser"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "262",
-    "Provinces": [],
-    "Flag": "state_name_german"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "581",
-    "Provinces": [],
-    "Flag": "state_name_german"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "397",
     "Provinces": [
       {
         "Id": "108",
         "Name": "Balzer"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "399",
     "Provinces": [
       {
         "Id": "6278",
         "Name": "Izwendorf"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "398",
     "Provinces": [
       {
         "Id": "7375",
         "Name": "Perwsburg"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "573",
     "Provinces": [
       {
         "Id": "10329",
         "Name": "Zatau"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "249",
     "Provinces": [
       {
         "Id": "6338",
         "Name": "Kazanshafen"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "651",
     "Provinces": [
       {
@@ -4135,72 +3822,65 @@
         "Id": "4354",
         "Name": "Stawmahoß"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "251",
     "Provinces": [
       {
         "Id": "11225",
         "Name": "Kübßstadt"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "652",
-    "Provinces": [],
-    "Flag": "state_name_german"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "407",
     "Provinces": [
       {
         "Id": "11537",
         "Name": "Letzte-Grenze"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "406",
     "Provinces": [
       {
         "Id": "11537",
         "Name": "Gürau"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "207",
     "Provinces": [
       {
         "Id": "11241",
         "Name": "Weißenbau"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "241",
     "Provinces": [
       {
         "Id": "9288",
         "Name": "Homiel"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "206",
     "Provinces": [
       {
@@ -4211,11 +3891,10 @@
         "Id": "9289",
         "Name": "Mogilau"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "204",
     "Provinces": [
       {
@@ -4226,55 +3905,50 @@
         "Id": "11313",
         "Name": "Sluzk"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "194",
     "Provinces": [
       {
         "Id": "6232",
         "Name": "Mosyr"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "228",
     "Provinces": [
       {
         "Id": "9461",
         "Name": "Lugansk"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "227",
     "Provinces": [
       {
         "Id": "6474",
         "Name": "Donezstadt"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "221",
     "Provinces": [
       {
         "Id": "418",
         "Name": "Karkau"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "226",
     "Provinces": [
       {
@@ -4285,110 +3959,100 @@
         "Id": "11561",
         "Name": "Siegen"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "200",
     "Provinces": [
       {
         "Id": "11405",
         "Name": "Saporoschie"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "196",
     "Provinces": [
       {
         "Id": "721",
         "Name": "Cherson"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "193",
     "Provinces": [
       {
         "Id": "3568",
         "Name": "Tschernigau"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "259",
     "Provinces": [
       {
         "Id": "11504",
         "Name": "Poltawien"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "202",
     "Provinces": [
       {
         "Id": "525",
         "Name": "Kiroffo"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "203",
     "Provinces": [
       {
         "Id": "488",
         "Name": "Tscherkassen"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "197",
     "Provinces": [
       {
         "Id": "11683",
         "Name": "Greuthunger-Nikolaus"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "201",
     "Provinces": [
       {
         "Id": "6593",
         "Name": "Friedenwald"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "198",
     "Provinces": [
       {
         "Id": "476",
         "Name": "Winniza"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "834",
     "Provinces": [
       {
@@ -4399,22 +4063,20 @@
         "Id": "741",
         "Name": "Hirtenheim"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_german",
+    "Type": "german",
     "StateId": "192",
     "Provinces": [
       {
         "Id": "11670",
         "Name": "Bockstadt"
       }
-    ],
-    "Flag": "state_name_german"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "47",
     "Provinces": [
       {
@@ -4433,11 +4095,10 @@
         "Id": "3973",
         "Name": "Lárisa"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "186",
     "Provinces": [
       {
@@ -4452,11 +4113,10 @@
         "Id": "7211",
         "Name": "Kalamáta"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "185",
     "Provinces": [
       {
@@ -4471,33 +4131,30 @@
         "Id": "10203",
         "Name": "Kérkyra"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "731",
     "Provinces": [
       {
         "Id": "11818",
         "Name": "Thessaloniki"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "184",
     "Provinces": [
       {
         "Id": "11905",
         "Name": "Alexandroupoli"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "187",
     "Provinces": [
       {
@@ -4508,11 +4165,10 @@
         "Id": "8435",
         "Name": "Mytilíni"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "182",
     "Provinces": [
       {
@@ -4523,22 +4179,20 @@
         "Id": "12058",
         "Name": "Chania"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "164",
     "Provinces": [
       {
         "Id": "10007",
         "Name": "Rhodes"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "48",
     "Provinces": [
       {
@@ -4549,11 +4203,10 @@
         "Id": "9771",
         "Name": "Bononia"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "212",
     "Provinces": [
       {
@@ -4568,11 +4221,10 @@
         "Id": "9862",
         "Name": "Haskovo"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "801",
     "Provinces": [
       {
@@ -4583,11 +4235,10 @@
         "Id": "9612",
         "Name": "Ruse"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "211",
     "Provinces": [
       {
@@ -4610,11 +4261,10 @@
         "Id": "9783",
         "Name": "Odessos"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "49",
     "Provinces": [
       {
@@ -4629,11 +4279,10 @@
         "Id": "3951",
         "Name": "Dorylaeum"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "347",
     "Provinces": [
       {
@@ -4644,33 +4293,30 @@
         "Id": "904",
         "Name": "Agrilion"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "797",
     "Provinces": [
       {
         "Id": "9833",
         "Name": "Konstandinúpoli"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "341",
     "Provinces": [
       {
         "Id": "11842",
         "Name": "Adrinúpoli"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "340",
     "Provinces": [
       {
@@ -4681,11 +4327,10 @@
         "Id": "9799",
         "Name": "Balúk Esér"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "339",
     "Provinces": [
       {
@@ -4696,11 +4341,10 @@
         "Id": "928",
         "Name": "Magnisía"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "343",
     "Provinces": [
       {
@@ -4715,22 +4359,20 @@
         "Id": "9878",
         "Name": "Nicopolis"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "342",
     "Provinces": [
       {
         "Id": "1005",
         "Name": "Attáleia"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "342",
     "Provinces": [
       {
@@ -4741,11 +4383,10 @@
         "Id": "6995",
         "Name": "Sinópi"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "798",
     "Provinces": [
       {
@@ -4756,11 +4397,10 @@
         "Id": "3862",
         "Name": "Pteria"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "346",
     "Provinces": [
       {
@@ -4775,22 +4415,20 @@
         "Id": "784",
         "Name": "Sparti Pisidías"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "348",
     "Provinces": [
       {
         "Id": "3870",
         "Name": "Kaisáreia"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "345",
     "Provinces": [
       {
@@ -4801,11 +4439,10 @@
         "Id": "11810",
         "Name": "Tarsós"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "344",
     "Provinces": [
       {
@@ -4824,33 +4461,30 @@
         "Id": "7620",
         "Name": "Melitene "
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "349",
     "Provinces": [
       {
         "Id": "9777",
         "Name": "Sebaste"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "355",
     "Provinces": [
       {
         "Id": "11881",
         "Name": "Amisos"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "354",
     "Provinces": [
       {
@@ -4869,11 +4503,10 @@
         "Id": "10472",
         "Name": "Kars"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "353",
     "Provinces": [
       {
@@ -4888,11 +4521,10 @@
         "Id": "353",
         "Name": "Keltzene"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "800",
     "Provinces": [
       {
@@ -4903,11 +4535,10 @@
         "Id": "12376",
         "Name": "Karaköse"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "352",
     "Provinces": [
       {
@@ -4922,11 +4553,10 @@
         "Id": "10497",
         "Name": "Sirte"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "350",
     "Provinces": [
       {
@@ -4941,11 +4571,10 @@
         "Id": "9823",
         "Name": "Justinopolis"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "44",
     "Provinces": [
       {
@@ -4956,99 +4585,90 @@
         "Id": "11767",
         "Name": "Avlónas"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_greek",
+    "Type": "greek",
     "StateId": "805",
     "Provinces": [
       {
         "Id": "914",
         "Name": "Gjirokastra"
       }
-    ],
-    "Flag": "state_name_greek"
+    ]
   },
   {
-    "Type": "apply_name_hungarian",
+    "Type": "hungarian",
     "StateId": "43",
     "Provinces": [
       {
         "Id": "9660",
         "Name": "Budapest"
       }
-    ],
-    "Flag": "state_name_hungarian"
+    ]
   },
   {
-    "Type": "apply_name_hungarian",
+    "Type": "hungarian",
     "StateId": "155",
     "Provinces": [
       {
         "Id": "11610",
         "Name": "Pécs"
       }
-    ],
-    "Flag": "state_name_hungarian"
+    ]
   },
   {
-    "Type": "apply_name_hungarian",
+    "Type": "hungarian",
     "StateId": "154",
     "Provinces": [
       {
         "Id": "11659",
         "Name": "Debrecen"
       }
-    ],
-    "Flag": "state_name_hungarian"
+    ]
   },
   {
-    "Type": "apply_name_hungarian",
+    "Type": "hungarian",
     "StateId": "84",
     "Provinces": [
       {
         "Id": "690",
         "Name": "Brassó"
       }
-    ],
-    "Flag": "state_name_hungarian"
+    ]
   },
   {
-    "Type": "apply_name_hungarian",
+    "Type": "hungarian",
     "StateId": "82",
     "Provinces": [
       {
         "Id": "9606",
         "Name": "Temesvár"
       }
-    ],
-    "Flag": "state_name_hungarian"
+    ]
   },
   {
-    "Type": "apply_name_hungarian",
+    "Type": "hungarian",
     "StateId": "83",
     "Provinces": [
       {
         "Id": "6682",
         "Name": "Arad"
       }
-    ],
-    "Flag": "state_name_hungarian"
+    ]
   },
   {
-    "Type": "apply_name_hungarian",
+    "Type": "hungarian",
     "StateId": "76",
     "Provinces": [
       {
         "Id": "6711",
         "Name": "Kolozsvár"
       }
-    ],
-    "Flag": "state_name_hungarian"
+    ]
   },
   {
-    "Type": "apply_name_hungarian",
+    "Type": "hungarian",
     "StateId": "70",
     "Provinces": [
       {
@@ -5059,66 +4679,60 @@
         "Id": "11539",
         "Name": "Zsolna"
       }
-    ],
-    "Flag": "state_name_hungarian"
+    ]
   },
   {
-    "Type": "apply_name_hungarian",
+    "Type": "hungarian",
     "StateId": "664",
     "Provinces": [
       {
         "Id": "6573",
         "Name": "Kassa"
       }
-    ],
-    "Flag": "state_name_hungarian"
+    ]
   },
   {
-    "Type": "apply_name_hungarian",
+    "Type": "hungarian",
     "StateId": "71",
     "Provinces": [
       {
         "Id": "3581",
         "Name": "Eperjes"
       }
-    ],
-    "Flag": "state_name_hungarian"
+    ]
   },
   {
-    "Type": "apply_name_hungarian",
+    "Type": "hungarian",
     "StateId": "73",
     "Provinces": [
       {
         "Id": "3548",
         "Name": "Munkács"
       }
-    ],
-    "Flag": "state_name_hungarian"
+    ]
   },
   {
-    "Type": "apply_name_hungarian",
+    "Type": "hungarian",
     "StateId": "764",
     "Provinces": [
       {
         "Id": "3614",
         "Name": "Pancsova"
       }
-    ],
-    "Flag": "state_name_hungarian"
+    ]
   },
   {
-    "Type": "apply_name_hungarian",
+    "Type": "hungarian",
     "StateId": "45",
     "Provinces": [
       {
         "Id": "619",
         "Name": "Újvidék"
       }
-    ],
-    "Flag": "state_name_hungarian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "2",
     "Provinces": [
       {
@@ -5129,22 +4743,20 @@
         "Id": "11846",
         "Name": "Anzio"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "157",
     "Provinces": [
       {
         "Id": "925",
         "Name": "Ancona"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "162",
     "Provinces": [
       {
@@ -5159,22 +4771,20 @@
         "Id": "6973",
         "Name": "La Spezia"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "161",
     "Provinces": [
       {
         "Id": "6606",
         "Name": "Bologna"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "158",
     "Provinces": [
       {
@@ -5185,77 +4795,70 @@
         "Id": "6788",
         "Name": "Genova"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "159",
     "Provinces": [
       {
         "Id": "3780",
         "Name": "Milano"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "160",
     "Provinces": [
       {
         "Id": "11584",
         "Name": "Venezia"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "39",
     "Provinces": [
       {
         "Id": "11598",
         "Name": "Bolzano"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "736",
     "Provinces": [
       {
         "Id": "6626",
         "Name": "Trieste"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "117",
     "Provinces": [
       {
         "Id": "819",
         "Name": "Napoli"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "156",
     "Provinces": [
       {
         "Id": "11837",
         "Name": "Taranto"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "115",
     "Provinces": [
       {
@@ -5266,124 +4869,110 @@
         "Id": "4519",
         "Name": "Messina"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "114",
     "Provinces": [
       {
         "Id": "11773",
         "Name": "Cagliari"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "163",
-    "Provinces": [],
-    "Flag": "state_name_italian"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "164",
     "Provinces": [
       {
         "Id": "10007",
         "Name": "Rodi"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "448",
     "Provinces": [
       {
         "Id": "1149",
         "Name": "Tripoli"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "661",
-    "Provinces": [],
-    "Flag": "state_name_italian"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "449",
-    "Provinces": [],
-    "Flag": "state_name_italian"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "662",
-    "Provinces": [],
-    "Flag": "state_name_italian"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "450",
     "Provinces": [
       {
         "Id": "11954",
         "Name": "Bengasi"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "451",
     "Provinces": [
       {
         "Id": "1130",
         "Name": "Tobruk"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "663",
-    "Provinces": [],
-    "Flag": "state_name_italian"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "273",
-    "Provinces": [],
-    "Flag": "state_name_italian"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "550",
     "Provinces": [
       {
         "Id": "12766",
         "Name": "Asmara"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "559",
     "Provinces": [
       {
         "Id": "12991",
         "Name": "Mogadiscio"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "44",
     "Provinces": [
       {
@@ -5394,22 +4983,20 @@
         "Id": "11767",
         "Name": "Vallona"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "805",
     "Provinces": [
       {
         "Id": "914",
         "Name": "Argirocastro"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "47",
     "Provinces": [
       {
@@ -5428,11 +5015,10 @@
         "Id": "3973",
         "Name": "Lárisa"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "186",
     "Provinces": [
       {
@@ -5447,11 +5033,10 @@
         "Id": "7211",
         "Name": "Kalamáta"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "185",
     "Provinces": [
       {
@@ -5466,33 +5051,30 @@
         "Id": "10203",
         "Name": "Corcira"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "731",
     "Provinces": [
       {
         "Id": "11818",
         "Name": "Salonicco"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "184",
     "Provinces": [
       {
         "Id": "11905",
         "Name": "Alessandropoli"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "187",
     "Provinces": [
       {
@@ -5503,11 +5085,10 @@
         "Id": "8435",
         "Name": "Mytilíni"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "182",
     "Provinces": [
       {
@@ -5518,99 +5099,90 @@
         "Id": "12058",
         "Name": "La Canea"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "107",
     "Provinces": [
       {
         "Id": "11586",
         "Name": "Belgrado"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "108",
     "Provinces": [
       {
         "Id": "9602",
         "Name": "Naisso"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "764",
     "Provinces": [
       {
         "Id": "3614",
         "Name": "Pancevo"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "45",
     "Provinces": [
       {
         "Id": "619",
         "Name": "Novi Sad"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "803",
     "Provinces": [
       {
         "Id": "11857",
         "Name": "Leskovac"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "802",
     "Provinces": [
       {
         "Id": "6940",
         "Name": "Priština"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "106",
     "Provinces": [
       {
         "Id": "3882",
         "Name": "Skopje"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "105",
     "Provinces": [
       {
         "Id": "9809",
         "Name": "Podgorizza"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "104",
     "Provinces": [
       {
@@ -5621,33 +5193,30 @@
         "Id": "6983",
         "Name": "Banja Luka"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "804",
     "Provinces": [
       {
         "Id": "9894",
         "Name": "Mostar"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "109",
     "Provinces": [
       {
         "Id": "11581",
         "Name": "Zagabria"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "103",
     "Provinces": [
       {
@@ -5662,33 +5231,30 @@
         "Id": "11816",
         "Name": "Ragusa"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_italian",
+    "Type": "italian",
     "StateId": "102",
     "Provinces": [
       {
         "Id": "9627",
         "Name": "Lubiana"
       }
-    ],
-    "Flag": "state_name_italian"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "282",
     "Provinces": [
       {
         "Id": "1182",
         "Name": "Tokyo"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "532",
     "Provinces": [
       {
@@ -5699,44 +5265,40 @@
         "Id": "7087",
         "Name": "Shizuoka"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "531",
     "Provinces": [
       {
         "Id": "7072",
         "Name": "Osaka"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "535",
     "Provinces": [
       {
         "Id": "10032",
         "Name": "Kanazawa"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "534",
     "Provinces": [
       {
         "Id": "1117",
         "Name": "Niigata"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "533",
     "Provinces": [
       {
@@ -5747,11 +5309,10 @@
         "Id": "6994",
         "Name": "Aomori"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "536",
     "Provinces": [
       {
@@ -5762,33 +5323,30 @@
         "Id": "12421",
         "Name": "Asahigawa"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "529",
     "Provinces": [
       {
         "Id": "1092",
         "Name": "Hiroshima"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "530",
     "Provinces": [
       {
         "Id": "7197",
         "Name": "Kochi"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "532",
     "Provinces": [
       {
@@ -5803,39 +5361,35 @@
         "Id": "4102",
         "Name": "Kagoshima"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "526",
     "Provinces": [
       {
         "Id": "11932",
         "Name": "Naha"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "555",
-    "Provinces": [],
-    "Flag": "state_name_japanese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "537",
     "Provinces": [
       {
         "Id": "12446",
         "Name": "Toyohara"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "525",
     "Provinces": [
       {
@@ -5846,22 +5400,20 @@
         "Id": "4056",
         "Name": "Fusan"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "527",
     "Provinces": [
       {
         "Id": "4052",
         "Name": "Heijo"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "613",
     "Provinces": [
       {
@@ -5876,67 +5428,60 @@
         "Id": "7014",
         "Name": "Shanhai"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "598",
-    "Provinces": [],
-    "Flag": "state_name_japanese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "606",
     "Provinces": [
       {
         "Id": "7222",
         "Name": "Gōhi"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "607",
     "Provinces": [
       {
         "Id": "9958",
         "Name": "Teishū"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "597",
     "Provinces": [
       {
         "Id": "1069",
         "Name": "Seinan"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "743",
     "Provinces": [
       {
         "Id": "10000",
         "Name": "Chintao"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "614",
-    "Provinces": [],
-    "Flag": "state_name_japanese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "608",
     "Provinces": [
       {
@@ -5947,55 +5492,50 @@
         "Id": "10068",
         "Name": "Ta Jin"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "744",
     "Provinces": [
       {
         "Id": "7418",
         "Name": "Seian"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "620",
     "Provinces": [
       {
         "Id": "4619",
         "Name": "Bukan"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "600",
     "Provinces": [
       {
         "Id": "3992",
         "Name": "Nanshō"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "749",
     "Provinces": [
       {
         "Id": "12019",
         "Name": "Kōsan"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "596",
     "Provinces": [
       {
@@ -6006,11 +5546,10 @@
         "Id": "9974",
         "Name": "Ninpō"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "595",
     "Provinces": [
       {
@@ -6021,33 +5560,30 @@
         "Id": "7071",
         "Name": "Shiamen"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "602",
     "Provinces": [
       {
         "Id": "7097",
         "Name": "Changsha"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "750",
     "Provinces": [
       {
         "Id": "7101",
         "Name": "Jōtoku"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "605",
     "Provinces": [
       {
@@ -6058,33 +5594,30 @@
         "Id": "4925",
         "Name": "Seito"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "748",
     "Provinces": [
       {
         "Id": "1010",
         "Name": "Jun Yoshi"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "603",
     "Provinces": [
       {
         "Id": "4504",
         "Name": "Guizhou"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "751",
     "Provinces": [
       {
@@ -6095,270 +5628,240 @@
         "Id": "7294",
         "Name": "Ryōsan"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "752",
     "Provinces": [
       {
         "Id": "4999",
         "Name": "Kangding"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "601",
     "Provinces": [
       {
         "Id": "10856",
         "Name": "Shando"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "615",
     "Provinces": [
       {
         "Id": "1519",
         "Name": "Tahara"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "621",
-    "Provinces": [],
-    "Flag": "state_name_japanese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "746",
-    "Provinces": [],
-    "Flag": "state_name_japanese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "621",
     "Provinces": [
       {
         "Id": "8049",
         "Name": "Y'Anan"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "283",
-    "Provinces": [],
-    "Flag": "state_name_japanese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "616",
-    "Provinces": [],
-    "Flag": "state_name_japanese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "756",
-    "Provinces": [],
-    "Flag": "state_name_japanese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "754",
     "Provinces": [
       {
         "Id": "12732",
         "Name": "Lanzhou"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "753",
     "Provinces": [
       {
         "Id": "2045",
         "Name": "Tansui"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "755",
-    "Provinces": [],
-    "Flag": "state_name_japanese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "756",
     "Provinces": [
       {
         "Id": "7940",
         "Name": "Golmud"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "760",
-    "Provinces": [],
-    "Flag": "state_name_japanese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "759",
-    "Provinces": [],
-    "Flag": "state_name_japanese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "287",
-    "Provinces": [],
-    "Flag": "state_name_japanese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "619",
     "Provinces": [
       {
         "Id": "2015",
         "Name": "Kashgar"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "617",
     "Provinces": [
       {
         "Id": "4709",
         "Name": "Urumqi"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "619",
     "Provinces": [
       {
         "Id": "4823",
         "Name": "Altay"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "325",
     "Provinces": [
       {
         "Id": "1319",
         "Name": "Konmei"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "747",
     "Provinces": [
       {
         "Id": "7965",
         "Name": "Dari"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "593",
-    "Provinces": [],
-    "Flag": "state_name_japanese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "599",
     "Provinces": [
       {
         "Id": "10404",
         "Name": "Kei-rin"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "592",
     "Provinces": [
       {
         "Id": "1047",
         "Name": "Kōshū"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "594",
     "Provinces": [
       {
         "Id": "7137",
         "Name": "Nan'nei"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "591",
     "Provinces": [
       {
         "Id": "1070",
         "Name": "Haikou"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "610",
-    "Provinces": [],
-    "Flag": "state_name_japanese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "715",
-    "Provinces": [],
-    "Flag": "state_name_japanese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "716",
     "Provinces": [
       {
         "Id": "11771",
         "Name": "Hoten"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "328",
     "Provinces": [
       {
@@ -6369,29 +5872,25 @@
         "Id": "4572",
         "Name": "Shinkingu"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "717",
-    "Provinces": [],
-    "Flag": "state_name_japanese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "714",
-    "Provinces": [],
-    "Flag": "state_name_japanese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "761",
-    "Provinces": [],
-    "Flag": "state_name_japanese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "524",
     "Provinces": [
       {
@@ -6402,39 +5901,35 @@
         "Id": "12068",
         "Name": "Takao"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "609",
-    "Provinces": [],
-    "Flag": "state_name_japanese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_japanese",
+    "Type": "japanese",
     "StateId": "745",
     "Provinces": [
       {
         "Id": "1150",
         "Name": "Dalian"
       }
-    ],
-    "Flag": "state_name_japanese"
+    ]
   },
   {
-    "Type": "apply_name_korean",
+    "Type": "korean",
     "StateId": "527",
     "Provinces": [
       {
         "Id": "4052",
         "Name": "Pyongyang"
       }
-    ],
-    "Flag": "state_name_korean"
+    ]
   },
   {
-    "Type": "apply_name_korean",
+    "Type": "korean",
     "StateId": "525",
     "Provinces": [
       {
@@ -6445,33 +5940,30 @@
         "Id": "4056",
         "Name": "Pusan"
       }
-    ],
-    "Flag": "state_name_korean"
+    ]
   },
   {
-    "Type": "apply_name_latvian",
+    "Type": "latvian",
     "StateId": "808",
     "Provinces": [
       {
         "Id": "9340",
         "Name": "Rīga"
       }
-    ],
-    "Flag": "state_name_latvian"
+    ]
   },
   {
-    "Type": "apply_name_latvian",
+    "Type": "latvian",
     "StateId": "12",
     "Provinces": [
       {
         "Id": "10493",
         "Name": "Valmiera"
       }
-    ],
-    "Flag": "state_name_latvian"
+    ]
   },
   {
-    "Type": "apply_name_latvian",
+    "Type": "latvian",
     "StateId": "810",
     "Provinces": [
       {
@@ -6482,11 +5974,10 @@
         "Id": "310",
         "Name": "Daugavpils"
       }
-    ],
-    "Flag": "state_name_latvian"
+    ]
   },
   {
-    "Type": "apply_name_latvian",
+    "Type": "latvian",
     "StateId": "809",
     "Provinces": [
       {
@@ -6497,11 +5988,10 @@
         "Id": "6222",
         "Name": "Jelgava"
       }
-    ],
-    "Flag": "state_name_latvian"
+    ]
   },
   {
-    "Type": "apply_name_latvian",
+    "Type": "latvian",
     "StateId": "190",
     "Provinces": [
       {
@@ -6512,11 +6002,10 @@
         "Id": "9262",
         "Name": "Liepāja"
       }
-    ],
-    "Flag": "state_name_latvian"
+    ]
   },
   {
-    "Type": "apply_name_lithuanian",
+    "Type": "lithuanian",
     "StateId": "11",
     "Provinces": [
       {
@@ -6527,33 +6016,30 @@
         "Id": "9357",
         "Name": "Ukmergė"
       }
-    ],
-    "Flag": "state_name_lithuanian"
+    ]
   },
   {
-    "Type": "apply_name_lithuanian",
+    "Type": "lithuanian",
     "StateId": "814",
     "Provinces": [
       {
         "Id": "11312",
         "Name": "Marijampolė"
       }
-    ],
-    "Flag": "state_name_lithuanian"
+    ]
   },
   {
-    "Type": "apply_name_lithuanian",
+    "Type": "lithuanian",
     "StateId": "815",
     "Provinces": [
       {
         "Id": "6229",
         "Name": "Panevėžys"
       }
-    ],
-    "Flag": "state_name_lithuanian"
+    ]
   },
   {
-    "Type": "apply_name_lithuanian",
+    "Type": "lithuanian",
     "StateId": "189",
     "Provinces": [
       {
@@ -6564,44 +6050,40 @@
         "Id": "6314",
         "Name": "Palanga"
       }
-    ],
-    "Flag": "state_name_lithuanian"
+    ]
   },
   {
-    "Type": "apply_name_lithuanian",
+    "Type": "lithuanian",
     "StateId": "188",
     "Provinces": [
       {
         "Id": "3288",
         "Name": "Klaipėda"
       }
-    ],
-    "Flag": "state_name_lithuanian"
+    ]
   },
   {
-    "Type": "apply_name_lithuanian",
+    "Type": "lithuanian",
     "StateId": "784",
     "Provinces": [
       {
         "Id": "3320",
         "Name": "Vilnius"
       }
-    ],
-    "Flag": "state_name_lithuanian"
+    ]
   },
   {
-    "Type": "apply_name_luxembourgish",
+    "Type": "luxembourgish",
     "StateId": "8",
     "Provinces": [
       {
         "Id": "6583",
         "Name": "Lëtzebuerg"
       }
-    ],
-    "Flag": "state_name_luxembourgish"
+    ]
   },
   {
-    "Type": "apply_name_dutch",
+    "Type": "dutch",
     "StateId": "7",
     "Provinces": [
       {
@@ -6616,11 +6098,10 @@
         "Id": "3211",
         "Name": "Den Haag"
       }
-    ],
-    "Flag": "state_name_dutch"
+    ]
   },
   {
-    "Type": "apply_name_dutch",
+    "Type": "dutch",
     "StateId": "36",
     "Provinces": [
       {
@@ -6639,11 +6120,10 @@
         "Id": "9335",
         "Name": "Groningen"
       }
-    ],
-    "Flag": "state_name_dutch"
+    ]
   },
   {
-    "Type": "apply_name_dutch",
+    "Type": "dutch",
     "StateId": "35",
     "Provinces": [
       {
@@ -6658,33 +6138,30 @@
         "Id": "11562",
         "Name": "Maastricht"
       }
-    ],
-    "Flag": "state_name_dutch"
+    ]
   },
   {
-    "Type": "apply_name_dutch",
+    "Type": "dutch",
     "StateId": "309",
     "Provinces": [
       {
         "Id": "10906",
         "Name": "Paramaribo"
       }
-    ],
-    "Flag": "state_name_dutch"
+    ]
   },
   {
-    "Type": "apply_name_dutch",
+    "Type": "dutch",
     "StateId": "695",
     "Provinces": [
       {
         "Id": "153",
         "Name": "Willemstad"
       }
-    ],
-    "Flag": "state_name_dutch"
+    ]
   },
   {
-    "Type": "apply_name_dutch",
+    "Type": "dutch",
     "StateId": "6",
     "Provinces": [
       {
@@ -6707,11 +6184,10 @@
         "Id": "3576",
         "Name": "Kortrjik"
       }
-    ],
-    "Flag": "state_name_dutch"
+    ]
   },
   {
-    "Type": "apply_name_dutch",
+    "Type": "dutch",
     "StateId": "34",
     "Provinces": [
       {
@@ -6726,33 +6202,30 @@
         "Id": "11519",
         "Name": "Luik"
       }
-    ],
-    "Flag": "state_name_dutch"
+    ]
   },
   {
-    "Type": "apply_name_dutch",
+    "Type": "dutch",
     "StateId": "8",
     "Provinces": [
       {
         "Id": "6583",
         "Name": "Luxemburg"
       }
-    ],
-    "Flag": "state_name_dutch"
+    ]
   },
   {
-    "Type": "apply_name_norwegian",
+    "Type": "norwegian",
     "StateId": "110",
     "Provinces": [
       {
         "Id": "6115",
         "Name": "Oslo"
       }
-    ],
-    "Flag": "state_name_norwegian"
+    ]
   },
   {
-    "Type": "apply_name_norwegian",
+    "Type": "norwegian",
     "StateId": "142",
     "Provinces": [
       {
@@ -6767,22 +6240,20 @@
         "Id": "122",
         "Name": "Bergen"
       }
-    ],
-    "Flag": "state_name_norwegian"
+    ]
   },
   {
-    "Type": "apply_name_norwegian",
+    "Type": "norwegian",
     "StateId": "143",
     "Provinces": [
       {
         "Id": "3022",
         "Name": "Trondheim"
       }
-    ],
-    "Flag": "state_name_norwegian"
+    ]
   },
   {
-    "Type": "apply_name_norwegian",
+    "Type": "norwegian",
     "StateId": "144",
     "Provinces": [
       {
@@ -6797,11 +6268,10 @@
         "Id": "9116",
         "Name": "Kirkenes"
       }
-    ],
-    "Flag": "state_name_norwegian"
+    ]
   },
   {
-    "Type": "apply_name_polish",
+    "Type": "polish",
     "StateId": "10",
     "Provinces": [
       {
@@ -6812,22 +6282,20 @@
         "Id": "402",
         "Name": "Siedlce"
       }
-    ],
-    "Flag": "state_name_polish"
+    ]
   },
   {
-    "Type": "apply_name_polish",
+    "Type": "polish",
     "StateId": "87",
     "Provinces": [
       {
         "Id": "9508",
         "Name": "Łódź"
       }
-    ],
-    "Flag": "state_name_polish"
+    ]
   },
   {
-    "Type": "apply_name_polish",
+    "Type": "polish",
     "StateId": "90",
     "Provinces": [
       {
@@ -6838,11 +6306,10 @@
         "Id": "3458",
         "Name": "Radom"
       }
-    ],
-    "Flag": "state_name_polish"
+    ]
   },
   {
-    "Type": "apply_name_polish",
+    "Type": "polish",
     "StateId": "88",
     "Provinces": [
       {
@@ -6857,22 +6324,20 @@
         "Id": "9494",
         "Name": "Zamość "
       }
-    ],
-    "Flag": "state_name_polish"
+    ]
   },
   {
-    "Type": "apply_name_polish",
+    "Type": "polish",
     "StateId": "92",
     "Provinces": [
       {
         "Id": "11399",
         "Name": "Lublin"
       }
-    ],
-    "Flag": "state_name_polish"
+    ]
   },
   {
-    "Type": "apply_name_polish",
+    "Type": "polish",
     "StateId": "97",
     "Provinces": [
       {
@@ -6883,44 +6348,40 @@
         "Id": "3254",
         "Name": "Suwałki"
       }
-    ],
-    "Flag": "state_name_polish"
+    ]
   },
   {
-    "Type": "apply_name_polish",
+    "Type": "polish",
     "StateId": "762",
     "Provinces": [
       {
         "Id": "6464",
         "Name": "Katowice"
       }
-    ],
-    "Flag": "state_name_polish"
+    ]
   },
   {
-    "Type": "apply_name_polish",
+    "Type": "polish",
     "StateId": "86",
     "Provinces": [
       {
         "Id": "6558",
         "Name": "Poznań"
       }
-    ],
-    "Flag": "state_name_polish"
+    ]
   },
   {
-    "Type": "apply_name_polish",
+    "Type": "polish",
     "StateId": "98",
     "Provinces": [
       {
         "Id": "3230",
         "Name": "Płock"
       }
-    ],
-    "Flag": "state_name_polish"
+    ]
   },
   {
-    "Type": "apply_name_polish",
+    "Type": "polish",
     "StateId": "807",
     "Provinces": [
       {
@@ -6935,44 +6396,40 @@
         "Id": "3295",
         "Name": "Toruń"
       }
-    ],
-    "Flag": "state_name_polish"
+    ]
   },
   {
-    "Type": "apply_name_polish",
+    "Type": "polish",
     "StateId": "85",
     "Provinces": [
       {
         "Id": "362",
         "Name": "Gdańsk"
       }
-    ],
-    "Flag": "state_name_polish"
+    ]
   },
   {
-    "Type": "apply_name_polish",
+    "Type": "polish",
     "StateId": "89",
     "Provinces": [
       {
         "Id": "11411",
         "Name": "Stanisławów"
       }
-    ],
-    "Flag": "state_name_polish"
+    ]
   },
   {
-    "Type": "apply_name_polish",
+    "Type": "polish",
     "StateId": "91",
     "Provinces": [
       {
         "Id": "11479",
         "Name": "Lwów"
       }
-    ],
-    "Flag": "state_name_polish"
+    ]
   },
   {
-    "Type": "apply_name_polish",
+    "Type": "polish",
     "StateId": "93",
     "Provinces": [
       {
@@ -6983,11 +6440,10 @@
         "Id": "6557",
         "Name": "Równe"
       }
-    ],
-    "Flag": "state_name_polish"
+    ]
   },
   {
-    "Type": "apply_name_polish",
+    "Type": "polish",
     "StateId": "94",
     "Provinces": [
       {
@@ -6998,11 +6454,10 @@
         "Id": "3392",
         "Name": "Brześć Litewski"
       }
-    ],
-    "Flag": "state_name_polish"
+    ]
   },
   {
-    "Type": "apply_name_polish",
+    "Type": "polish",
     "StateId": "95",
     "Provinces": [
       {
@@ -7013,33 +6468,30 @@
         "Id": "3393",
         "Name": "Grodno"
       }
-    ],
-    "Flag": "state_name_polish"
+    ]
   },
   {
-    "Type": "apply_name_polish",
+    "Type": "polish",
     "StateId": "96",
     "Provinces": [
       {
         "Id": "406",
         "Name": "Mołodeczno"
       }
-    ],
-    "Flag": "state_name_polish"
+    ]
   },
   {
-    "Type": "apply_name_polish",
+    "Type": "polish",
     "StateId": "784",
     "Provinces": [
       {
         "Id": "3320",
         "Name": "Wilno"
       }
-    ],
-    "Flag": "state_name_polish"
+    ]
   },
   {
-    "Type": "apply_name_polish",
+    "Type": "polish",
     "StateId": "63",
     "Provinces": [
       {
@@ -7050,33 +6502,30 @@
         "Id": "11372",
         "Name": "Koszalin"
       }
-    ],
-    "Flag": "state_name_polish"
+    ]
   },
   {
-    "Type": "apply_name_polish",
+    "Type": "polish",
     "StateId": "68",
     "Provinces": [
       {
         "Id": "3473",
         "Name": "Kostrzyn"
       }
-    ],
-    "Flag": "state_name_polish"
+    ]
   },
   {
-    "Type": "apply_name_polish",
+    "Type": "polish",
     "StateId": "66",
     "Provinces": [
       {
         "Id": "9570",
         "Name": "Wrocław"
       }
-    ],
-    "Flag": "state_name_polish"
+    ]
   },
   {
-    "Type": "apply_name_polish",
+    "Type": "polish",
     "StateId": "67",
     "Provinces": [
       {
@@ -7087,33 +6536,30 @@
         "Id": "9511",
         "Name": "Opole"
       }
-    ],
-    "Flag": "state_name_polish"
+    ]
   },
   {
-    "Type": "apply_name_polish",
+    "Type": "polish",
     "StateId": "5",
     "Provinces": [
       {
         "Id": "6375",
         "Name": "Olsztyn"
       }
-    ],
-    "Flag": "state_name_polish"
+    ]
   },
   {
-    "Type": "apply_name_polish",
+    "Type": "polish",
     "StateId": "763",
     "Provinces": [
       {
         "Id": "6332",
         "Name": "Królewiec"
       }
-    ],
-    "Flag": "state_name_polish"
+    ]
   },
   {
-    "Type": "apply_name_portuguese",
+    "Type": "portuguese",
     "StateId": "112",
     "Provinces": [
       {
@@ -7124,11 +6570,10 @@
         "Id": "3798",
         "Name": "Coimbra"
       }
-    ],
-    "Flag": "state_name_portuguese"
+    ]
   },
   {
-    "Type": "apply_name_portuguese",
+    "Type": "portuguese",
     "StateId": "181",
     "Provinces": [
       {
@@ -7139,11 +6584,10 @@
         "Id": "9787",
         "Name": "Viseu"
       }
-    ],
-    "Flag": "state_name_portuguese"
+    ]
   },
   {
-    "Type": "apply_name_portuguese",
+    "Type": "portuguese",
     "StateId": "180",
     "Provinces": [
       {
@@ -7154,11 +6598,10 @@
         "Id": "11673",
         "Name": "Braga"
       }
-    ],
-    "Flag": "state_name_portuguese"
+    ]
   },
   {
-    "Type": "apply_name_portuguese",
+    "Type": "portuguese",
     "StateId": "795",
     "Provinces": [
       {
@@ -7169,11 +6612,10 @@
         "Id": "9869",
         "Name": "Évora"
       }
-    ],
-    "Flag": "state_name_portuguese"
+    ]
   },
   {
-    "Type": "apply_name_portuguese",
+    "Type": "portuguese",
     "StateId": "179",
     "Provinces": [
       {
@@ -7192,67 +6634,60 @@
         "Id": "6880",
         "Name": "Faro"
       }
-    ],
-    "Flag": "state_name_portuguese"
+    ]
   },
   {
-    "Type": "apply_name_portuguese",
+    "Type": "portuguese",
     "StateId": "698",
     "Provinces": [
       {
         "Id": "1751",
         "Name": "Ponta Delgada"
       }
-    ],
-    "Flag": "state_name_portuguese"
+    ]
   },
   {
-    "Type": "apply_name_portuguese",
+    "Type": "portuguese",
     "StateId": "697",
     "Provinces": [
       {
         "Id": "3118",
         "Name": "Funchal"
       }
-    ],
-    "Flag": "state_name_portuguese"
+    ]
   },
   {
-    "Type": "apply_name_portuguese",
+    "Type": "portuguese",
     "StateId": "702",
-    "Provinces": [],
-    "Flag": "state_name_portuguese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_portuguese",
+    "Type": "portuguese",
     "StateId": "296",
     "Provinces": [
       {
         "Id": "12891",
         "Name": "Bissau"
       }
-    ],
-    "Flag": "state_name_portuguese"
+    ]
   },
   {
-    "Type": "apply_name_portuguese",
+    "Type": "portuguese",
     "StateId": "705",
-    "Provinces": [],
-    "Flag": "state_name_portuguese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_portuguese",
+    "Type": "portuguese",
     "StateId": "796",
     "Provinces": [
       {
         "Id": "2115",
         "Name": "Namibe"
       }
-    ],
-    "Flag": "state_name_portuguese"
+    ]
   },
   {
-    "Type": "apply_name_portuguese",
+    "Type": "portuguese",
     "StateId": "540",
     "Provinces": [
       {
@@ -7263,39 +6698,35 @@
         "Id": "10966",
         "Name": "Nova Lisboa"
       }
-    ],
-    "Flag": "state_name_portuguese"
+    ]
   },
   {
-    "Type": "apply_name_portuguese",
+    "Type": "portuguese",
     "StateId": "544",
     "Provinces": [
       {
         "Id": "8245",
         "Name": "Lourenço Marques"
       }
-    ],
-    "Flag": "state_name_portuguese"
+    ]
   },
   {
-    "Type": "apply_name_portuguese",
+    "Type": "portuguese",
     "StateId": "721",
-    "Provinces": [],
-    "Flag": "state_name_portuguese"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_portuguese",
+    "Type": "portuguese",
     "StateId": "729",
     "Provinces": [
       {
         "Id": "4189",
         "Name": "Macau"
       }
-    ],
-    "Flag": "state_name_portuguese"
+    ]
   },
   {
-    "Type": "apply_name_portuguese",
+    "Type": "portuguese",
     "StateId": "171",
     "Provinces": [
       {
@@ -7306,11 +6737,10 @@
         "Id": "6734",
         "Name": "Vigo"
       }
-    ],
-    "Flag": "state_name_portuguese"
+    ]
   },
   {
-    "Type": "apply_name_romanian",
+    "Type": "romanian",
     "StateId": "46",
     "Provinces": [
       {
@@ -7325,33 +6755,30 @@
         "Id": "657",
         "Name": "Constanta"
       }
-    ],
-    "Flag": "state_name_romanian"
+    ]
   },
   {
-    "Type": "apply_name_romanian",
+    "Type": "romanian",
     "StateId": "77",
     "Provinces": [
       {
         "Id": "11597",
         "Name": "Dobrici"
       }
-    ],
-    "Flag": "state_name_romanian"
+    ]
   },
   {
-    "Type": "apply_name_romanian",
+    "Type": "romanian",
     "StateId": "81",
     "Provinces": [
       {
         "Id": "6652",
         "Name": "Craiova"
       }
-    ],
-    "Flag": "state_name_romanian"
+    ]
   },
   {
-    "Type": "apply_name_romanian",
+    "Type": "romanian",
     "StateId": "79",
     "Provinces": [
       {
@@ -7362,88 +6789,80 @@
         "Id": "9716",
         "Name": "Iasi"
       }
-    ],
-    "Flag": "state_name_romanian"
+    ]
   },
   {
-    "Type": "apply_name_romanian",
+    "Type": "romanian",
     "StateId": "84",
     "Provinces": [
       {
         "Id": "690",
         "Name": "Brasov"
       }
-    ],
-    "Flag": "state_name_romanian"
+    ]
   },
   {
-    "Type": "apply_name_romanian",
+    "Type": "romanian",
     "StateId": "82",
     "Provinces": [
       {
         "Id": "9606",
         "Name": "Timisoara"
       }
-    ],
-    "Flag": "state_name_romanian"
+    ]
   },
   {
-    "Type": "apply_name_romanian",
+    "Type": "romanian",
     "StateId": "83",
     "Provinces": [
       {
         "Id": "6682",
         "Name": "Arad"
       }
-    ],
-    "Flag": "state_name_romanian"
+    ]
   },
   {
-    "Type": "apply_name_romanian",
+    "Type": "romanian",
     "StateId": "76",
     "Provinces": [
       {
         "Id": "6711",
         "Name": "Cluj-Napoca"
       }
-    ],
-    "Flag": "state_name_romanian"
+    ]
   },
   {
-    "Type": "apply_name_romanian",
+    "Type": "romanian",
     "StateId": "80",
     "Provinces": [
       {
         "Id": "577",
         "Name": "Cernăuti"
       }
-    ],
-    "Flag": "state_name_romanian"
+    ]
   },
   {
-    "Type": "apply_name_romanian",
+    "Type": "romanian",
     "StateId": "78",
     "Provinces": [
       {
         "Id": "3707",
         "Name": "Chisinău"
       }
-    ],
-    "Flag": "state_name_romanian"
+    ]
   },
   {
-    "Type": "apply_name_romanian",
+    "Type": "romanian",
     "StateId": "766",
     "Provinces": [
       {
         "Id": "6727",
         "Name": "Cetatea Albă"
       }
-    ],
-    "Flag": "state_name_romanian"
+    ]
   },
   {
-    "Type": "apply_name_romanian",
+    "Type": "romanian",
     "StateId": "834",
     "Provinces": [
       {
@@ -7454,297 +6873,270 @@
         "Id": "3757",
         "Name": "Balta"
       }
-    ],
-    "Flag": "state_name_romanian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "219",
     "Provinces": [
       {
         "Id": "6380",
         "Name": "Moskva"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "242",
     "Provinces": [
       {
         "Id": "306",
         "Name": "Smolensk"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "243",
     "Provinces": [
       {
         "Id": "11336",
         "Name": "Roslavl"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "205",
     "Provinces": [
       {
         "Id": "382",
         "Name": "Kaluga"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "224",
     "Provinces": [
       {
         "Id": "3335",
         "Name": "Bryansk"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "223",
     "Provinces": [
       {
         "Id": "6262",
         "Name": "Tula"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "254",
     "Provinces": [
       {
         "Id": "11248",
         "Name": "Ryazan"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "222",
     "Provinces": [
       {
         "Id": "9355",
         "Name": "Oryol"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "258",
     "Provinces": [
       {
         "Id": "6398",
         "Name": "Lipetsk"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "257",
     "Provinces": [
       {
         "Id": "11351",
         "Name": "Tambov"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "220",
     "Provinces": [
       {
         "Id": "3580",
         "Name": "Kursk"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "260",
     "Provinces": [
       {
         "Id": "413",
         "Name": "Voronezh"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "240",
     "Provinces": [
       {
         "Id": "9449",
         "Name": "Belgorod"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "253",
     "Provinces": [
       {
         "Id": "6269",
         "Name": "Ivanovo"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "252",
     "Provinces": [
       {
         "Id": "11375",
         "Name": "Gorky"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "833",
     "Provinces": [
       {
         "Id": "9402",
         "Name": "Yoshkar-Ola"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "256",
     "Provinces": [
       {
         "Id": "9259",
         "Name": "Cheboksary"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "255",
     "Provinces": [
       {
         "Id": "9258",
         "Name": "Penza"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "250",
     "Provinces": [
       {
         "Id": "392",
         "Name": "Ulyanovsk"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "218",
     "Provinces": [
       {
         "Id": "9417",
         "Name": "Rostov-on-Don"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "245",
     "Provinces": [
       {
         "Id": "11476",
         "Name": "Millerovo"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "238",
     "Provinces": [
       {
         "Id": "775",
         "Name": "Salsk"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "237",
     "Provinces": [
       {
         "Id": "11724",
         "Name": "Elista"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "217",
     "Provinces": [
       {
         "Id": "3529",
         "Name": "Stalingrad"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "236",
     "Provinces": [
       {
         "Id": "9753",
         "Name": "Astrakhan"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "265",
     "Provinces": [
       {
         "Id": "487",
         "Name": "Mikhaylovka"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "829",
     "Provinces": [
       {
@@ -7755,33 +7147,30 @@
         "Id": "9432",
         "Name": "Marks"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "239",
     "Provinces": [
       {
         "Id": "3578",
         "Name": "Saratov"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "401",
     "Provinces": [
       {
         "Id": "3578",
         "Name": "Balakovo"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "137",
     "Provinces": [
       {
@@ -7796,11 +7185,10 @@
         "Id": "9680",
         "Name": "Kerch"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "234",
     "Provinces": [
       {
@@ -7815,88 +7203,80 @@
         "Id": "719",
         "Name": "Novorossiysk"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "233",
     "Provinces": [
       {
         "Id": "9663",
         "Name": "Sochi"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "235",
     "Provinces": [
       {
         "Id": "11696",
         "Name": "Stavropol"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "827",
     "Provinces": [
       {
         "Id": "11614",
         "Name": "Nalchik"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "828",
     "Provinces": [
       {
         "Id": "9628",
         "Name": "Ordzhonikidze"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "821",
     "Provinces": [
       {
         "Id": "3672",
         "Name": "Grozny"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "232",
     "Provinces": [
       {
         "Id": "6701",
         "Name": "Makhachkala"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "826",
     "Provinces": [
       {
         "Id": "11617",
         "Name": "Sukhumi"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "231",
     "Provinces": [
       {
@@ -7907,11 +7287,10 @@
         "Id": "3653",
         "Name": "Batumi"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "230",
     "Provinces": [
       {
@@ -7922,11 +7301,10 @@
         "Id": "12441",
         "Name": "Gyumri"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "229",
     "Provinces": [
       {
@@ -7937,143 +7315,130 @@
         "Id": "11674",
         "Name": "Ganja"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "195",
     "Provinces": [
       {
         "Id": "3151",
         "Name": "Leningrad"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "208",
     "Provinces": [
       {
         "Id": "9098",
         "Name": "Luga"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "244",
     "Provinces": [
       {
         "Id": "9197",
         "Name": "Volkhov"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "263",
     "Provinces": [
       {
         "Id": "117",
         "Name": "Novgorod"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "209",
     "Provinces": [
       {
         "Id": "11202",
         "Name": "Pskov"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "210",
     "Provinces": [
       {
         "Id": "11234",
         "Name": "Velikiye Luki"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "246",
     "Provinces": [
       {
         "Id": "11349",
         "Name": "Rzhev"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "264",
     "Provinces": [
       {
         "Id": "3140",
         "Name": "Tikhvin"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "247",
     "Provinces": [
       {
         "Id": "6245",
         "Name": "Kalinin"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "248",
     "Provinces": [
       {
         "Id": "121",
         "Name": "Yaroslavl"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "351",
     "Provinces": [
       {
         "Id": "9131",
         "Name": "Vologda"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "214",
     "Provinces": [
       {
         "Id": "3338",
         "Name": "Arkhangelsk"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "213",
     "Provinces": [
       {
@@ -8084,106 +7449,95 @@
         "Id": "6181",
         "Name": "Kandalaksha"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "215",
-    "Provinces": [],
-    "Flag": "state_name_russian"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "216",
     "Provinces": [
       {
         "Id": "11159",
         "Name": "Petrozavodsk"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "825",
     "Provinces": [
       {
         "Id": "105",
         "Name": "Naryan-Mar"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "262",
-    "Provinces": [],
-    "Flag": "state_name_russian"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "581",
-    "Provinces": [],
-    "Flag": "state_name_russian"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "397",
     "Provinces": [
       {
         "Id": "108",
         "Name": "Syktyvkar"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "399",
     "Provinces": [
       {
         "Id": "6278",
         "Name": "Izhevsk"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "398",
     "Provinces": [
       {
         "Id": "7375",
         "Name": "Perm"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "573",
     "Provinces": [
       {
         "Id": "10329",
         "Name": "Zlatoust"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "249",
     "Provinces": [
       {
         "Id": "6338",
         "Name": "Kazan"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "651",
     "Provinces": [
       {
@@ -8194,72 +7548,65 @@
         "Id": "4354",
         "Name": "Sterlitamak"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "251",
     "Provinces": [
       {
         "Id": "11225",
         "Name": "Kuybyshev"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "652",
-    "Provinces": [],
-    "Flag": "state_name_russian"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "407",
     "Provinces": [
       {
         "Id": "11537",
         "Name": "Ural'sk"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "406",
     "Provinces": [
       {
         "Id": "11537",
         "Name": "Guryev"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "207",
     "Provinces": [
       {
         "Id": "11241",
         "Name": "Vitebsk"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "241",
     "Provinces": [
       {
         "Id": "9288",
         "Name": "Gomel"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "206",
     "Provinces": [
       {
@@ -8270,11 +7617,10 @@
         "Id": "9289",
         "Name": "Mogilev"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "204",
     "Provinces": [
       {
@@ -8285,55 +7631,50 @@
         "Id": "11313",
         "Name": "Soligorsk"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "194",
     "Provinces": [
       {
         "Id": "6232",
         "Name": "Mozyr"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "228",
     "Provinces": [
       {
         "Id": "9461",
         "Name": "Voroshilovgrad"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "227",
     "Provinces": [
       {
         "Id": "6474",
         "Name": "Stalino"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "221",
     "Provinces": [
       {
         "Id": "418",
         "Name": "Kharkov"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "226",
     "Provinces": [
       {
@@ -8344,110 +7685,100 @@
         "Id": "11561",
         "Name": "Krivoy Rog"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "200",
     "Provinces": [
       {
         "Id": "11405",
         "Name": "Zaporozhe"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "196",
     "Provinces": [
       {
         "Id": "721",
         "Name": "Kherson"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "193",
     "Provinces": [
       {
         "Id": "3568",
         "Name": "Chernigov"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "259",
     "Provinces": [
       {
         "Id": "11504",
         "Name": "Poltava"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "202",
     "Provinces": [
       {
         "Id": "525",
         "Name": "Kiev"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "203",
     "Provinces": [
       {
         "Id": "488",
         "Name": "Cherkasy"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "197",
     "Provinces": [
       {
         "Id": "11683",
         "Name": "Mykolaiv"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "201",
     "Provinces": [
       {
         "Id": "6593",
         "Name": "Zhytomyr"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "198",
     "Provinces": [
       {
         "Id": "476",
         "Name": "Vinnytsia"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "834",
     "Provinces": [
       {
@@ -8458,33 +7789,30 @@
         "Id": "741",
         "Name": "Tiraspol"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "192",
     "Provinces": [
       {
         "Id": "11670",
         "Name": "Odesa"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "96",
     "Provinces": [
       {
         "Id": "406",
         "Name": "Molodechno"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "95",
     "Provinces": [
       {
@@ -8495,11 +7823,10 @@
         "Id": "3393",
         "Name": "Hrodna"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "94",
     "Provinces": [
       {
@@ -8510,11 +7837,10 @@
         "Id": "3392",
         "Name": "Brest"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "93",
     "Provinces": [
       {
@@ -8525,88 +7851,80 @@
         "Id": "422",
         "Name": "Kovel"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "91",
     "Provinces": [
       {
         "Id": "11479",
         "Name": "Lvov"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "89",
     "Provinces": [
       {
         "Id": "11411",
         "Name": "Ivano-Frankovsk"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "784",
     "Provinces": [
       {
         "Id": "3320",
         "Name": "Vilnus"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "766",
     "Provinces": [
       {
         "Id": "6727",
         "Name": "Belgorod-Dnestrovskiy"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "80",
     "Provinces": [
       {
         "Id": "577",
         "Name": "Bukovina"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "78",
     "Provinces": [
       {
         "Id": "3707",
         "Name": "Kishinev"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "812",
     "Provinces": [
       {
         "Id": "3152",
         "Name": "Tallinn"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "813",
     "Provinces": [
       {
@@ -8617,11 +7935,10 @@
         "Id": "4640",
         "Name": "Narva"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "191",
     "Provinces": [
       {
@@ -8632,55 +7949,50 @@
         "Id": "592",
         "Name": "Vyru"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "13",
     "Provinces": [
       {
         "Id": "3174",
         "Name": "Pernov"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "811",
     "Provinces": [
       {
         "Id": "185",
         "Name": "Kuressaare"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "808",
     "Provinces": [
       {
         "Id": "9340",
         "Name": "Riga"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "12",
     "Provinces": [
       {
         "Id": "10493",
         "Name": "Volodimirec"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "810",
     "Provinces": [
       {
@@ -8691,11 +8003,10 @@
         "Id": "310",
         "Name": "Dvinsk"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "809",
     "Provinces": [
       {
@@ -8706,11 +8017,10 @@
         "Id": "6222",
         "Name": "Yelgava"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "190",
     "Provinces": [
       {
@@ -8721,11 +8031,10 @@
         "Id": "9262",
         "Name": "Liepaja"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "11",
     "Provinces": [
       {
@@ -8736,33 +8045,30 @@
         "Id": "9357",
         "Name": "Ukmerge"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "814",
     "Provinces": [
       {
         "Id": "11312",
         "Name": "Mariampol"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "815",
     "Provinces": [
       {
         "Id": "6229",
         "Name": "Panevezhis"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "189",
     "Provinces": [
       {
@@ -8773,72 +8079,65 @@
         "Id": "6314",
         "Name": "Palanga"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "188",
     "Provinces": [
       {
         "Id": "3288",
         "Name": "Klaypeda"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "146",
     "Provinces": [
       {
         "Id": "9206",
         "Name": "Vyborg"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "147",
     "Provinces": [
       {
         "Id": "197",
         "Name": "Salla"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "722",
-    "Provinces": [],
-    "Flag": "state_name_russian"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "763",
     "Provinces": [
       {
         "Id": "6332",
         "Name": "Kaliningrad"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_russian",
+    "Type": "russian",
     "StateId": "73",
     "Provinces": [
       {
         "Id": "3548",
         "Name": "Mukachevo"
       }
-    ],
-    "Flag": "state_name_russian"
+    ]
   },
   {
-    "Type": "apply_name_spanish",
+    "Type": "spanish",
     "StateId": "41",
     "Provinces": [
       {
@@ -8849,55 +8148,50 @@
         "Id": "858",
         "Name": "Toledo"
       }
-    ],
-    "Flag": "state_name_spanish"
+    ]
   },
   {
-    "Type": "apply_name_spanish",
+    "Type": "spanish",
     "StateId": "793",
     "Provinces": [
       {
         "Id": "3945",
         "Name": "Cuenca"
       }
-    ],
-    "Flag": "state_name_spanish"
+    ]
   },
   {
-    "Type": "apply_name_spanish",
+    "Type": "spanish",
     "StateId": "175",
     "Provinces": [
       {
         "Id": "6832",
         "Name": "Ciudad Real"
       }
-    ],
-    "Flag": "state_name_spanish"
+    ]
   },
   {
-    "Type": "apply_name_spanish",
+    "Type": "spanish",
     "StateId": "170",
     "Provinces": [
       {
         "Id": "6902",
         "Name": "Badajoz"
       }
-    ],
-    "Flag": "state_name_spanish"
+    ]
   },
   {
-    "Type": "apply_name_spanish",
+    "Type": "spanish",
     "StateId": "788",
     "Provinces": [
       {
         "Id": "3874",
         "Name": "Salamanca"
       }
-    ],
-    "Flag": "state_name_spanish"
+    ]
   },
   {
-    "Type": "apply_name_spanish",
+    "Type": "spanish",
     "StateId": "169",
     "Provinces": [
       {
@@ -8908,22 +8202,20 @@
         "Id": "1048",
         "Name": "Cádiz"
       }
-    ],
-    "Flag": "state_name_spanish"
+    ]
   },
   {
-    "Type": "apply_name_spanish",
+    "Type": "spanish",
     "StateId": "789",
     "Provinces": [
       {
         "Id": "875",
         "Name": "Córdoba"
       }
-    ],
-    "Flag": "state_name_spanish"
+    ]
   },
   {
-    "Type": "apply_name_spanish",
+    "Type": "spanish",
     "StateId": "173",
     "Provinces": [
       {
@@ -8938,22 +8230,20 @@
         "Id": "12038",
         "Name": "Granada"
       }
-    ],
-    "Flag": "state_name_spanish"
+    ]
   },
   {
-    "Type": "apply_name_spanish",
+    "Type": "spanish",
     "StateId": "168",
     "Provinces": [
       {
         "Id": "10024",
         "Name": "Murcia"
       }
-    ],
-    "Flag": "state_name_spanish"
+    ]
   },
   {
-    "Type": "apply_name_spanish",
+    "Type": "spanish",
     "StateId": "167",
     "Provinces": [
       {
@@ -8964,11 +8254,10 @@
         "Id": "4098",
         "Name": "Alicante"
       }
-    ],
-    "Flag": "state_name_spanish"
+    ]
   },
   {
-    "Type": "apply_name_spanish",
+    "Type": "spanish",
     "StateId": "165",
     "Provinces": [
       {
@@ -8983,22 +8272,20 @@
         "Id": "6966",
         "Name": "Tortosa"
       }
-    ],
-    "Flag": "state_name_spanish"
+    ]
   },
   {
-    "Type": "apply_name_spanish",
+    "Type": "spanish",
     "StateId": "794",
     "Provinces": [
       {
         "Id": "3954",
         "Name": "Caspe"
       }
-    ],
-    "Flag": "state_name_spanish"
+    ]
   },
   {
-    "Type": "apply_name_spanish",
+    "Type": "spanish",
     "StateId": "166",
     "Provinces": [
       {
@@ -9013,77 +8300,70 @@
         "Id": "7213",
         "Name": "Teruel"
       }
-    ],
-    "Flag": "state_name_spanish"
+    ]
   },
   {
-    "Type": "apply_name_spanish",
+    "Type": "spanish",
     "StateId": "172",
     "Provinces": [
       {
         "Id": "3933",
         "Name": "Pamplona"
       }
-    ],
-    "Flag": "state_name_spanish"
+    ]
   },
   {
-    "Type": "apply_name_spanish",
+    "Type": "spanish",
     "StateId": "176",
     "Provinces": [
       {
         "Id": "885",
         "Name": "Burgos"
       }
-    ],
-    "Flag": "state_name_spanish"
+    ]
   },
   {
-    "Type": "apply_name_spanish",
+    "Type": "spanish",
     "StateId": "792",
     "Provinces": [
       {
         "Id": "740",
         "Name": "Bilbao"
       }
-    ],
-    "Flag": "state_name_spanish"
+    ]
   },
   {
-    "Type": "apply_name_spanish",
+    "Type": "spanish",
     "StateId": "791",
     "Provinces": [
       {
         "Id": "11825",
         "Name": "Valladolid"
       }
-    ],
-    "Flag": "state_name_spanish"
+    ]
   },
   {
-    "Type": "apply_name_spanish",
+    "Type": "spanish",
     "StateId": "174",
     "Provinces": [
       {
         "Id": "726",
         "Name": "León"
       }
-    ],
-    "Flag": "state_name_spanish"
+    ]
   },
   {
-    "Type": "apply_name_spanish",
+    "Type": "spanish",
     "StateId": "790",
     "Provinces": [
       {
         "Id": "11707",
         "Name": "Oviedo"
       }
-    ],
-    "Flag": "state_name_spanish"
+    ]
   },
   {
-    "Type": "apply_name_spanish",
+    "Type": "spanish",
     "StateId": "171",
     "Provinces": [
       {
@@ -9094,66 +8374,60 @@
         "Id": "6734",
         "Name": "Vigo"
       }
-    ],
-    "Flag": "state_name_spanish"
+    ]
   },
   {
-    "Type": "apply_name_spanish",
+    "Type": "spanish",
     "StateId": "177",
     "Provinces": [
       {
         "Id": "9793",
         "Name": "Palma de Mallorca"
       }
-    ],
-    "Flag": "state_name_spanish"
+    ]
   },
   {
-    "Type": "apply_name_spanish",
+    "Type": "spanish",
     "StateId": "783",
     "Provinces": [
       {
         "Id": "12857",
         "Name": "Sidi Ifni"
       }
-    ],
-    "Flag": "state_name_spanish"
+    ]
   },
   {
-    "Type": "apply_name_spanish",
+    "Type": "spanish",
     "StateId": "699",
     "Provinces": [
       {
         "Id": "8038",
         "Name": "Laâyoune"
       }
-    ],
-    "Flag": "state_name_spanish"
+    ]
   },
   {
-    "Type": "apply_name_spanish",
+    "Type": "spanish",
     "StateId": "178",
     "Provinces": [
       {
         "Id": "13071",
         "Name": "Santa Cruz de Tenerife"
       }
-    ],
-    "Flag": "state_name_spanish"
+    ]
   },
   {
-    "Type": "apply_name_spanish",
+    "Type": "spanish",
     "StateId": "297",
     "Provinces": [
       {
         "Id": "1903",
         "Name": "Malabo"
       }
-    ],
-    "Flag": "state_name_spanish"
+    ]
   },
   {
-    "Type": "apply_name_swedish",
+    "Type": "swedish",
     "StateId": "138",
     "Provinces": [
       {
@@ -9164,11 +8438,10 @@
         "Id": "11215",
         "Name": "Karlskrona"
       }
-    ],
-    "Flag": "state_name_swedish"
+    ]
   },
   {
-    "Type": "apply_name_swedish",
+    "Type": "swedish",
     "StateId": "140",
     "Provinces": [
       {
@@ -9179,61 +8452,55 @@
         "Id": "11114",
         "Name": "Karlstad"
       }
-    ],
-    "Flag": "state_name_swedish"
+    ]
   },
   {
-    "Type": "apply_name_swedish",
+    "Type": "swedish",
     "StateId": "139",
     "Provinces": [
       {
         "Id": "11380",
         "Name": "Norrköping"
       }
-    ],
-    "Flag": "state_name_swedish"
+    ]
   },
   {
-    "Type": "apply_name_swedish",
+    "Type": "swedish",
     "StateId": "141",
     "Provinces": [
       {
         "Id": "6050",
         "Name": "Stockholm"
       }
-    ],
-    "Flag": "state_name_swedish"
+    ]
   },
   {
-    "Type": "apply_name_swedish",
+    "Type": "swedish",
     "StateId": "38",
     "Provinces": [
       {
         "Id": "156",
         "Name": "Falun"
       }
-    ],
-    "Flag": "state_name_swedish"
+    ]
   },
   {
-    "Type": "apply_name_swedish",
+    "Type": "swedish",
     "StateId": "666",
     "Provinces": [
       {
         "Id": "9108",
         "Name": "Luleå"
       }
-    ],
-    "Flag": "state_name_swedish"
+    ]
   },
   {
-    "Type": "apply_name_swedish",
+    "Type": "swedish",
     "StateId": "124",
-    "Provinces": [],
-    "Flag": "state_name_swedish"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_swedish",
+    "Type": "swedish",
     "StateId": "111",
     "Provinces": [
       {
@@ -9248,62 +8515,55 @@
         "Id": "3083",
         "Name": "Åbo"
       }
-    ],
-    "Flag": "state_name_swedish"
+    ]
   },
   {
-    "Type": "apply_name_swedish",
+    "Type": "swedish",
     "StateId": "150",
-    "Provinces": [],
-    "Flag": "state_name_swedish"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_swedish",
+    "Type": "swedish",
     "StateId": "149",
     "Provinces": [
       {
         "Id": "3122",
         "Name": "Vasa"
       }
-    ],
-    "Flag": "state_name_swedish"
+    ]
   },
   {
-    "Type": "apply_name_swedish",
+    "Type": "swedish",
     "StateId": "148",
-    "Provinces": [],
-    "Flag": "state_name_swedish"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_swedish",
+    "Type": "swedish",
     "StateId": "146",
     "Provinces": [
       {
         "Id": "9206",
         "Name": "Viborg"
       }
-    ],
-    "Flag": "state_name_swedish"
+    ]
   },
   {
-    "Type": "apply_name_swedish",
+    "Type": "swedish",
     "StateId": "147",
     "Provinces": [
       {
         "Id": "197",
         "Name": "Salla"
       }
-    ],
-    "Flag": "state_name_swedish"
+    ]
   },
   {
-    "Type": "apply_name_swedish",
+    "Type": "swedish",
     "StateId": "722",
-    "Provinces": [],
-    "Flag": "state_name_swedish"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "49",
     "Provinces": [
       {
@@ -9318,11 +8578,10 @@
         "Id": "3951",
         "Name": "Eskişehir"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "347",
     "Provinces": [
       {
@@ -9333,33 +8592,30 @@
         "Id": "904",
         "Name": "Adapazarı"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "797",
     "Provinces": [
       {
         "Id": "9833",
         "Name": "İstanbul"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "341",
     "Provinces": [
       {
         "Id": "11842",
         "Name": "Edirne"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "340",
     "Provinces": [
       {
@@ -9370,11 +8626,10 @@
         "Id": "9799",
         "Name": "Balıkesir"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "339",
     "Provinces": [
       {
@@ -9385,11 +8640,10 @@
         "Id": "928",
         "Name": "Manisa"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "343",
     "Provinces": [
       {
@@ -9404,22 +8658,20 @@
         "Id": "9878",
         "Name": "Afyonkarahisar"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "342",
     "Provinces": [
       {
         "Id": "1005",
         "Name": "Antalya"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "342",
     "Provinces": [
       {
@@ -9430,11 +8682,10 @@
         "Id": "6995",
         "Name": "Sinop"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "798",
     "Provinces": [
       {
@@ -9445,11 +8696,10 @@
         "Id": "3862",
         "Name": "Yozgat"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "346",
     "Provinces": [
       {
@@ -9464,22 +8714,20 @@
         "Id": "784",
         "Name": "Isparta"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "348",
     "Provinces": [
       {
         "Id": "3870",
         "Name": "Kayseri"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "345",
     "Provinces": [
       {
@@ -9490,11 +8738,10 @@
         "Id": "11810",
         "Name": "Tarsus"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "344",
     "Provinces": [
       {
@@ -9513,33 +8760,30 @@
         "Id": "7620",
         "Name": "Malatya "
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "349",
     "Provinces": [
       {
         "Id": "9777",
         "Name": "Sivas"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "355",
     "Provinces": [
       {
         "Id": "11881",
         "Name": "Samsun"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "354",
     "Provinces": [
       {
@@ -9558,11 +8802,10 @@
         "Id": "10472",
         "Name": "Kars"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "353",
     "Provinces": [
       {
@@ -9577,11 +8820,10 @@
         "Id": "353",
         "Name": "Erzincan"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "800",
     "Provinces": [
       {
@@ -9592,11 +8834,10 @@
         "Id": "12376",
         "Name": "Karaköse"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "352",
     "Provinces": [
       {
@@ -9611,11 +8852,10 @@
         "Id": "10497",
         "Name": "Sêrt"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "350",
     "Provinces": [
       {
@@ -9630,11 +8870,10 @@
         "Id": "9823",
         "Name": "Şanlıurfa"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "47",
     "Provinces": [
       {
@@ -9653,11 +8892,10 @@
         "Id": "3973",
         "Name": "Lárisa"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "186",
     "Provinces": [
       {
@@ -9672,11 +8910,10 @@
         "Id": "7211",
         "Name": "Kalamata"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "185",
     "Provinces": [
       {
@@ -9691,33 +8928,30 @@
         "Id": "10203",
         "Name": "Korfu"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "731",
     "Provinces": [
       {
         "Id": "11818",
         "Name": "Selanik"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "184",
     "Provinces": [
       {
         "Id": "11905",
         "Name": "Dedeağaç"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "187",
     "Provinces": [
       {
@@ -9728,11 +8962,10 @@
         "Id": "8435",
         "Name": "Midilli"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "182",
     "Provinces": [
       {
@@ -9743,11 +8976,10 @@
         "Id": "12058",
         "Name": "Hanya"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "48",
     "Provinces": [
       {
@@ -9758,11 +8990,10 @@
         "Id": "9771",
         "Name": "Vidin"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "212",
     "Provinces": [
       {
@@ -9777,11 +9008,10 @@
         "Id": "9862",
         "Name": "Hasköy"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "801",
     "Provinces": [
       {
@@ -9792,11 +9022,10 @@
         "Id": "9612",
         "Name": "Rusçuk"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "211",
     "Provinces": [
       {
@@ -9819,55 +9048,50 @@
         "Id": "9783",
         "Name": "Varna"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_turkish",
+    "Type": "turkish",
     "StateId": "164",
     "Provinces": [
       {
         "Id": "10007",
         "Name": "Rodos"
       }
-    ],
-    "Flag": "state_name_turkish"
+    ]
   },
   {
-    "Type": "apply_name_ukrainian",
+    "Type": "ukrainian",
     "StateId": "228",
     "Provinces": [
       {
         "Id": "9461",
         "Name": "Luhans'k"
       }
-    ],
-    "Flag": "state_name_ukrainian"
+    ]
   },
   {
-    "Type": "apply_name_ukrainian",
+    "Type": "ukrainian",
     "StateId": "227",
     "Provinces": [
       {
         "Id": "6474",
         "Name": "Donetsk"
       }
-    ],
-    "Flag": "state_name_ukrainian"
+    ]
   },
   {
-    "Type": "apply_name_ukrainian",
+    "Type": "ukrainian",
     "StateId": "221",
     "Provinces": [
       {
         "Id": "418",
         "Name": "Kharkiv"
       }
-    ],
-    "Flag": "state_name_ukrainian"
+    ]
   },
   {
-    "Type": "apply_name_ukrainian",
+    "Type": "ukrainian",
     "StateId": "226",
     "Provinces": [
       {
@@ -9878,110 +9102,100 @@
         "Id": "11561",
         "Name": "Kryvyi Rih"
       }
-    ],
-    "Flag": "state_name_ukrainian"
+    ]
   },
   {
-    "Type": "apply_name_ukrainian",
+    "Type": "ukrainian",
     "StateId": "200",
     "Provinces": [
       {
         "Id": "11405",
         "Name": "Zaporizhzhia"
       }
-    ],
-    "Flag": "state_name_ukrainian"
+    ]
   },
   {
-    "Type": "apply_name_ukrainian",
+    "Type": "ukrainian",
     "StateId": "196",
     "Provinces": [
       {
         "Id": "721",
         "Name": "Kherson"
       }
-    ],
-    "Flag": "state_name_ukrainian"
+    ]
   },
   {
-    "Type": "apply_name_ukrainian",
+    "Type": "ukrainian",
     "StateId": "193",
     "Provinces": [
       {
         "Id": "3568",
         "Name": "Chernihiv"
       }
-    ],
-    "Flag": "state_name_ukrainian"
+    ]
   },
   {
-    "Type": "apply_name_ukrainian",
+    "Type": "ukrainian",
     "StateId": "259",
     "Provinces": [
       {
         "Id": "11504",
         "Name": "Poltava"
       }
-    ],
-    "Flag": "state_name_ukrainian"
+    ]
   },
   {
-    "Type": "apply_name_ukrainian",
+    "Type": "ukrainian",
     "StateId": "202",
     "Provinces": [
       {
         "Id": "525",
         "Name": "Kyiv"
       }
-    ],
-    "Flag": "state_name_ukrainian"
+    ]
   },
   {
-    "Type": "apply_name_ukrainian",
+    "Type": "ukrainian",
     "StateId": "203",
     "Provinces": [
       {
         "Id": "488",
         "Name": "Cherkasy"
       }
-    ],
-    "Flag": "state_name_ukrainian"
+    ]
   },
   {
-    "Type": "apply_name_ukrainian",
+    "Type": "ukrainian",
     "StateId": "197",
     "Provinces": [
       {
         "Id": "11683",
         "Name": "Mykolaiv"
       }
-    ],
-    "Flag": "state_name_ukrainian"
+    ]
   },
   {
-    "Type": "apply_name_ukrainian",
+    "Type": "ukrainian",
     "StateId": "201",
     "Provinces": [
       {
         "Id": "6593",
         "Name": "Zhytomyr"
       }
-    ],
-    "Flag": "state_name_ukrainian"
+    ]
   },
   {
-    "Type": "apply_name_ukrainian",
+    "Type": "ukrainian",
     "StateId": "198",
     "Provinces": [
       {
         "Id": "476",
         "Name": "Vinnytsia"
       }
-    ],
-    "Flag": "state_name_ukrainian"
+    ]
   },
   {
-    "Type": "apply_name_ukrainian",
+    "Type": "ukrainian",
     "StateId": "834",
     "Provinces": [
       {
@@ -9992,22 +9206,20 @@
         "Id": "741",
         "Name": "Tiraspol"
       }
-    ],
-    "Flag": "state_name_ukrainian"
+    ]
   },
   {
-    "Type": "apply_name_ukrainian",
+    "Type": "ukrainian",
     "StateId": "192",
     "Provinces": [
       {
         "Id": "11670",
         "Name": "Odessa"
       }
-    ],
-    "Flag": "state_name_ukrainian"
+    ]
   },
   {
-    "Type": "apply_name_ukrainian",
+    "Type": "ukrainian",
     "StateId": "93",
     "Provinces": [
       {
@@ -10018,154 +9230,164 @@
         "Id": "422",
         "Name": "Kovel"
       }
-    ],
-    "Flag": "state_name_ukrainian"
+    ]
   },
   {
-    "Type": "apply_name_ukrainian",
+    "Type": "ukrainian",
     "StateId": "91",
     "Provinces": [
       {
         "Id": "11479",
         "Name": "Lviv"
       }
-    ],
-    "Flag": "state_name_ukrainian"
+    ]
   },
   {
-    "Type": "apply_name_ukrainian",
+    "Type": "ukrainian",
     "StateId": "89",
     "Provinces": [
       {
         "Id": "11411",
         "Name": "Ivano-Frankivsk"
       }
-    ],
-    "Flag": "state_name_ukrainian"
+    ]
   },
   {
-    "Type": "apply_name_ukrainian",
+    "Type": "ukrainian",
     "StateId": "766",
     "Provinces": [
       {
         "Id": "6727",
         "Name": "Bilhorod-Dnistrovskyi"
       }
-    ],
-    "Flag": "state_name_ukrainian"
+    ]
   },
   {
-    "Type": "apply_name_ukrainian",
+    "Type": "ukrainian",
     "StateId": "80",
     "Provinces": [
       {
         "Id": "577",
         "Name": "Bukovina"
       }
-    ],
-    "Flag": "state_name_ukrainian"
+    ]
   },
   {
-    "Type": "apply_name_ukrainian",
+    "Type": "ukrainian",
     "StateId": "73",
     "Provinces": [
       {
         "Id": "3548",
         "Name": "Mukachevo"
       }
-    ],
-    "Flag": "state_name_ukrainian"
+    ]
   },
   {
-    "Type": "apply_name_yugoslavian",
+    "Type": "korean",
+    "StateId": "527",
+    "Provinces": [
+      {
+        "Id": "4052",
+        "Name": "Pyongyang"
+      }
+    ]
+  },
+  {
+    "Type": "korean",
+    "StateId": "525",
+    "Provinces": [
+      {
+        "Id": "7125",
+        "Name": "Seoul"
+      },
+      {
+        "Id": "4056",
+        "Name": "Pusan"
+      }
+    ]
+  },
+  {
+    "Type": "yugoslavian",
     "StateId": "107",
     "Provinces": [
       {
         "Id": "11586",
         "Name": "Beograd"
       }
-    ],
-    "Flag": "state_name_yugoslavian"
+    ]
   },
   {
-    "Type": "apply_name_yugoslavian",
+    "Type": "yugoslavian",
     "StateId": "108",
     "Provinces": [
       {
         "Id": "9602",
         "Name": "Niš"
       }
-    ],
-    "Flag": "state_name_yugoslavian"
+    ]
   },
   {
-    "Type": "apply_name_yugoslavian",
+    "Type": "yugoslavian",
     "StateId": "764",
     "Provinces": [
       {
         "Id": "3614",
         "Name": "Pančevo"
       }
-    ],
-    "Flag": "state_name_yugoslavian"
+    ]
   },
   {
-    "Type": "apply_name_yugoslavian",
+    "Type": "yugoslavian",
     "StateId": "45",
     "Provinces": [
       {
         "Id": "619",
         "Name": "Novi Sad"
       }
-    ],
-    "Flag": "state_name_yugoslavian"
+    ]
   },
   {
-    "Type": "apply_name_yugoslavian",
+    "Type": "yugoslavian",
     "StateId": "803",
     "Provinces": [
       {
         "Id": "11857",
         "Name": "Leskovac"
       }
-    ],
-    "Flag": "state_name_yugoslavian"
+    ]
   },
   {
-    "Type": "apply_name_yugoslavian",
+    "Type": "yugoslavian",
     "StateId": "802",
     "Provinces": [
       {
         "Id": "6940",
         "Name": "Priština"
       }
-    ],
-    "Flag": "state_name_yugoslavian"
+    ]
   },
   {
-    "Type": "apply_name_yugoslavian",
+    "Type": "yugoslavian",
     "StateId": "106",
     "Provinces": [
       {
         "Id": "3882",
         "Name": "Skopje"
       }
-    ],
-    "Flag": "state_name_yugoslavian"
+    ]
   },
   {
-    "Type": "apply_name_yugoslavian",
+    "Type": "yugoslavian",
     "StateId": "105",
     "Provinces": [
       {
         "Id": "9809",
         "Name": "Podgorica"
       }
-    ],
-    "Flag": "state_name_yugoslavian"
+    ]
   },
   {
-    "Type": "apply_name_yugoslavian",
+    "Type": "yugoslavian",
     "StateId": "104",
     "Provinces": [
       {
@@ -10176,33 +9398,30 @@
         "Id": "6983",
         "Name": "Banja Luka"
       }
-    ],
-    "Flag": "state_name_yugoslavian"
+    ]
   },
   {
-    "Type": "apply_name_yugoslavian",
+    "Type": "yugoslavian",
     "StateId": "804",
     "Provinces": [
       {
         "Id": "9894",
         "Name": "Mostar"
       }
-    ],
-    "Flag": "state_name_yugoslavian"
+    ]
   },
   {
-    "Type": "apply_name_yugoslavian",
+    "Type": "yugoslavian",
     "StateId": "109",
     "Provinces": [
       {
         "Id": "11581",
         "Name": "Zagreb"
       }
-    ],
-    "Flag": "state_name_yugoslavian"
+    ]
   },
   {
-    "Type": "apply_name_yugoslavian",
+    "Type": "yugoslavian",
     "StateId": "103",
     "Provinces": [
       {
@@ -10217,46 +9436,41 @@
         "Id": "11816",
         "Name": "Dubrovik"
       }
-    ],
-    "Flag": "state_name_yugoslavian"
+    ]
   },
   {
-    "Type": "apply_name_yugoslavian",
+    "Type": "yugoslavian",
     "StateId": "102",
     "Provinces": [
       {
         "Id": "9627",
         "Name": "Ljubljana"
       }
-    ],
-    "Flag": "state_name_yugoslavian"
+    ]
   },
   {
-    "Type": "apply_name_yugoslavian",
+    "Type": "yugoslavian",
     "StateId": "736",
     "Provinces": [
       {
         "Id": "6626",
         "Name": "Trst"
       }
-    ],
-    "Flag": "state_name_yugoslavian"
+    ]
   },
   {
-    "Type": "apply_name_yugoslavian",
+    "Type": "yugoslavian",
     "StateId": "163",
-    "Provinces": [],
-    "Flag": "state_name_yugoslavian"
+    "Provinces": []
   },
   {
-    "Type": "apply_name_yugoslavian",
+    "Type": "yugoslavian",
     "StateId": "82",
     "Provinces": [
       {
         "Id": "9606",
         "Name": "Temišvar"
       }
-    ],
-    "Flag": "state_name_yugoslavian"
+    ]
   }
 ]
