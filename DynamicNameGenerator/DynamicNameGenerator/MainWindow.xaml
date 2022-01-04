@@ -6,7 +6,40 @@
         xmlns:local="clr-namespace:DynamicNameGenerator"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <Style TargetType="{x:Type Window}">
+            <Setter Property="FontSize" Value="14" />
+        </Style>
+    </Window.Resources>
     <Grid>
-
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <TextBox Grid.Row="0" TextChanged="TextBox_TextChanged" Name="filter"></TextBox>
+        <TextBlock Grid.Row="0" IsHitTestVisible="False" Text="Enter text to filter or clear to reset filter. Advanced filtering is possible by using {column}:{term} ex.'type:searchTerm'." Foreground="Gray">
+            <TextBlock.Style>
+                <Style TargetType="{x:Type TextBlock}">
+                    <Setter Property="Visibility" Value="Collapsed"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding Text, ElementName=filter}" Value="">
+                            <Setter Property="Visibility" Value="Visible"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBlock.Style>
+        </TextBlock>
+        <DataGrid AutoGenerateColumns="False" CanUserAddRows="True" CanUserDeleteRows="True" 
+                  CanUserReorderColumns="True" CanUserResizeColumns="True" CanUserSortColumns="True" 
+                  EnableRowVirtualization="True" Grid.Row="1" LoadingRow="DataGrid_LoadingRow" Name="dataGrid" AddingNewItem="dataGrid_AddingNewItem">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Type, UpdateSourceTrigger=PropertyChanged}" Header="Type" Width="1*"></DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding StateId, UpdateSourceTrigger=PropertyChanged}" Header="StateId" Width="1*"></DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding Provinces, UpdateSourceTrigger=PropertyChanged}" Header="Provinces" Width="1*"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
     </Grid>
 </Window>
