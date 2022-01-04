@@ -4,7 +4,7 @@
 // Created          : 01-04-2022
 //
 // Last Modified By : Mario
-// Last Modified On : 01-04-2022
+// Last Modified On : 01-05-2022
 // ***********************************************************************
 // <copyright file="MainWindow.xaml.cs" company="Mario">
 //     Mario
@@ -15,6 +15,7 @@ using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
+using System.ComponentModel;
 using System.IO;
 using System.Linq;
 using System.Windows;
@@ -41,6 +42,11 @@ namespace DynamicNameGenerator
         private CollectionViewSource gridViewSource;
 
         /// <summary>
+        /// The lock form
+        /// </summary>
+        private object lockForm = new { };
+
+        /// <summary>
         /// The visible items
         /// </summary>
         private int visibleItems = 0;
@@ -50,7 +56,7 @@ namespace DynamicNameGenerator
         #region Constructors
 
         /// <summary>
-        /// Initializes a new instance of the <see cref="MainWindow"/> class.
+        /// Initializes a new instance of the <see cref="MainWindow" /> class.
         /// </summary>
         public MainWindow()
         {
@@ -68,7 +74,7 @@ namespace DynamicNameGenerator
         /// Handles the AddingNewItem event of the dataGrid control.
         /// </summary>
         /// <param name="sender">The source of the event.</param>
-        /// <param name="e">The <see cref="AddingNewItemEventArgs"/> instance containing the event data.</param>
+        /// <param name="e">The <see cref="AddingNewItemEventArgs" /> instance containing the event data.</param>
         private void dataGrid_AddingNewItem(object sender, AddingNewItemEventArgs e)
         {
             filter.Text = string.Empty;
@@ -78,7 +84,7 @@ namespace DynamicNameGenerator
         /// Handles the LoadingRow event of the DataGrid control.
         /// </summary>
         /// <param name="sender">The source of the event.</param>
-        /// <param name="e">The <see cref="DataGridRowEventArgs"/> instance containing the event data.</param>
+        /// <param name="e">The <see cref="DataGridRowEventArgs" /> instance containing the event data.</param>
         private void DataGrid_LoadingRow(object sender, DataGridRowEventArgs e)
         {
             if (e.Row.GetIndex() < visibleItems)
@@ -89,6 +95,16 @@ namespace DynamicNameGenerator
             {
                 e.Row.Header = string.Empty;
             }
+        }
+
+        /// <summary>
+        /// Handles the PropertyChanged event of the Grid control.
+        /// </summary>
+        /// <param name="sender">The source of the event.</param>
+        /// <param name="e">The <see cref="PropertyChangedEventArgs" /> instance containing the event data.</param>
+        private void Grid_PropertyChanged(object sender, PropertyChangedEventArgs e)
+        {
+            SaveData();
         }
 
         /// <summary>
@@ -105,13 +121,32 @@ namespace DynamicNameGenerator
             dataGrid.ItemsSource = gridViewSource.View;
             filter.Text = string.Empty;
             gridViewSource.View.CollectionChanged += View_CollectionChanged;
+            foreach (var item in gridData)
+            {
+                if (item is INotifyPropertyChanged propertyChanged)
+                {
+                    propertyChanged.PropertyChanged += Grid_PropertyChanged;
+                }
+            }
+        }
+
+        /// <summary>
+        /// Saves the data.
+        /// </summary>
+        private void SaveData()
+        {
+            lock (lockForm)
+            {
+                var json = JsonConvert.SerializeObject(gridData.Select(p => new MainData(p.Type.ToLowerInvariant(), p.StateId, p.StateName, p.Provinces)).ToList().OrderBy(p => p.Type).ThenBy(p => p.StateId), Formatting.Indented);
+                File.WriteAllText(System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "data.json"), json);
+            }
         }
 
         /// <summary>
         /// Handles the TextChanged event of the TextBox control.
         /// </summary>
         /// <param name="sender">The source of the event.</param>
-        /// <param name="e">The <see cref="System.Windows.Controls.TextChangedEventArgs"/> instance containing the event data.</param>
+        /// <param name="e">The <see cref="System.Windows.Controls.TextChangedEventArgs" /> instance containing the event data.</param>
         private void TextBox_TextChanged(object sender, System.Windows.Controls.TextChangedEventArgs e)
         {
             var text = ((TextBox)sender).Text;
@@ -168,7 +203,7 @@ namespace DynamicNameGenerator
         /// Handles the CollectionChanged event of the View control.
         /// </summary>
         /// <param name="sender">The source of the event.</param>
-        /// <param name="e">The <see cref="System.Collections.Specialized.NotifyCollectionChangedEventArgs"/> instance containing the event data.</param>
+        /// <param name="e">The <see cref="System.Collections.Specialized.NotifyCollectionChangedEventArgs" /> instance containing the event data.</param>
         private void View_CollectionChanged(object sender, System.Collections.Specialized.NotifyCollectionChangedEventArgs e)
         {
             var oldValue = visibleItems;
@@ -182,6 +217,28 @@ namespace DynamicNameGenerator
             }
             catch // Otherwise crashes the app, no any flags wnich can be used to determine if can or cannot refresh and am too lazy to fix properly
             {
+            }
+            SaveData();
+            if (e.NewItems != null)
+            {
+                foreach (var item in e.NewItems)
+                {
+                    if (item is INotifyPropertyChanged propertyChanged)
+                    {
+                        propertyChanged.PropertyChanged += Grid_PropertyChanged;
+                    }
+                }
+            }
+
+            if (e.OldItems != null)
+            {
+                foreach (var item in e.OldItems)
+                {
+                    if (item is INotifyPropertyChanged propertyChanged)
+                    {
+                        propertyChanged.PropertyChanged -= Grid_PropertyChanged;
+                    }
+                }
             }
         }
 

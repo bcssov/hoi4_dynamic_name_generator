@@ -4,7 +4,7 @@
 // Created          : 01-04-2022
 //
 // Last Modified By : Mario
-// Last Modified On : 01-04-2022
+// Last Modified On : 01-05-2022
 // ***********************************************************************
 // <copyright file="Models.cs" company="Mario">
 //     Mario
@@ -55,12 +55,30 @@ namespace DynamicNameGenerator
         #region Constructors
 
         /// <summary>
-        /// Initializes a new instance of the <see cref="MainData"/> class.
+        /// Initializes a new instance of the <see cref="MainData" /> class.
         /// </summary>
         public MainData()
         {
             provinces = new ObservableCollection<ProvinceData>();
             HandleProvinceData();
+        }
+
+        /// <summary>
+        /// Initializes a new instance of the <see cref="MainData" /> class.
+        /// </summary>
+        /// <param name="type">The type.</param>
+        /// <param name="stateId">The state identifier.</param>
+        /// <param name="stateName">Name of the state.</param>
+        /// <param name="provinces">The provinces.</param>
+        public MainData(string type, long stateId, string stateName, IEnumerable<ProvinceData> provinces) : this()
+        {
+            Type = type;
+            StateId = stateId;
+            StateName = stateName;
+            if (provinces != null && provinces.Any())
+            {
+                provinces.ToList().ForEach(p => Provinces.Add(p));
+            }
         }
 
         #endregion Constructors
@@ -80,6 +98,7 @@ namespace DynamicNameGenerator
         /// Gets or sets the provinces.
         /// </summary>
         /// <value>The provinces.</value>
+        [JsonProperty(Order = 4)]
         public ObservableCollection<ProvinceData> Provinces
         {
             get
@@ -114,6 +133,7 @@ namespace DynamicNameGenerator
         /// Gets or sets the state identifier.
         /// </summary>
         /// <value>The state identifier.</value>
+        [JsonProperty(Order = 2)]
         public long StateId
         {
             get
@@ -131,6 +151,7 @@ namespace DynamicNameGenerator
         /// Gets or sets the name of the state.
         /// </summary>
         /// <value>The name of the state.</value>
+        [JsonProperty(Order = 3)]
         public string StateName
         {
             get
@@ -148,6 +169,7 @@ namespace DynamicNameGenerator
         /// Gets or sets the type.
         /// </summary>
         /// <value>The type.</value>
+        [JsonProperty(Order = 1)]
         public string Type
         {
             get
@@ -183,20 +205,10 @@ namespace DynamicNameGenerator
         }
 
         /// <summary>
-        /// Handles the PropertyChanged event of the PropertyChanged control.
-        /// </summary>
-        /// <param name="sender">The source of the event.</param>
-        /// <param name="e">The <see cref="PropertyChangedEventArgs"/> instance containing the event data.</param>
-        private void PropertyChanged_PropertyChanged(object sender, PropertyChangedEventArgs e)
-        {
-            OnProvincesChanged();
-        }
-
-        /// <summary>
         /// Handles the CollectionChanged event of the Provinces control.
         /// </summary>
         /// <param name="sender">The source of the event.</param>
-        /// <param name="e">The <see cref="System.Collections.Specialized.NotifyCollectionChangedEventArgs"/> instance containing the event data.</param>
+        /// <param name="e">The <see cref="System.Collections.Specialized.NotifyCollectionChangedEventArgs" /> instance containing the event data.</param>
         private void Provinces_CollectionChanged(object sender, System.Collections.Specialized.NotifyCollectionChangedEventArgs e)
         {
             OnProvincesChanged();
@@ -206,7 +218,7 @@ namespace DynamicNameGenerator
                 {
                     if (item is INotifyPropertyChanged propertyChanged)
                     {
-                        propertyChanged.PropertyChanged += PropertyChanged_PropertyChanged;
+                        propertyChanged.PropertyChanged += Provinces_PropertyChanged;
                     }
                 }
             }
@@ -217,10 +229,20 @@ namespace DynamicNameGenerator
                 {
                     if (item is INotifyPropertyChanged propertyChanged)
                     {
-                        propertyChanged.PropertyChanged -= PropertyChanged_PropertyChanged;
+                        propertyChanged.PropertyChanged -= Provinces_PropertyChanged;
                     }
                 }
             }
+        }
+
+        /// <summary>
+        /// Handles the PropertyChanged event of the Provinces control.
+        /// </summary>
+        /// <param name="sender">The source of the event.</param>
+        /// <param name="e">The <see cref="PropertyChangedEventArgs" /> instance containing the event data.</param>
+        private void Provinces_PropertyChanged(object sender, PropertyChangedEventArgs e)
+        {
+            OnProvincesChanged();
         }
 
         #endregion Methods
