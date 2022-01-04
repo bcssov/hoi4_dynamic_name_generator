@@ -114,6 +114,54 @@ namespace DynamicNameGenerator
         /// <param name="e">The <see cref="System.Windows.Controls.TextChangedEventArgs"/> instance containing the event data.</param>
         private void TextBox_TextChanged(object sender, System.Windows.Controls.TextChangedEventArgs e)
         {
+            var text = ((TextBox)sender).Text;
+            if (string.IsNullOrWhiteSpace(text))
+            {
+                gridViewSource.View.Filter = null;
+                visibleItems = gridData.Count;
+            }
+            else
+            {
+                string filter = string.Empty;
+                string term = text;
+                var split = text.Split(":");
+                if (split.Count() == 2)
+                {
+                    filter = split[0];
+                    term = split[1];
+                }
+                gridViewSource.View.Filter = new Predicate<object>(p =>
+                {
+                    var model = (MainData)p;
+                    if (string.IsNullOrWhiteSpace(filter))
+                    {
+                        return model.Type.Contains(term, StringComparison.OrdinalIgnoreCase) || model.StateId.ToString().Contains(term, StringComparison.OrdinalIgnoreCase) ||
+                            model.StateName.Contains(term, StringComparison.OrdinalIgnoreCase) || model.ProvincesText.Contains(term, StringComparison.OrdinalIgnoreCase);
+                    }
+                    else
+                    {
+                        switch (filter.ToLowerInvariant())
+                        {
+                            case "type":
+                                return model.Type.Contains(term, StringComparison.OrdinalIgnoreCase);
+
+                            case "stateid":
+                                return model.StateId.ToString().Contains(term, StringComparison.OrdinalIgnoreCase);
+
+                            case "statename":
+                                return model.StateName.Contains(term, StringComparison.OrdinalIgnoreCase);
+
+                            case "provinces":
+                                return model.ProvincesText.Contains(term, StringComparison.OrdinalIgnoreCase);
+
+                            default:
+                                return model.Type.Contains(term, StringComparison.OrdinalIgnoreCase) || model.StateId.ToString().Contains(term, StringComparison.OrdinalIgnoreCase) ||
+                                    model.StateName.Contains(term, StringComparison.OrdinalIgnoreCase) || model.ProvincesText.Contains(term, StringComparison.OrdinalIgnoreCase);
+                        }
+                    }
+                });
+                visibleItems = gridViewSource.View.Cast<object>().Count() - 1;
+            }
         }
 
         /// <summary>
@@ -122,7 +170,7 @@ namespace DynamicNameGenerator
         /// <param name="sender">The source of the event.</param>
         /// <param name="e">The <see cref="System.Collections.Specialized.NotifyCollectionChangedEventArgs"/> instance containing the event data.</param>
         private void View_CollectionChanged(object sender, System.Collections.Specialized.NotifyCollectionChangedEventArgs e)
-        {            
+        {
             var oldValue = visibleItems;
             visibleItems = gridViewSource.View.Cast<object>().Count() - 1;
             try
@@ -130,7 +178,7 @@ namespace DynamicNameGenerator
                 if (visibleItems != oldValue)
                 {
                     dataGrid.Items.Refresh();
-                }                
+                }
             }
             catch // Otherwise crashes the app, no any flags wnich can be used to determine if can or cannot refresh and am too lazy to fix properly
             {
