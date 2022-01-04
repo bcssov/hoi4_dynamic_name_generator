@@ -33,13 +33,31 @@
             </TextBlock.Style>
         </TextBlock>
         <DataGrid AutoGenerateColumns="False" CanUserAddRows="True" CanUserDeleteRows="True" 
-                  CanUserReorderColumns="True" CanUserResizeColumns="True" CanUserSortColumns="True" 
+                  CanUserReorderColumns="True" CanUserResizeColumns="True" CanUserSortColumns="True"
                   EnableRowVirtualization="True" Grid.Row="1" LoadingRow="DataGrid_LoadingRow" Name="dataGrid" AddingNewItem="dataGrid_AddingNewItem">
+            <DataGrid.Resources>
+                <local:WidthConverter x:Key="WidthConverter"/>
+            </DataGrid.Resources>
             <DataGrid.Columns>
                 <DataGridTextColumn Binding="{Binding Type, UpdateSourceTrigger=PropertyChanged}" Header="Type" Width="1*"></DataGridTextColumn>
                 <DataGridTextColumn Binding="{Binding StateId, UpdateSourceTrigger=PropertyChanged}" Header="StateId" Width="1*"></DataGridTextColumn>
-                <DataGridTextColumn Binding="{Binding Provinces, UpdateSourceTrigger=PropertyChanged}" Header="Provinces" Width="1*"></DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding ProvincesText, UpdateSourceTrigger=PropertyChanged}" Header="Provinces" Width="2*" IsReadOnly="True"></DataGridTextColumn>
             </DataGrid.Columns>
+            <DataGrid.RowDetailsTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Vertical" Background="Gray">
+                        <TextBlock Text="Province Details"></TextBlock>
+                        <DataGrid ItemsSource="{Binding Provinces}" AutoGenerateColumns="false" CanUserAddRows="True" CanUserDeleteRows="True" 
+                              CanUserReorderColumns="False" CanUserResizeColumns="False" CanUserSortColumns="False"
+                              EnableRowVirtualization="True" HeadersVisibility="None" Width="{Binding RelativeSource={RelativeSource AncestorType={x:Type ItemsPresenter}},Path=ActualWidth,Converter={StaticResource WidthConverter},ConverterParameter=50}">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="Id" Binding="{Binding Id}" Width="1*"/>
+                                <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="2*"/>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </StackPanel>
+                </DataTemplate>
+            </DataGrid.RowDetailsTemplate>
         </DataGrid>
     </Grid>
 </Window>

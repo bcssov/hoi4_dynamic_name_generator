@@ -11,10 +11,12 @@
 // </copyright>
 // <summary></summary>
 // ***********************************************************************
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
+using System.Text;
 
 namespace DynamicNameGenerator
 {
@@ -35,7 +37,7 @@ namespace DynamicNameGenerator
         /// <summary>
         /// The state identifier
         /// </summary>
-        private string stateId = string.Empty;
+        private long stateId;
 
         /// <summary>
         /// The type
@@ -73,10 +75,32 @@ namespace DynamicNameGenerator
         }
 
         /// <summary>
+        /// Gets the provinces text.
+        /// </summary>
+        /// <value>The provinces text.</value>
+        [JsonIgnore]
+        public string ProvincesText
+        {
+            get
+            {
+                if (Provinces != null && Provinces.Any())
+                {
+                    var sb = new StringBuilder();
+                    Provinces.ForEach(p =>
+                    {
+                        sb.AppendFormat("{0} - {1}{2}", p.Id, p.Name, Environment.NewLine);
+                    });
+                    return sb.ToString().Trim(Environment.NewLine.ToCharArray());
+                }
+                return string.Empty;
+            }
+        }
+
+        /// <summary>
         /// Gets or sets the state identifier.
         /// </summary>
         /// <value>The state identifier.</value>
-        public string StateId
+        public long StateId
         {
             get
             {
@@ -84,7 +108,7 @@ namespace DynamicNameGenerator
             }
             set
             {
-                stateId = value ?? string.Empty;
+                stateId = value;
                 PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(StateId)));
             }
         }
@@ -121,7 +145,7 @@ namespace DynamicNameGenerator
         /// <summary>
         /// The identifier
         /// </summary>
-        private string id = string.Empty;
+        private long id;
 
         /// <summary>
         /// The name
@@ -145,7 +169,7 @@ namespace DynamicNameGenerator
         /// Gets or sets the identifier.
         /// </summary>
         /// <value>The identifier.</value>
-        public string Id
+        public long Id
         {
             get
             {
@@ -153,7 +177,7 @@ namespace DynamicNameGenerator
             }
             set
             {
-                id = value ?? string.Empty;
+                id = value;
                 PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(Id)));
             }
         }
