@@ -1,0 +1,10262 @@
+[
+  {
+    "Type": "apply_name_albanian",
+    "StateId": "44",
+    "Provinces": [
+      {
+        "Id": "9914",
+        "Name": "Tiranë"
+      },
+      {
+        "Id": "11767",
+        "Name": "Vlorë"
+      }
+    ],
+    "Flag": "state_name_albanian"
+  },
+  {
+    "Type": "apply_name_albanian",
+    "StateId": "805",
+    "Provinces": [
+      {
+        "Id": "914",
+        "Name": "Gjirokastra"
+      }
+    ],
+    "Flag": "state_name_albanian"
+  },
+  {
+    "Type": "apply_name_albanian",
+    "StateId": "802",
+    "Provinces": [
+      {
+        "Id": "6940",
+        "Name": "Pristina"
+      }
+    ],
+    "Flag": "state_name_albanian"
+  },
+  {
+    "Type": "apply_name_belarusian",
+    "StateId": "207",
+    "Provinces": [
+      {
+        "Id": "11241",
+        "Name": "Vitebsk"
+      }
+    ],
+    "Flag": "state_name_belarusian"
+  },
+  {
+    "Type": "apply_name_belarusian",
+    "StateId": "241",
+    "Provinces": [
+      {
+        "Id": "9288",
+        "Name": "Homiel"
+      }
+    ],
+    "Flag": "state_name_belarusian"
+  },
+  {
+    "Type": "apply_name_belarusian",
+    "StateId": "206",
+    "Provinces": [
+      {
+        "Id": "11370",
+        "Name": "Minsk"
+      },
+      {
+        "Id": "9289",
+        "Name": "Mogilev"
+      }
+    ],
+    "Flag": "state_name_belarusian"
+  },
+  {
+    "Type": "apply_name_belarusian",
+    "StateId": "204",
+    "Provinces": [
+      {
+        "Id": "3350",
+        "Name": "Babruysk"
+      },
+      {
+        "Id": "11313",
+        "Name": "Salihorsk"
+      }
+    ],
+    "Flag": "state_name_belarusian"
+  },
+  {
+    "Type": "apply_name_belarusian",
+    "StateId": "194",
+    "Provinces": [
+      {
+        "Id": "6232",
+        "Name": "Mazyr"
+      }
+    ],
+    "Flag": "state_name_belarusian"
+  },
+  {
+    "Type": "apply_name_belarusian",
+    "StateId": "96",
+    "Provinces": [
+      {
+        "Id": "406",
+        "Name": "Maladzyechna"
+      }
+    ],
+    "Flag": "state_name_belarusian"
+  },
+  {
+    "Type": "apply_name_belarusian",
+    "StateId": "95",
+    "Provinces": [
+      {
+        "Id": "9304",
+        "Name": "Baranavichy"
+      },
+      {
+        "Id": "3393",
+        "Name": "Grodno"
+      }
+    ],
+    "Flag": "state_name_belarusian"
+  },
+  {
+    "Type": "apply_name_belarusian",
+    "StateId": "94",
+    "Provinces": [
+      {
+        "Id": "560",
+        "Name": "Pinsk"
+      },
+      {
+        "Id": "3392",
+        "Name": "Brest"
+      }
+    ],
+    "Flag": "state_name_belarusian"
+  },
+  {
+    "Type": "apply_name_bulgarian",
+    "StateId": "48",
+    "Provinces": [
+      {
+        "Id": "949",
+        "Name": "Sofiya"
+      },
+      {
+        "Id": "9771",
+        "Name": "Vidin"
+      }
+    ],
+    "Flag": "state_name_bulgarian"
+  },
+  {
+    "Type": "apply_name_bulgarian",
+    "StateId": "212",
+    "Provinces": [
+      {
+        "Id": "6923",
+        "Name": "Plovdiv"
+      },
+      {
+        "Id": "6814",
+        "Name": "Stara Zagora"
+      },
+      {
+        "Id": "9862",
+        "Name": "Haskovo"
+      }
+    ],
+    "Flag": "state_name_bulgarian"
+  },
+  {
+    "Type": "apply_name_bulgarian",
+    "StateId": "801",
+    "Provinces": [
+      {
+        "Id": "3796",
+        "Name": "Pleven"
+      },
+      {
+        "Id": "9612",
+        "Name": "Ruse"
+      }
+    ],
+    "Flag": "state_name_bulgarian"
+  },
+  {
+    "Type": "apply_name_bulgarian",
+    "StateId": "211",
+    "Provinces": [
+      {
+        "Id": "9902",
+        "Name": "Burgas"
+      },
+      {
+        "Id": "9888",
+        "Name": "Yambol"
+      },
+      {
+        "Id": "6967",
+        "Name": "Sliven"
+      },
+      {
+        "Id": "9769",
+        "Name": "Shoumen"
+      },
+      {
+        "Id": "9783",
+        "Name": "Varna"
+      }
+    ],
+    "Flag": "state_name_bulgarian"
+  },
+  {
+    "Type": "apply_name_bulgarian",
+    "StateId": "77",
+    "Provinces": [
+      {
+        "Id": "11597",
+        "Name": "Dobrich"
+      }
+    ],
+    "Flag": "state_name_bulgarian"
+  },
+  {
+    "Type": "apply_name_bulgarian",
+    "StateId": "797",
+    "Provinces": [
+      {
+        "Id": "9833",
+        "Name": "Konstantinopol"
+      }
+    ],
+    "Flag": "state_name_bulgarian"
+  },
+  {
+    "Type": "apply_name_bulgarian",
+    "StateId": "341",
+    "Provinces": [
+      {
+        "Id": "11842",
+        "Name": "Odrin"
+      }
+    ],
+    "Flag": "state_name_bulgarian"
+  },
+  {
+    "Type": "apply_name_bulgarian",
+    "StateId": "731",
+    "Provinces": [
+      {
+        "Id": "11818",
+        "Name": "Solun"
+      }
+    ],
+    "Flag": "state_name_bulgarian"
+  },
+  {
+    "Type": "apply_name_bulgarian",
+    "StateId": "184",
+    "Provinces": [
+      {
+        "Id": "11905",
+        "Name": "Dedeagach"
+      }
+    ],
+    "Flag": "state_name_bulgarian"
+  },
+  {
+    "Type": "apply_name_bulgarian",
+    "StateId": "803",
+    "Provinces": [
+      {
+        "Id": "11857",
+        "Name": "Leskovets"
+      }
+    ],
+    "Flag": "state_name_bulgarian"
+  },
+  {
+    "Type": "apply_name_bulgarian",
+    "StateId": "106",
+    "Provinces": [
+      {
+        "Id": "3882",
+        "Name": "Skopje"
+      }
+    ],
+    "Flag": "state_name_bulgarian"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "613",
+    "Provinces": [
+      {
+        "Id": "11913",
+        "Name": "Nanjing"
+      },
+      {
+        "Id": "10076",
+        "Name": "Suzhou"
+      },
+      {
+        "Id": "7014",
+        "Name": "Shanghai"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "598",
+    "Provinces": [],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "606",
+    "Provinces": [
+      {
+        "Id": "7222",
+        "Name": "Hefei"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "607",
+    "Provinces": [
+      {
+        "Id": "9958",
+        "Name": "Zhengzhou"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "597",
+    "Provinces": [
+      {
+        "Id": "1069",
+        "Name": "Jinan"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "743",
+    "Provinces": [
+      {
+        "Id": "10000",
+        "Name": "Qingdao"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "614",
+    "Provinces": [],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "608",
+    "Provinces": [
+      {
+        "Id": "9843",
+        "Name": "Beijing"
+      },
+      {
+        "Id": "10068",
+        "Name": "Tianjin"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "744",
+    "Provinces": [
+      {
+        "Id": "7418",
+        "Name": "Xi'an"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "620",
+    "Provinces": [
+      {
+        "Id": "4619",
+        "Name": "Wuhan"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "600",
+    "Provinces": [
+      {
+        "Id": "3992",
+        "Name": "Nanchang"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "749",
+    "Provinces": [
+      {
+        "Id": "12019",
+        "Name": "Huangshan"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "596",
+    "Provinces": [
+      {
+        "Id": "7191",
+        "Name": "Hangzhou"
+      },
+      {
+        "Id": "9974",
+        "Name": "Ningbo"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "595",
+    "Provinces": [
+      {
+        "Id": "4196",
+        "Name": "Fuzhou"
+      },
+      {
+        "Id": "7071",
+        "Name": "Xiamen"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "602",
+    "Provinces": [
+      {
+        "Id": "7097",
+        "Name": "Changsha"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "750",
+    "Provinces": [
+      {
+        "Id": "7101",
+        "Name": "Changde"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "605",
+    "Provinces": [
+      {
+        "Id": "6999",
+        "Name": "Chongqing"
+      },
+      {
+        "Id": "4925",
+        "Name": "Chengdu"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "748",
+    "Provinces": [
+      {
+        "Id": "1010",
+        "Name": "Zunyi"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "603",
+    "Provinces": [
+      {
+        "Id": "4504",
+        "Name": "Guizhou"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "751",
+    "Provinces": [
+      {
+        "Id": "12141",
+        "Name": "Ya'an"
+      },
+      {
+        "Id": "7294",
+        "Name": "Liangshan"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "752",
+    "Provinces": [
+      {
+        "Id": "4999",
+        "Name": "Kangding"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "601",
+    "Provinces": [
+      {
+        "Id": "10856",
+        "Name": "Chamdo"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "615",
+    "Provinces": [
+      {
+        "Id": "1519",
+        "Name": "Taiyuan"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "621",
+    "Provinces": [],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "746",
+    "Provinces": [],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "621",
+    "Provinces": [
+      {
+        "Id": "8049",
+        "Name": "Yan'an"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "283",
+    "Provinces": [],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "616",
+    "Provinces": [],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "756",
+    "Provinces": [],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "754",
+    "Provinces": [
+      {
+        "Id": "12732",
+        "Name": "Lanzhou"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "753",
+    "Provinces": [
+      {
+        "Id": "2045",
+        "Name": "Tianshui"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "755",
+    "Provinces": [],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "756",
+    "Provinces": [
+      {
+        "Id": "7940",
+        "Name": "Golmud"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "760",
+    "Provinces": [],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "759",
+    "Provinces": [],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "287",
+    "Provinces": [],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "619",
+    "Provinces": [
+      {
+        "Id": "2015",
+        "Name": "Kashgar"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "617",
+    "Provinces": [
+      {
+        "Id": "4709",
+        "Name": "Urumqi"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "619",
+    "Provinces": [
+      {
+        "Id": "4823",
+        "Name": "Altay"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "325",
+    "Provinces": [
+      {
+        "Id": "1319",
+        "Name": "Kunming"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "747",
+    "Provinces": [
+      {
+        "Id": "7965",
+        "Name": "Dali"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "593",
+    "Provinces": [],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "599",
+    "Provinces": [
+      {
+        "Id": "10404",
+        "Name": "Guilin"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "592",
+    "Provinces": [
+      {
+        "Id": "1047",
+        "Name": "Guangzhou"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "594",
+    "Provinces": [
+      {
+        "Id": "7137",
+        "Name": "Nanning"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "591",
+    "Provinces": [
+      {
+        "Id": "1070",
+        "Name": "Hainan"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "610",
+    "Provinces": [],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "715",
+    "Provinces": [],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "716",
+    "Provinces": [
+      {
+        "Id": "11771",
+        "Name": "Shenyang"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "328",
+    "Provinces": [
+      {
+        "Id": "10433",
+        "Name": "Harbin"
+      },
+      {
+        "Id": "4572",
+        "Name": "Changchun"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "717",
+    "Provinces": [],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "714",
+    "Provinces": [],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "761",
+    "Provinces": [],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "524",
+    "Provinces": [
+      {
+        "Id": "7186",
+        "Name": "Taipei"
+      },
+      {
+        "Id": "12068",
+        "Name": "Gaoxiong"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "609",
+    "Provinces": [],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_chinese",
+    "StateId": "745",
+    "Provinces": [
+      {
+        "Id": "1150",
+        "Name": "Dalian"
+      }
+    ],
+    "Flag": "state_name_chinese"
+  },
+  {
+    "Type": "apply_name_czechoslovak",
+    "StateId": "69",
+    "Provinces": [
+      {
+        "Id": "3585",
+        "Name": "Karlovy Vary"
+      },
+      {
+        "Id": "11401",
+        "Name": "Liberec"
+      }
+    ],
+    "Flag": "state_name_czechoslovak"
+  },
+  {
+    "Type": "apply_name_czechoslovak",
+    "StateId": "9",
+    "Provinces": [
+      {
+        "Id": "11542",
+        "Name": "Praha"
+      },
+      {
+        "Id": "9569",
+        "Name": "Tábor"
+      },
+      {
+        "Id": "6418",
+        "Name": "Plzeň"
+      }
+    ],
+    "Flag": "state_name_czechoslovak"
+  },
+  {
+    "Type": "apply_name_czechoslovak",
+    "StateId": "75",
+    "Provinces": [
+      {
+        "Id": "3569",
+        "Name": "Brno"
+      },
+      {
+        "Id": "6562",
+        "Name": "Olomouc"
+      }
+    ],
+    "Flag": "state_name_czechoslovak"
+  },
+  {
+    "Type": "apply_name_czechoslovak",
+    "StateId": "72",
+    "Provinces": [],
+    "Flag": "state_name_czechoslovak"
+  },
+  {
+    "Type": "apply_name_czechoslovak",
+    "StateId": "74",
+    "Provinces": [
+      {
+        "Id": "3583",
+        "Name": "Ostrava"
+      }
+    ],
+    "Flag": "state_name_czechoslovak"
+  },
+  {
+    "Type": "apply_name_czechoslovak",
+    "StateId": "70",
+    "Provinces": [
+      {
+        "Id": "9692",
+        "Name": "Bratislava"
+      },
+      {
+        "Id": "11539",
+        "Name": "Žilina"
+      }
+    ],
+    "Flag": "state_name_czechoslovak"
+  },
+  {
+    "Type": "apply_name_czechoslovak",
+    "StateId": "664",
+    "Provinces": [
+      {
+        "Id": "6573",
+        "Name": "Košice"
+      }
+    ],
+    "Flag": "state_name_czechoslovak"
+  },
+  {
+    "Type": "apply_name_czechoslovak",
+    "StateId": "71",
+    "Provinces": [
+      {
+        "Id": "3581",
+        "Name": "Prešov"
+      }
+    ],
+    "Flag": "state_name_czechoslovak"
+  },
+  {
+    "Type": "apply_name_czechoslovak",
+    "StateId": "73",
+    "Provinces": [
+      {
+        "Id": "3548",
+        "Name": "Mukacevo"
+      }
+    ],
+    "Flag": "state_name_czechoslovak"
+  },
+  {
+    "Type": "apply_name_danish",
+    "StateId": "99",
+    "Provinces": [
+      {
+        "Id": "6364",
+        "Name": "Aarhus"
+      }
+    ],
+    "Flag": "state_name_danish"
+  },
+  {
+    "Type": "apply_name_danish",
+    "StateId": "37",
+    "Provinces": [
+      {
+        "Id": "3325",
+        "Name": "Odense"
+      },
+      {
+        "Id": "6287",
+        "Name": "København"
+      }
+    ],
+    "Flag": "state_name_danish"
+  },
+  {
+    "Type": "apply_name_danish",
+    "StateId": "337",
+    "Provinces": [],
+    "Flag": "state_name_danish"
+  },
+  {
+    "Type": "apply_name_danish",
+    "StateId": "100",
+    "Provinces": [
+      {
+        "Id": "12674",
+        "Name": "Reykjavík"
+      }
+    ],
+    "Flag": "state_name_danish"
+  },
+  {
+    "Type": "apply_name_danish",
+    "StateId": "101",
+    "Provinces": [],
+    "Flag": "state_name_danish"
+  },
+  {
+    "Type": "apply_name_estonian",
+    "StateId": "812",
+    "Provinces": [
+      {
+        "Id": "3152",
+        "Name": "Tallinn"
+      }
+    ],
+    "Flag": "state_name_estonian"
+  },
+  {
+    "Type": "apply_name_estonian",
+    "StateId": "813",
+    "Provinces": [
+      {
+        "Id": "11127",
+        "Name": "Rakvere"
+      },
+      {
+        "Id": "4640",
+        "Name": "Narva"
+      }
+    ],
+    "Flag": "state_name_estonian"
+  },
+  {
+    "Type": "apply_name_estonian",
+    "StateId": "191",
+    "Provinces": [
+      {
+        "Id": "9221",
+        "Name": "Tartu"
+      },
+      {
+        "Id": "592",
+        "Name": "Võru"
+      }
+    ],
+    "Flag": "state_name_estonian"
+  },
+  {
+    "Type": "apply_name_estonian",
+    "StateId": "13",
+    "Provinces": [
+      {
+        "Id": "3174",
+        "Name": "Pärnu"
+      }
+    ],
+    "Flag": "state_name_estonian"
+  },
+  {
+    "Type": "apply_name_estonian",
+    "StateId": "811",
+    "Provinces": [
+      {
+        "Id": "185",
+        "Name": "Kuressaare"
+      }
+    ],
+    "Flag": "state_name_estonian"
+  },
+  {
+    "Type": "apply_name_finnish",
+    "StateId": "111",
+    "Provinces": [
+      {
+        "Id": "11105",
+        "Name": "Helsinki"
+      },
+      {
+        "Id": "3137",
+        "Name": "Tampere"
+      },
+      {
+        "Id": "3083",
+        "Name": "Turku"
+      }
+    ],
+    "Flag": "state_name_finnish"
+  },
+  {
+    "Type": "apply_name_finnish",
+    "StateId": "150",
+    "Provinces": [],
+    "Flag": "state_name_finnish"
+  },
+  {
+    "Type": "apply_name_finnish",
+    "StateId": "149",
+    "Provinces": [
+      {
+        "Id": "3122",
+        "Name": "Vaasa"
+      }
+    ],
+    "Flag": "state_name_finnish"
+  },
+  {
+    "Type": "apply_name_finnish",
+    "StateId": "148",
+    "Provinces": [],
+    "Flag": "state_name_finnish"
+  },
+  {
+    "Type": "apply_name_finnish",
+    "StateId": "146",
+    "Provinces": [
+      {
+        "Id": "9206",
+        "Name": "Viipuri"
+      }
+    ],
+    "Flag": "state_name_finnish"
+  },
+  {
+    "Type": "apply_name_finnish",
+    "StateId": "147",
+    "Provinces": [
+      {
+        "Id": "197",
+        "Name": "Salla"
+      }
+    ],
+    "Flag": "state_name_finnish"
+  },
+  {
+    "Type": "apply_name_finnish",
+    "StateId": "722",
+    "Provinces": [],
+    "Flag": "state_name_finnish"
+  },
+  {
+    "Type": "apply_name_finnish",
+    "StateId": "213",
+    "Provinces": [
+      {
+        "Id": "3134",
+        "Name": "Muurmanni"
+      },
+      {
+        "Id": "6181",
+        "Name": "Kantalahti"
+      }
+    ],
+    "Flag": "state_name_finnish"
+  },
+  {
+    "Type": "apply_name_finnish",
+    "StateId": "215",
+    "Provinces": [],
+    "Flag": "state_name_finnish"
+  },
+  {
+    "Type": "apply_name_finnish",
+    "StateId": "216",
+    "Provinces": [
+      {
+        "Id": "11159",
+        "Name": "Äänislinna"
+      }
+    ],
+    "Flag": "state_name_finnish"
+  },
+  {
+    "Type": "apply_name_french",
+    "StateId": "16",
+    "Provinces": [
+      {
+        "Id": "11506",
+        "Name": "Paris"
+      }
+    ],
+    "Flag": "state_name_french"
+  },
+  {
+    "Type": "apply_name_french",
+    "StateId": "15",
+    "Provinces": [
+      {
+        "Id": "6449",
+        "Name": "Cherbourg-en-Cotentin"
+      },
+      {
+        "Id": "9434",
+        "Name": "Le Havre"
+      },
+      {
+        "Id": "11563",
+        "Name": "Rouen"
+      },
+      {
+        "Id": "485",
+        "Name": "Dieppe"
+      }
+    ],
+    "Flag": "state_name_french"
+  },
+  {
+    "Type": "apply_name_french",
+    "StateId": "785",
+    "Provinces": [
+      {
+        "Id": "11420",
+        "Name": "Amiens"
+      }
+    ],
+    "Flag": "state_name_french"
+  },
+  {
+    "Type": "apply_name_french",
+    "StateId": "29",
+    "Provinces": [
+      {
+        "Id": "11548",
+        "Name": "Calais"
+      },
+      {
+        "Id": "575",
+        "Name": "Dunkerque"
+      },
+      {
+        "Id": "11483",
+        "Name": "Lille"
+      }
+    ],
+    "Flag": "state_name_french"
+  },
+  {
+    "Type": "apply_name_french",
+    "StateId": "18",
+    "Provinces": [
+      {
+        "Id": "9490",
+        "Name": "Troyes"
+      },
+      {
+        "Id": "13011",
+        "Name": "Reims"
+      },
+      {
+        "Id": "3560",
+        "Name": "Sedan"
+      }
+    ],
+    "Flag": "state_name_french"
+  },
+  {
+    "Type": "apply_name_french",
+    "StateId": "17",
+    "Provinces": [
+      {
+        "Id": "11516",
+        "Name": "Nancy"
+      },
+      {
+        "Id": "9642",
+        "Name": "Besançon"
+      }
+    ],
+    "Flag": "state_name_french"
+  },
+  {
+    "Type": "apply_name_french",
+    "StateId": "28",
+    "Provinces": [
+      {
+        "Id": "678",
+        "Name": "Mulhouse"
+      },
+      {
+        "Id": "9503",
+        "Name": "Strasbourg"
+      },
+      {
+        "Id": "9559",
+        "Name": "Metz"
+      }
+    ],
+    "Flag": "state_name_french"
+  },
+  {
+    "Type": "apply_name_french",
+    "StateId": "27",
+    "Provinces": [
+      {
+        "Id": "3652",
+        "Name": "Dijon"
+      }
+    ],
+    "Flag": "state_name_french"
+  },
+  {
+    "Type": "apply_name_french",
+    "StateId": "24",
+    "Provinces": [
+      {
+        "Id": "512",
+        "Name": "Orléans"
+      },
+      {
+        "Id": "3671",
+        "Name": "Tours"
+      }
+    ],
+    "Flag": "state_name_french"
+  },
+  {
+    "Type": "apply_name_french",
+    "StateId": "30",
+    "Provinces": [
+      {
+        "Id": "11465",
+        "Name": "Nantes"
+      }
+    ],
+    "Flag": "state_name_french"
+  },
+  {
+    "Type": "apply_name_french",
+    "StateId": "14",
+    "Provinces": [
+      {
+        "Id": "3552",
+        "Name": "Brest"
+      },
+      {
+        "Id": "6536",
+        "Name": "Lorient"
+      },
+      {
+        "Id": "9495",
+        "Name": "Rennes"
+      }
+    ],
+    "Flag": "state_name_french"
+  },
+  {
+    "Type": "apply_name_french",
+    "StateId": "23",
+    "Provinces": [
+      {
+        "Id": "6657",
+        "Name": "La Rochelle"
+      }
+    ],
+    "Flag": "state_name_french"
+  },
+  {
+    "Type": "apply_name_french",
+    "StateId": "33",
+    "Provinces": [
+      {
+        "Id": "651",
+        "Name": "Châteauroux"
+      }
+    ],
+    "Flag": "state_name_french"
+  },
+  {
+    "Type": "apply_name_french",
+    "StateId": "25",
+    "Provinces": [
+      {
+        "Id": "620",
+        "Name": "Limoges"
+      }
+    ],
+    "Flag": "state_name_french"
+  },
+  {
+    "Type": "apply_name_french",
+    "StateId": "19",
+    "Provinces": [
+      {
+        "Id": "9737",
+        "Name": "Bordeaux"
+      }
+    ],
+    "Flag": "state_name_french"
+  },
+  {
+    "Type": "apply_name_french",
+    "StateId": "806",
+    "Provinces": [
+      {
+        "Id": "9710",
+        "Name": "Bayonne"
+      }
+    ],
+    "Flag": "state_name_french"
+  },
+  {
+    "Type": "apply_name_french",
+    "StateId": "31",
+    "Provinces": [
+      {
+        "Id": "6766",
+        "Name": "Toulouse"
+      }
+    ],
+    "Flag": "state_name_french"
+  },
+  {
+    "Type": "apply_name_french",
+    "StateId": "20",
+    "Provinces": [
+      {
+        "Id": "6613",
+        "Name": "Lyon"
+      }
+    ],
+    "Flag": "state_name_french"
+  },
+  {
+    "Type": "apply_name_french",
+    "StateId": "26",
+    "Provinces": [
+      {
+        "Id": "3594",
+        "Name": "Vichy"
+      }
+    ],
+    "Flag": "state_name_french"
+  },
+  {
+    "Type": "apply_name_french",
+    "StateId": "32",
+    "Provinces": [
+      {
+        "Id": "3768",
+        "Name": "Grenoble"
+      }
+    ],
+    "Flag": "state_name_french"
+  },
+  {
+    "Type": "apply_name_french",
+    "StateId": "22",
+    "Provinces": [
+      {
+        "Id": "9898",
+        "Name": "Montpellier"
+      }
+    ],
+    "Flag": "state_name_french"
+  },
+  {
+    "Type": "apply_name_french",
+    "StateId": "21",
+    "Provinces": [
+      {
+        "Id": "11834",
+        "Name": "Marseille"
+      },
+      {
+        "Id": "911",
+        "Name": "Toulon"
+      }
+    ],
+    "Flag": "state_name_french"
+  },
+  {
+    "Type": "apply_name_french",
+    "StateId": "735",
+    "Provinces": [
+      {
+        "Id": "9909",
+        "Name": "Nice"
+      },
+      {
+        "Id": "778",
+        "Name": "Annecy"
+      }
+    ],
+    "Flag": "state_name_french"
+  },
+  {
+    "Type": "apply_name_french",
+    "StateId": "1",
+    "Provinces": [
+      {
+        "Id": "3838",
+        "Name": "Ajaccio"
+      }
+    ],
+    "Flag": "state_name_french"
+  },
+  {
+    "Type": "apply_name_french",
+    "StateId": "310",
+    "Provinces": [
+      {
+        "Id": "12885",
+        "Name": "Cayenne"
+      }
+    ],
+    "Flag": "state_name_french"
+  },
+  {
+    "Type": "apply_name_french",
+    "StateId": "6",
+    "Provinces": [
+      {
+        "Id": "516",
+        "Name": "Bruxelles"
+      },
+      {
+        "Id": "6598",
+        "Name": "Anvers"
+      },
+      {
+        "Id": "6560",
+        "Name": "Gand"
+      },
+      {
+        "Id": "13068",
+        "Name": "Louvain"
+      },
+      {
+        "Id": "3576",
+        "Name": "Courtrai"
+      }
+    ],
+    "Flag": "state_name_french"
+  },
+  {
+    "Type": "apply_name_french",
+    "StateId": "34",
+    "Provinces": [
+      {
+        "Id": "9536",
+        "Name": "Charleroi"
+      },
+      {
+        "Id": "3516",
+        "Name": "Namur"
+      },
+      {
+        "Id": "11519",
+        "Name": "Liège"
+      }
+    ],
+    "Flag": "state_name_french"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "64",
+    "Provinces": [
+      {
+        "Id": "6521",
+        "Name": "Berlin"
+      },
+      {
+        "Id": "3522",
+        "Name": "Magdeburg"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "61",
+    "Provinces": [
+      {
+        "Id": "321",
+        "Name": "Rostock"
+      },
+      {
+        "Id": "11305",
+        "Name": "Lübeck"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "62",
+    "Provinces": [
+      {
+        "Id": "9938",
+        "Name": "Stralsund"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "65",
+    "Provinces": [
+      {
+        "Id": "3535",
+        "Name": "Leipzig"
+      },
+      {
+        "Id": "514",
+        "Name": "Dresden"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "58",
+    "Provinces": [
+      {
+        "Id": "6389",
+        "Name": "Kiel"
+      },
+      {
+        "Id": "9347",
+        "Name": "Hamburg"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "59",
+    "Provinces": [
+      {
+        "Id": "6377",
+        "Name": "Hannover"
+      },
+      {
+        "Id": "3326",
+        "Name": "Bremen"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "60",
+    "Provinces": [
+      {
+        "Id": "425",
+        "Name": "Weimar"
+      },
+      {
+        "Id": "3561",
+        "Name": "Erfurt"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "56",
+    "Provinces": [
+      {
+        "Id": "241",
+        "Name": "Wilhelmshaven"
+      },
+      {
+        "Id": "11360",
+        "Name": "Emden"
+      },
+      {
+        "Id": "3561",
+        "Name": "Münster"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "57",
+    "Provinces": [
+      {
+        "Id": "495",
+        "Name": "Dortmund"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "51",
+    "Provinces": [
+      {
+        "Id": "6469",
+        "Name": "Essen"
+      },
+      {
+        "Id": "587",
+        "Name": "Köln"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "55",
+    "Provinces": [
+      {
+        "Id": "6488",
+        "Name": "Frankfurt"
+      },
+      {
+        "Id": "564",
+        "Name": "Kassel"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "42",
+    "Provinces": [
+      {
+        "Id": "11435",
+        "Name": "Bitburg"
+      },
+      {
+        "Id": "11531",
+        "Name": "Saarbrücken"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "54",
+    "Provinces": [
+      {
+        "Id": "11544",
+        "Name": "Nürnberg"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "50",
+    "Provinces": [
+      {
+        "Id": "9517",
+        "Name": "Stuttgart"
+      },
+      {
+        "Id": "11499",
+        "Name": "Ulm"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "53",
+    "Provinces": [
+      {
+        "Id": "9515",
+        "Name": "Regensburg"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "52",
+    "Provinces": [
+      {
+        "Id": "692",
+        "Name": "München"
+      },
+      {
+        "Id": "708",
+        "Name": "Augsburg"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "63",
+    "Provinces": [
+      {
+        "Id": "6282",
+        "Name": "Stettin"
+      },
+      {
+        "Id": "11372",
+        "Name": "Köslin"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "68",
+    "Provinces": [
+      {
+        "Id": "3473",
+        "Name": "Küstrin"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "66",
+    "Provinces": [
+      {
+        "Id": "9570",
+        "Name": "Breslau"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "67",
+    "Provinces": [
+      {
+        "Id": "11467",
+        "Name": "Gleiwitz"
+      },
+      {
+        "Id": "9511",
+        "Name": "Oppeln"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "5",
+    "Provinces": [
+      {
+        "Id": "6375",
+        "Name": "Allenstein"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "763",
+    "Provinces": [
+      {
+        "Id": "6332",
+        "Name": "Königsberg"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "4",
+    "Provinces": [
+      {
+        "Id": "11666",
+        "Name": "Wien"
+      },
+      {
+        "Id": "9648",
+        "Name": "Graz"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "152",
+    "Provinces": [
+      {
+        "Id": "688",
+        "Name": "Salzburg"
+      },
+      {
+        "Id": "732",
+        "Name": "Linz"
+      },
+      {
+        "Id": "9665",
+        "Name": "Wels"
+      },
+      {
+        "Id": "3673",
+        "Name": "Klagenfurt"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "153",
+    "Provinces": [
+      {
+        "Id": "673",
+        "Name": "Innsbruck"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "3",
+    "Provinces": [
+      {
+        "Id": "9620",
+        "Name": "Bern"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "151",
+    "Provinces": [
+      {
+        "Id": "663",
+        "Name": "Zürich"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "69",
+    "Provinces": [
+      {
+        "Id": "3585",
+        "Name": "Karlsbad"
+      },
+      {
+        "Id": "11401",
+        "Name": "Reichenberg"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "9",
+    "Provinces": [
+      {
+        "Id": "11542",
+        "Name": "Prag"
+      },
+      {
+        "Id": "9569",
+        "Name": "Tabor"
+      },
+      {
+        "Id": "6418",
+        "Name": "Pilsen"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "75",
+    "Provinces": [
+      {
+        "Id": "3569",
+        "Name": "Brünn"
+      },
+      {
+        "Id": "6562",
+        "Name": "Olmütz"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "72",
+    "Provinces": [],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "74",
+    "Provinces": [
+      {
+        "Id": "3583",
+        "Name": "Ostrau"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "70",
+    "Provinces": [
+      {
+        "Id": "9692",
+        "Name": "Pressburg"
+      },
+      {
+        "Id": "11539",
+        "Name": "Sillein"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "664",
+    "Provinces": [
+      {
+        "Id": "6573",
+        "Name": "Kaschau"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "71",
+    "Provinces": [
+      {
+        "Id": "3581",
+        "Name": "Preschau"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "73",
+    "Provinces": [
+      {
+        "Id": "3548",
+        "Name": "Munkatsch"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "10",
+    "Provinces": [
+      {
+        "Id": "3544",
+        "Name": "Warschau"
+      },
+      {
+        "Id": "402",
+        "Name": "Schedlitz"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "87",
+    "Provinces": [
+      {
+        "Id": "9508",
+        "Name": "Litzmannstadt"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "90",
+    "Provinces": [
+      {
+        "Id": "11430",
+        "Name": "Kielitz"
+      },
+      {
+        "Id": "3458",
+        "Name": "Radom"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "88",
+    "Provinces": [
+      {
+        "Id": "9427",
+        "Name": "Beskidland"
+      },
+      {
+        "Id": "442",
+        "Name": "Tarnau"
+      },
+      {
+        "Id": "9494",
+        "Name": "Zamość "
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "92",
+    "Provinces": [
+      {
+        "Id": "11399",
+        "Name": "Lüben"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "97",
+    "Provinces": [
+      {
+        "Id": "11301",
+        "Name": "Bjelostock"
+      },
+      {
+        "Id": "3254",
+        "Name": "Suwalken"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "762",
+    "Provinces": [
+      {
+        "Id": "6464",
+        "Name": "Kattowitz"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "86",
+    "Provinces": [
+      {
+        "Id": "6558",
+        "Name": "Posen"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "98",
+    "Provinces": [
+      {
+        "Id": "3230",
+        "Name": "Plozk"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "807",
+    "Provinces": [
+      {
+        "Id": "9263",
+        "Name": "Gotenhafen"
+      },
+      {
+        "Id": "279",
+        "Name": "Bromberg"
+      },
+      {
+        "Id": "3295",
+        "Name": "Thorn"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "85",
+    "Provinces": [
+      {
+        "Id": "362",
+        "Name": "Danzig"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "89",
+    "Provinces": [
+      {
+        "Id": "11411",
+        "Name": "Stanislau"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "91",
+    "Provinces": [
+      {
+        "Id": "11479",
+        "Name": "Lemberg"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "93",
+    "Provinces": [
+      {
+        "Id": "422",
+        "Name": "Kowel"
+      },
+      {
+        "Id": "6557",
+        "Name": "Rowno"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "94",
+    "Provinces": [
+      {
+        "Id": "560",
+        "Name": "Neubrest"
+      },
+      {
+        "Id": "3392",
+        "Name": "Brest-Litowsk"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "95",
+    "Provinces": [
+      {
+        "Id": "9304",
+        "Name": "Baronenwald"
+      },
+      {
+        "Id": "3393",
+        "Name": "Garten"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "96",
+    "Provinces": [
+      {
+        "Id": "406",
+        "Name": "Adolfstadt"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "784",
+    "Provinces": [
+      {
+        "Id": "3320",
+        "Name": "Wilna"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "107",
+    "Provinces": [
+      {
+        "Id": "11586",
+        "Name": "Belgrad"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "108",
+    "Provinces": [
+      {
+        "Id": "9602",
+        "Name": "Niš"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "764",
+    "Provinces": [
+      {
+        "Id": "3614",
+        "Name": "Pantschowa"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "45",
+    "Provinces": [
+      {
+        "Id": "619",
+        "Name": "Neusatz"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "803",
+    "Provinces": [
+      {
+        "Id": "11857",
+        "Name": "Leskovac"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "802",
+    "Provinces": [
+      {
+        "Id": "6940",
+        "Name": "Pristina"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "106",
+    "Provinces": [
+      {
+        "Id": "3882",
+        "Name": "Skopje"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "105",
+    "Provinces": [
+      {
+        "Id": "9809",
+        "Name": "Podgorica"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "104",
+    "Provinces": [
+      {
+        "Id": "11899",
+        "Name": "Sarajewo"
+      },
+      {
+        "Id": "6983",
+        "Name": "Weina Luka"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "804",
+    "Provinces": [
+      {
+        "Id": "9894",
+        "Name": "Mostar"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "109",
+    "Provinces": [
+      {
+        "Id": "11581",
+        "Name": "Agram"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "103",
+    "Provinces": [
+      {
+        "Id": "11564",
+        "Name": "Sankt Veit am Flaum"
+      },
+      {
+        "Id": "3924",
+        "Name": "Splitt"
+      },
+      {
+        "Id": "11816",
+        "Name": "Ragus"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "102",
+    "Provinces": [
+      {
+        "Id": "9627",
+        "Name": "Laibach"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "46",
+    "Provinces": [
+      {
+        "Id": "9617",
+        "Name": "Bukarest"
+      },
+      {
+        "Id": "3663",
+        "Name": "Plorescht"
+      },
+      {
+        "Id": "657",
+        "Name": "Konstanz"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "77",
+    "Provinces": [
+      {
+        "Id": "11597",
+        "Name": "Dobrich"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "81",
+    "Provinces": [
+      {
+        "Id": "6652",
+        "Name": "Kragau"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "79",
+    "Provinces": [
+      {
+        "Id": "6706",
+        "Name": "Galatz"
+      },
+      {
+        "Id": "9716",
+        "Name": "Jassy"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "84",
+    "Provinces": [
+      {
+        "Id": "690",
+        "Name": "Kronstadt"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "82",
+    "Provinces": [
+      {
+        "Id": "9606",
+        "Name": "Temeschburg"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "83",
+    "Provinces": [
+      {
+        "Id": "6682",
+        "Name": "Arad"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "76",
+    "Provinces": [
+      {
+        "Id": "6711",
+        "Name": "Klausenburg"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "80",
+    "Provinces": [
+      {
+        "Id": "577",
+        "Name": "Cernăuti"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "78",
+    "Provinces": [
+      {
+        "Id": "3707",
+        "Name": "Kischinau"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "766",
+    "Provinces": [
+      {
+        "Id": "6727",
+        "Name": "Cetatea Albă"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "43",
+    "Provinces": [
+      {
+        "Id": "9660",
+        "Name": "Ofenpesth"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "155",
+    "Provinces": [
+      {
+        "Id": "11610",
+        "Name": "Fünfkirchen"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "154",
+    "Provinces": [
+      {
+        "Id": "11659",
+        "Name": "Debrezin"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "110",
+    "Provinces": [
+      {
+        "Id": "6115",
+        "Name": "Oslo"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "142",
+    "Provinces": [
+      {
+        "Id": "9296",
+        "Name": "Kristiansand"
+      },
+      {
+        "Id": "53",
+        "Name": "Stavanger"
+      },
+      {
+        "Id": "122",
+        "Name": "Bergen"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "143",
+    "Provinces": [
+      {
+        "Id": "3022",
+        "Name": "Drontheim"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "144",
+    "Provinces": [
+      {
+        "Id": "192",
+        "Name": "Narvik"
+      },
+      {
+        "Id": "11050",
+        "Name": "Tromsø"
+      },
+      {
+        "Id": "9116",
+        "Name": "Kirkenes"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "99",
+    "Provinces": [
+      {
+        "Id": "6364",
+        "Name": "Arenhusen"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "37",
+    "Provinces": [
+      {
+        "Id": "3325",
+        "Name": "Odense"
+      },
+      {
+        "Id": "6287",
+        "Name": "Kopenhagen"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "337",
+    "Provinces": [],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "100",
+    "Provinces": [
+      {
+        "Id": "12674",
+        "Name": "Reykjavík"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "101",
+    "Provinces": [],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "16",
+    "Provinces": [
+      {
+        "Id": "11506",
+        "Name": "Paris"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "15",
+    "Provinces": [
+      {
+        "Id": "6449",
+        "Name": "Cherbourg-en-Cotentin"
+      },
+      {
+        "Id": "9434",
+        "Name": "Le Havre"
+      },
+      {
+        "Id": "11563",
+        "Name": "Rouen"
+      },
+      {
+        "Id": "485",
+        "Name": "Dieppe"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "785",
+    "Provinces": [
+      {
+        "Id": "11420",
+        "Name": "Amiens"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "29",
+    "Provinces": [
+      {
+        "Id": "11548",
+        "Name": "Kalen"
+      },
+      {
+        "Id": "575",
+        "Name": "Dünkirchen"
+      },
+      {
+        "Id": "11483",
+        "Name": "Ryssel"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "18",
+    "Provinces": [
+      {
+        "Id": "9490",
+        "Name": "Troyes"
+      },
+      {
+        "Id": "13011",
+        "Name": "Reims"
+      },
+      {
+        "Id": "3560",
+        "Name": "Sedan"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "17",
+    "Provinces": [
+      {
+        "Id": "11516",
+        "Name": "Nanzig"
+      },
+      {
+        "Id": "9642",
+        "Name": "Bisanz"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "28",
+    "Provinces": [
+      {
+        "Id": "678",
+        "Name": "Mülhausen"
+      },
+      {
+        "Id": "9503",
+        "Name": "Strassburg"
+      },
+      {
+        "Id": "9559",
+        "Name": "Metz"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "27",
+    "Provinces": [
+      {
+        "Id": "3652",
+        "Name": "Dischon"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "24",
+    "Provinces": [
+      {
+        "Id": "512",
+        "Name": "Orléans"
+      },
+      {
+        "Id": "3671",
+        "Name": "Tours"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "30",
+    "Provinces": [
+      {
+        "Id": "11465",
+        "Name": "Nantes"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "14",
+    "Provinces": [
+      {
+        "Id": "3552",
+        "Name": "Bretten"
+      },
+      {
+        "Id": "6536",
+        "Name": "Lorient"
+      },
+      {
+        "Id": "9495",
+        "Name": "Rennes"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "23",
+    "Provinces": [
+      {
+        "Id": "6657",
+        "Name": "La Rochelle"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "33",
+    "Provinces": [
+      {
+        "Id": "651",
+        "Name": "Châteauroux"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "25",
+    "Provinces": [
+      {
+        "Id": "620",
+        "Name": "Limoges"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "19",
+    "Provinces": [
+      {
+        "Id": "9737",
+        "Name": "Bordeaux"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "806",
+    "Provinces": [
+      {
+        "Id": "9710",
+        "Name": "Bayonne"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "31",
+    "Provinces": [
+      {
+        "Id": "6766",
+        "Name": "Toulouse"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "20",
+    "Provinces": [
+      {
+        "Id": "6613",
+        "Name": "Lünstadt"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "26",
+    "Provinces": [
+      {
+        "Id": "3594",
+        "Name": "Vichy"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "32",
+    "Provinces": [
+      {
+        "Id": "3768",
+        "Name": "Graswalde"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "22",
+    "Provinces": [
+      {
+        "Id": "9898",
+        "Name": "Montpellier"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "21",
+    "Provinces": [
+      {
+        "Id": "11834",
+        "Name": "Massilien"
+      },
+      {
+        "Id": "911",
+        "Name": "Telon"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "735",
+    "Provinces": [
+      {
+        "Id": "9909",
+        "Name": "Nizza"
+      },
+      {
+        "Id": "778",
+        "Name": "Annecy"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "1",
+    "Provinces": [
+      {
+        "Id": "3838",
+        "Name": "Ajaccio"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "6",
+    "Provinces": [
+      {
+        "Id": "516",
+        "Name": "Brüssel"
+      },
+      {
+        "Id": "6598",
+        "Name": "Antwerpen"
+      },
+      {
+        "Id": "6560",
+        "Name": "Gent"
+      },
+      {
+        "Id": "13068",
+        "Name": "Löwen"
+      },
+      {
+        "Id": "3576",
+        "Name": "Kortrijzk"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "34",
+    "Provinces": [
+      {
+        "Id": "9536",
+        "Name": "Karolingen"
+      },
+      {
+        "Id": "3516",
+        "Name": "Namen"
+      },
+      {
+        "Id": "11519",
+        "Name": "Lüttich"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "8",
+    "Provinces": [
+      {
+        "Id": "6583",
+        "Name": "Luxemburg"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "159",
+    "Provinces": [
+      {
+        "Id": "3780",
+        "Name": "Mailand"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "160",
+    "Provinces": [
+      {
+        "Id": "11584",
+        "Name": "Venedig"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "39",
+    "Provinces": [
+      {
+        "Id": "11598",
+        "Name": "Bozen"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "736",
+    "Provinces": [
+      {
+        "Id": "6626",
+        "Name": "Triest"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "11",
+    "Provinces": [
+      {
+        "Id": "6296",
+        "Name": "Kauen"
+      },
+      {
+        "Id": "9357",
+        "Name": "Wilkomir"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "814",
+    "Provinces": [
+      {
+        "Id": "11312",
+        "Name": "Mariampol"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "815",
+    "Provinces": [
+      {
+        "Id": "6229",
+        "Name": "Ponewiesch"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "189",
+    "Provinces": [
+      {
+        "Id": "9483",
+        "Name": "Schaulen"
+      },
+      {
+        "Id": "6314",
+        "Name": "Polangen"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "188",
+    "Provinces": [
+      {
+        "Id": "3288",
+        "Name": "Memel"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "808",
+    "Provinces": [
+      {
+        "Id": "9340",
+        "Name": "Riga"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "12",
+    "Provinces": [
+      {
+        "Id": "10493",
+        "Name": "Wolmar"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "810",
+    "Provinces": [
+      {
+        "Id": "222",
+        "Name": "Rositten"
+      },
+      {
+        "Id": "310",
+        "Name": "Dünaburg"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "809",
+    "Provinces": [
+      {
+        "Id": "3255",
+        "Name": "Jakobstadt"
+      },
+      {
+        "Id": "6222",
+        "Name": "Mitau"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "190",
+    "Provinces": [
+      {
+        "Id": "3296",
+        "Name": "Windau"
+      },
+      {
+        "Id": "9262",
+        "Name": "Libau"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "812",
+    "Provinces": [
+      {
+        "Id": "3152",
+        "Name": "Reval"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "813",
+    "Provinces": [
+      {
+        "Id": "11127",
+        "Name": "Wesenberg"
+      },
+      {
+        "Id": "4640",
+        "Name": "Hungerburg"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "191",
+    "Provinces": [
+      {
+        "Id": "9221",
+        "Name": "Dorpat"
+      },
+      {
+        "Id": "592",
+        "Name": "Werro"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "13",
+    "Provinces": [
+      {
+        "Id": "3174",
+        "Name": "Pernau"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "811",
+    "Provinces": [
+      {
+        "Id": "185",
+        "Name": "Arensburg"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "7",
+    "Provinces": [
+      {
+        "Id": "391",
+        "Name": "Amsterdam"
+      },
+      {
+        "Id": "9498",
+        "Name": "Rotterdam"
+      },
+      {
+        "Id": "3211",
+        "Name": "Den Haag"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "36",
+    "Provinces": [
+      {
+        "Id": "6241",
+        "Name": "Utrecht"
+      },
+      {
+        "Id": "9363",
+        "Name": "Arnheim"
+      },
+      {
+        "Id": "6336",
+        "Name": "Leeuwarden"
+      },
+      {
+        "Id": "3211",
+        "Name": "Groningen"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "35",
+    "Provinces": [
+      {
+        "Id": "6241",
+        "Name": "Breda"
+      },
+      {
+        "Id": "6496",
+        "Name": "Eindhoven"
+      },
+      {
+        "Id": "11562",
+        "Name": "Maastricht"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "219",
+    "Provinces": [
+      {
+        "Id": "6380",
+        "Name": "Moskau"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "242",
+    "Provinces": [
+      {
+        "Id": "306",
+        "Name": "Smolenskau"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "243",
+    "Provinces": [
+      {
+        "Id": "11336",
+        "Name": "Roslavenland"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "205",
+    "Provinces": [
+      {
+        "Id": "382",
+        "Name": "Kalün"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "224",
+    "Provinces": [
+      {
+        "Id": "3335",
+        "Name": "Waldemarstadt"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "223",
+    "Provinces": [
+      {
+        "Id": "6262",
+        "Name": "Tülenshafen"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "254",
+    "Provinces": [
+      {
+        "Id": "11248",
+        "Name": "Rayzenvich"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "222",
+    "Provinces": [
+      {
+        "Id": "9355",
+        "Name": "Örel"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "258",
+    "Provinces": [
+      {
+        "Id": "6398",
+        "Name": "Libach"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "257",
+    "Provinces": [
+      {
+        "Id": "11351",
+        "Name": "Tambau"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "220",
+    "Provinces": [
+      {
+        "Id": "3580",
+        "Name": "Kaisenberg"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "260",
+    "Provinces": [
+      {
+        "Id": "413",
+        "Name": "Woronesch"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "240",
+    "Provinces": [
+      {
+        "Id": "9449",
+        "Name": "Weißenstadt"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "253",
+    "Provinces": [
+      {
+        "Id": "6269",
+        "Name": "Ivansbach"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "252",
+    "Provinces": [
+      {
+        "Id": "11375",
+        "Name": "Gorkendorf"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "833",
+    "Provinces": [
+      {
+        "Id": "9402",
+        "Name": "Olanbach"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "256",
+    "Provinces": [
+      {
+        "Id": "9259",
+        "Name": "Hebach"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "255",
+    "Provinces": [
+      {
+        "Id": "9258",
+        "Name": "Pensa"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "250",
+    "Provinces": [
+      {
+        "Id": "392",
+        "Name": "Lanowstadt"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "218",
+    "Provinces": [
+      {
+        "Id": "9417",
+        "Name": "Rostofa"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "245",
+    "Provinces": [
+      {
+        "Id": "11476",
+        "Name": "Müllerau"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "238",
+    "Provinces": [
+      {
+        "Id": "775",
+        "Name": "Salswien"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "237",
+    "Provinces": [
+      {
+        "Id": "11724",
+        "Name": "Elistadt"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "217",
+    "Provinces": [
+      {
+        "Id": "3529",
+        "Name": "Hindenburg"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "236",
+    "Provinces": [
+      {
+        "Id": "9753",
+        "Name": "Letzte-Wolgastadt"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "265",
+    "Provinces": [
+      {
+        "Id": "487",
+        "Name": "Michailaue"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "829",
+    "Provinces": [
+      {
+        "Id": "11523",
+        "Name": "Kosakenstadt"
+      },
+      {
+        "Id": "9432",
+        "Name": "Katherinenstadt"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "239",
+    "Provinces": [
+      {
+        "Id": "3578",
+        "Name": "Saratau"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "401",
+    "Provinces": [
+      {
+        "Id": "3578",
+        "Name": "Balakau"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "137",
+    "Provinces": [
+      {
+        "Id": "3687",
+        "Name": "Theodorichshafen"
+      },
+      {
+        "Id": "6704",
+        "Name": "Galita"
+      },
+      {
+        "Id": "9680",
+        "Name": "Bospor"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "234",
+    "Provinces": [
+      {
+        "Id": "3734",
+        "Name": "Wilhelmstadt"
+      },
+      {
+        "Id": "3720",
+        "Name": "Köpenschaffen"
+      },
+      {
+        "Id": "719",
+        "Name": "Neu-Roswien"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "233",
+    "Provinces": [
+      {
+        "Id": "9663",
+        "Name": "Bergstadt"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "235",
+    "Provinces": [
+      {
+        "Id": "11696",
+        "Name": "Schtravonheiß"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "827",
+    "Provinces": [
+      {
+        "Id": "11614",
+        "Name": "Nalchshafen"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "828",
+    "Provinces": [
+      {
+        "Id": "9628",
+        "Name": "Nordossetien"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "821",
+    "Provinces": [
+      {
+        "Id": "3672",
+        "Name": "Grodno"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "232",
+    "Provinces": [
+      {
+        "Id": "6701",
+        "Name": "Dagenstadt"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "826",
+    "Provinces": [
+      {
+        "Id": "11617",
+        "Name": "Suchumi"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "231",
+    "Provinces": [
+      {
+        "Id": "1599",
+        "Name": "Tbilisien"
+      },
+      {
+        "Id": "3653",
+        "Name": "Batau"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "230",
+    "Provinces": [
+      {
+        "Id": "12320",
+        "Name": "Yerevacht"
+      },
+      {
+        "Id": "12441",
+        "Name": "Grumte"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "229",
+    "Provinces": [
+      {
+        "Id": "7661",
+        "Name": "Windenstadt"
+      },
+      {
+        "Id": "11674",
+        "Name": "Wilhelm-Galwitz"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "195",
+    "Provinces": [
+      {
+        "Id": "3151",
+        "Name": "Ludendorffshafen"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "208",
+    "Provinces": [
+      {
+        "Id": "9098",
+        "Name": "Lügen"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "244",
+    "Provinces": [
+      {
+        "Id": "9197",
+        "Name": "Neu-Volkstadt"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "263",
+    "Provinces": [
+      {
+        "Id": "117",
+        "Name": "Naugard"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "209",
+    "Provinces": [
+      {
+        "Id": "11202",
+        "Name": "Pleskau"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "210",
+    "Provinces": [
+      {
+        "Id": "11234",
+        "Name": "Walken"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "246",
+    "Provinces": [
+      {
+        "Id": "11349",
+        "Name": "Rewen"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "264",
+    "Provinces": [
+      {
+        "Id": "3140",
+        "Name": "Tikenvisch"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "247",
+    "Provinces": [
+      {
+        "Id": "6245",
+        "Name": "Königstadt"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "248",
+    "Provinces": [
+      {
+        "Id": "121",
+        "Name": "Yaroschaffen"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "351",
+    "Provinces": [
+      {
+        "Id": "9131",
+        "Name": "Wosnech"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "214",
+    "Provinces": [
+      {
+        "Id": "3338",
+        "Name": "Arkanstadt"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "213",
+    "Provinces": [
+      {
+        "Id": "3134",
+        "Name": "Murmau"
+      },
+      {
+        "Id": "6181",
+        "Name": "Kandau"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "215",
+    "Provinces": [],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "216",
+    "Provinces": [
+      {
+        "Id": "11159",
+        "Name": "Petrostadt"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "825",
+    "Provinces": [
+      {
+        "Id": "105",
+        "Name": "Hafen von Kaiser"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "262",
+    "Provinces": [],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "581",
+    "Provinces": [],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "397",
+    "Provinces": [
+      {
+        "Id": "108",
+        "Name": "Balzer"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "399",
+    "Provinces": [
+      {
+        "Id": "6278",
+        "Name": "Izwendorf"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "398",
+    "Provinces": [
+      {
+        "Id": "7375",
+        "Name": "Perwsburg"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "573",
+    "Provinces": [
+      {
+        "Id": "10329",
+        "Name": "Zatau"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "249",
+    "Provinces": [
+      {
+        "Id": "6338",
+        "Name": "Kazanshafen"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "651",
+    "Provinces": [
+      {
+        "Id": "1278",
+        "Name": "Uraler-Fuß"
+      },
+      {
+        "Id": "4354",
+        "Name": "Stawmahoß"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "251",
+    "Provinces": [
+      {
+        "Id": "11225",
+        "Name": "Kübßstadt"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "652",
+    "Provinces": [],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "407",
+    "Provinces": [
+      {
+        "Id": "11537",
+        "Name": "Letzte-Grenze"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "406",
+    "Provinces": [
+      {
+        "Id": "11537",
+        "Name": "Gürau"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "207",
+    "Provinces": [
+      {
+        "Id": "11241",
+        "Name": "Weißenbau"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "241",
+    "Provinces": [
+      {
+        "Id": "9288",
+        "Name": "Homiel"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "206",
+    "Provinces": [
+      {
+        "Id": "11370",
+        "Name": "Meinha"
+      },
+      {
+        "Id": "9289",
+        "Name": "Mogilau"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "204",
+    "Provinces": [
+      {
+        "Id": "3350",
+        "Name": "Biberach"
+      },
+      {
+        "Id": "11313",
+        "Name": "Sluzk"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "194",
+    "Provinces": [
+      {
+        "Id": "6232",
+        "Name": "Mosyr"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "228",
+    "Provinces": [
+      {
+        "Id": "9461",
+        "Name": "Lugansk"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "227",
+    "Provinces": [
+      {
+        "Id": "6474",
+        "Name": "Donezstadt"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "221",
+    "Provinces": [
+      {
+        "Id": "418",
+        "Name": "Karkau"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "226",
+    "Provinces": [
+      {
+        "Id": "11437",
+        "Name": "Rufstein"
+      },
+      {
+        "Id": "11561",
+        "Name": "Siegen"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "200",
+    "Provinces": [
+      {
+        "Id": "11405",
+        "Name": "Saporoschie"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "196",
+    "Provinces": [
+      {
+        "Id": "721",
+        "Name": "Cherson"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "193",
+    "Provinces": [
+      {
+        "Id": "3568",
+        "Name": "Tschernigau"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "259",
+    "Provinces": [
+      {
+        "Id": "11504",
+        "Name": "Poltawien"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "202",
+    "Provinces": [
+      {
+        "Id": "525",
+        "Name": "Kiroffo"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "203",
+    "Provinces": [
+      {
+        "Id": "488",
+        "Name": "Tscherkassen"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "197",
+    "Provinces": [
+      {
+        "Id": "11683",
+        "Name": "Greuthunger-Nikolaus"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "201",
+    "Provinces": [
+      {
+        "Id": "6593",
+        "Name": "Friedenwald"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "198",
+    "Provinces": [
+      {
+        "Id": "476",
+        "Name": "Winniza"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "834",
+    "Provinces": [
+      {
+        "Id": "3757",
+        "Name": "Balt"
+      },
+      {
+        "Id": "741",
+        "Name": "Hirtenheim"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_german",
+    "StateId": "192",
+    "Provinces": [
+      {
+        "Id": "11670",
+        "Name": "Bockstadt"
+      }
+    ],
+    "Flag": "state_name_german"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "47",
+    "Provinces": [
+      {
+        "Id": "4109",
+        "Name": "Athína"
+      },
+      {
+        "Id": "3988",
+        "Name": "Kórinthos"
+      },
+      {
+        "Id": "7127",
+        "Name": "Halkídha"
+      },
+      {
+        "Id": "3973",
+        "Name": "Lárisa"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "186",
+    "Provinces": [
+      {
+        "Id": "7096",
+        "Name": "Argos"
+      },
+      {
+        "Id": "11965",
+        "Name": "Pátra"
+      },
+      {
+        "Id": "7211",
+        "Name": "Kalamáta"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "185",
+    "Provinces": [
+      {
+        "Id": "1205",
+        "Name": "Agrinio"
+      },
+      {
+        "Id": "3914",
+        "Name": "Ioánnina"
+      },
+      {
+        "Id": "10203",
+        "Name": "Kérkyra"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "731",
+    "Provinces": [
+      {
+        "Id": "11818",
+        "Name": "Thessaloniki"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "184",
+    "Provinces": [
+      {
+        "Id": "11905",
+        "Name": "Alexandroupoli"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "187",
+    "Provinces": [
+      {
+        "Id": "6550",
+        "Name": "Samos"
+      },
+      {
+        "Id": "8435",
+        "Name": "Mytilíni"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "182",
+    "Provinces": [
+      {
+        "Id": "9940",
+        "Name": "Irákleio"
+      },
+      {
+        "Id": "12058",
+        "Name": "Chania"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "164",
+    "Provinces": [
+      {
+        "Id": "10007",
+        "Name": "Rhodes"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "48",
+    "Provinces": [
+      {
+        "Id": "949",
+        "Name": "Sophia"
+      },
+      {
+        "Id": "9771",
+        "Name": "Bononia"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "212",
+    "Provinces": [
+      {
+        "Id": "6923",
+        "Name": "Filippúpoli"
+      },
+      {
+        "Id": "6814",
+        "Name": "Beroe"
+      },
+      {
+        "Id": "9862",
+        "Name": "Haskovo"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "801",
+    "Provinces": [
+      {
+        "Id": "3796",
+        "Name": "Pleven"
+      },
+      {
+        "Id": "9612",
+        "Name": "Ruse"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "211",
+    "Provinces": [
+      {
+        "Id": "9902",
+        "Name": "Pýrgos"
+      },
+      {
+        "Id": "9888",
+        "Name": "Diampolis"
+      },
+      {
+        "Id": "6967",
+        "Name": "Selymnos"
+      },
+      {
+        "Id": "9769",
+        "Name": "Shoumen"
+      },
+      {
+        "Id": "9783",
+        "Name": "Odessos"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "49",
+    "Provinces": [
+      {
+        "Id": "11747",
+        "Name": "Ángyra"
+      },
+      {
+        "Id": "804",
+        "Name": "Kırıkkale"
+      },
+      {
+        "Id": "3951",
+        "Name": "Dorylaeum"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "347",
+    "Provinces": [
+      {
+        "Id": "11811",
+        "Name": "Nikomedeia"
+      },
+      {
+        "Id": "904",
+        "Name": "Agrilion"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "797",
+    "Provinces": [
+      {
+        "Id": "9833",
+        "Name": "Konstandinúpoli"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "341",
+    "Provinces": [
+      {
+        "Id": "11842",
+        "Name": "Adrinúpoli"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "340",
+    "Provinces": [
+      {
+        "Id": "947",
+        "Name": "Prúsa"
+      },
+      {
+        "Id": "9799",
+        "Name": "Balúk Esér"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "339",
+    "Provinces": [
+      {
+        "Id": "4112",
+        "Name": "Smýrni"
+      },
+      {
+        "Id": "928",
+        "Name": "Magnisía"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "343",
+    "Provinces": [
+      {
+        "Id": "10041",
+        "Name": "Attouda"
+      },
+      {
+        "Id": "3856",
+        "Name": "Kotýlaion"
+      },
+      {
+        "Id": "9878",
+        "Name": "Nicopolis"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "342",
+    "Provinces": [
+      {
+        "Id": "1005",
+        "Name": "Attáleia"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "342",
+    "Provinces": [
+      {
+        "Id": "356",
+        "Name": "Kastra Komnenon"
+      },
+      {
+        "Id": "6995",
+        "Name": "Sinópi"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "798",
+    "Provinces": [
+      {
+        "Id": "919",
+        "Name": "Amasia"
+      },
+      {
+        "Id": "3862",
+        "Name": "Pteria"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "346",
+    "Provinces": [
+      {
+        "Id": "9861",
+        "Name": "Ikónio"
+      },
+      {
+        "Id": "6807",
+        "Name": "Laranda"
+      },
+      {
+        "Id": "784",
+        "Name": "Sparti Pisidías"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "348",
+    "Provinces": [
+      {
+        "Id": "3870",
+        "Name": "Kaisáreia"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "345",
+    "Provinces": [
+      {
+        "Id": "10056",
+        "Name": "Mersíni"
+      },
+      {
+        "Id": "11810",
+        "Name": "Tarsós"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "344",
+    "Provinces": [
+      {
+        "Id": "9893",
+        "Name": "Antiochia ad Taurum"
+      },
+      {
+        "Id": "6813",
+        "Name": "Germanicea"
+      },
+      {
+        "Id": "11746",
+        "Name": "Adana"
+      },
+      {
+        "Id": "7620",
+        "Name": "Melitene "
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "349",
+    "Provinces": [
+      {
+        "Id": "9777",
+        "Name": "Sebaste"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "355",
+    "Provinces": [
+      {
+        "Id": "11881",
+        "Name": "Amisos"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "354",
+    "Provinces": [
+      {
+        "Id": "9932",
+        "Name": "Trapezounta"
+      },
+      {
+        "Id": "3979",
+        "Name": "Tzantzakon "
+      },
+      {
+        "Id": "11853",
+        "Name": "Theodosiopolis"
+      },
+      {
+        "Id": "10472",
+        "Name": "Kars"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "353",
+    "Provinces": [
+      {
+        "Id": "9860",
+        "Name": "Tunceli"
+      },
+      {
+        "Id": "876",
+        "Name": "Elâzığ"
+      },
+      {
+        "Id": "353",
+        "Name": "Keltzene"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "800",
+    "Provinces": [
+      {
+        "Id": "6935",
+        "Name": "Eva"
+      },
+      {
+        "Id": "12376",
+        "Name": "Karaköse"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "352",
+    "Provinces": [
+      {
+        "Id": "6935",
+        "Name": "Hakkâri"
+      },
+      {
+        "Id": "7530",
+        "Name": "Cizîr"
+      },
+      {
+        "Id": "10497",
+        "Name": "Sirte"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "350",
+    "Provinces": [
+      {
+        "Id": "4512",
+        "Name": "Amida"
+      },
+      {
+        "Id": "12387",
+        "Name": "Batman"
+      },
+      {
+        "Id": "9823",
+        "Name": "Justinopolis"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "44",
+    "Provinces": [
+      {
+        "Id": "9914",
+        "Name": "Tírana"
+      },
+      {
+        "Id": "11767",
+        "Name": "Avlónas"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_greek",
+    "StateId": "805",
+    "Provinces": [
+      {
+        "Id": "914",
+        "Name": "Gjirokastra"
+      }
+    ],
+    "Flag": "state_name_greek"
+  },
+  {
+    "Type": "apply_name_hungarian",
+    "StateId": "43",
+    "Provinces": [
+      {
+        "Id": "9660",
+        "Name": "Budapest"
+      }
+    ],
+    "Flag": "state_name_hungarian"
+  },
+  {
+    "Type": "apply_name_hungarian",
+    "StateId": "155",
+    "Provinces": [
+      {
+        "Id": "11610",
+        "Name": "Pécs"
+      }
+    ],
+    "Flag": "state_name_hungarian"
+  },
+  {
+    "Type": "apply_name_hungarian",
+    "StateId": "154",
+    "Provinces": [
+      {
+        "Id": "11659",
+        "Name": "Debrecen"
+      }
+    ],
+    "Flag": "state_name_hungarian"
+  },
+  {
+    "Type": "apply_name_hungarian",
+    "StateId": "84",
+    "Provinces": [
+      {
+        "Id": "690",
+        "Name": "Brassó"
+      }
+    ],
+    "Flag": "state_name_hungarian"
+  },
+  {
+    "Type": "apply_name_hungarian",
+    "StateId": "82",
+    "Provinces": [
+      {
+        "Id": "9606",
+        "Name": "Temesvár"
+      }
+    ],
+    "Flag": "state_name_hungarian"
+  },
+  {
+    "Type": "apply_name_hungarian",
+    "StateId": "83",
+    "Provinces": [
+      {
+        "Id": "6682",
+        "Name": "Arad"
+      }
+    ],
+    "Flag": "state_name_hungarian"
+  },
+  {
+    "Type": "apply_name_hungarian",
+    "StateId": "76",
+    "Provinces": [
+      {
+        "Id": "6711",
+        "Name": "Kolozsvár"
+      }
+    ],
+    "Flag": "state_name_hungarian"
+  },
+  {
+    "Type": "apply_name_hungarian",
+    "StateId": "70",
+    "Provinces": [
+      {
+        "Id": "9692",
+        "Name": "Pozsony"
+      },
+      {
+        "Id": "11539",
+        "Name": "Zsolna"
+      }
+    ],
+    "Flag": "state_name_hungarian"
+  },
+  {
+    "Type": "apply_name_hungarian",
+    "StateId": "664",
+    "Provinces": [
+      {
+        "Id": "6573",
+        "Name": "Kassa"
+      }
+    ],
+    "Flag": "state_name_hungarian"
+  },
+  {
+    "Type": "apply_name_hungarian",
+    "StateId": "71",
+    "Provinces": [
+      {
+        "Id": "3581",
+        "Name": "Eperjes"
+      }
+    ],
+    "Flag": "state_name_hungarian"
+  },
+  {
+    "Type": "apply_name_hungarian",
+    "StateId": "73",
+    "Provinces": [
+      {
+        "Id": "3548",
+        "Name": "Munkács"
+      }
+    ],
+    "Flag": "state_name_hungarian"
+  },
+  {
+    "Type": "apply_name_hungarian",
+    "StateId": "764",
+    "Provinces": [
+      {
+        "Id": "3614",
+        "Name": "Pancsova"
+      }
+    ],
+    "Flag": "state_name_hungarian"
+  },
+  {
+    "Type": "apply_name_hungarian",
+    "StateId": "45",
+    "Provinces": [
+      {
+        "Id": "619",
+        "Name": "Újvidék"
+      }
+    ],
+    "Flag": "state_name_hungarian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "2",
+    "Provinces": [
+      {
+        "Id": "9904",
+        "Name": "Roma"
+      },
+      {
+        "Id": "11846",
+        "Name": "Anzio"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "157",
+    "Provinces": [
+      {
+        "Id": "925",
+        "Name": "Ancona"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "162",
+    "Provinces": [
+      {
+        "Id": "9907",
+        "Name": "Firenze"
+      },
+      {
+        "Id": "11833",
+        "Name": "Livorno"
+      },
+      {
+        "Id": "6973",
+        "Name": "La Spezia"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "161",
+    "Provinces": [
+      {
+        "Id": "6606",
+        "Name": "Bologna"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "158",
+    "Provinces": [
+      {
+        "Id": "6780",
+        "Name": "Torina"
+      },
+      {
+        "Id": "6788",
+        "Name": "Genova"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "159",
+    "Provinces": [
+      {
+        "Id": "3780",
+        "Name": "Milano"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "160",
+    "Provinces": [
+      {
+        "Id": "11584",
+        "Name": "Venezia"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "39",
+    "Provinces": [
+      {
+        "Id": "11598",
+        "Name": "Bolzano"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "736",
+    "Provinces": [
+      {
+        "Id": "6626",
+        "Name": "Trieste"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "117",
+    "Provinces": [
+      {
+        "Id": "819",
+        "Name": "Napoli"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "156",
+    "Provinces": [
+      {
+        "Id": "11837",
+        "Name": "Taranto"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "115",
+    "Provinces": [
+      {
+        "Id": "10074",
+        "Name": "Palermo"
+      },
+      {
+        "Id": "4519",
+        "Name": "Messina"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "114",
+    "Provinces": [
+      {
+        "Id": "11773",
+        "Name": "Cagliari"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "163",
+    "Provinces": [],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "164",
+    "Provinces": [
+      {
+        "Id": "10007",
+        "Name": "Rodi"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "448",
+    "Provinces": [
+      {
+        "Id": "1149",
+        "Name": "Tripoli"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "661",
+    "Provinces": [],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "449",
+    "Provinces": [],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "662",
+    "Provinces": [],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "450",
+    "Provinces": [
+      {
+        "Id": "11954",
+        "Name": "Bengasi"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "451",
+    "Provinces": [
+      {
+        "Id": "1130",
+        "Name": "Tobruk"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "663",
+    "Provinces": [],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "273",
+    "Provinces": [],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "550",
+    "Provinces": [
+      {
+        "Id": "12766",
+        "Name": "Asmara"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "559",
+    "Provinces": [
+      {
+        "Id": "12991",
+        "Name": "Mogadiscio"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "44",
+    "Provinces": [
+      {
+        "Id": "9914",
+        "Name": "Tirana"
+      },
+      {
+        "Id": "11767",
+        "Name": "Vallona"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "805",
+    "Provinces": [
+      {
+        "Id": "914",
+        "Name": "Argirocastro"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "47",
+    "Provinces": [
+      {
+        "Id": "4109",
+        "Name": "Athene"
+      },
+      {
+        "Id": "3988",
+        "Name": "Corinto"
+      },
+      {
+        "Id": "7127",
+        "Name": "Calcide"
+      },
+      {
+        "Id": "3973",
+        "Name": "Lárisa"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "186",
+    "Provinces": [
+      {
+        "Id": "7096",
+        "Name": "Argo"
+      },
+      {
+        "Id": "11965",
+        "Name": "Patrasso"
+      },
+      {
+        "Id": "7211",
+        "Name": "Kalamáta"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "185",
+    "Provinces": [
+      {
+        "Id": "1205",
+        "Name": "Agrinio"
+      },
+      {
+        "Id": "3914",
+        "Name": "Giannina"
+      },
+      {
+        "Id": "10203",
+        "Name": "Corcira"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "731",
+    "Provinces": [
+      {
+        "Id": "11818",
+        "Name": "Salonicco"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "184",
+    "Provinces": [
+      {
+        "Id": "11905",
+        "Name": "Alessandropoli"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "187",
+    "Provinces": [
+      {
+        "Id": "6550",
+        "Name": "Samos"
+      },
+      {
+        "Id": "8435",
+        "Name": "Mytilíni"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "182",
+    "Provinces": [
+      {
+        "Id": "9940",
+        "Name": "Candia"
+      },
+      {
+        "Id": "12058",
+        "Name": "La Canea"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "107",
+    "Provinces": [
+      {
+        "Id": "11586",
+        "Name": "Belgrado"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "108",
+    "Provinces": [
+      {
+        "Id": "9602",
+        "Name": "Naisso"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "764",
+    "Provinces": [
+      {
+        "Id": "3614",
+        "Name": "Pancevo"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "45",
+    "Provinces": [
+      {
+        "Id": "619",
+        "Name": "Novi Sad"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "803",
+    "Provinces": [
+      {
+        "Id": "11857",
+        "Name": "Leskovac"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "802",
+    "Provinces": [
+      {
+        "Id": "6940",
+        "Name": "Priština"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "106",
+    "Provinces": [
+      {
+        "Id": "3882",
+        "Name": "Skopje"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "105",
+    "Provinces": [
+      {
+        "Id": "9809",
+        "Name": "Podgorizza"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "104",
+    "Provinces": [
+      {
+        "Id": "11899",
+        "Name": "Sarajevo"
+      },
+      {
+        "Id": "6983",
+        "Name": "Banja Luka"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "804",
+    "Provinces": [
+      {
+        "Id": "9894",
+        "Name": "Mostar"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "109",
+    "Provinces": [
+      {
+        "Id": "11581",
+        "Name": "Zagabria"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "103",
+    "Provinces": [
+      {
+        "Id": "11564",
+        "Name": "Fiume"
+      },
+      {
+        "Id": "3924",
+        "Name": "Spalato"
+      },
+      {
+        "Id": "11816",
+        "Name": "Ragusa"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_italian",
+    "StateId": "102",
+    "Provinces": [
+      {
+        "Id": "9627",
+        "Name": "Lubiana"
+      }
+    ],
+    "Flag": "state_name_italian"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "282",
+    "Provinces": [
+      {
+        "Id": "1182",
+        "Name": "Tokyo"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "532",
+    "Provinces": [
+      {
+        "Id": "10125",
+        "Name": "Nagoya"
+      },
+      {
+        "Id": "7087",
+        "Name": "Shizuoka"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "531",
+    "Provinces": [
+      {
+        "Id": "7072",
+        "Name": "Osaka"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "535",
+    "Provinces": [
+      {
+        "Id": "10032",
+        "Name": "Kanazawa"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "534",
+    "Provinces": [
+      {
+        "Id": "1117",
+        "Name": "Niigata"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "533",
+    "Provinces": [
+      {
+        "Id": "7169",
+        "Name": "Sendai"
+      },
+      {
+        "Id": "6994",
+        "Name": "Aomori"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "536",
+    "Provinces": [
+      {
+        "Id": "10444",
+        "Name": "Sapporo"
+      },
+      {
+        "Id": "12421",
+        "Name": "Asahigawa"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "529",
+    "Provinces": [
+      {
+        "Id": "1092",
+        "Name": "Hiroshima"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "530",
+    "Provinces": [
+      {
+        "Id": "7197",
+        "Name": "Kochi"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "532",
+    "Provinces": [
+      {
+        "Id": "1025",
+        "Name": "Kokura"
+      },
+      {
+        "Id": "9950",
+        "Name": "Nagasaki"
+      },
+      {
+        "Id": "4102",
+        "Name": "Kagoshima"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "526",
+    "Provinces": [
+      {
+        "Id": "11932",
+        "Name": "Naha"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "555",
+    "Provinces": [],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "537",
+    "Provinces": [
+      {
+        "Id": "12446",
+        "Name": "Toyohara"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "525",
+    "Provinces": [
+      {
+        "Id": "7125",
+        "Name": "Keijo"
+      },
+      {
+        "Id": "4056",
+        "Name": "Fusan"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "527",
+    "Provinces": [
+      {
+        "Id": "4052",
+        "Name": "Heijo"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "613",
+    "Provinces": [
+      {
+        "Id": "11913",
+        "Name": "Nankin"
+      },
+      {
+        "Id": "10076",
+        "Name": "Soshū"
+      },
+      {
+        "Id": "7014",
+        "Name": "Shanhai"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "598",
+    "Provinces": [],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "606",
+    "Provinces": [
+      {
+        "Id": "7222",
+        "Name": "Gōhi"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "607",
+    "Provinces": [
+      {
+        "Id": "9958",
+        "Name": "Teishū"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "597",
+    "Provinces": [
+      {
+        "Id": "1069",
+        "Name": "Seinan"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "743",
+    "Provinces": [
+      {
+        "Id": "10000",
+        "Name": "Chintao"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "614",
+    "Provinces": [],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "608",
+    "Provinces": [
+      {
+        "Id": "9843",
+        "Name": "Pekin"
+      },
+      {
+        "Id": "10068",
+        "Name": "Ta Jin"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "744",
+    "Provinces": [
+      {
+        "Id": "7418",
+        "Name": "Seian"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "620",
+    "Provinces": [
+      {
+        "Id": "4619",
+        "Name": "Bukan"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "600",
+    "Provinces": [
+      {
+        "Id": "3992",
+        "Name": "Nanshō"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "749",
+    "Provinces": [
+      {
+        "Id": "12019",
+        "Name": "Kōsan"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "596",
+    "Provinces": [
+      {
+        "Id": "7191",
+        "Name": "Kōshū"
+      },
+      {
+        "Id": "9974",
+        "Name": "Ninpō"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "595",
+    "Provinces": [
+      {
+        "Id": "4196",
+        "Name": "Fūtsuo"
+      },
+      {
+        "Id": "7071",
+        "Name": "Shiamen"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "602",
+    "Provinces": [
+      {
+        "Id": "7097",
+        "Name": "Changsha"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "750",
+    "Provinces": [
+      {
+        "Id": "7101",
+        "Name": "Jōtoku"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "605",
+    "Provinces": [
+      {
+        "Id": "6999",
+        "Name": "Jūkei"
+      },
+      {
+        "Id": "4925",
+        "Name": "Seito"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "748",
+    "Provinces": [
+      {
+        "Id": "1010",
+        "Name": "Jun Yoshi"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "603",
+    "Provinces": [
+      {
+        "Id": "4504",
+        "Name": "Guizhou"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "751",
+    "Provinces": [
+      {
+        "Id": "12141",
+        "Name": "Gaan"
+      },
+      {
+        "Id": "7294",
+        "Name": "Ryōsan"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "752",
+    "Provinces": [
+      {
+        "Id": "4999",
+        "Name": "Kangding"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "601",
+    "Provinces": [
+      {
+        "Id": "10856",
+        "Name": "Shando"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "615",
+    "Provinces": [
+      {
+        "Id": "1519",
+        "Name": "Tahara"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "621",
+    "Provinces": [],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "746",
+    "Provinces": [],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "621",
+    "Provinces": [
+      {
+        "Id": "8049",
+        "Name": "Y'Anan"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "283",
+    "Provinces": [],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "616",
+    "Provinces": [],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "756",
+    "Provinces": [],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "754",
+    "Provinces": [
+      {
+        "Id": "12732",
+        "Name": "Lanzhou"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "753",
+    "Provinces": [
+      {
+        "Id": "2045",
+        "Name": "Tansui"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "755",
+    "Provinces": [],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "756",
+    "Provinces": [
+      {
+        "Id": "7940",
+        "Name": "Golmud"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "760",
+    "Provinces": [],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "759",
+    "Provinces": [],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "287",
+    "Provinces": [],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "619",
+    "Provinces": [
+      {
+        "Id": "2015",
+        "Name": "Kashgar"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "617",
+    "Provinces": [
+      {
+        "Id": "4709",
+        "Name": "Urumqi"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "619",
+    "Provinces": [
+      {
+        "Id": "4823",
+        "Name": "Altay"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "325",
+    "Provinces": [
+      {
+        "Id": "1319",
+        "Name": "Konmei"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "747",
+    "Provinces": [
+      {
+        "Id": "7965",
+        "Name": "Dari"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "593",
+    "Provinces": [],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "599",
+    "Provinces": [
+      {
+        "Id": "10404",
+        "Name": "Kei-rin"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "592",
+    "Provinces": [
+      {
+        "Id": "1047",
+        "Name": "Kōshū"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "594",
+    "Provinces": [
+      {
+        "Id": "7137",
+        "Name": "Nan'nei"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "591",
+    "Provinces": [
+      {
+        "Id": "1070",
+        "Name": "Haikou"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "610",
+    "Provinces": [],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "715",
+    "Provinces": [],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "716",
+    "Provinces": [
+      {
+        "Id": "11771",
+        "Name": "Hoten"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "328",
+    "Provinces": [
+      {
+        "Id": "10433",
+        "Name": "Harubin"
+      },
+      {
+        "Id": "4572",
+        "Name": "Shinkingu"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "717",
+    "Provinces": [],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "714",
+    "Provinces": [],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "761",
+    "Provinces": [],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "524",
+    "Provinces": [
+      {
+        "Id": "7186",
+        "Name": "Taihoku"
+      },
+      {
+        "Id": "12068",
+        "Name": "Takao"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "609",
+    "Provinces": [],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_japanese",
+    "StateId": "745",
+    "Provinces": [
+      {
+        "Id": "1150",
+        "Name": "Dalian"
+      }
+    ],
+    "Flag": "state_name_japanese"
+  },
+  {
+    "Type": "apply_name_korean",
+    "StateId": "527",
+    "Provinces": [
+      {
+        "Id": "4052",
+        "Name": "Pyongyang"
+      }
+    ],
+    "Flag": "state_name_korean"
+  },
+  {
+    "Type": "apply_name_korean",
+    "StateId": "525",
+    "Provinces": [
+      {
+        "Id": "7125",
+        "Name": "Seoul"
+      },
+      {
+        "Id": "4056",
+        "Name": "Pusan"
+      }
+    ],
+    "Flag": "state_name_korean"
+  },
+  {
+    "Type": "apply_name_latvian",
+    "StateId": "808",
+    "Provinces": [
+      {
+        "Id": "9340",
+        "Name": "Rīga"
+      }
+    ],
+    "Flag": "state_name_latvian"
+  },
+  {
+    "Type": "apply_name_latvian",
+    "StateId": "12",
+    "Provinces": [
+      {
+        "Id": "10493",
+        "Name": "Valmiera"
+      }
+    ],
+    "Flag": "state_name_latvian"
+  },
+  {
+    "Type": "apply_name_latvian",
+    "StateId": "810",
+    "Provinces": [
+      {
+        "Id": "222",
+        "Name": "Rēzekne"
+      },
+      {
+        "Id": "310",
+        "Name": "Daugavpils"
+      }
+    ],
+    "Flag": "state_name_latvian"
+  },
+  {
+    "Type": "apply_name_latvian",
+    "StateId": "809",
+    "Provinces": [
+      {
+        "Id": "3255",
+        "Name": "Jēkabpils "
+      },
+      {
+        "Id": "6222",
+        "Name": "Jelgava"
+      }
+    ],
+    "Flag": "state_name_latvian"
+  },
+  {
+    "Type": "apply_name_latvian",
+    "StateId": "190",
+    "Provinces": [
+      {
+        "Id": "3296",
+        "Name": "Ventspils "
+      },
+      {
+        "Id": "9262",
+        "Name": "Liepāja"
+      }
+    ],
+    "Flag": "state_name_latvian"
+  },
+  {
+    "Type": "apply_name_lithuanian",
+    "StateId": "11",
+    "Provinces": [
+      {
+        "Id": "6296",
+        "Name": "Kaunas"
+      },
+      {
+        "Id": "9357",
+        "Name": "Ukmergė"
+      }
+    ],
+    "Flag": "state_name_lithuanian"
+  },
+  {
+    "Type": "apply_name_lithuanian",
+    "StateId": "814",
+    "Provinces": [
+      {
+        "Id": "11312",
+        "Name": "Marijampolė"
+      }
+    ],
+    "Flag": "state_name_lithuanian"
+  },
+  {
+    "Type": "apply_name_lithuanian",
+    "StateId": "815",
+    "Provinces": [
+      {
+        "Id": "6229",
+        "Name": "Panevėžys"
+      }
+    ],
+    "Flag": "state_name_lithuanian"
+  },
+  {
+    "Type": "apply_name_lithuanian",
+    "StateId": "189",
+    "Provinces": [
+      {
+        "Id": "9483",
+        "Name": "Šiauliai"
+      },
+      {
+        "Id": "6314",
+        "Name": "Palanga"
+      }
+    ],
+    "Flag": "state_name_lithuanian"
+  },
+  {
+    "Type": "apply_name_lithuanian",
+    "StateId": "188",
+    "Provinces": [
+      {
+        "Id": "3288",
+        "Name": "Klaipėda"
+      }
+    ],
+    "Flag": "state_name_lithuanian"
+  },
+  {
+    "Type": "apply_name_lithuanian",
+    "StateId": "784",
+    "Provinces": [
+      {
+        "Id": "3320",
+        "Name": "Vilnius"
+      }
+    ],
+    "Flag": "state_name_lithuanian"
+  },
+  {
+    "Type": "apply_name_luxembourgish",
+    "StateId": "8",
+    "Provinces": [
+      {
+        "Id": "6583",
+        "Name": "Lëtzebuerg"
+      }
+    ],
+    "Flag": "state_name_luxembourgish"
+  },
+  {
+    "Type": "apply_name_dutch",
+    "StateId": "7",
+    "Provinces": [
+      {
+        "Id": "391",
+        "Name": "Amsterdam"
+      },
+      {
+        "Id": "9498",
+        "Name": "Rotterdam"
+      },
+      {
+        "Id": "3211",
+        "Name": "Den Haag"
+      }
+    ],
+    "Flag": "state_name_dutch"
+  },
+  {
+    "Type": "apply_name_dutch",
+    "StateId": "36",
+    "Provinces": [
+      {
+        "Id": "6241",
+        "Name": "Utrecht"
+      },
+      {
+        "Id": "9363",
+        "Name": "Arnhem"
+      },
+      {
+        "Id": "6336",
+        "Name": "Leeuwarden"
+      },
+      {
+        "Id": "9335",
+        "Name": "Groningen"
+      }
+    ],
+    "Flag": "state_name_dutch"
+  },
+  {
+    "Type": "apply_name_dutch",
+    "StateId": "35",
+    "Provinces": [
+      {
+        "Id": "6241",
+        "Name": "Breda"
+      },
+      {
+        "Id": "6496",
+        "Name": "Eindhoven"
+      },
+      {
+        "Id": "11562",
+        "Name": "Maastricht"
+      }
+    ],
+    "Flag": "state_name_dutch"
+  },
+  {
+    "Type": "apply_name_dutch",
+    "StateId": "309",
+    "Provinces": [
+      {
+        "Id": "10906",
+        "Name": "Paramaribo"
+      }
+    ],
+    "Flag": "state_name_dutch"
+  },
+  {
+    "Type": "apply_name_dutch",
+    "StateId": "695",
+    "Provinces": [
+      {
+        "Id": "153",
+        "Name": "Willemstad"
+      }
+    ],
+    "Flag": "state_name_dutch"
+  },
+  {
+    "Type": "apply_name_dutch",
+    "StateId": "6",
+    "Provinces": [
+      {
+        "Id": "516",
+        "Name": "Brussel"
+      },
+      {
+        "Id": "6598",
+        "Name": "Antwerpen "
+      },
+      {
+        "Id": "6560",
+        "Name": "Gent"
+      },
+      {
+        "Id": "13068",
+        "Name": "Leuven"
+      },
+      {
+        "Id": "3576",
+        "Name": "Kortrjik"
+      }
+    ],
+    "Flag": "state_name_dutch"
+  },
+  {
+    "Type": "apply_name_dutch",
+    "StateId": "34",
+    "Provinces": [
+      {
+        "Id": "9536",
+        "Name": "Charleroi"
+      },
+      {
+        "Id": "3516",
+        "Name": "Namen"
+      },
+      {
+        "Id": "11519",
+        "Name": "Luik"
+      }
+    ],
+    "Flag": "state_name_dutch"
+  },
+  {
+    "Type": "apply_name_dutch",
+    "StateId": "8",
+    "Provinces": [
+      {
+        "Id": "6583",
+        "Name": "Luxemburg"
+      }
+    ],
+    "Flag": "state_name_dutch"
+  },
+  {
+    "Type": "apply_name_norwegian",
+    "StateId": "110",
+    "Provinces": [
+      {
+        "Id": "6115",
+        "Name": "Oslo"
+      }
+    ],
+    "Flag": "state_name_norwegian"
+  },
+  {
+    "Type": "apply_name_norwegian",
+    "StateId": "142",
+    "Provinces": [
+      {
+        "Id": "9296",
+        "Name": "Kristiansand"
+      },
+      {
+        "Id": "53",
+        "Name": "Stavanger"
+      },
+      {
+        "Id": "122",
+        "Name": "Bergen"
+      }
+    ],
+    "Flag": "state_name_norwegian"
+  },
+  {
+    "Type": "apply_name_norwegian",
+    "StateId": "143",
+    "Provinces": [
+      {
+        "Id": "3022",
+        "Name": "Trondheim"
+      }
+    ],
+    "Flag": "state_name_norwegian"
+  },
+  {
+    "Type": "apply_name_norwegian",
+    "StateId": "144",
+    "Provinces": [
+      {
+        "Id": "192",
+        "Name": "Narvik"
+      },
+      {
+        "Id": "11050",
+        "Name": "Tromsø"
+      },
+      {
+        "Id": "9116",
+        "Name": "Kirkenes"
+      }
+    ],
+    "Flag": "state_name_norwegian"
+  },
+  {
+    "Type": "apply_name_polish",
+    "StateId": "10",
+    "Provinces": [
+      {
+        "Id": "3544",
+        "Name": "Warszawa"
+      },
+      {
+        "Id": "402",
+        "Name": "Siedlce"
+      }
+    ],
+    "Flag": "state_name_polish"
+  },
+  {
+    "Type": "apply_name_polish",
+    "StateId": "87",
+    "Provinces": [
+      {
+        "Id": "9508",
+        "Name": "Łódź"
+      }
+    ],
+    "Flag": "state_name_polish"
+  },
+  {
+    "Type": "apply_name_polish",
+    "StateId": "90",
+    "Provinces": [
+      {
+        "Id": "11430",
+        "Name": "Kielce"
+      },
+      {
+        "Id": "3458",
+        "Name": "Radom"
+      }
+    ],
+    "Flag": "state_name_polish"
+  },
+  {
+    "Type": "apply_name_polish",
+    "StateId": "88",
+    "Provinces": [
+      {
+        "Id": "9427",
+        "Name": "Kraków"
+      },
+      {
+        "Id": "442",
+        "Name": "Tarnów"
+      },
+      {
+        "Id": "9494",
+        "Name": "Zamość "
+      }
+    ],
+    "Flag": "state_name_polish"
+  },
+  {
+    "Type": "apply_name_polish",
+    "StateId": "92",
+    "Provinces": [
+      {
+        "Id": "11399",
+        "Name": "Lublin"
+      }
+    ],
+    "Flag": "state_name_polish"
+  },
+  {
+    "Type": "apply_name_polish",
+    "StateId": "97",
+    "Provinces": [
+      {
+        "Id": "11301",
+        "Name": "Białystok"
+      },
+      {
+        "Id": "3254",
+        "Name": "Suwałki"
+      }
+    ],
+    "Flag": "state_name_polish"
+  },
+  {
+    "Type": "apply_name_polish",
+    "StateId": "762",
+    "Provinces": [
+      {
+        "Id": "6464",
+        "Name": "Katowice"
+      }
+    ],
+    "Flag": "state_name_polish"
+  },
+  {
+    "Type": "apply_name_polish",
+    "StateId": "86",
+    "Provinces": [
+      {
+        "Id": "6558",
+        "Name": "Poznań"
+      }
+    ],
+    "Flag": "state_name_polish"
+  },
+  {
+    "Type": "apply_name_polish",
+    "StateId": "98",
+    "Provinces": [
+      {
+        "Id": "3230",
+        "Name": "Płock"
+      }
+    ],
+    "Flag": "state_name_polish"
+  },
+  {
+    "Type": "apply_name_polish",
+    "StateId": "807",
+    "Provinces": [
+      {
+        "Id": "9263",
+        "Name": "Gdynia"
+      },
+      {
+        "Id": "279",
+        "Name": "Bydgoszcz"
+      },
+      {
+        "Id": "3295",
+        "Name": "Toruń"
+      }
+    ],
+    "Flag": "state_name_polish"
+  },
+  {
+    "Type": "apply_name_polish",
+    "StateId": "85",
+    "Provinces": [
+      {
+        "Id": "362",
+        "Name": "Gdańsk"
+      }
+    ],
+    "Flag": "state_name_polish"
+  },
+  {
+    "Type": "apply_name_polish",
+    "StateId": "89",
+    "Provinces": [
+      {
+        "Id": "11411",
+        "Name": "Stanisławów"
+      }
+    ],
+    "Flag": "state_name_polish"
+  },
+  {
+    "Type": "apply_name_polish",
+    "StateId": "91",
+    "Provinces": [
+      {
+        "Id": "11479",
+        "Name": "Lwów"
+      }
+    ],
+    "Flag": "state_name_polish"
+  },
+  {
+    "Type": "apply_name_polish",
+    "StateId": "93",
+    "Provinces": [
+      {
+        "Id": "422",
+        "Name": "Kowel"
+      },
+      {
+        "Id": "6557",
+        "Name": "Równe"
+      }
+    ],
+    "Flag": "state_name_polish"
+  },
+  {
+    "Type": "apply_name_polish",
+    "StateId": "94",
+    "Provinces": [
+      {
+        "Id": "560",
+        "Name": "Pińsk"
+      },
+      {
+        "Id": "3392",
+        "Name": "Brześć Litewski"
+      }
+    ],
+    "Flag": "state_name_polish"
+  },
+  {
+    "Type": "apply_name_polish",
+    "StateId": "95",
+    "Provinces": [
+      {
+        "Id": "9304",
+        "Name": "Baranowicze"
+      },
+      {
+        "Id": "3393",
+        "Name": "Grodno"
+      }
+    ],
+    "Flag": "state_name_polish"
+  },
+  {
+    "Type": "apply_name_polish",
+    "StateId": "96",
+    "Provinces": [
+      {
+        "Id": "406",
+        "Name": "Mołodeczno"
+      }
+    ],
+    "Flag": "state_name_polish"
+  },
+  {
+    "Type": "apply_name_polish",
+    "StateId": "784",
+    "Provinces": [
+      {
+        "Id": "3320",
+        "Name": "Wilno"
+      }
+    ],
+    "Flag": "state_name_polish"
+  },
+  {
+    "Type": "apply_name_polish",
+    "StateId": "63",
+    "Provinces": [
+      {
+        "Id": "6282",
+        "Name": "Szczecin"
+      },
+      {
+        "Id": "11372",
+        "Name": "Koszalin"
+      }
+    ],
+    "Flag": "state_name_polish"
+  },
+  {
+    "Type": "apply_name_polish",
+    "StateId": "68",
+    "Provinces": [
+      {
+        "Id": "3473",
+        "Name": "Kostrzyn"
+      }
+    ],
+    "Flag": "state_name_polish"
+  },
+  {
+    "Type": "apply_name_polish",
+    "StateId": "66",
+    "Provinces": [
+      {
+        "Id": "9570",
+        "Name": "Wrocław"
+      }
+    ],
+    "Flag": "state_name_polish"
+  },
+  {
+    "Type": "apply_name_polish",
+    "StateId": "67",
+    "Provinces": [
+      {
+        "Id": "11467",
+        "Name": "Gliwice"
+      },
+      {
+        "Id": "9511",
+        "Name": "Opole"
+      }
+    ],
+    "Flag": "state_name_polish"
+  },
+  {
+    "Type": "apply_name_polish",
+    "StateId": "5",
+    "Provinces": [
+      {
+        "Id": "6375",
+        "Name": "Olsztyn"
+      }
+    ],
+    "Flag": "state_name_polish"
+  },
+  {
+    "Type": "apply_name_polish",
+    "StateId": "763",
+    "Provinces": [
+      {
+        "Id": "6332",
+        "Name": "Królewiec"
+      }
+    ],
+    "Flag": "state_name_polish"
+  },
+  {
+    "Type": "apply_name_portuguese",
+    "StateId": "112",
+    "Provinces": [
+      {
+        "Id": "11805",
+        "Name": "Lisboa"
+      },
+      {
+        "Id": "3798",
+        "Name": "Coimbra"
+      }
+    ],
+    "Flag": "state_name_portuguese"
+  },
+  {
+    "Type": "apply_name_portuguese",
+    "StateId": "181",
+    "Provinces": [
+      {
+        "Id": "6996",
+        "Name": "Guarda"
+      },
+      {
+        "Id": "9787",
+        "Name": "Viseu"
+      }
+    ],
+    "Flag": "state_name_portuguese"
+  },
+  {
+    "Type": "apply_name_portuguese",
+    "StateId": "180",
+    "Provinces": [
+      {
+        "Id": "9817",
+        "Name": "Porto"
+      },
+      {
+        "Id": "11673",
+        "Name": "Braga"
+      }
+    ],
+    "Flag": "state_name_portuguese"
+  },
+  {
+    "Type": "apply_name_portuguese",
+    "StateId": "795",
+    "Provinces": [
+      {
+        "Id": "924",
+        "Name": "Santarém"
+      },
+      {
+        "Id": "9869",
+        "Name": "Évora"
+      }
+    ],
+    "Flag": "state_name_portuguese"
+  },
+  {
+    "Type": "apply_name_portuguese",
+    "StateId": "179",
+    "Provinces": [
+      {
+        "Id": "6933",
+        "Name": "Beja"
+      },
+      {
+        "Id": "970",
+        "Name": "Setúbal"
+      },
+      {
+        "Id": "3790",
+        "Name": "Portimão"
+      },
+      {
+        "Id": "6880",
+        "Name": "Faro"
+      }
+    ],
+    "Flag": "state_name_portuguese"
+  },
+  {
+    "Type": "apply_name_portuguese",
+    "StateId": "698",
+    "Provinces": [
+      {
+        "Id": "1751",
+        "Name": "Ponta Delgada"
+      }
+    ],
+    "Flag": "state_name_portuguese"
+  },
+  {
+    "Type": "apply_name_portuguese",
+    "StateId": "697",
+    "Provinces": [
+      {
+        "Id": "3118",
+        "Name": "Funchal"
+      }
+    ],
+    "Flag": "state_name_portuguese"
+  },
+  {
+    "Type": "apply_name_portuguese",
+    "StateId": "702",
+    "Provinces": [],
+    "Flag": "state_name_portuguese"
+  },
+  {
+    "Type": "apply_name_portuguese",
+    "StateId": "296",
+    "Provinces": [
+      {
+        "Id": "12891",
+        "Name": "Bissau"
+      }
+    ],
+    "Flag": "state_name_portuguese"
+  },
+  {
+    "Type": "apply_name_portuguese",
+    "StateId": "705",
+    "Provinces": [],
+    "Flag": "state_name_portuguese"
+  },
+  {
+    "Type": "apply_name_portuguese",
+    "StateId": "796",
+    "Provinces": [
+      {
+        "Id": "2115",
+        "Name": "Namibe"
+      }
+    ],
+    "Flag": "state_name_portuguese"
+  },
+  {
+    "Type": "apply_name_portuguese",
+    "StateId": "540",
+    "Provinces": [
+      {
+        "Id": "8248",
+        "Name": "Luanda"
+      },
+      {
+        "Id": "10966",
+        "Name": "Nova Lisboa"
+      }
+    ],
+    "Flag": "state_name_portuguese"
+  },
+  {
+    "Type": "apply_name_portuguese",
+    "StateId": "544",
+    "Provinces": [
+      {
+        "Id": "8245",
+        "Name": "Lourenço Marques"
+      }
+    ],
+    "Flag": "state_name_portuguese"
+  },
+  {
+    "Type": "apply_name_portuguese",
+    "StateId": "721",
+    "Provinces": [],
+    "Flag": "state_name_portuguese"
+  },
+  {
+    "Type": "apply_name_portuguese",
+    "StateId": "729",
+    "Provinces": [
+      {
+        "Id": "4189",
+        "Name": "Macau"
+      }
+    ],
+    "Flag": "state_name_portuguese"
+  },
+  {
+    "Type": "apply_name_portuguese",
+    "StateId": "171",
+    "Provinces": [
+      {
+        "Id": "758",
+        "Name": "A Corunha"
+      },
+      {
+        "Id": "6734",
+        "Name": "Vigo"
+      }
+    ],
+    "Flag": "state_name_portuguese"
+  },
+  {
+    "Type": "apply_name_romanian",
+    "StateId": "46",
+    "Provinces": [
+      {
+        "Id": "9617",
+        "Name": "Bucuresti"
+      },
+      {
+        "Id": "3663",
+        "Name": "Ploiesti"
+      },
+      {
+        "Id": "657",
+        "Name": "Constanta"
+      }
+    ],
+    "Flag": "state_name_romanian"
+  },
+  {
+    "Type": "apply_name_romanian",
+    "StateId": "77",
+    "Provinces": [
+      {
+        "Id": "11597",
+        "Name": "Dobrici"
+      }
+    ],
+    "Flag": "state_name_romanian"
+  },
+  {
+    "Type": "apply_name_romanian",
+    "StateId": "81",
+    "Provinces": [
+      {
+        "Id": "6652",
+        "Name": "Craiova"
+      }
+    ],
+    "Flag": "state_name_romanian"
+  },
+  {
+    "Type": "apply_name_romanian",
+    "StateId": "79",
+    "Provinces": [
+      {
+        "Id": "6706",
+        "Name": "Galati"
+      },
+      {
+        "Id": "9716",
+        "Name": "Iasi"
+      }
+    ],
+    "Flag": "state_name_romanian"
+  },
+  {
+    "Type": "apply_name_romanian",
+    "StateId": "84",
+    "Provinces": [
+      {
+        "Id": "690",
+        "Name": "Brasov"
+      }
+    ],
+    "Flag": "state_name_romanian"
+  },
+  {
+    "Type": "apply_name_romanian",
+    "StateId": "82",
+    "Provinces": [
+      {
+        "Id": "9606",
+        "Name": "Timisoara"
+      }
+    ],
+    "Flag": "state_name_romanian"
+  },
+  {
+    "Type": "apply_name_romanian",
+    "StateId": "83",
+    "Provinces": [
+      {
+        "Id": "6682",
+        "Name": "Arad"
+      }
+    ],
+    "Flag": "state_name_romanian"
+  },
+  {
+    "Type": "apply_name_romanian",
+    "StateId": "76",
+    "Provinces": [
+      {
+        "Id": "6711",
+        "Name": "Cluj-Napoca"
+      }
+    ],
+    "Flag": "state_name_romanian"
+  },
+  {
+    "Type": "apply_name_romanian",
+    "StateId": "80",
+    "Provinces": [
+      {
+        "Id": "577",
+        "Name": "Cernăuti"
+      }
+    ],
+    "Flag": "state_name_romanian"
+  },
+  {
+    "Type": "apply_name_romanian",
+    "StateId": "78",
+    "Provinces": [
+      {
+        "Id": "3707",
+        "Name": "Chisinău"
+      }
+    ],
+    "Flag": "state_name_romanian"
+  },
+  {
+    "Type": "apply_name_romanian",
+    "StateId": "766",
+    "Provinces": [
+      {
+        "Id": "6727",
+        "Name": "Cetatea Albă"
+      }
+    ],
+    "Flag": "state_name_romanian"
+  },
+  {
+    "Type": "apply_name_romanian",
+    "StateId": "834",
+    "Provinces": [
+      {
+        "Id": "741",
+        "Name": "Tiraspol"
+      },
+      {
+        "Id": "3757",
+        "Name": "Balta"
+      }
+    ],
+    "Flag": "state_name_romanian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "219",
+    "Provinces": [
+      {
+        "Id": "6380",
+        "Name": "Moskva"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "242",
+    "Provinces": [
+      {
+        "Id": "306",
+        "Name": "Smolensk"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "243",
+    "Provinces": [
+      {
+        "Id": "11336",
+        "Name": "Roslavl"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "205",
+    "Provinces": [
+      {
+        "Id": "382",
+        "Name": "Kaluga"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "224",
+    "Provinces": [
+      {
+        "Id": "3335",
+        "Name": "Bryansk"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "223",
+    "Provinces": [
+      {
+        "Id": "6262",
+        "Name": "Tula"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "254",
+    "Provinces": [
+      {
+        "Id": "11248",
+        "Name": "Ryazan"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "222",
+    "Provinces": [
+      {
+        "Id": "9355",
+        "Name": "Oryol"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "258",
+    "Provinces": [
+      {
+        "Id": "6398",
+        "Name": "Lipetsk"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "257",
+    "Provinces": [
+      {
+        "Id": "11351",
+        "Name": "Tambov"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "220",
+    "Provinces": [
+      {
+        "Id": "3580",
+        "Name": "Kursk"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "260",
+    "Provinces": [
+      {
+        "Id": "413",
+        "Name": "Voronezh"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "240",
+    "Provinces": [
+      {
+        "Id": "9449",
+        "Name": "Belgorod"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "253",
+    "Provinces": [
+      {
+        "Id": "6269",
+        "Name": "Ivanovo"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "252",
+    "Provinces": [
+      {
+        "Id": "11375",
+        "Name": "Gorky"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "833",
+    "Provinces": [
+      {
+        "Id": "9402",
+        "Name": "Yoshkar-Ola"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "256",
+    "Provinces": [
+      {
+        "Id": "9259",
+        "Name": "Cheboksary"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "255",
+    "Provinces": [
+      {
+        "Id": "9258",
+        "Name": "Penza"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "250",
+    "Provinces": [
+      {
+        "Id": "392",
+        "Name": "Ulyanovsk"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "218",
+    "Provinces": [
+      {
+        "Id": "9417",
+        "Name": "Rostov-on-Don"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "245",
+    "Provinces": [
+      {
+        "Id": "11476",
+        "Name": "Millerovo"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "238",
+    "Provinces": [
+      {
+        "Id": "775",
+        "Name": "Salsk"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "237",
+    "Provinces": [
+      {
+        "Id": "11724",
+        "Name": "Elista"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "217",
+    "Provinces": [
+      {
+        "Id": "3529",
+        "Name": "Stalingrad"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "236",
+    "Provinces": [
+      {
+        "Id": "9753",
+        "Name": "Astrakhan"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "265",
+    "Provinces": [
+      {
+        "Id": "487",
+        "Name": "Mikhaylovka"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "829",
+    "Provinces": [
+      {
+        "Id": "11523",
+        "Name": "Engels"
+      },
+      {
+        "Id": "9432",
+        "Name": "Marks"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "239",
+    "Provinces": [
+      {
+        "Id": "3578",
+        "Name": "Saratov"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "401",
+    "Provinces": [
+      {
+        "Id": "3578",
+        "Name": "Balakovo"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "137",
+    "Provinces": [
+      {
+        "Id": "3687",
+        "Name": "Sevastópol"
+      },
+      {
+        "Id": "6704",
+        "Name": "Yalta"
+      },
+      {
+        "Id": "9680",
+        "Name": "Kerch"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "234",
+    "Provinces": [
+      {
+        "Id": "3734",
+        "Name": "Krasnodar"
+      },
+      {
+        "Id": "3720",
+        "Name": "Maykop"
+      },
+      {
+        "Id": "719",
+        "Name": "Novorossiysk"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "233",
+    "Provinces": [
+      {
+        "Id": "9663",
+        "Name": "Sochi"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "235",
+    "Provinces": [
+      {
+        "Id": "11696",
+        "Name": "Stavropol"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "827",
+    "Provinces": [
+      {
+        "Id": "11614",
+        "Name": "Nalchik"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "828",
+    "Provinces": [
+      {
+        "Id": "9628",
+        "Name": "Ordzhonikidze"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "821",
+    "Provinces": [
+      {
+        "Id": "3672",
+        "Name": "Grozny"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "232",
+    "Provinces": [
+      {
+        "Id": "6701",
+        "Name": "Makhachkala"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "826",
+    "Provinces": [
+      {
+        "Id": "11617",
+        "Name": "Sukhumi"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "231",
+    "Provinces": [
+      {
+        "Id": "1599",
+        "Name": "Tbilisi"
+      },
+      {
+        "Id": "3653",
+        "Name": "Batumi"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "230",
+    "Provinces": [
+      {
+        "Id": "12320",
+        "Name": "Yerevan"
+      },
+      {
+        "Id": "12441",
+        "Name": "Gyumri"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "229",
+    "Provinces": [
+      {
+        "Id": "7661",
+        "Name": "Baku"
+      },
+      {
+        "Id": "11674",
+        "Name": "Ganja"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "195",
+    "Provinces": [
+      {
+        "Id": "3151",
+        "Name": "Leningrad"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "208",
+    "Provinces": [
+      {
+        "Id": "9098",
+        "Name": "Luga"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "244",
+    "Provinces": [
+      {
+        "Id": "9197",
+        "Name": "Volkhov"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "263",
+    "Provinces": [
+      {
+        "Id": "117",
+        "Name": "Novgorod"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "209",
+    "Provinces": [
+      {
+        "Id": "11202",
+        "Name": "Pskov"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "210",
+    "Provinces": [
+      {
+        "Id": "11234",
+        "Name": "Velikiye Luki"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "246",
+    "Provinces": [
+      {
+        "Id": "11349",
+        "Name": "Rzhev"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "264",
+    "Provinces": [
+      {
+        "Id": "3140",
+        "Name": "Tikhvin"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "247",
+    "Provinces": [
+      {
+        "Id": "6245",
+        "Name": "Kalinin"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "248",
+    "Provinces": [
+      {
+        "Id": "121",
+        "Name": "Yaroslavl"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "351",
+    "Provinces": [
+      {
+        "Id": "9131",
+        "Name": "Vologda"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "214",
+    "Provinces": [
+      {
+        "Id": "3338",
+        "Name": "Arkhangelsk"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "213",
+    "Provinces": [
+      {
+        "Id": "3134",
+        "Name": "Murmansk"
+      },
+      {
+        "Id": "6181",
+        "Name": "Kandalaksha"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "215",
+    "Provinces": [],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "216",
+    "Provinces": [
+      {
+        "Id": "11159",
+        "Name": "Petrozavodsk"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "825",
+    "Provinces": [
+      {
+        "Id": "105",
+        "Name": "Naryan-Mar"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "262",
+    "Provinces": [],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "581",
+    "Provinces": [],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "397",
+    "Provinces": [
+      {
+        "Id": "108",
+        "Name": "Syktyvkar"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "399",
+    "Provinces": [
+      {
+        "Id": "6278",
+        "Name": "Izhevsk"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "398",
+    "Provinces": [
+      {
+        "Id": "7375",
+        "Name": "Perm"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "573",
+    "Provinces": [
+      {
+        "Id": "10329",
+        "Name": "Zlatoust"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "249",
+    "Provinces": [
+      {
+        "Id": "6338",
+        "Name": "Kazan"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "651",
+    "Provinces": [
+      {
+        "Id": "1278",
+        "Name": "Ufa"
+      },
+      {
+        "Id": "4354",
+        "Name": "Sterlitamak"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "251",
+    "Provinces": [
+      {
+        "Id": "11225",
+        "Name": "Kuybyshev"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "652",
+    "Provinces": [],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "407",
+    "Provinces": [
+      {
+        "Id": "11537",
+        "Name": "Ural'sk"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "406",
+    "Provinces": [
+      {
+        "Id": "11537",
+        "Name": "Guryev"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "207",
+    "Provinces": [
+      {
+        "Id": "11241",
+        "Name": "Vitebsk"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "241",
+    "Provinces": [
+      {
+        "Id": "9288",
+        "Name": "Gomel"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "206",
+    "Provinces": [
+      {
+        "Id": "11370",
+        "Name": "Minsk"
+      },
+      {
+        "Id": "9289",
+        "Name": "Mogilev"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "204",
+    "Provinces": [
+      {
+        "Id": "3350",
+        "Name": "Bobrujsk"
+      },
+      {
+        "Id": "11313",
+        "Name": "Soligorsk"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "194",
+    "Provinces": [
+      {
+        "Id": "6232",
+        "Name": "Mozyr"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "228",
+    "Provinces": [
+      {
+        "Id": "9461",
+        "Name": "Voroshilovgrad"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "227",
+    "Provinces": [
+      {
+        "Id": "6474",
+        "Name": "Stalino"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "221",
+    "Provinces": [
+      {
+        "Id": "418",
+        "Name": "Kharkov"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "226",
+    "Provinces": [
+      {
+        "Id": "11437",
+        "Name": "Dnipropetrovsk"
+      },
+      {
+        "Id": "11561",
+        "Name": "Krivoy Rog"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "200",
+    "Provinces": [
+      {
+        "Id": "11405",
+        "Name": "Zaporozhe"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "196",
+    "Provinces": [
+      {
+        "Id": "721",
+        "Name": "Kherson"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "193",
+    "Provinces": [
+      {
+        "Id": "3568",
+        "Name": "Chernigov"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "259",
+    "Provinces": [
+      {
+        "Id": "11504",
+        "Name": "Poltava"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "202",
+    "Provinces": [
+      {
+        "Id": "525",
+        "Name": "Kiev"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "203",
+    "Provinces": [
+      {
+        "Id": "488",
+        "Name": "Cherkasy"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "197",
+    "Provinces": [
+      {
+        "Id": "11683",
+        "Name": "Mykolaiv"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "201",
+    "Provinces": [
+      {
+        "Id": "6593",
+        "Name": "Zhytomyr"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "198",
+    "Provinces": [
+      {
+        "Id": "476",
+        "Name": "Vinnytsia"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "834",
+    "Provinces": [
+      {
+        "Id": "3757",
+        "Name": "Balta"
+      },
+      {
+        "Id": "741",
+        "Name": "Tiraspol"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "192",
+    "Provinces": [
+      {
+        "Id": "11670",
+        "Name": "Odesa"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "96",
+    "Provinces": [
+      {
+        "Id": "406",
+        "Name": "Molodechno"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "95",
+    "Provinces": [
+      {
+        "Id": "9304",
+        "Name": "Baranavichy"
+      },
+      {
+        "Id": "3393",
+        "Name": "Hrodna"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "94",
+    "Provinces": [
+      {
+        "Id": "560",
+        "Name": "Pinsk"
+      },
+      {
+        "Id": "3392",
+        "Name": "Brest"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "93",
+    "Provinces": [
+      {
+        "Id": "6557",
+        "Name": "Rovno"
+      },
+      {
+        "Id": "422",
+        "Name": "Kovel"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "91",
+    "Provinces": [
+      {
+        "Id": "11479",
+        "Name": "Lvov"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "89",
+    "Provinces": [
+      {
+        "Id": "11411",
+        "Name": "Ivano-Frankovsk"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "784",
+    "Provinces": [
+      {
+        "Id": "3320",
+        "Name": "Vilnus"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "766",
+    "Provinces": [
+      {
+        "Id": "6727",
+        "Name": "Belgorod-Dnestrovskiy"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "80",
+    "Provinces": [
+      {
+        "Id": "577",
+        "Name": "Bukovina"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "78",
+    "Provinces": [
+      {
+        "Id": "3707",
+        "Name": "Kishinev"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "812",
+    "Provinces": [
+      {
+        "Id": "3152",
+        "Name": "Tallinn"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "813",
+    "Provinces": [
+      {
+        "Id": "11127",
+        "Name": "Rakvere"
+      },
+      {
+        "Id": "4640",
+        "Name": "Narva"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "191",
+    "Provinces": [
+      {
+        "Id": "9221",
+        "Name": "Tartu"
+      },
+      {
+        "Id": "592",
+        "Name": "Vyru"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "13",
+    "Provinces": [
+      {
+        "Id": "3174",
+        "Name": "Pernov"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "811",
+    "Provinces": [
+      {
+        "Id": "185",
+        "Name": "Kuressaare"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "808",
+    "Provinces": [
+      {
+        "Id": "9340",
+        "Name": "Riga"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "12",
+    "Provinces": [
+      {
+        "Id": "10493",
+        "Name": "Volodimirec"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "810",
+    "Provinces": [
+      {
+        "Id": "222",
+        "Name": "Rezhitsa"
+      },
+      {
+        "Id": "310",
+        "Name": "Dvinsk"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "809",
+    "Provinces": [
+      {
+        "Id": "3255",
+        "Name": "Yekabpils "
+      },
+      {
+        "Id": "6222",
+        "Name": "Yelgava"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "190",
+    "Provinces": [
+      {
+        "Id": "3296",
+        "Name": "Ventspils "
+      },
+      {
+        "Id": "9262",
+        "Name": "Liepaja"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "11",
+    "Provinces": [
+      {
+        "Id": "6296",
+        "Name": "Kovno"
+      },
+      {
+        "Id": "9357",
+        "Name": "Ukmerge"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "814",
+    "Provinces": [
+      {
+        "Id": "11312",
+        "Name": "Mariampol"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "815",
+    "Provinces": [
+      {
+        "Id": "6229",
+        "Name": "Panevezhis"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "189",
+    "Provinces": [
+      {
+        "Id": "9483",
+        "Name": "Shyaulyay"
+      },
+      {
+        "Id": "6314",
+        "Name": "Palanga"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "188",
+    "Provinces": [
+      {
+        "Id": "3288",
+        "Name": "Klaypeda"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "146",
+    "Provinces": [
+      {
+        "Id": "9206",
+        "Name": "Vyborg"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "147",
+    "Provinces": [
+      {
+        "Id": "197",
+        "Name": "Salla"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "722",
+    "Provinces": [],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "763",
+    "Provinces": [
+      {
+        "Id": "6332",
+        "Name": "Kaliningrad"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_russian",
+    "StateId": "73",
+    "Provinces": [
+      {
+        "Id": "3548",
+        "Name": "Mukachevo"
+      }
+    ],
+    "Flag": "state_name_russian"
+  },
+  {
+    "Type": "apply_name_spanish",
+    "StateId": "41",
+    "Provinces": [
+      {
+        "Id": "3938",
+        "Name": "Madrid"
+      },
+      {
+        "Id": "858",
+        "Name": "Toledo"
+      }
+    ],
+    "Flag": "state_name_spanish"
+  },
+  {
+    "Type": "apply_name_spanish",
+    "StateId": "793",
+    "Provinces": [
+      {
+        "Id": "3945",
+        "Name": "Cuenca"
+      }
+    ],
+    "Flag": "state_name_spanish"
+  },
+  {
+    "Type": "apply_name_spanish",
+    "StateId": "175",
+    "Provinces": [
+      {
+        "Id": "6832",
+        "Name": "Ciudad Real"
+      }
+    ],
+    "Flag": "state_name_spanish"
+  },
+  {
+    "Type": "apply_name_spanish",
+    "StateId": "170",
+    "Provinces": [
+      {
+        "Id": "6902",
+        "Name": "Badajoz"
+      }
+    ],
+    "Flag": "state_name_spanish"
+  },
+  {
+    "Type": "apply_name_spanish",
+    "StateId": "788",
+    "Provinces": [
+      {
+        "Id": "3874",
+        "Name": "Salamanca"
+      }
+    ],
+    "Flag": "state_name_spanish"
+  },
+  {
+    "Type": "apply_name_spanish",
+    "StateId": "169",
+    "Provinces": [
+      {
+        "Id": "7183",
+        "Name": "Sevilla"
+      },
+      {
+        "Id": "1048",
+        "Name": "Cádiz"
+      }
+    ],
+    "Flag": "state_name_spanish"
+  },
+  {
+    "Type": "apply_name_spanish",
+    "StateId": "789",
+    "Provinces": [
+      {
+        "Id": "875",
+        "Name": "Córdoba"
+      }
+    ],
+    "Flag": "state_name_spanish"
+  },
+  {
+    "Type": "apply_name_spanish",
+    "StateId": "173",
+    "Provinces": [
+      {
+        "Id": "9979",
+        "Name": "Málaga"
+      },
+      {
+        "Id": "1176",
+        "Name": "Granada"
+      },
+      {
+        "Id": "12038",
+        "Name": "Granada"
+      }
+    ],
+    "Flag": "state_name_spanish"
+  },
+  {
+    "Type": "apply_name_spanish",
+    "StateId": "168",
+    "Provinces": [
+      {
+        "Id": "10024",
+        "Name": "Murcia"
+      }
+    ],
+    "Flag": "state_name_spanish"
+  },
+  {
+    "Type": "apply_name_spanish",
+    "StateId": "167",
+    "Provinces": [
+      {
+        "Id": "6906",
+        "Name": "Valencia"
+      },
+      {
+        "Id": "4098",
+        "Name": "Alicante"
+      }
+    ],
+    "Flag": "state_name_spanish"
+  },
+  {
+    "Type": "apply_name_spanish",
+    "StateId": "165",
+    "Provinces": [
+      {
+        "Id": "9764",
+        "Name": "Barcelona"
+      },
+      {
+        "Id": "6927",
+        "Name": "Gerona"
+      },
+      {
+        "Id": "6966",
+        "Name": "Tortosa"
+      }
+    ],
+    "Flag": "state_name_spanish"
+  },
+  {
+    "Type": "apply_name_spanish",
+    "StateId": "794",
+    "Provinces": [
+      {
+        "Id": "3954",
+        "Name": "Caspe"
+      }
+    ],
+    "Flag": "state_name_spanish"
+  },
+  {
+    "Type": "apply_name_spanish",
+    "StateId": "166",
+    "Provinces": [
+      {
+        "Id": "3816",
+        "Name": "Zaragoza"
+      },
+      {
+        "Id": "9840",
+        "Name": "Huesca"
+      },
+      {
+        "Id": "7213",
+        "Name": "Teruel"
+      }
+    ],
+    "Flag": "state_name_spanish"
+  },
+  {
+    "Type": "apply_name_spanish",
+    "StateId": "172",
+    "Provinces": [
+      {
+        "Id": "3933",
+        "Name": "Pamplona"
+      }
+    ],
+    "Flag": "state_name_spanish"
+  },
+  {
+    "Type": "apply_name_spanish",
+    "StateId": "176",
+    "Provinces": [
+      {
+        "Id": "885",
+        "Name": "Burgos"
+      }
+    ],
+    "Flag": "state_name_spanish"
+  },
+  {
+    "Type": "apply_name_spanish",
+    "StateId": "792",
+    "Provinces": [
+      {
+        "Id": "740",
+        "Name": "Bilbao"
+      }
+    ],
+    "Flag": "state_name_spanish"
+  },
+  {
+    "Type": "apply_name_spanish",
+    "StateId": "791",
+    "Provinces": [
+      {
+        "Id": "11825",
+        "Name": "Valladolid"
+      }
+    ],
+    "Flag": "state_name_spanish"
+  },
+  {
+    "Type": "apply_name_spanish",
+    "StateId": "174",
+    "Provinces": [
+      {
+        "Id": "726",
+        "Name": "León"
+      }
+    ],
+    "Flag": "state_name_spanish"
+  },
+  {
+    "Type": "apply_name_spanish",
+    "StateId": "790",
+    "Provinces": [
+      {
+        "Id": "11707",
+        "Name": "Oviedo"
+      }
+    ],
+    "Flag": "state_name_spanish"
+  },
+  {
+    "Type": "apply_name_spanish",
+    "StateId": "171",
+    "Provinces": [
+      {
+        "Id": "758",
+        "Name": "La Coruña"
+      },
+      {
+        "Id": "6734",
+        "Name": "Vigo"
+      }
+    ],
+    "Flag": "state_name_spanish"
+  },
+  {
+    "Type": "apply_name_spanish",
+    "StateId": "177",
+    "Provinces": [
+      {
+        "Id": "9793",
+        "Name": "Palma de Mallorca"
+      }
+    ],
+    "Flag": "state_name_spanish"
+  },
+  {
+    "Type": "apply_name_spanish",
+    "StateId": "783",
+    "Provinces": [
+      {
+        "Id": "12857",
+        "Name": "Sidi Ifni"
+      }
+    ],
+    "Flag": "state_name_spanish"
+  },
+  {
+    "Type": "apply_name_spanish",
+    "StateId": "699",
+    "Provinces": [
+      {
+        "Id": "8038",
+        "Name": "Laâyoune"
+      }
+    ],
+    "Flag": "state_name_spanish"
+  },
+  {
+    "Type": "apply_name_spanish",
+    "StateId": "178",
+    "Provinces": [
+      {
+        "Id": "13071",
+        "Name": "Santa Cruz de Tenerife"
+      }
+    ],
+    "Flag": "state_name_spanish"
+  },
+  {
+    "Type": "apply_name_spanish",
+    "StateId": "297",
+    "Provinces": [
+      {
+        "Id": "1903",
+        "Name": "Malabo"
+      }
+    ],
+    "Flag": "state_name_spanish"
+  },
+  {
+    "Type": "apply_name_swedish",
+    "StateId": "138",
+    "Provinces": [
+      {
+        "Id": "9279",
+        "Name": "Malmö"
+      },
+      {
+        "Id": "11215",
+        "Name": "Karlskrona"
+      }
+    ],
+    "Flag": "state_name_swedish"
+  },
+  {
+    "Type": "apply_name_swedish",
+    "StateId": "140",
+    "Provinces": [
+      {
+        "Id": "383",
+        "Name": "Göteborg"
+      },
+      {
+        "Id": "11114",
+        "Name": "Karlstad"
+      }
+    ],
+    "Flag": "state_name_swedish"
+  },
+  {
+    "Type": "apply_name_swedish",
+    "StateId": "139",
+    "Provinces": [
+      {
+        "Id": "11380",
+        "Name": "Norrköping"
+      }
+    ],
+    "Flag": "state_name_swedish"
+  },
+  {
+    "Type": "apply_name_swedish",
+    "StateId": "141",
+    "Provinces": [
+      {
+        "Id": "6050",
+        "Name": "Stockholm"
+      }
+    ],
+    "Flag": "state_name_swedish"
+  },
+  {
+    "Type": "apply_name_swedish",
+    "StateId": "38",
+    "Provinces": [
+      {
+        "Id": "156",
+        "Name": "Falun"
+      }
+    ],
+    "Flag": "state_name_swedish"
+  },
+  {
+    "Type": "apply_name_swedish",
+    "StateId": "666",
+    "Provinces": [
+      {
+        "Id": "9108",
+        "Name": "Luleå"
+      }
+    ],
+    "Flag": "state_name_swedish"
+  },
+  {
+    "Type": "apply_name_swedish",
+    "StateId": "124",
+    "Provinces": [],
+    "Flag": "state_name_swedish"
+  },
+  {
+    "Type": "apply_name_swedish",
+    "StateId": "111",
+    "Provinces": [
+      {
+        "Id": "11105",
+        "Name": "Helsingfors"
+      },
+      {
+        "Id": "3137",
+        "Name": "Tammerfors"
+      },
+      {
+        "Id": "3083",
+        "Name": "Åbo"
+      }
+    ],
+    "Flag": "state_name_swedish"
+  },
+  {
+    "Type": "apply_name_swedish",
+    "StateId": "150",
+    "Provinces": [],
+    "Flag": "state_name_swedish"
+  },
+  {
+    "Type": "apply_name_swedish",
+    "StateId": "149",
+    "Provinces": [
+      {
+        "Id": "3122",
+        "Name": "Vasa"
+      }
+    ],
+    "Flag": "state_name_swedish"
+  },
+  {
+    "Type": "apply_name_swedish",
+    "StateId": "148",
+    "Provinces": [],
+    "Flag": "state_name_swedish"
+  },
+  {
+    "Type": "apply_name_swedish",
+    "StateId": "146",
+    "Provinces": [
+      {
+        "Id": "9206",
+        "Name": "Viborg"
+      }
+    ],
+    "Flag": "state_name_swedish"
+  },
+  {
+    "Type": "apply_name_swedish",
+    "StateId": "147",
+    "Provinces": [
+      {
+        "Id": "197",
+        "Name": "Salla"
+      }
+    ],
+    "Flag": "state_name_swedish"
+  },
+  {
+    "Type": "apply_name_swedish",
+    "StateId": "722",
+    "Provinces": [],
+    "Flag": "state_name_swedish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "49",
+    "Provinces": [
+      {
+        "Id": "11747",
+        "Name": "Ankara"
+      },
+      {
+        "Id": "804",
+        "Name": "Kırıkkale"
+      },
+      {
+        "Id": "3951",
+        "Name": "Eskişehir"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "347",
+    "Provinces": [
+      {
+        "Id": "11811",
+        "Name": "İzmit"
+      },
+      {
+        "Id": "904",
+        "Name": "Adapazarı"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "797",
+    "Provinces": [
+      {
+        "Id": "9833",
+        "Name": "İstanbul"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "341",
+    "Provinces": [
+      {
+        "Id": "11842",
+        "Name": "Edirne"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "340",
+    "Provinces": [
+      {
+        "Id": "947",
+        "Name": "Bursa"
+      },
+      {
+        "Id": "9799",
+        "Name": "Balıkesir"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "339",
+    "Provinces": [
+      {
+        "Id": "4112",
+        "Name": "İzmir"
+      },
+      {
+        "Id": "928",
+        "Name": "Manisa"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "343",
+    "Provinces": [
+      {
+        "Id": "10041",
+        "Name": "Denizli"
+      },
+      {
+        "Id": "3856",
+        "Name": "Kütahya"
+      },
+      {
+        "Id": "9878",
+        "Name": "Afyonkarahisar"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "342",
+    "Provinces": [
+      {
+        "Id": "1005",
+        "Name": "Antalya"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "342",
+    "Provinces": [
+      {
+        "Id": "356",
+        "Name": "Kastamonu"
+      },
+      {
+        "Id": "6995",
+        "Name": "Sinop"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "798",
+    "Provinces": [
+      {
+        "Id": "919",
+        "Name": "Amas"
+      },
+      {
+        "Id": "3862",
+        "Name": "Yozgat"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "346",
+    "Provinces": [
+      {
+        "Id": "9861",
+        "Name": "Konya"
+      },
+      {
+        "Id": "6807",
+        "Name": "Karaman"
+      },
+      {
+        "Id": "784",
+        "Name": "Isparta"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "348",
+    "Provinces": [
+      {
+        "Id": "3870",
+        "Name": "Kayseri"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "345",
+    "Provinces": [
+      {
+        "Id": "10056",
+        "Name": "Mersin"
+      },
+      {
+        "Id": "11810",
+        "Name": "Tarsus"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "344",
+    "Provinces": [
+      {
+        "Id": "9893",
+        "Name": "Gaziantep"
+      },
+      {
+        "Id": "6813",
+        "Name": "Kahramanmaraş"
+      },
+      {
+        "Id": "11746",
+        "Name": "Adana"
+      },
+      {
+        "Id": "7620",
+        "Name": "Malatya "
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "349",
+    "Provinces": [
+      {
+        "Id": "9777",
+        "Name": "Sivas"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "355",
+    "Provinces": [
+      {
+        "Id": "11881",
+        "Name": "Samsun"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "354",
+    "Provinces": [
+      {
+        "Id": "9932",
+        "Name": "Trabzon"
+      },
+      {
+        "Id": "3979",
+        "Name": "Gümüşhane"
+      },
+      {
+        "Id": "11853",
+        "Name": "Erzurum"
+      },
+      {
+        "Id": "10472",
+        "Name": "Kars"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "353",
+    "Provinces": [
+      {
+        "Id": "9860",
+        "Name": "Tunceli"
+      },
+      {
+        "Id": "876",
+        "Name": "Elâzığ"
+      },
+      {
+        "Id": "353",
+        "Name": "Erzincan"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "800",
+    "Provinces": [
+      {
+        "Id": "6935",
+        "Name": "Van"
+      },
+      {
+        "Id": "12376",
+        "Name": "Karaköse"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "352",
+    "Provinces": [
+      {
+        "Id": "6935",
+        "Name": "Hakkâri"
+      },
+      {
+        "Id": "7530",
+        "Name": "Cizîr"
+      },
+      {
+        "Id": "10497",
+        "Name": "Sêrt"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "350",
+    "Provinces": [
+      {
+        "Id": "4512",
+        "Name": "Diyarbakır"
+      },
+      {
+        "Id": "12387",
+        "Name": "Batman"
+      },
+      {
+        "Id": "9823",
+        "Name": "Şanlıurfa"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "47",
+    "Provinces": [
+      {
+        "Id": "4109",
+        "Name": "Atina"
+      },
+      {
+        "Id": "3988",
+        "Name": "Gördes"
+      },
+      {
+        "Id": "7127",
+        "Name": "Halkídha"
+      },
+      {
+        "Id": "3973",
+        "Name": "Lárisa"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "186",
+    "Provinces": [
+      {
+        "Id": "7096",
+        "Name": "Argoz"
+      },
+      {
+        "Id": "11965",
+        "Name": "Ballıbadra"
+      },
+      {
+        "Id": "7211",
+        "Name": "Kalamata"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "185",
+    "Provinces": [
+      {
+        "Id": "1205",
+        "Name": "Vrachori"
+      },
+      {
+        "Id": "3914",
+        "Name": "Yanya"
+      },
+      {
+        "Id": "10203",
+        "Name": "Korfu"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "731",
+    "Provinces": [
+      {
+        "Id": "11818",
+        "Name": "Selanik"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "184",
+    "Provinces": [
+      {
+        "Id": "11905",
+        "Name": "Dedeağaç"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "187",
+    "Provinces": [
+      {
+        "Id": "6550",
+        "Name": "Sisam"
+      },
+      {
+        "Id": "8435",
+        "Name": "Midilli"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "182",
+    "Provinces": [
+      {
+        "Id": "9940",
+        "Name": "Kandiye"
+      },
+      {
+        "Id": "12058",
+        "Name": "Hanya"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "48",
+    "Provinces": [
+      {
+        "Id": "949",
+        "Name": "Sofya"
+      },
+      {
+        "Id": "9771",
+        "Name": "Vidin"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "212",
+    "Provinces": [
+      {
+        "Id": "6923",
+        "Name": "Filibe"
+      },
+      {
+        "Id": "6814",
+        "Name": "Eski Zağra"
+      },
+      {
+        "Id": "9862",
+        "Name": "Hasköy"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "801",
+    "Provinces": [
+      {
+        "Id": "3796",
+        "Name": "Plevne"
+      },
+      {
+        "Id": "9612",
+        "Name": "Rusçuk"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "211",
+    "Provinces": [
+      {
+        "Id": "9902",
+        "Name": "Burgaz"
+      },
+      {
+        "Id": "9888",
+        "Name": "Yanbolu"
+      },
+      {
+        "Id": "6967",
+        "Name": "İslimye"
+      },
+      {
+        "Id": "9769",
+        "Name": "Şumnu"
+      },
+      {
+        "Id": "9783",
+        "Name": "Varna"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_turkish",
+    "StateId": "164",
+    "Provinces": [
+      {
+        "Id": "10007",
+        "Name": "Rodos"
+      }
+    ],
+    "Flag": "state_name_turkish"
+  },
+  {
+    "Type": "apply_name_ukrainian",
+    "StateId": "228",
+    "Provinces": [
+      {
+        "Id": "9461",
+        "Name": "Luhans'k"
+      }
+    ],
+    "Flag": "state_name_ukrainian"
+  },
+  {
+    "Type": "apply_name_ukrainian",
+    "StateId": "227",
+    "Provinces": [
+      {
+        "Id": "6474",
+        "Name": "Donetsk"
+      }
+    ],
+    "Flag": "state_name_ukrainian"
+  },
+  {
+    "Type": "apply_name_ukrainian",
+    "StateId": "221",
+    "Provinces": [
+      {
+        "Id": "418",
+        "Name": "Kharkiv"
+      }
+    ],
+    "Flag": "state_name_ukrainian"
+  },
+  {
+    "Type": "apply_name_ukrainian",
+    "StateId": "226",
+    "Provinces": [
+      {
+        "Id": "11437",
+        "Name": "Dnipropetrovsk"
+      },
+      {
+        "Id": "11561",
+        "Name": "Kryvyi Rih"
+      }
+    ],
+    "Flag": "state_name_ukrainian"
+  },
+  {
+    "Type": "apply_name_ukrainian",
+    "StateId": "200",
+    "Provinces": [
+      {
+        "Id": "11405",
+        "Name": "Zaporizhzhia"
+      }
+    ],
+    "Flag": "state_name_ukrainian"
+  },
+  {
+    "Type": "apply_name_ukrainian",
+    "StateId": "196",
+    "Provinces": [
+      {
+        "Id": "721",
+        "Name": "Kherson"
+      }
+    ],
+    "Flag": "state_name_ukrainian"
+  },
+  {
+    "Type": "apply_name_ukrainian",
+    "StateId": "193",
+    "Provinces": [
+      {
+        "Id": "3568",
+        "Name": "Chernihiv"
+      }
+    ],
+    "Flag": "state_name_ukrainian"
+  },
+  {
+    "Type": "apply_name_ukrainian",
+    "StateId": "259",
+    "Provinces": [
+      {
+        "Id": "11504",
+        "Name": "Poltava"
+      }
+    ],
+    "Flag": "state_name_ukrainian"
+  },
+  {
+    "Type": "apply_name_ukrainian",
+    "StateId": "202",
+    "Provinces": [
+      {
+        "Id": "525",
+        "Name": "Kyiv"
+      }
+    ],
+    "Flag": "state_name_ukrainian"
+  },
+  {
+    "Type": "apply_name_ukrainian",
+    "StateId": "203",
+    "Provinces": [
+      {
+        "Id": "488",
+        "Name": "Cherkasy"
+      }
+    ],
+    "Flag": "state_name_ukrainian"
+  },
+  {
+    "Type": "apply_name_ukrainian",
+    "StateId": "197",
+    "Provinces": [
+      {
+        "Id": "11683",
+        "Name": "Mykolaiv"
+      }
+    ],
+    "Flag": "state_name_ukrainian"
+  },
+  {
+    "Type": "apply_name_ukrainian",
+    "StateId": "201",
+    "Provinces": [
+      {
+        "Id": "6593",
+        "Name": "Zhytomyr"
+      }
+    ],
+    "Flag": "state_name_ukrainian"
+  },
+  {
+    "Type": "apply_name_ukrainian",
+    "StateId": "198",
+    "Provinces": [
+      {
+        "Id": "476",
+        "Name": "Vinnytsia"
+      }
+    ],
+    "Flag": "state_name_ukrainian"
+  },
+  {
+    "Type": "apply_name_ukrainian",
+    "StateId": "834",
+    "Provinces": [
+      {
+        "Id": "3757",
+        "Name": "Balta"
+      },
+      {
+        "Id": "741",
+        "Name": "Tiraspol"
+      }
+    ],
+    "Flag": "state_name_ukrainian"
+  },
+  {
+    "Type": "apply_name_ukrainian",
+    "StateId": "192",
+    "Provinces": [
+      {
+        "Id": "11670",
+        "Name": "Odessa"
+      }
+    ],
+    "Flag": "state_name_ukrainian"
+  },
+  {
+    "Type": "apply_name_ukrainian",
+    "StateId": "93",
+    "Provinces": [
+      {
+        "Id": "6557",
+        "Name": "Rivne"
+      },
+      {
+        "Id": "422",
+        "Name": "Kovel"
+      }
+    ],
+    "Flag": "state_name_ukrainian"
+  },
+  {
+    "Type": "apply_name_ukrainian",
+    "StateId": "91",
+    "Provinces": [
+      {
+        "Id": "11479",
+        "Name": "Lviv"
+      }
+    ],
+    "Flag": "state_name_ukrainian"
+  },
+  {
+    "Type": "apply_name_ukrainian",
+    "StateId": "89",
+    "Provinces": [
+      {
+        "Id": "11411",
+        "Name": "Ivano-Frankivsk"
+      }
+    ],
+    "Flag": "state_name_ukrainian"
+  },
+  {
+    "Type": "apply_name_ukrainian",
+    "StateId": "766",
+    "Provinces": [
+      {
+        "Id": "6727",
+        "Name": "Bilhorod-Dnistrovskyi"
+      }
+    ],
+    "Flag": "state_name_ukrainian"
+  },
+  {
+    "Type": "apply_name_ukrainian",
+    "StateId": "80",
+    "Provinces": [
+      {
+        "Id": "577",
+        "Name": "Bukovina"
+      }
+    ],
+    "Flag": "state_name_ukrainian"
+  },
+  {
+    "Type": "apply_name_ukrainian",
+    "StateId": "73",
+    "Provinces": [
+      {
+        "Id": "3548",
+        "Name": "Mukachevo"
+      }
+    ],
+    "Flag": "state_name_ukrainian"
+  },
+  {
+    "Type": "apply_name_yugoslavian",
+    "StateId": "107",
+    "Provinces": [
+      {
+        "Id": "11586",
+        "Name": "Beograd"
+      }
+    ],
+    "Flag": "state_name_yugoslavian"
+  },
+  {
+    "Type": "apply_name_yugoslavian",
+    "StateId": "108",
+    "Provinces": [
+      {
+        "Id": "9602",
+        "Name": "Niš"
+      }
+    ],
+    "Flag": "state_name_yugoslavian"
+  },
+  {
+    "Type": "apply_name_yugoslavian",
+    "StateId": "764",
+    "Provinces": [
+      {
+        "Id": "3614",
+        "Name": "Pančevo"
+      }
+    ],
+    "Flag": "state_name_yugoslavian"
+  },
+  {
+    "Type": "apply_name_yugoslavian",
+    "StateId": "45",
+    "Provinces": [
+      {
+        "Id": "619",
+        "Name": "Novi Sad"
+      }
+    ],
+    "Flag": "state_name_yugoslavian"
+  },
+  {
+    "Type": "apply_name_yugoslavian",
+    "StateId": "803",
+    "Provinces": [
+      {
+        "Id": "11857",
+        "Name": "Leskovac"
+      }
+    ],
+    "Flag": "state_name_yugoslavian"
+  },
+  {
+    "Type": "apply_name_yugoslavian",
+    "StateId": "802",
+    "Provinces": [
+      {
+        "Id": "6940",
+        "Name": "Priština"
+      }
+    ],
+    "Flag": "state_name_yugoslavian"
+  },
+  {
+    "Type": "apply_name_yugoslavian",
+    "StateId": "106",
+    "Provinces": [
+      {
+        "Id": "3882",
+        "Name": "Skopje"
+      }
+    ],
+    "Flag": "state_name_yugoslavian"
+  },
+  {
+    "Type": "apply_name_yugoslavian",
+    "StateId": "105",
+    "Provinces": [
+      {
+        "Id": "9809",
+        "Name": "Podgorica"
+      }
+    ],
+    "Flag": "state_name_yugoslavian"
+  },
+  {
+    "Type": "apply_name_yugoslavian",
+    "StateId": "104",
+    "Provinces": [
+      {
+        "Id": "11899",
+        "Name": "Sarajevo"
+      },
+      {
+        "Id": "6983",
+        "Name": "Banja Luka"
+      }
+    ],
+    "Flag": "state_name_yugoslavian"
+  },
+  {
+    "Type": "apply_name_yugoslavian",
+    "StateId": "804",
+    "Provinces": [
+      {
+        "Id": "9894",
+        "Name": "Mostar"
+      }
+    ],
+    "Flag": "state_name_yugoslavian"
+  },
+  {
+    "Type": "apply_name_yugoslavian",
+    "StateId": "109",
+    "Provinces": [
+      {
+        "Id": "11581",
+        "Name": "Zagreb"
+      }
+    ],
+    "Flag": "state_name_yugoslavian"
+  },
+  {
+    "Type": "apply_name_yugoslavian",
+    "StateId": "103",
+    "Provinces": [
+      {
+        "Id": "11564",
+        "Name": "Rijeka"
+      },
+      {
+        "Id": "3924",
+        "Name": "Split"
+      },
+      {
+        "Id": "11816",
+        "Name": "Dubrovik"
+      }
+    ],
+    "Flag": "state_name_yugoslavian"
+  },
+  {
+    "Type": "apply_name_yugoslavian",
+    "StateId": "102",
+    "Provinces": [
+      {
+        "Id": "9627",
+        "Name": "Ljubljana"
+      }
+    ],
+    "Flag": "state_name_yugoslavian"
+  },
+  {
+    "Type": "apply_name_yugoslavian",
+    "StateId": "736",
+    "Provinces": [
+      {
+        "Id": "6626",
+        "Name": "Trst"
+      }
+    ],
+    "Flag": "state_name_yugoslavian"
+  },
+  {
+    "Type": "apply_name_yugoslavian",
+    "StateId": "163",
+    "Provinces": [],
+    "Flag": "state_name_yugoslavian"
+  },
+  {
+    "Type": "apply_name_yugoslavian",
+    "StateId": "82",
+    "Provinces": [
+      {
+        "Id": "9606",
+        "Name": "Temišvar"
+      }
+    ],
+    "Flag": "state_name_yugoslavian"
+  }
+]
