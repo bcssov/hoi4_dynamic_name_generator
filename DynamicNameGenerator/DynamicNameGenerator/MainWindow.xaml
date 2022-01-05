@@ -4,6 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:DynamicNameGenerator"
+        xmlns:behaviors="clr-namespace:WPFTextBoxAutoComplete"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Window.Resources>
@@ -11,7 +12,7 @@
             <Setter Property="FontSize" Value="14" />
         </Style>
     </Window.Resources>
-    <Grid>
+    <Grid Name="mainGrid">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
@@ -49,7 +50,14 @@
                 <local:WidthConverter x:Key="WidthConverter"/>
             </DataGrid.Resources>
             <DataGrid.Columns>
-                <DataGridTextColumn Binding="{Binding Type, UpdateSourceTrigger=PropertyChanged}" Header="Type" Width="1*"></DataGridTextColumn>
+                <DataGridTemplateColumn Header="Type" Width="1*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBox Text="{Binding Type, UpdateSourceTrigger=PropertyChanged}" TextChanged="Type_TextChanged" behaviors:AutoCompleteBehavior.AutoCompleteItemsSource="{Binding DataContext.Types, ElementName=mainGrid}" 
+                                     behaviors:AutoCompleteBehavior.AutoCompleteStringComparison="InvariantCultureIgnoreCase" AcceptsTab="False" AcceptsReturn="False" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
                 <DataGridTextColumn Binding="{Binding StateId, UpdateSourceTrigger=PropertyChanged}" Header="StateId" Width="1*"></DataGridTextColumn>
                 <DataGridTextColumn Binding="{Binding StateName, UpdateSourceTrigger=PropertyChanged}" Header="StateName" Width="1*"></DataGridTextColumn>
                 <DataGridTextColumn Binding="{Binding ProvincesText, UpdateSourceTrigger=PropertyChanged}" Header="Provinces" Width="2*" IsReadOnly="True"></DataGridTextColumn>

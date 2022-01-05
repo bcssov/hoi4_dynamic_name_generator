@@ -4,7 +4,7 @@
 // Created          : 01-04-2022
 //
 // Last Modified By : Mario
-// Last Modified On : 01-05-2022
+// Last Modified On : 01-06-2022
 // ***********************************************************************
 // <copyright file="MainWindow.xaml.cs" company="Mario">
 //     Mario
@@ -27,7 +27,7 @@ namespace DynamicNameGenerator
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class MainWindow : Window, INotifyPropertyChanged
     {
         #region Fields
 
@@ -35,6 +35,11 @@ namespace DynamicNameGenerator
         /// The code exporter
         /// </summary>
         private CodeExporter codeExporter;
+
+        /// <summary>
+        /// The exclude type
+        /// </summary>
+        private string excludeType = string.Empty;
 
         /// <summary>
         /// The grid data
@@ -50,6 +55,11 @@ namespace DynamicNameGenerator
         /// The lock form
         /// </summary>
         private object lockForm = new { };
+
+        /// <summary>
+        /// The types
+        /// </summary>
+        private ObservableCollection<string> types = new ObservableCollection<string>();
 
         /// <summary>
         /// The visible items
@@ -73,6 +83,40 @@ namespace DynamicNameGenerator
         }
 
         #endregion Constructors
+
+        #region Events
+
+        /// <summary>
+        /// Occurs when a property value changes.
+        /// </summary>
+        public event PropertyChangedEventHandler PropertyChanged;
+
+        #endregion Events
+
+        #region Properties
+
+        /// <summary>
+        /// Gets or sets the types.
+        /// </summary>
+        /// <value>The types.</value>
+        public ObservableCollection<string> Types
+        {
+            get
+            {
+                return types;
+            }
+            set
+            {
+                var old = types;
+                types = value;
+                if (!(types != null && old != null && types.SequenceEqual(old)))
+                {
+                    PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(Types)));
+                }
+            }
+        }
+
+        #endregion Properties
 
         #region Methods
 
@@ -134,6 +178,7 @@ namespace DynamicNameGenerator
                     propertyChanged.PropertyChanged += Grid_PropertyChanged;
                 }
             }
+            Types = new ObservableCollection<string>(gridData.GroupBy(p => p.Type).Select(p => p.Key));
         }
 
         /// <summary>
@@ -143,6 +188,7 @@ namespace DynamicNameGenerator
         {
             lock (lockForm)
             {
+                Types = new ObservableCollection<string>(gridData.GroupBy(p => p.Type).Where(p => excludeType != p.Key && p.Key.Count() <= 0 || p.Key.Count() > 1).Select(p => p.Key));
                 var json = JsonConvert.SerializeObject(gridData.Select(p => new MainData(p.Type.ToLowerInvariant(), p.StateId, p.StateName, p.Provinces)).ToList().OrderBy(p => p.Type).ThenBy(p => p.StateId), Formatting.Indented);
                 File.WriteAllText(System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "data.json"), json);
             }
@@ -213,6 +259,20 @@ namespace DynamicNameGenerator
                 });
                 visibleItems = gridViewSource.View.Cast<object>().Count() - 1;
             }
+        }
+
+        /// <summary>
+        /// Handles the TextChanged event of the Type control.
+        /// </summary>
+        /// <param name="sender">The source of the event.</param>
+        /// <param name="e">The <see cref="TextChangedEventArgs"/> instance containing the event data.</param>
+        private void Type_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            if (((TextBox)sender).IsFocused)
+            {
+                excludeType = ((TextBox)sender).Text;
+            }
+            excludeType = string.Empty;
         }
 
         /// <summary>
