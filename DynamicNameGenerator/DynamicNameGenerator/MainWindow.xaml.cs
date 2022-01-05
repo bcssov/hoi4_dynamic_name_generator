@@ -32,6 +32,11 @@ namespace DynamicNameGenerator
         #region Fields
 
         /// <summary>
+        /// The code exporter
+        /// </summary>
+        private CodeExporter codeExporter;
+
+        /// <summary>
         /// The grid data
         /// </summary>
         private ObservableCollection<MainData> gridData = new ObservableCollection<MainData>();
@@ -63,6 +68,7 @@ namespace DynamicNameGenerator
             InitializeComponent();
             Style = (Style)FindResource(typeof(Window));
             DataContext = this;
+            codeExporter = new CodeExporter(AppDomain.CurrentDomain.BaseDirectory);
             InitializeGrid();
         }
 
@@ -140,6 +146,16 @@ namespace DynamicNameGenerator
                 var json = JsonConvert.SerializeObject(gridData.Select(p => new MainData(p.Type.ToLowerInvariant(), p.StateId, p.StateName, p.Provinces)).ToList().OrderBy(p => p.Type).ThenBy(p => p.StateId), Formatting.Indented);
                 File.WriteAllText(System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "data.json"), json);
             }
+        }
+
+        /// <summary>
+        /// Handles the Click event of the SaveItem control.
+        /// </summary>
+        /// <param name="sender">The source of the event.</param>
+        /// <param name="e">The <see cref="RoutedEventArgs" /> instance containing the event data.</param>
+        private void SaveItem_Click(object sender, RoutedEventArgs e)
+        {
+            codeExporter.Export(gridData);
         }
 
         /// <summary>

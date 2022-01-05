@@ -1,0 +1,12 @@
+    if = {{
+        limit = {{
+            state = {state_id}
+            NOT = {{
+                has_state_flag = {state_flag}
+            }}
+        }}
+        set_state_name = "{state_name}"
+		{clear_flags}        
+        set_state_flag = {state_flag}
+        {province_names}        
+    }}

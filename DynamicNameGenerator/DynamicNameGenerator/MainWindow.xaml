@@ -17,10 +17,20 @@
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
             <RowDefinition Height="*" />
         </Grid.RowDefinitions>
-        <TextBox Grid.Row="0" TextChanged="TextBox_TextChanged" Name="filter"></TextBox>
-        <TextBlock Grid.Row="0" IsHitTestVisible="False" Text="Enter text to filter or clear to reset filter. Advanced filtering is possible by using {column}:{term} ex.'type:searchTerm'." Foreground="Gray">
+        <DockPanel Grid.Row="0">
+            <Menu DockPanel.Dock="Top">
+                <MenuItem Header="_File">
+                    <MenuItem Header="_Save" Click="SaveItem_Click"/>
+                    <MenuItem Header="_Close"/>
+                </MenuItem>
+            </Menu>
+            <StackPanel></StackPanel>
+        </DockPanel>
+        <TextBox Grid.Row="1" TextChanged="TextBox_TextChanged" Name="filter"></TextBox>
+        <TextBlock Grid.Row="1" IsHitTestVisible="False" Text="Enter text to filter or clear to reset filter. Advanced filtering is possible by using {column}:{term} ex.'type:searchTerm'." Foreground="Gray">
             <TextBlock.Style>
                 <Style TargetType="{x:Type TextBlock}">
                     <Setter Property="Visibility" Value="Collapsed"/>
@@ -34,7 +44,7 @@
         </TextBlock>
         <DataGrid AutoGenerateColumns="False" CanUserAddRows="True" CanUserDeleteRows="True" 
                   CanUserReorderColumns="True" CanUserResizeColumns="True" CanUserSortColumns="True"
-                  EnableRowVirtualization="True" Grid.Row="1" LoadingRow="DataGrid_LoadingRow" Name="dataGrid" AddingNewItem="dataGrid_AddingNewItem">
+                  EnableRowVirtualization="True" Grid.Row="2" LoadingRow="DataGrid_LoadingRow" Name="dataGrid" AddingNewItem="dataGrid_AddingNewItem">
             <DataGrid.Resources>
                 <local:WidthConverter x:Key="WidthConverter"/>
             </DataGrid.Resources>

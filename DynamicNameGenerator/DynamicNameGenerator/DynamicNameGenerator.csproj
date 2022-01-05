@@ -7,6 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="..\code.txt" Link="code.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="..\data.json" Link="data.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
