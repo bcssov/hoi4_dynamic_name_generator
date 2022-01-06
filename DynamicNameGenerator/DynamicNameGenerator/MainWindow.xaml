@@ -57,6 +57,11 @@
                                      behaviors:AutoCompleteBehavior.AutoCompleteStringComparison="InvariantCultureIgnoreCase" AcceptsTab="False" AcceptsReturn="False" />
                         </DataTemplate>
                     </DataGridTemplateColumn.CellTemplate>
+                    <DataGridTemplateColumn.CellStyle>
+                        <Style TargetType="DataGridCell">
+                            <Setter Property="IsTabStop" Value="False" />
+                        </Style>
+                    </DataGridTemplateColumn.CellStyle>
                 </DataGridTemplateColumn>
                 <DataGridTextColumn Binding="{Binding StateId, UpdateSourceTrigger=PropertyChanged}" Header="StateId" Width="1*"></DataGridTextColumn>
                 <DataGridTextColumn Binding="{Binding StateName, UpdateSourceTrigger=PropertyChanged}" Header="StateName" Width="1*"></DataGridTextColumn>
