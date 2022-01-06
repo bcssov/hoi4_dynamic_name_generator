@@ -164,7 +164,9 @@ namespace DynamicNameGenerator
         private void InitializeGrid()
         {
             var json = File.ReadAllText(System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "data.json"));
-            gridData = new ObservableCollection<MainData>(JsonConvert.DeserializeObject<List<MainData>>(json) ?? new List<MainData>());
+            var data = JsonConvert.DeserializeObject<List<MainData>>(json) ?? new List<MainData>();
+            data = data.Select(p => new MainData(p.Type.ToLowerInvariant(), p.StateId, p.StateName, p.Provinces)).ToList().OrderBy(p => p.Type).ThenBy(p => p.StateId).ToList();
+            gridData = new ObservableCollection<MainData>(data);
 
             gridViewSource = new CollectionViewSource() { Source = gridData };
             gridViewSource.View.Filter = null;
@@ -220,7 +222,7 @@ namespace DynamicNameGenerator
         /// Handles the GotFocus event of the TextBox control.
         /// </summary>
         /// <param name="sender">The source of the event.</param>
-        /// <param name="e">The <see cref="RoutedEventArgs"/> instance containing the event data.</param>
+        /// <param name="e">The <see cref="RoutedEventArgs" /> instance containing the event data.</param>
         private void TextBox_GotFocus(object sender, RoutedEventArgs e)
         {
             var textBox = sender as TextBox;
