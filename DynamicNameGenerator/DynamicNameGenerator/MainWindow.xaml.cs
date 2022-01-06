@@ -18,6 +18,7 @@ using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.IO;
 using System.Linq;
+using System.Text.RegularExpressions;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -182,6 +183,17 @@ namespace DynamicNameGenerator
         }
 
         /// <summary>
+        /// Handles the PreviewTextInput event of the NumberTextBox control.
+        /// </summary>
+        /// <param name="sender">The source of the event.</param>
+        /// <param name="e">The <see cref="System.Windows.Input.TextCompositionEventArgs" /> instance containing the event data.</param>
+        private void NumberTextBox_PreviewTextInput(object sender, System.Windows.Input.TextCompositionEventArgs e)
+        {
+            Regex regex = new Regex("[^0-9]+");
+            e.Handled = regex.IsMatch(e.Text);
+        }
+
+        /// <summary>
         /// Saves the data.
         /// </summary>
         private void SaveData()
@@ -202,6 +214,17 @@ namespace DynamicNameGenerator
         private void SaveItem_Click(object sender, RoutedEventArgs e)
         {
             codeExporter.Export(gridData);
+        }
+
+        /// <summary>
+        /// Handles the GotFocus event of the TextBox control.
+        /// </summary>
+        /// <param name="sender">The source of the event.</param>
+        /// <param name="e">The <see cref="RoutedEventArgs"/> instance containing the event data.</param>
+        private void TextBox_GotFocus(object sender, RoutedEventArgs e)
+        {
+            var textBox = sender as TextBox;
+            textBox.CaretIndex = textBox.Text.Length;
         }
 
         /// <summary>
@@ -265,7 +288,7 @@ namespace DynamicNameGenerator
         /// Handles the TextChanged event of the Type control.
         /// </summary>
         /// <param name="sender">The source of the event.</param>
-        /// <param name="e">The <see cref="TextChangedEventArgs"/> instance containing the event data.</param>
+        /// <param name="e">The <see cref="TextChangedEventArgs" /> instance containing the event data.</param>
         private void Type_TextChanged(object sender, TextChangedEventArgs e)
         {
             if (((TextBox)sender).IsFocused)
