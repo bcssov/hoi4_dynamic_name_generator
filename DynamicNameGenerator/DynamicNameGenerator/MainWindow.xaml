@@ -66,9 +66,10 @@
                 <DataGridTemplateColumn Header="Type" Width="1*">
                     <DataGridTemplateColumn.CellTemplate>
                         <DataTemplate>
-                            <TextBox Text="{Binding Type, UpdateSourceTrigger=PropertyChanged}" TextChanged="Type_TextChanged" behaviors:AutoCompleteBehavior.AutoCompleteItemsSource="{Binding DataContext.Types, ElementName=mainGrid}" 
+                            <TextBox Text="{Binding Type, UpdateSourceTrigger=PropertyChanged}" TextChanged="Type_TextChanged" 
+                                     behaviors:AutoCompleteBehavior.AutoCompleteItemsSource="{Binding DataContext.Types, ElementName=mainGrid}" 
                                      behaviors:AutoCompleteBehavior.AutoCompleteStringComparison="InvariantCultureIgnoreCase" 
-                                     AcceptsTab="False" AcceptsReturn="False" Foreground="Black" GotFocus="TextBox_GotFocus" />
+                                     AcceptsTab="False" AcceptsReturn="False" Foreground="Black" GotFocus="TextBox_GotFocus"/>
                         </DataTemplate>
                     </DataGridTemplateColumn.CellTemplate>
                 </DataGridTemplateColumn>

@@ -203,7 +203,8 @@ namespace DynamicNameGenerator
             lock (lockForm)
             {
                 Types = new ObservableCollection<string>(gridData.GroupBy(p => p.Type).Where(p => excludeType != p.Key && p.Key.Count() <= 0 || p.Key.Count() > 1).Select(p => p.Key));
-                var json = JsonConvert.SerializeObject(gridData.Select(p => new MainData(p.Type.ToLowerInvariant(), p.StateId, p.StateName, p.Provinces)).ToList().OrderBy(p => p.Type).ThenBy(p => p.StateId), Formatting.Indented);
+                var data = gridData.Select(p => new MainData(p.Type.ToLowerInvariant(), p.StateId, p.StateName, p.Provinces)).ToList().OrderBy(p => p.Type).ThenBy(p => p.StateId).ToList();
+                var json = JsonConvert.SerializeObject(data, Formatting.Indented);
                 File.WriteAllText(System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "data.json"), json);
             }
         }
@@ -293,9 +294,18 @@ namespace DynamicNameGenerator
         /// <param name="e">The <see cref="TextChangedEventArgs" /> instance containing the event data.</param>
         private void Type_TextChanged(object sender, TextChangedEventArgs e)
         {
-            if (((TextBox)sender).IsFocused)
+            var textBox = ((TextBox)sender);
+            if (textBox.IsFocused)
             {
-                excludeType = ((TextBox)sender).Text;
+                var text = textBox.Text;
+                excludeType = text;
+                if ((text ?? string.Empty).Contains(" "))
+                {
+                    text = text.Replace(" ", string.Empty);
+                    excludeType = text;
+                    textBox.Text = text;
+                    textBox.CaretIndex = text.Length;
+                }
             }
             excludeType = string.Empty;
         }
