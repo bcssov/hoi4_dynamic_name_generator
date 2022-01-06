@@ -202,7 +202,6 @@ namespace DynamicNameGenerator
         {
             lock (lockForm)
             {
-                Types = new ObservableCollection<string>(gridData.GroupBy(p => p.Type).Where(p => excludeType != p.Key && p.Key.Count() <= 0 || p.Key.Count() > 1).Select(p => p.Key));
                 var data = gridData.Select(p => new MainData(p.Type.ToLowerInvariant(), p.StateId, p.StateName, p.Provinces)).ToList().OrderBy(p => p.Type).ThenBy(p => p.StateId).ToList();
                 var json = JsonConvert.SerializeObject(data, Formatting.Indented);
                 File.WriteAllText(System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "data.json"), json);
@@ -306,6 +305,9 @@ namespace DynamicNameGenerator
                     textBox.Text = text;
                     textBox.CaretIndex = text.Length;
                 }
+                var groupped = gridData.GroupBy(p => p.Type);
+                var singleEntries = groupped.Where(p => excludeType == p.Key && p.Count() <= 1);
+                Types = new ObservableCollection<string>(gridData.GroupBy(p => p.Type).Where(p => !singleEntries.Any(a => a.Key.Equals(p.Key))).Select(p => p.Key));
             }
             excludeType = string.Empty;
         }
