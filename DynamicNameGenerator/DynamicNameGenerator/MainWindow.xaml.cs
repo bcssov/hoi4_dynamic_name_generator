@@ -22,6 +22,7 @@ using System.Text.RegularExpressions;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
+using System.Windows.Input;
 
 namespace DynamicNameGenerator
 {
@@ -41,6 +42,8 @@ namespace DynamicNameGenerator
         /// The exclude type
         /// </summary>
         private string excludeType = string.Empty;
+
+        private FilterType filterType;
 
         /// <summary>
         /// The grid data
@@ -94,6 +97,17 @@ namespace DynamicNameGenerator
 
         #endregion Events
 
+        #region Enums
+
+        private enum FilterType
+        {
+            All,
+            DuplicateStates,
+            DuplicateProvinces
+        }
+
+        #endregion Enums
+
         #region Properties
 
         /// <summary>
@@ -145,6 +159,121 @@ namespace DynamicNameGenerator
             else
             {
                 e.Row.Header = string.Empty;
+            }
+        }
+
+        private void DuplicateOff_Click(object sender, RoutedEventArgs e)
+        {
+            filterType = FilterType.All;
+            FilterResults(filter.Text);
+        }
+
+        private void DuplicateProvince_Click(object sender, RoutedEventArgs e)
+        {
+            filterType = FilterType.DuplicateProvinces;
+            FilterResults(filter.Text);
+        }
+
+        private void DuplicateState_Click(object sender, RoutedEventArgs e)
+        {
+            filterType = FilterType.DuplicateStates;
+            FilterResults(filter.Text);
+        }
+
+        /// <summary>
+        /// Handles the Click event of the Exit control.
+        /// </summary>
+        /// <param name="sender">The source of the event.</param>
+        /// <param name="e">The <see cref="RoutedEventArgs"/> instance containing the event data.</param>
+        private void Exit_Click(object sender, RoutedEventArgs e)
+        {
+            Environment.Exit(0);
+        }
+
+        private void FilterResults(string text)
+        {
+            if (string.IsNullOrWhiteSpace(text))
+            {
+                if (filterType == FilterType.All)
+                {
+                    gridViewSource.View.Filter = null;
+                    visibleItems = gridData.Count;
+                }
+                else
+                {
+                    IEnumerable<MainData> duplicates;
+                    if (filterType == FilterType.DuplicateStates)
+                    {
+                        duplicates = gridData.GroupBy(p => p.Type).Select(p => p.GroupBy(x => x.StateId).Where(x => x.Count() > 1)).SelectMany(p => p.SelectMany(x => x));
+                    }
+                    else
+                    {
+                        duplicates = gridData.GroupBy(p => p.Type).Where(p => p.Any(p => p.Provinces.Count > 0)).Select(p => p.Where(x => x.Provinces.GroupBy(g => g.Id).Any(p => p.Count() > 1))).SelectMany(p => p);
+                    }
+                    gridViewSource.View.Filter = new Predicate<object>(p =>
+                    {
+                        var model = (MainData)p;
+                        return duplicates.Contains(model);
+                    });
+                }
+            }
+            else
+            {
+                string filter = string.Empty;
+                string term = text;
+                var split = text.Split(":");
+                if (split.Count() == 2)
+                {
+                    filter = split[0];
+                    term = split[1];
+                }
+                IEnumerable<MainData> duplicates = null;
+                switch (filterType)
+                {
+                    case FilterType.DuplicateStates:
+                        duplicates = gridData.GroupBy(p => p.Type).Select(p => p.GroupBy(x => x.StateId).Where(x => x.Count() > 1)).SelectMany(p => p.SelectMany(x => x));
+                        break;
+                    case FilterType.DuplicateProvinces:
+                        duplicates = gridData.GroupBy(p => p.Type).Where(p => p.Any(p => p.Provinces.Count > 0)).Select(p => p.Where(x => x.Provinces.GroupBy(g => g.Id).Any(p => p.Count() > 1))).SelectMany(p => p);
+                        break;
+                    default:
+                        break;
+                }
+                gridViewSource.View.Filter = new Predicate<object>(p =>
+                {
+                    var model = (MainData)p;
+                    if (duplicates != null && !duplicates.Contains(model))
+                    {
+                        return false;
+                    }
+                    if (string.IsNullOrWhiteSpace(filter))
+                    {
+                        return model.Type.Contains(term, StringComparison.OrdinalIgnoreCase) || model.StateId.ToString().Contains(term, StringComparison.OrdinalIgnoreCase) ||
+                            model.StateName.Contains(term, StringComparison.OrdinalIgnoreCase) || model.ProvincesText.Contains(term, StringComparison.OrdinalIgnoreCase);
+                    }
+                    else
+                    {
+                        switch (filter.ToLowerInvariant())
+                        {
+                            case "type":
+                                return model.Type.Contains(term, StringComparison.OrdinalIgnoreCase);
+
+                            case "stateid":
+                                return model.StateId.ToString().Contains(term, StringComparison.OrdinalIgnoreCase);
+
+                            case "statename":
+                                return model.StateName.Contains(term, StringComparison.OrdinalIgnoreCase);
+
+                            case "provinces":
+                                return model.ProvincesText.Contains(term, StringComparison.OrdinalIgnoreCase);
+
+                            default:
+                                return model.Type.Contains(term, StringComparison.OrdinalIgnoreCase) || model.StateId.ToString().Contains(term, StringComparison.OrdinalIgnoreCase) ||
+                                    model.StateName.Contains(term, StringComparison.OrdinalIgnoreCase) || model.ProvincesText.Contains(term, StringComparison.OrdinalIgnoreCase);
+                        }
+                    }
+                });
+                visibleItems = gridViewSource.View.Cast<object>().Count() - 1;
             }
         }
 
@@ -218,16 +347,6 @@ namespace DynamicNameGenerator
             codeExporter.Export(gridData);
         }
 
-        /// <summary>
-        /// Handles the GotFocus event of the TextBox control.
-        /// </summary>
-        /// <param name="sender">The source of the event.</param>
-        /// <param name="e">The <see cref="RoutedEventArgs" /> instance containing the event data.</param>
-        private void TextBox_GotFocus(object sender, RoutedEventArgs e)
-        {
-            var textBox = sender as TextBox;
-            textBox.CaretIndex = textBox.Text.Length;
-        }
 
         /// <summary>
         /// Handles the TextChanged event of the TextBox control.
@@ -237,53 +356,7 @@ namespace DynamicNameGenerator
         private void TextBox_TextChanged(object sender, System.Windows.Controls.TextChangedEventArgs e)
         {
             var text = ((TextBox)sender).Text;
-            if (string.IsNullOrWhiteSpace(text))
-            {
-                gridViewSource.View.Filter = null;
-                visibleItems = gridData.Count;
-            }
-            else
-            {
-                string filter = string.Empty;
-                string term = text;
-                var split = text.Split(":");
-                if (split.Count() == 2)
-                {
-                    filter = split[0];
-                    term = split[1];
-                }
-                gridViewSource.View.Filter = new Predicate<object>(p =>
-                {
-                    var model = (MainData)p;
-                    if (string.IsNullOrWhiteSpace(filter))
-                    {
-                        return model.Type.Contains(term, StringComparison.OrdinalIgnoreCase) || model.StateId.ToString().Contains(term, StringComparison.OrdinalIgnoreCase) ||
-                            model.StateName.Contains(term, StringComparison.OrdinalIgnoreCase) || model.ProvincesText.Contains(term, StringComparison.OrdinalIgnoreCase);
-                    }
-                    else
-                    {
-                        switch (filter.ToLowerInvariant())
-                        {
-                            case "type":
-                                return model.Type.Contains(term, StringComparison.OrdinalIgnoreCase);
-
-                            case "stateid":
-                                return model.StateId.ToString().Contains(term, StringComparison.OrdinalIgnoreCase);
-
-                            case "statename":
-                                return model.StateName.Contains(term, StringComparison.OrdinalIgnoreCase);
-
-                            case "provinces":
-                                return model.ProvincesText.Contains(term, StringComparison.OrdinalIgnoreCase);
-
-                            default:
-                                return model.Type.Contains(term, StringComparison.OrdinalIgnoreCase) || model.StateId.ToString().Contains(term, StringComparison.OrdinalIgnoreCase) ||
-                                    model.StateName.Contains(term, StringComparison.OrdinalIgnoreCase) || model.ProvincesText.Contains(term, StringComparison.OrdinalIgnoreCase);
-                        }
-                    }
-                });
-                visibleItems = gridViewSource.View.Cast<object>().Count() - 1;
-            }
+            FilterResults(text);
         }
 
         /// <summary>
@@ -356,5 +429,15 @@ namespace DynamicNameGenerator
         }
 
         #endregion Methods
+
+        private void TextBox_Loaded(object sender, RoutedEventArgs e)
+        {
+            TextBox textBox = sender as TextBox;
+            if (textBox != null)
+            {
+                FocusManager.SetFocusedElement(this, textBox);
+                textBox.CaretIndex = textBox.Text.Length;
+            }
+        }
     }
 }
