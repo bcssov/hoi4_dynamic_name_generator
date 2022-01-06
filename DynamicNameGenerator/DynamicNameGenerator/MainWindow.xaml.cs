@@ -19,6 +19,8 @@ using System.ComponentModel;
 using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
+using System.Threading;
+using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -43,6 +45,9 @@ namespace DynamicNameGenerator
         /// </summary>
         private string excludeType = string.Empty;
 
+        /// <summary>
+        /// The filter type
+        /// </summary>
         private FilterType filterType;
 
         /// <summary>
@@ -64,6 +69,11 @@ namespace DynamicNameGenerator
         /// The types
         /// </summary>
         private ObservableCollection<string> types = new ObservableCollection<string>();
+
+        /// <summary>
+        /// The typing token
+        /// </summary>
+        private CancellationTokenSource typingToken;
 
         /// <summary>
         /// The visible items
@@ -99,10 +109,24 @@ namespace DynamicNameGenerator
 
         #region Enums
 
+        /// <summary>
+        /// Enum FilterType
+        /// </summary>
         private enum FilterType
         {
+            /// <summary>
+            /// All
+            /// </summary>
             All,
+
+            /// <summary>
+            /// The duplicate states
+            /// </summary>
             DuplicateStates,
+
+            /// <summary>
+            /// The duplicate provinces
+            /// </summary>
             DuplicateProvinces
         }
 
@@ -162,18 +186,33 @@ namespace DynamicNameGenerator
             }
         }
 
+        /// <summary>
+        /// Handles the Click event of the DuplicateOff control.
+        /// </summary>
+        /// <param name="sender">The source of the event.</param>
+        /// <param name="e">The <see cref="RoutedEventArgs" /> instance containing the event data.</param>
         private void DuplicateOff_Click(object sender, RoutedEventArgs e)
         {
             filterType = FilterType.All;
             FilterResults(filter.Text);
         }
 
+        /// <summary>
+        /// Handles the Click event of the DuplicateProvince control.
+        /// </summary>
+        /// <param name="sender">The source of the event.</param>
+        /// <param name="e">The <see cref="RoutedEventArgs" /> instance containing the event data.</param>
         private void DuplicateProvince_Click(object sender, RoutedEventArgs e)
         {
             filterType = FilterType.DuplicateProvinces;
             FilterResults(filter.Text);
         }
 
+        /// <summary>
+        /// Handles the Click event of the DuplicateState control.
+        /// </summary>
+        /// <param name="sender">The source of the event.</param>
+        /// <param name="e">The <see cref="RoutedEventArgs" /> instance containing the event data.</param>
         private void DuplicateState_Click(object sender, RoutedEventArgs e)
         {
             filterType = FilterType.DuplicateStates;
@@ -184,12 +223,16 @@ namespace DynamicNameGenerator
         /// Handles the Click event of the Exit control.
         /// </summary>
         /// <param name="sender">The source of the event.</param>
-        /// <param name="e">The <see cref="RoutedEventArgs"/> instance containing the event data.</param>
+        /// <param name="e">The <see cref="RoutedEventArgs" /> instance containing the event data.</param>
         private void Exit_Click(object sender, RoutedEventArgs e)
         {
             Environment.Exit(0);
         }
 
+        /// <summary>
+        /// Filters the results.
+        /// </summary>
+        /// <param name="text">The text.</param>
         private void FilterResults(string text)
         {
             if (string.IsNullOrWhiteSpace(text))
@@ -233,9 +276,11 @@ namespace DynamicNameGenerator
                     case FilterType.DuplicateStates:
                         duplicates = gridData.GroupBy(p => p.Type).Select(p => p.GroupBy(x => x.StateId).Where(x => x.Count() > 1)).SelectMany(p => p.SelectMany(x => x));
                         break;
+
                     case FilterType.DuplicateProvinces:
                         duplicates = gridData.GroupBy(p => p.Type).Where(p => p.Any(p => p.Provinces.Count > 0)).Select(p => p.Where(x => x.Provinces.GroupBy(g => g.Id).Any(p => p.Count() > 1))).SelectMany(p => p);
                         break;
+
                     default:
                         break;
                 }
@@ -347,6 +392,20 @@ namespace DynamicNameGenerator
             codeExporter.Export(gridData);
         }
 
+        /// <summary>
+        /// Handles the Loaded event of the TextBox control.
+        /// </summary>
+        /// <param name="sender">The source of the event.</param>
+        /// <param name="e">The <see cref="RoutedEventArgs" /> instance containing the event data.</param>
+        private void TextBox_Loaded(object sender, RoutedEventArgs e)
+        {
+            TextBox textBox = sender as TextBox;
+            if (textBox != null)
+            {
+                FocusManager.SetFocusedElement(this, textBox);
+                textBox.CaretIndex = textBox.Text.Length;
+            }
+        }
 
         /// <summary>
         /// Handles the TextChanged event of the TextBox control.
@@ -355,8 +414,21 @@ namespace DynamicNameGenerator
         /// <param name="e">The <see cref="System.Windows.Controls.TextChangedEventArgs" /> instance containing the event data.</param>
         private void TextBox_TextChanged(object sender, System.Windows.Controls.TextChangedEventArgs e)
         {
+            async Task delay(string text, CancellationToken token)
+            {
+                await Task.Delay(250, token);
+                if (!token.IsCancellationRequested)
+                {
+                    FilterResults(text);
+                }
+            }
             var text = ((TextBox)sender).Text;
-            FilterResults(text);
+            if (typingToken != null)
+            {
+                typingToken.Cancel();
+            }
+            typingToken = new CancellationTokenSource();
+            delay(text, typingToken.Token).ConfigureAwait(false);
         }
 
         /// <summary>
@@ -429,15 +501,5 @@ namespace DynamicNameGenerator
         }
 
         #endregion Methods
-
-        private void TextBox_Loaded(object sender, RoutedEventArgs e)
-        {
-            TextBox textBox = sender as TextBox;
-            if (textBox != null)
-            {
-                FocusManager.SetFocusedElement(this, textBox);
-                textBox.CaretIndex = textBox.Text.Length;
-            }
-        }
     }
 }
