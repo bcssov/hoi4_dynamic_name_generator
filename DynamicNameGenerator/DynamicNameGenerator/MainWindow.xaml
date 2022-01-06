@@ -23,14 +23,14 @@
         </Grid.RowDefinitions>
         <DockPanel Grid.Row="0">
             <Menu DockPanel.Dock="Top">
-                <MenuItem Header="File">
+                <MenuItem Header="_File">
                     <MenuItem Header="_Save" Click="SaveItem_Click"/>
                     <MenuItem Header="_Exit" Click="Exit_Click"/>
                 </MenuItem>
-                <MenuItem Header="Duplicates">
-                    <MenuItem Header="_Province items" Click="DuplicateProvince_Click"/>
-                    <MenuItem Header="_State items" Click="DuplicateState_Click"/>
-                    <MenuItem Header="_Turn off" Click="DuplicateOff_Click"/>
+                <MenuItem Header="_Duplicates">
+                    <MenuItem Header="_Province items" Click="DuplicateProvince_Click" IsCheckable="True" IsChecked="{Binding FilteringProvinces}"/>
+                    <MenuItem Header="_State items" Click="DuplicateState_Click" IsCheckable="True" IsChecked="{Binding FilteringStates}"/>
+                    <MenuItem Header="_Turn off" Click="DuplicateOff_Click" IsCheckable="True" IsChecked="{Binding FilteringAll}"/>
                 </MenuItem>
             </Menu>
             <StackPanel></StackPanel>
@@ -53,9 +53,6 @@
                   EnableRowVirtualization="True" Grid.Row="2" LoadingRow="DataGrid_LoadingRow" Name="dataGrid">
             <DataGrid.Resources>
                 <local:WidthConverter x:Key="WidthConverter"/>
-                <Style TargetType="DataGridCell">
-                    <Setter Property="IsTabStop" Value="False" />
-                </Style>
                 <Style TargetType="TextBox">
                     <Style.Triggers>
                         <Trigger Property="IsFocused" Value="True">
@@ -133,7 +130,7 @@
                         <TextBlock Text="Province Details" HorizontalAlignment="Center"></TextBlock>
                         <DataGrid ItemsSource="{Binding Provinces}" AutoGenerateColumns="false" CanUserAddRows="True" CanUserDeleteRows="True" 
                               CanUserReorderColumns="True" CanUserResizeColumns="True" CanUserSortColumns="True" Background="LightGray"
-                              EnableRowVirtualization="True" Width="{Binding RelativeSource={RelativeSource AncestorType={x:Type ItemsPresenter}},Path=ActualWidth,Converter={StaticResource WidthConverter},ConverterParameter=50}">
+                              EnableRowVirtualization="True" Width="{Binding RelativeSource={RelativeSource AncestorType={x:Type ItemsPresenter}},Path=ActualWidth,Converter={StaticResource WidthConverter},ConverterParameter=30}">
                             <DataGrid.Resources>
                                 <Style TargetType="TextBox">
                                     <Style.Triggers>

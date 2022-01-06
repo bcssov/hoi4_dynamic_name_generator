@@ -46,6 +46,21 @@ namespace DynamicNameGenerator
         private string excludeType = string.Empty;
 
         /// <summary>
+        /// The filtering all
+        /// </summary>
+        private bool filteringAll;
+
+        /// <summary>
+        /// The filtering provinces
+        /// </summary>
+        private bool filteringProvinces;
+
+        /// <summary>
+        /// The filtering states
+        /// </summary>
+        private bool filteringStates;
+
+        /// <summary>
         /// The filter type
         /// </summary>
         private FilterType filterType;
@@ -135,6 +150,57 @@ namespace DynamicNameGenerator
         #region Properties
 
         /// <summary>
+        /// Gets or sets a value indicating whether [filtering all].
+        /// </summary>
+        /// <value><c>true</c> if [filtering all]; otherwise, <c>false</c>.</value>
+        public bool FilteringAll
+        {
+            get
+            {
+                return filteringAll;
+            }
+            set
+            {
+                filteringAll = value;
+                PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(FilteringAll)));
+            }
+        }
+
+        /// <summary>
+        /// Gets or sets a value indicating whether [filtering provinces].
+        /// </summary>
+        /// <value><c>true</c> if [filtering provinces]; otherwise, <c>false</c>.</value>
+        public bool FilteringProvinces
+        {
+            get
+            {
+                return filteringProvinces;
+            }
+            set
+            {
+                filteringProvinces = value;
+                PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(FilteringProvinces)));
+            }
+        }
+
+        /// <summary>
+        /// Gets or sets a value indicating whether [filtering states].
+        /// </summary>
+        /// <value><c>true</c> if [filtering states]; otherwise, <c>false</c>.</value>
+        public bool FilteringStates
+        {
+            get
+            {
+                return filteringStates;
+            }
+            set
+            {
+                filteringStates = value;
+                PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(FilteringStates)));
+            }
+        }
+
+        /// <summary>
         /// Gets or sets the types.
         /// </summary>
         /// <value>The types.</value>
@@ -194,6 +260,7 @@ namespace DynamicNameGenerator
         private void DuplicateOff_Click(object sender, RoutedEventArgs e)
         {
             filterType = FilterType.All;
+            SetFilteringFlags();
             FilterResults(filter.Text);
         }
 
@@ -205,6 +272,7 @@ namespace DynamicNameGenerator
         private void DuplicateProvince_Click(object sender, RoutedEventArgs e)
         {
             filterType = FilterType.DuplicateProvinces;
+            SetFilteringFlags();
             FilterResults(filter.Text);
         }
 
@@ -216,6 +284,7 @@ namespace DynamicNameGenerator
         private void DuplicateState_Click(object sender, RoutedEventArgs e)
         {
             filterType = FilterType.DuplicateStates;
+            SetFilteringFlags();
             FilterResults(filter.Text);
         }
 
@@ -356,6 +425,7 @@ namespace DynamicNameGenerator
                 }
             }
             Types = new ObservableCollection<string>(gridData.GroupBy(p => p.Type).Select(p => p.Key));
+            FilteringAll = true;
         }
 
         /// <summary>
@@ -390,6 +460,33 @@ namespace DynamicNameGenerator
         private void SaveItem_Click(object sender, RoutedEventArgs e)
         {
             codeExporter.Export(gridData);
+        }
+
+        /// <summary>
+        /// Sets the filtering flags.
+        /// </summary>
+        private void SetFilteringFlags()
+        {
+            FilteringAll = false;
+            FilteringProvinces = false;
+            FilteringStates = false;
+            switch (filterType)
+            {
+                case FilterType.All:
+                    FilteringAll = true;
+                    break;
+
+                case FilterType.DuplicateStates:
+                    FilteringStates = true;
+                    break;
+
+                case FilterType.DuplicateProvinces:
+                    FilteringProvinces = true;
+                    break;
+
+                default:
+                    break;
+            }
         }
 
         /// <summary>
