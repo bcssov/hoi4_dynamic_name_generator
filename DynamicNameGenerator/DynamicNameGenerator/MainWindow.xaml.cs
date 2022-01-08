@@ -4,7 +4,7 @@
 // Created          : 01-04-2022
 //
 // Last Modified By : Mario
-// Last Modified On : 01-06-2022
+// Last Modified On : 01-08-2022
 // ***********************************************************************
 // <copyright file="MainWindow.xaml.cs" company="Mario">
 //     Mario
@@ -39,6 +39,11 @@ namespace DynamicNameGenerator
         /// The code exporter
         /// </summary>
         private CodeExporter codeExporter;
+
+        /// <summary>
+        /// The duplicates
+        /// </summary>
+        private HashSet<MainData> duplicates = null;
 
         /// <summary>
         /// The exclude type
@@ -260,7 +265,7 @@ namespace DynamicNameGenerator
         private void DuplicateOff_Click(object sender, RoutedEventArgs e)
         {
             filterType = FilterType.All;
-            SetFilteringFlags();
+            SetFiltering();
             FilterResults(filter.Text);
         }
 
@@ -272,7 +277,7 @@ namespace DynamicNameGenerator
         private void DuplicateProvince_Click(object sender, RoutedEventArgs e)
         {
             filterType = FilterType.DuplicateProvinces;
-            SetFilteringFlags();
+            SetFiltering();
             FilterResults(filter.Text);
         }
 
@@ -284,7 +289,7 @@ namespace DynamicNameGenerator
         private void DuplicateState_Click(object sender, RoutedEventArgs e)
         {
             filterType = FilterType.DuplicateStates;
-            SetFilteringFlags();
+            SetFiltering();
             FilterResults(filter.Text);
         }
 
@@ -313,15 +318,6 @@ namespace DynamicNameGenerator
                 }
                 else
                 {
-                    IEnumerable<MainData> duplicates;
-                    if (filterType == FilterType.DuplicateStates)
-                    {
-                        duplicates = gridData.GroupBy(p => p.Type).Select(p => p.GroupBy(x => x.StateId).Where(x => x.Count() > 1)).SelectMany(p => p.SelectMany(x => x));
-                    }
-                    else
-                    {
-                        duplicates = gridData.GroupBy(p => p.Type).Where(p => p.Any(p => p.Provinces.Count > 0)).Select(p => p.Where(x => x.Provinces.GroupBy(g => g.Id).Any(p => p.Count() > 1))).SelectMany(p => p);
-                    }
                     gridViewSource.View.Filter = new Predicate<object>(p =>
                     {
                         var model = (MainData)p;
@@ -338,20 +334,6 @@ namespace DynamicNameGenerator
                 {
                     filter = split[0];
                     term = split[1];
-                }
-                IEnumerable<MainData> duplicates = null;
-                switch (filterType)
-                {
-                    case FilterType.DuplicateStates:
-                        duplicates = gridData.GroupBy(p => p.Type).Select(p => p.GroupBy(x => x.StateId).Where(x => x.Count() > 1)).SelectMany(p => p.SelectMany(x => x));
-                        break;
-
-                    case FilterType.DuplicateProvinces:
-                        duplicates = gridData.GroupBy(p => p.Type).Where(p => p.Any(p => p.Provinces.Count > 0)).Select(p => p.Where(x => x.Provinces.GroupBy(g => g.Id).Any(p => p.Count() > 1))).SelectMany(p => p);
-                        break;
-
-                    default:
-                        break;
                 }
                 gridViewSource.View.Filter = new Predicate<object>(p =>
                 {
@@ -398,7 +380,7 @@ namespace DynamicNameGenerator
         /// <param name="e">The <see cref="PropertyChangedEventArgs" /> instance containing the event data.</param>
         private void Grid_PropertyChanged(object sender, PropertyChangedEventArgs e)
         {
-            SaveData();
+            Task.Run(() => SaveData());
         }
 
         /// <summary>
@@ -463,9 +445,9 @@ namespace DynamicNameGenerator
         }
 
         /// <summary>
-        /// Sets the filtering flags.
+        /// Sets the filtering.
         /// </summary>
-        private void SetFilteringFlags()
+        private void SetFiltering()
         {
             FilteringAll = false;
             FilteringProvinces = false;
@@ -474,14 +456,17 @@ namespace DynamicNameGenerator
             {
                 case FilterType.All:
                     FilteringAll = true;
+                    duplicates = null;
                     break;
 
                 case FilterType.DuplicateStates:
                     FilteringStates = true;
+                    duplicates = gridData.GroupBy(p => p.Type).Select(p => p.GroupBy(x => x.StateId).Where(x => x.Count() > 1)).SelectMany(p => p.SelectMany(x => x)).ToHashSet();
                     break;
 
                 case FilterType.DuplicateProvinces:
                     FilteringProvinces = true;
+                    duplicates = gridData.GroupBy(p => p.Type).Where(p => p.Any(p => p.Provinces.Count > 0)).Select(p => p.Where(x => x.Provinces.GroupBy(g => g.Id).Any(p => p.Count() > 1))).SelectMany(p => p).ToHashSet();
                     break;
 
                 default:
@@ -573,7 +558,7 @@ namespace DynamicNameGenerator
             catch // Otherwise crashes the app, no any flags wnich can be used to determine if can or cannot refresh and am too lazy to fix properly
             {
             }
-            SaveData();
+            Task.Run(() => SaveData());
             if (e.NewItems != null)
             {
                 foreach (var item in e.NewItems)
