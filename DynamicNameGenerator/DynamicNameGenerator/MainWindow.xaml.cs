@@ -4,7 +4,7 @@
 // Created          : 01-04-2022
 //
 // Last Modified By : Mario
-// Last Modified On : 01-08-2022
+// Last Modified On : 01-13-2022
 // ***********************************************************************
 // <copyright file="MainWindow.xaml.cs" company="Mario">
 //     Mario
@@ -390,7 +390,7 @@ namespace DynamicNameGenerator
         {
             var json = File.ReadAllText(System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "data.json"));
             var data = JsonConvert.DeserializeObject<List<MainData>>(json) ?? new List<MainData>();
-            data = data.Select(p => new MainData(p.Type.ToLowerInvariant(), p.StateId, p.StateName, p.Provinces)).ToList().OrderBy(p => p.Type).ThenBy(p => p.StateId).ToList();
+            data = data.Select(p => new MainData(p.Type.ToLowerInvariant(), p.StateId, p.StateName, p.Provinces, true)).ToList().OrderBy(p => p.Type).ThenBy(p => p.StateId).ToList();
             gridData = new ObservableCollection<MainData>(data);
 
             gridViewSource = new CollectionViewSource() { Source = gridData };
@@ -428,8 +428,18 @@ namespace DynamicNameGenerator
         {
             lock (lockForm)
             {
-                var data = gridData.Select(p => new MainData(p.Type.ToLowerInvariant(), p.StateId, p.StateName, p.Provinces)).ToList().OrderBy(p => p.Type).ThenBy(p => p.StateId).ToList();
+                var data = gridData.Select(p => new MainData(p.Type.ToLowerInvariant(), p.StateId, p.StateName, p.Provinces, true)).ToList().OrderBy(p => p.Type).ThenBy(p => p.StateId).ToList();
                 var json = JsonConvert.SerializeObject(data, Formatting.Indented);
+                var file = System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "data.json");
+                var backup = System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "data.json.bak");
+                if (File.Exists(file))
+                {
+                    if (File.Exists(backup))
+                    {
+                        File.Delete(backup);
+                    }
+                    File.Move(file, backup);
+                }
                 File.WriteAllText(System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "data.json"), json);
             }
         }

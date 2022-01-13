@@ -31,6 +31,11 @@ namespace DynamicNameGenerator
         #region Fields
 
         /// <summary>
+        /// The no events
+        /// </summary>
+        private bool noEvents;
+
+        /// <summary>
         /// The provinces
         /// </summary>
         private ObservableCollection<ProvinceData> provinces;
@@ -57,10 +62,19 @@ namespace DynamicNameGenerator
         /// <summary>
         /// Initializes a new instance of the <see cref="MainData" /> class.
         /// </summary>
-        public MainData()
+        public MainData() : this(false)
         {
+        }
+
+        /// <summary>
+        /// Initializes a new instance of the <see cref="MainData" /> class.
+        /// </summary>
+        /// <param name="noEvents">if set to <c>true</c> [no events].</param>
+        public MainData(bool noEvents)
+        {
+            this.noEvents = noEvents;
             provinces = new ObservableCollection<ProvinceData>();
-            HandleProvinceData();
+            HandleProvinceData();            
         }
 
         /// <summary>
@@ -70,7 +84,8 @@ namespace DynamicNameGenerator
         /// <param name="stateId">The state identifier.</param>
         /// <param name="stateName">Name of the state.</param>
         /// <param name="provinces">The provinces.</param>
-        public MainData(string type, long stateId, string stateName, IEnumerable<ProvinceData> provinces) : this()
+        /// <param name="noEvents">if set to <c>true</c> [no events].</param>
+        public MainData(string type, long stateId, string stateName, IEnumerable<ProvinceData> provinces, bool noEvents) : this(noEvents)
         {
             Type = type;
             StateId = stateId;
@@ -144,7 +159,7 @@ namespace DynamicNameGenerator
             {
                 var old = stateId;
                 stateId = value;
-                if (old != stateId)
+                if (old != stateId && !noEvents)
                 {
                     PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(StateId)));
                 }
@@ -166,7 +181,7 @@ namespace DynamicNameGenerator
             {
                 var old = stateName;
                 stateName = value ?? string.Empty;
-                if (old != stateName)
+                if (old != stateName && !noEvents)
                 {
                     PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(StateName)));
                 }
@@ -188,7 +203,7 @@ namespace DynamicNameGenerator
             {
                 var old = type;
                 type = value ?? string.Empty;
-                if (old != type)
+                if (old != type && !noEvents)
                 {
                     PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(Type)));
                 }
@@ -204,7 +219,10 @@ namespace DynamicNameGenerator
         /// </summary>
         private void HandleProvinceData()
         {
-            Provinces.CollectionChanged += Provinces_CollectionChanged;
+            if (!noEvents)
+            {
+                Provinces.CollectionChanged += Provinces_CollectionChanged;
+            }
         }
 
         /// <summary>
