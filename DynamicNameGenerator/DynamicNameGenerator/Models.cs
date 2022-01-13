@@ -4,7 +4,7 @@
 // Created          : 01-04-2022
 //
 // Last Modified By : Mario
-// Last Modified On : 01-05-2022
+// Last Modified On : 01-13-2022
 // ***********************************************************************
 // <copyright file="Models.cs" company="Mario">
 //     Mario
@@ -142,8 +142,12 @@ namespace DynamicNameGenerator
             }
             set
             {
+                var old = stateId;
                 stateId = value;
-                PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(StateId)));
+                if (old != stateId)
+                {
+                    PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(StateId)));
+                }
             }
         }
 
@@ -160,8 +164,12 @@ namespace DynamicNameGenerator
             }
             set
             {
+                var old = stateName;
                 stateName = value ?? string.Empty;
-                PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(StateName)));
+                if (old != stateName)
+                {
+                    PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(StateName)));
+                }
             }
         }
 
@@ -178,8 +186,12 @@ namespace DynamicNameGenerator
             }
             set
             {
+                var old = type;
                 type = value ?? string.Empty;
-                PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(Type)));
+                if (old != type)
+                {
+                    PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(Type)));
+                }
             }
         }
 
@@ -292,8 +304,12 @@ namespace DynamicNameGenerator
             }
             set
             {
+                var old = id;
                 id = value;
-                PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(Id)));
+                if (old != id)
+                {
+                    PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(Id)));
+                }
             }
         }
 
@@ -309,8 +325,12 @@ namespace DynamicNameGenerator
             }
             set
             {
+                var old = name;
                 name = value ?? string.Empty;
-                PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(Name)));
+                if (old != name)
+                {
+                    PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(Name)));
+                }
             }
         }
 
